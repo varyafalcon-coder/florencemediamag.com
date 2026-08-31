@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="wrap doc">
+  <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <a href="{{ '/collections/' | relative_url }}">Collections</a> / <span>{{ page.title }}</span></nav>
+  <h1>{{ page.title }}</h1>
+  <p class="answer">{{ page.answer }}</p>
+  {{ content }}
+  <h2>The places</h2>
+  {% assign list = site.places | where_exp: "p", "p.categories contains page.category" %}
+  <div class="grid">
+  {% for p in list %}
+    <article class="card">
+      <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+      <p>{{ p.answer }}</p>
+      <dl class="facts">
+        <div><dt>Area</dt><dd>{{ p.area }}</dd></div>
+        {% if p.verified != "" %}<div><dt>Verified</dt><dd>{{ p.verified }}</dd></div>{% endif %}
+      </dl>
+    </article>
+  {% endfor %}
+  </div>
+  <p class="stamp">{{ list | size }} places in this collection.</p>
+</div>

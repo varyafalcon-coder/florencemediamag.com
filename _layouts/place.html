@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="wrap doc">
+  <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <span>{{ page.title }}</span></nav>
+  <h1>{{ page.title }}</h1>
+  <p class="answer">{{ page.answer }}</p>
+  <dl class="facts">
+    <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
+    {% if page.verified != "" %}<div><dt>Verified</dt><dd>{{ page.verified }}</dd></div>{% endif %}
+  </dl>
+  {{ content }}
+  <h2>Where else this appears</h2>
+  <ul class="taglist">
+  {% for c in page.categories %}
+    <li><a href="{{ '/collections/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a></li>
+  {% endfor %}
+  </ul>
+  {% if page.verified == "" %}<p class="stamp">Not yet checked in person. Details here are drafted from public sources.</p>{% endif %}
+</article>

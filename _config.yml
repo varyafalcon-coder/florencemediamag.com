@@ -1,0 +1,29 @@
+title: Florence Media
+tagline: Florence, sorted by what you actually want to do
+description: >-
+  Florence filtered by intent, not by category. Places to eat, cafes to work
+  from, spots to escape the crowds, viewpoints and pools. Every entry visited
+  in person and dated.
+url: "https://florencemediamag.com"
+baseurl: ""
+author: Your Name
+email: florencemediamag@gmail.com
+lang: en
+
+collections:
+  places:
+    output: true
+    permalink: /places/:name/
+
+defaults:
+  - scope: { path: "", type: "places" }
+    values: { layout: "place" }
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+exclude: [README.md]
