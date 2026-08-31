@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="wrap doc article">
+  <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <a href="{{ '/articles/' | relative_url }}">Articles</a> / <span>{{ page.title }}</span></nav>
+  <h1>{{ page.title }}</h1>
+  <p class="byline">Checked in August 2026 &middot; Florence Media</p>
+  {% if page.answer %}<p class="answer">{{ page.answer }}</p>{% endif %}
+  <div class="body">{{ content }}</div>
+  {% if page.faq %}
+  <h2>Quick answers</h2>
+  <div class="qa">
+    {% for q in page.faq %}
+      <h3>{{ q.q }}</h3>
+      <p>{{ q.a }}</p>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <aside class="note">
+    <p><strong>Checked in August 2026.</strong> Every place in this article was visited in person. Hours and prices change. If you find something out of date, <a href="mailto:florencemediamag@gmail.com">tell us</a> and we correct it with a dated note.</p>
+  </aside>
+</article>
