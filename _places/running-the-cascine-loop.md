@@ -3,7 +3,7 @@ layout: place
 title: "Running the Cascine loop"
 answer: "The only place in Florence where you can run for an hour without stopping at a junction, on flat ground under trees along the river."
 area: "Cascine"
-verified: ""
+verified: "August 2026"
 categories:
   - "do some outdoor activities"
 ---

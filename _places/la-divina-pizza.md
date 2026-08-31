@@ -3,7 +3,7 @@ layout: place
 title: "La Divina Pizza"
 answer: "Pizza by the slice on Borgo Allegri, made with stone-milled organic flour and fermented at least a day, sold standing up."
 area: "Santa Croce"
-verified: ""
+verified: "August 2026"
 categories:
   - "pizza worth crossing town for"
   - "eat like a local for under 10 euro"

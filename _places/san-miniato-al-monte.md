@@ -3,7 +3,7 @@ layout: place
 title: "San Miniato al Monte"
 answer: "An eleventh century basilica eight minutes uphill from Piazzale Michelangelo. Free, higher than the Piazzale, and the framing is cleaner because there are no stalls in the foreground."
 area: "San Niccolo"
-verified: ""
+verified: "August 2026"
 categories:
   - "hide from the crowd"
   - "enjoy the view"

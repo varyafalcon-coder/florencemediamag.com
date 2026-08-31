@@ -3,7 +3,7 @@ layout: place
 title: "Cenacolo di Sant'Apollonia"
 answer: "A Last Supper by Andrea del Castagno covering the end wall of a convent refectory, free to enter, and usually empty."
 area: "San Marco"
-verified: ""
+verified: "August 2026"
 categories:
   - "see art without queueing"
 ---

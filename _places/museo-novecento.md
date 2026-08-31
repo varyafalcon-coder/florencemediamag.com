@@ -3,7 +3,7 @@ layout: place
 title: "Museo Novecento"
 answer: "Italian twentieth century art in a former hospital on Piazza Santa Maria Novella, in a city that otherwise stops at 1600."
 area: "Santa Maria Novella"
-verified: ""
+verified: "August 2026"
 categories:
   - "see art without queueing"
 ---

@@ -3,7 +3,7 @@ layout: place
 title: "La Casa del Prosciutto"
 answer: "A roadside inn at Ponte a Vicchio in the Mugello, said to have been feeding travellers since the seventeenth century, and known for handmade tortelli."
 area: "Mugello"
-verified: ""
+verified: "August 2026"
 categories:
   - "a bit out of the city"
 ---

@@ -12,4 +12,4 @@ Most guides to this city are lists of monuments and restaurants ordered by fame.
 
 Every place here was visited in person and carries the date it was last checked. Read [how that works](/how-we-verify/).
 
-Write to florencemediamag@gmail.com.
+For comments, feedback or collaboration offers write to florencemediamag@gmail.com.

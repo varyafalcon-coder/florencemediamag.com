@@ -3,7 +3,7 @@ layout: place
 title: "Trattoria Mossacce"
 answer: "A tiny room in the centre with a menu that changes daily, one of the fastest services in Florence, and all the Tuscan classics done without decoration."
 area: "Centro"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
 ---

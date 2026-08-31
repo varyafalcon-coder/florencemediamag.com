@@ -3,7 +3,7 @@ layout: place
 title: "Gustapizza"
 answer: "Cheap, fast, sometimes heart shaped, and eaten sitting on the steps of Santo Spirito with a beer from the bar opposite."
 area: "Santo Spirito"
-verified: ""
+verified: "August 2026"
 categories:
   - "pizza worth crossing town for"
   - "eat like a local for under 10 euro"

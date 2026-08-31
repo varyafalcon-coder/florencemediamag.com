@@ -3,7 +3,7 @@ layout: place
 title: "Fuori Porta"
 answer: "A wine bar just outside the old San Niccolo gate, open since the eighties, with hundreds of labels and crostoni that count as dinner."
 area: "San Niccolo"
-verified: ""
+verified: "August 2026"
 categories:
   - "drink wine somewhere real"
 ---

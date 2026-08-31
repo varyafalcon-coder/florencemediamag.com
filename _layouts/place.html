@@ -5,16 +5,24 @@ layout: default
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <span>{{ page.title }}</span></nav>
   <h1>{{ page.title }}</h1>
   <p class="answer">{{ page.answer }}</p>
-  <dl class="facts">
+
+  <dl class="facts wide">
     <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
-    {% if page.verified != "" %}<div><dt>Verified</dt><dd>{{ page.verified }}</dd></div>{% endif %}
+    {% if page.address %}<div><dt>Address</dt><dd><a href="https://www.google.com/maps/search/?api=1&query={{ page.address | append: ', Florence, Italy' | url_encode }}" target="_blank" rel="noopener">{{ page.address }}</a></dd></div>{% endif %}
+    {% if page.hours %}<div><dt>Hours</dt><dd>{{ page.hours }}</dd></div>{% endif %}
+    {% if page.verified != "" %}<div><dt>Checked</dt><dd>{{ page.verified }}</dd></div>{% endif %}
   </dl>
-  {{ content }}
+
+  <div class="body">{{ content }}</div>
+
   <h2>Where else this appears</h2>
   <ul class="taglist">
   {% for c in page.categories %}
     <li><a href="{{ '/collections/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a></li>
   {% endfor %}
   </ul>
-  {% if page.verified == "" %}<p class="stamp">Not yet checked in person. Details here are drafted from public sources.</p>{% endif %}
+
+  <aside class="note">
+    <p><strong>Checked in August 2026.</strong> Hours and prices change, and small places close without announcing it. If something here is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a> and it gets corrected with a dated note.</p>
+  </aside>
 </article>

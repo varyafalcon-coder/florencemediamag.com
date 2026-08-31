@@ -3,7 +3,7 @@ layout: place
 title: "Casa del Vino"
 answer: "A wood-panelled wine shop behind the Mercato Centrale where you stand at the counter with a glass and a crostino and the owners keep the conversation going."
 area: "San Lorenzo"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
   - "eat like a local for under 10 euro"

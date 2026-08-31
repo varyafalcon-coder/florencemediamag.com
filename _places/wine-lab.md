@@ -3,7 +3,7 @@ layout: place
 title: "Wine Lab"
 answer: "A bulk wine shop on Via Gioberti where you bring your own bottle, they fill it from the vat, and you can also just stay and drink a glass."
 area: "Sant'Ambrogio"
-verified: ""
+verified: "August 2026"
 categories:
   - "night heart of the city"
   - "drink wine somewhere real"

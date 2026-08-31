@@ -2,12 +2,11 @@
 layout: default
 seo_title: "Florence Media. Florence sorted by what you actually want to do"
 seo_description: "Florence filtered by intent, not by category. Places to eat, cafes to work from, spots to escape the crowds, viewpoints and pools. Every entry visited in person and dated."
-it_url: /it/
 ---
 
 <div class="wrap hero">
   <h1>Florence, sorted by what you actually want to do.</h1>
-  <p>Not a top 50 list. Pick the mood, get the places. Each one visited in person, dated, and checked again every season.</p>
+  <p>Here you won't find top 50 lists. Pick the mood, get the places. Each one is visited in person, dated, and checked again every season.</p>
 </div>
 
 <div class="wrap filters">
@@ -56,7 +55,7 @@ it_url: /it/
   <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try one tag instead of two, or tell us what you were looking for.</p>
 
   <h2>Written guides</h2>
-  <p>Some questions need more than a filter.</p>
+  <p>Some questions need more than a filter. These are written, not listed.</p>
   <ul class="pills guides">
   {% for c in site.data.categories.primary %}
     <li><a href="/collections/{{ c.slug }}/">{{ c.emoji }} {{ c.name }}</a></li>

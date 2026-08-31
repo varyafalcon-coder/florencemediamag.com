@@ -1,11 +1,10 @@
-<header class="masthead">
+<div class="navbar">
   <nav aria-label="Primary">
     <a href="{{ '/' | relative_url }}">Places</a>
-    <a href="{{ '/collections/' | relative_url }}">Collections</a>
     <a href="{{ '/articles/' | relative_url }}">Articles</a>
     <a href="{{ '/about/' | relative_url }}">About</a>
-    {% if page.it_url %}<a class="lang" href="{{ page.it_url | relative_url }}" hreflang="it">IT</a>{% endif %}
-    {% if page.en_url %}<a class="lang" href="{{ page.en_url | relative_url }}" hreflang="en">EN</a>{% endif %}
   </nav>
+</div>
+<header class="masthead">
   <a class="wordmark" href="{{ '/' | relative_url }}">FLORENCE MEDIA</a>
 </header>

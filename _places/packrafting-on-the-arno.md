@@ -3,7 +3,7 @@ layout: place
 title: "Packrafting on the Arno"
 answer: "One small inflatable boat each, so you paddle yourself instead of sitting in a raft with seven other people."
 area: "San Niccolo"
-verified: ""
+verified: "August 2026"
 categories:
   - "by the river"
   - "do some outdoor activities"

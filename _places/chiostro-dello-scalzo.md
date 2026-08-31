@@ -3,7 +3,7 @@ layout: place
 title: "Chiostro dello Scalzo"
 answer: "A small cloister painted entirely in grey monochrome by Andrea del Sarto, free, open only on certain days, and known almost exclusively to art historians."
 area: "San Marco"
-verified: ""
+verified: "August 2026"
 categories:
   - "see art without queueing"
 ---

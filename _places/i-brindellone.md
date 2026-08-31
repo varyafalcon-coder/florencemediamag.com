@@ -3,7 +3,7 @@ layout: place
 title: "I' Brindellone"
 answer: "A small Oltrarno trattoria that locals book and visitors mostly walk past, best known for its bistecca, which the waiter brings to the table raw for you to look at before it is cooked."
 area: "San Frediano"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
 ---

@@ -3,7 +3,7 @@ layout: place
 title: "'O Munaciello"
 answer: "One of the first places to bring Neapolitan pizza to Florence, now past twenty years old, in a large and deliberately loud room on Via Maffia."
 area: "Santo Spirito"
-verified: ""
+verified: "August 2026"
 categories:
   - "pizza worth crossing town for"
 ---

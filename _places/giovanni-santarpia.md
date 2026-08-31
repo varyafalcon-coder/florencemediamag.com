@@ -3,7 +3,7 @@ layout: place
 title: "Giovanni Santarpia"
 answer: "The pizzeria that brought proper Neapolitan pizza to Florence, out past Porta Romana, where the crowd goes for the dough rather than the location."
 area: "Outside the centre"
-verified: ""
+verified: "August 2026"
 categories:
   - "pizza worth crossing town for"
 ---

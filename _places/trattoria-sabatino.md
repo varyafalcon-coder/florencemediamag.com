@@ -3,7 +3,7 @@ layout: place
 title: "Trattoria Sabatino"
 answer: "The Buccioni family have run this trattoria by Porta San Frediano since 1956, with a menu typed fresh each day, communal tables and prices that have not caught up with the rest of the city."
 area: "San Frediano"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
   - "eat like a local for under 10 euro"

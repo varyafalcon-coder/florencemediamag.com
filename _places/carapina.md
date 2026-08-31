@@ -3,7 +3,7 @@ layout: place
 title: "Carapina"
 answer: "The gelateria that changed the standard in Florence, opened in 2008, and the one that brought back covered metal tubs instead of piled up displays."
 area: "Santa Croce"
-verified: ""
+verified: "August 2026"
 categories:
   - "real gelato, not the coloured stuff"
 ---

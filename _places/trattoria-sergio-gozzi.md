@@ -3,7 +3,7 @@ layout: place
 title: "Trattoria Sergio Gozzi"
 answer: "A lunch-only trattoria on Piazza San Lorenzo with roots going back further than most of the city's famous ones, and a menu that changes every day."
 area: "San Lorenzo"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
   - "eat like a local for under 10 euro"

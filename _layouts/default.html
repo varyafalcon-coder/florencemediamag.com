@@ -6,10 +6,6 @@
 <title>{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.seo_description %}{{ page.seo_description }}{% else %}{{ page.answer | default: site.description }}{% endif %}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
-{% if page.it_url %}<link rel="alternate" hreflang="it" href="{{ page.it_url | absolute_url }}">
-<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">{% endif %}
-{% if page.en_url %}<link rel="alternate" hreflang="en" href="{{ page.en_url | absolute_url }}">
-<link rel="alternate" hreflang="it" href="{{ page.url | absolute_url }}">{% endif %}
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 <script type="application/ld+json">
 {

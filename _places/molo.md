@@ -3,7 +3,7 @@ layout: place
 title: "Molo"
 answer: "A bar directly on the Arno bank, one of the few places in Florence where you drink at the level of the water rather than looking down at it."
 area: "San Niccolo"
-verified: ""
+verified: "August 2026"
 categories:
   - "by the river"
 ---

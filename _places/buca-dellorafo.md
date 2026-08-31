@@ -3,7 +3,7 @@ layout: place
 title: "Buca dell'Orafo"
 answer: "A cellar dining room down a flight of steps under the arcade behind Ponte Vecchio, in the quarter where the city's goldsmiths worked."
 area: "Centro"
-verified: ""
+verified: "August 2026"
 categories:
   - "old places with a soul"
 ---

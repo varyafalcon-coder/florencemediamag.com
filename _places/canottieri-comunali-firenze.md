@@ -3,7 +3,7 @@ layout: place
 title: "Canottieri Comunali Firenze"
 answer: "A rowing and canoe club founded in 1934, running beginner courses for adults in kayak, rowing, stand up paddle and dragon boat."
 area: "Outside the centre"
-verified: ""
+verified: "August 2026"
 categories:
   - "by the river"
   - "do some outdoor activities"

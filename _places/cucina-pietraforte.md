@@ -3,7 +3,7 @@ layout: place
 title: "Cucina Pietraforte"
 answer: "A kitchen named after the sandstone Florence is built from, cooking the city's own dishes rather than the ones visitors expect."
 area: "Outside the centre"
-verified: ""
+verified: "August 2026"
 categories:
   - "a bit out of the city"
 ---

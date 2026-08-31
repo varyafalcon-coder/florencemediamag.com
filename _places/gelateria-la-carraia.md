@@ -3,7 +3,7 @@ layout: place
 title: "Gelateria La Carraia"
 answer: "An Oltrarno institution at the foot of Ponte alla Carraia, open since 1990, with big portions and prices that have somehow stayed low."
 area: "San Frediano"
-verified: ""
+verified: "August 2026"
 categories:
   - "real gelato, not the coloured stuff"
 ---

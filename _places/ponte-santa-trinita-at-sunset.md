@@ -3,7 +3,7 @@ layout: place
 title: "Ponte Santa Trinita at sunset"
 answer: "The bridge everyone stands on to photograph Ponte Vecchio, which means it is also the bridge with the better view."
 area: "Centro"
-verified: ""
+verified: "August 2026"
 categories:
   - "by the river"
 ---

@@ -3,7 +3,7 @@ layout: place
 title: "Walking up to Fiesole"
 answer: "A climb out of the city on foot through olive terraces and villa walls, ending in an Etruscan hill town with a Roman theatre and the whole valley below."
 area: "Outside the centre"
-verified: ""
+verified: "August 2026"
 categories:
   - "do some outdoor activities"
   - "a bit out of the city"

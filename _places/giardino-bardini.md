@@ -3,7 +3,7 @@ layout: place
 title: "Giardino Bardini"
 answer: "A terraced hillside garden in the Oltrarno with a belvedere that frames the Duomo, and a fraction of the crowd of the Boboli Gardens next door."
 area: "San Niccolo"
-verified: ""
+verified: "August 2026"
 categories:
   - "hide from the crowd"
   - "enjoy the view"

@@ -3,7 +3,7 @@ layout: place
 title: "Carabe"
 answer: "Sicilian gelato and granita in Florence, made by a family from Sicily since 1980, a few steps from the Accademia."
 area: "San Marco"
-verified: ""
+verified: "August 2026"
 categories:
   - "real gelato, not the coloured stuff"
 ---

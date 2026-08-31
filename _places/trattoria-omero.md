@@ -3,7 +3,7 @@ layout: place
 title: "Trattoria Omero"
 answer: "A hillside trattoria a few minutes above Piazzale Michelangelo, with wooden tables, straw chairs and a view over the city and the countryside behind it."
 area: "Pian dei Giullari"
-verified: ""
+verified: "August 2026"
 categories:
   - "a bit out of the city"
 ---

@@ -3,7 +3,7 @@ layout: place
 title: "Babae"
 answer: "A restaurant on Via di Santo Spirito with a working wine window, which for one hour each evening hands glasses of wine through a hatch in the wall to whoever rings the bell."
 area: "Santo Spirito"
-verified: ""
+verified: "August 2026"
 categories:
   - "nice cute places to eat at"
   - "drink wine somewhere real"
