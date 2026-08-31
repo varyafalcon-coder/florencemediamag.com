@@ -1,10 +1,10 @@
 :root{
-  --blue:#1b2bb8; --paper:#e1e1e1; --card:#f2f2f2; --ink:#0b0b0b;
+  --blue:#1b2bb8; --paper:#e1e1e1; --card:#f2f2f2; --surface:#fff; --ink:#0b0b0b;
   --ink-soft:#5a5a5a; --line:rgba(0,0,0,.13);
   --pad:clamp(18px,4vw,56px);
 }
 @media (prefers-color-scheme:dark){
-  :root{--paper:#111;--card:#1b1b1b;--ink:#ededed;--ink-soft:#9a9a9a;--line:rgba(255,255,255,.14);--blue:#2436d6}
+  :root{--paper:#111;--card:#1b1b1b;--surface:#191919;--ink:#ededed;--ink-soft:#9a9a9a;--line:rgba(255,255,255,.14);--blue:#2436d6}
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--paper);color:var(--ink);
@@ -14,11 +14,11 @@ img{display:block;max-width:100%}
 .wrap{max-width:1200px;margin:0 auto;padding-inline:var(--pad)}
 :focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 
-.masthead{background:var(--blue);color:#fff;padding:14px var(--pad) 40px;text-align:center}
+.masthead{background:var(--blue);color:#fff;padding:clamp(22px,3.2vw,38px) var(--pad);text-align:center}
 .masthead nav{display:flex;justify-content:center;flex-wrap:wrap;gap:clamp(16px,3vw,38px);font-size:12.5px;letter-spacing:.04em}
 .masthead nav a{opacity:.7;text-decoration:none}
 .masthead nav a:hover{opacity:1}
-.wordmark{display:block;margin-top:clamp(18px,4vw,40px);font-weight:300;
+.wordmark{display:block;margin-top:0;font-weight:300;
   font-size:clamp(34px,9vw,120px);line-height:.98;letter-spacing:-.035em;text-decoration:none}
 
 .hero{padding-block:clamp(34px,6vw,64px) 10px}
@@ -41,14 +41,14 @@ p{margin:14px 0 0;max-width:68ch}
 .card h3 a{text-decoration:none}
 .card p{font-size:14.5px;color:var(--ink-soft);margin-top:10px;max-width:none}
 
-.facts{display:grid;grid-template-columns:repeat(2,1fr);border-top:1px solid var(--line);
-  margin:20px 0 0;padding:0}
-.card .facts{margin-top:auto;padding-top:0}
+.facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));
+  column-gap:clamp(18px,2.4vw,30px);row-gap:14px;
+  border-top:1px solid var(--line);margin:20px 0 0;padding:14px 0 0}
+.card .facts{margin-top:auto}
 .card .body{display:flex;flex-direction:column;flex:1}
-.facts div{padding:10px 0 0;border-right:1px solid var(--line)}
-.facts div:last-child{border-right:0}
+.facts div{padding:0}
 .facts dt{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft)}
-.facts dd{margin:3px 0 0;font-size:14px;font-weight:700}
+.facts dd{margin:4px 0 0;font-size:14px;font-weight:700}
 
 .doc{padding-block:clamp(26px,4vw,48px) clamp(48px,7vw,90px);max-width:1000px}
 .crumbs{font-size:12.5px;color:var(--ink-soft);padding-bottom:20px}
@@ -100,12 +100,11 @@ body.allpills .filters .group{display:block}
 
 /* ---------- sticky nav ---------- */
 .navbar{position:sticky;top:0;z-index:20;background:var(--blue);
-  padding:11px var(--pad);border-bottom:1px solid rgba(255,255,255,.16)}
-.navbar nav{display:flex;justify-content:center;flex-wrap:wrap;gap:clamp(16px,3vw,38px);
-  font-size:12.5px;letter-spacing:.04em}
-.navbar nav a{color:#fff;opacity:.72;text-decoration:none;transition:opacity .15s}
+  padding:13px var(--pad);border-bottom:1px solid rgba(255,255,255,.16)}
+.navbar nav{display:flex;justify-content:center;flex-wrap:wrap;gap:clamp(18px,3vw,40px);
+  font-size:15px;letter-spacing:.015em}
+.navbar nav a{color:#fff;opacity:.86;text-decoration:none;transition:opacity .15s}
 .navbar nav a:hover{opacity:1}
-.masthead{padding-top:clamp(20px,4vw,44px)}
 
 /* ---------- article typography ---------- */
 .article{max-width:820px}
@@ -122,31 +121,38 @@ body.allpills .filters .group{display:block}
 /* venue block inside an article */
 .venue{margin-top:clamp(32px,4vw,46px)}
 .venue h3{margin:0 0 14px}
-.venue-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin:0;
-  border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.venue-meta div{padding:12px 16px 14px 0;border-right:1px solid var(--line)}
-.venue-meta div:last-child{border-right:0;padding-right:0}
-.venue-meta dt{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft)}
-.venue-meta dd{margin:5px 0 0;font-size:15px;line-height:1.4}
+.venue-meta{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  column-gap:clamp(20px,3vw,40px);row-gap:18px;margin:0;
+  padding:clamp(18px,2.2vw,24px) clamp(20px,2.6vw,28px);
+  background:var(--surface);border:0}
+.venue-meta div{padding:0;border:0}
+.venue-meta dt{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.venue-meta dd{margin:7px 0 0;font-size:15.5px;line-height:1.45}
 .venue-meta a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
-@media (max-width:640px){.venue-meta{grid-template-columns:1fr}
-  .venue-meta div{border-right:0;border-bottom:1px solid var(--line);padding-right:0}
-  .venue-meta div:last-child{border-bottom:0}}
+@media (max-width:640px){.venue-meta{grid-template-columns:1fr;row-gap:15px}}
 
 /* footnote / editorial note */
-.note{margin-top:clamp(46px,6vw,72px);background:var(--card);border-left:4px solid var(--line);
-  padding:20px 22px}
+.note{margin-top:clamp(46px,6vw,72px);background:var(--surface);border:0;
+  padding:clamp(20px,2.4vw,26px) clamp(22px,2.8vw,30px)}
 .note p{margin:0;font-size:14.5px;line-height:1.55;color:var(--ink-soft);max-width:70ch}
 .note p + p{margin-top:10px}
 .note strong{color:var(--ink)}
 .note a{text-decoration:underline;text-underline-offset:3px}
 
 /* wide facts on a place page */
-.facts.wide{grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--line);margin-top:26px}
-.facts.wide div{padding:12px 16px 14px 0;border-right:1px solid var(--line)}
+.facts.wide{display:flex;flex-wrap:wrap;gap:0;
+  width:fit-content;max-width:100%;
+  background:var(--surface);border:0;margin-top:26px;padding:0}
+.facts.wide div{flex:0 1 auto;min-width:0;
+  padding:clamp(16px,2vw,20px) clamp(24px,3vw,34px);
+  border-right:1px solid var(--line)}
 .facts.wide div:last-child{border-right:0}
-.facts.wide a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
-@media (max-width:640px){.facts.wide{grid-template-columns:repeat(2,1fr)}}
+.facts.wide dd{font-weight:700;font-size:15.5px;line-height:1.45;margin-top:7px}
+.facts.wide a{font-weight:400;text-decoration:underline;text-underline-offset:3px;
+  text-decoration-color:var(--blue)}
+@media (max-width:640px){.facts.wide{width:100%}
+  .facts.wide div{flex:1 1 50%;border-bottom:1px solid var(--line)}
+  .facts.wide div:nth-child(2n){border-right:0}}
 
 /* place page body */
 .doc .body p{margin-top:18px;font-size:17px;line-height:1.6;max-width:66ch}
@@ -165,3 +171,17 @@ body.allpills .filters .group{display:block}
 .artcard p{font-size:15px;color:var(--ink-soft);margin-top:12px;max-width:none}
 .artcard .meta{margin-top:auto;padding-top:18px;font-size:12.5px;color:var(--ink-soft)}
 @media (max-width:800px){.artgrid{grid-template-columns:1fr}}
+
+/* ---------- emphasis blocks ----------
+   Three levels, and only three, so articles stay one object:
+   .answer  grey + blue rule, the lead answer, once per page
+   .callout white panel, the one idea a reader should leave with
+   .note    white panel, quiet, practical footnotes                      */
+.callout{margin:clamp(28px,3.5vw,40px) 0 0;max-width:70ch;
+  background:var(--surface);
+  padding:clamp(22px,2.6vw,28px) clamp(24px,3vw,32px)}
+.callout p{margin:0;font-size:17.5px;line-height:1.55;max-width:none}
+.callout p + p{margin-top:12px}
+.callout strong{font-weight:700}
+.article .body .callout p{margin-top:0;font-size:17.5px}
+.article .body .callout p + p{margin-top:12px}

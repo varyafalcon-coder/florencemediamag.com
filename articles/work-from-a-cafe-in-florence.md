@@ -5,7 +5,6 @@ permalink: /articles/work-from-a-cafe-in-florence/
 seo_title: "Can you work from a cafe in Florence? The etiquette and five places"
 seo_description: "Yes, and in most cafes nobody will stop you. What annoys staff, the hours to avoid, and five places in Florence where working on a laptop is already normal."
 answer: "Yes, you can work from a laptop in Florence, and in most cafes nobody will stop you. Italian bar culture is built around short visits, so the real question is how long you can stay. Order something, avoid the lunch rush, and you will almost always be fine."
-pending: "Still to confirm on the ground: socket coverage in the Oblate reading rooms and on the terrace, the exact table service charge at Via dello Sprone, and whether the outdoor seating at Shake has shade in summer."
 faq:
   - q: "Do Florence cafes have wifi?"
     a: "Most do, usually free with the password on request. Coverage in the historic centre is generally good, but if your work depends on a stable connection, a local SIM or eSIM is safer."
@@ -14,7 +13,7 @@ faq:
   - q: "How long can I stay?"
     a: "One order per hour keeps things comfortable. Two hours on a single coffee is pushing it. Nobody is counting, but that is the norm."
   - q: "Is there proper coworking in Florence?"
-    a: "Yes, several spaces, including inside Manifattura Tabacchi. For more than a week of full days, a day pass is cheaper and less stressful than a cafe."
+    a: "Yes. There is a coworking floor inside Manifattura Tabacchi, Impact Hub Firenze near the Mercato Centrale, and a large open workspace at The Social Hub by Lavagnini. All three sell day passes. If you are working full days for more than a week, a pass costs less than a chain of cafe orders and removes the question of whether you have been sitting too long."
 ---
 
 ## The real problem is that nobody tells you the rules
@@ -25,7 +24,9 @@ The anxiety is usually unnecessary. Florence has a large student population and 
 
 > What annoys them is not the laptop. It is taking a four-seat table alone at one in the afternoon, ordering one espresso in three hours, or unplugging a lamp to charge a phone.
 
-The short version: avoid the lunch rush between roughly 12:30 and 14:30, order again every hour or so, and take the smallest table you can. Do that and you can work almost anywhere in this city.
+<div class="callout">
+<p><strong>The short version.</strong> Avoid the lunch rush between roughly 12:30 and 14:30, order again every hour or so, and take the smallest table you can. Do that and you can work almost anywhere in this city.</p>
+</div>
 
 ## Five places where it does not feel strange
 
