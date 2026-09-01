@@ -9,6 +9,30 @@ seo_description: "Guides to Florence that answer questions a list cannot: how to
 Some questions need more than a filter. These are written, checked on the ground, and dated.
 
 <div class="artgrid">
+  <a class="artcard" href="/articles/are-two-days-enough-for-florence/">
+    <span class="kicker">Planning</span>
+    <h2>Are 2 days enough for Florence?</h2>
+    <p>Yes, under one hard rule: one booked museum per day. What to cut, what to book, and the three things that eat the most time.</p>
+    <span class="meta">Checked August 2026</span>
+  </a>
+  <a class="artcard" href="/articles/what-not-to-miss-in-florence/">
+    <span class="kicker">First visit</span>
+    <h2>What should you not miss in Florence?</h2>
+    <p>Six things worth the time, the two you need to book, and the famous sights it is fine to walk past.</p>
+    <span class="meta">Checked August 2026</span>
+  </a>
+  <a class="artcard" href="/articles/what-to-avoid-in-florence/">
+    <span class="kicker">Tourist traps</span>
+    <h2>What to avoid in Florence</h2>
+    <p>Photo menus, the forty minute sandwich, sunset in a car park, and leather that was made somewhere else. Plus what gets a bad name unfairly.</p>
+    <span class="meta">Checked August 2026</span>
+  </a>
+  <a class="artcard" href="/articles/florence-off-the-tourist-track/">
+    <span class="kicker">Away from the centre</span>
+    <h2>Cool things to do in Florence, away from the tourist track</h2>
+    <p>A hillside boulevard nobody walks, a house full of armoured knights, a lane out of San Niccolo, and the river itself.</p>
+    <span class="meta">Checked August 2026 &middot; 8 places</span>
+  </a>
   <a class="artcard" href="/articles/florence-with-children/">
     <span class="kicker">With children</span>
     <h2>What to do in Florence with children</h2>

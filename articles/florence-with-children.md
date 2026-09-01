@@ -94,7 +94,7 @@ Boboli is the garden every list recommends and the one that disappoints most fam
 <h3>Giardino dell'Orticoltura</h3>
 <dl class="venue-meta">
 <div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Giardino%20dell%27Orticoltura%2C%20Firenze" target="_blank" rel="noopener">North of Piazza della Liberta</a></dd></div>
-<div><dt>Getting there</dt><dd>Bus 1 or 7, or twenty five minutes on foot</dd></div>
+<div><dt>Getting there</dt><dd>Bus 1 or 7 from Piazza San Marco, or twenty five minutes on foot from the Duomo</dd></div>
 <div><dt>Best bit</dt><dd>The dragon, five minutes uphill</dd></div>
 </dl>
 </div>
@@ -107,7 +107,7 @@ Just above it, in the Orti del Parnaso, a long stone dragon winds down a stairca
 <h3>Piazza d'Azeglio</h3>
 <dl class="venue-meta">
 <div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Piazza%20d%27Azeglio%2C%20Firenze" target="_blank" rel="noopener">Piazza Massimo d'Azeglio</a></dd></div>
-<div><dt>Getting there</dt><dd>Fifteen minutes east of the Duomo</dd></div>
+<div><dt>Getting there</dt><dd>Fifteen minutes east of the Duomo on foot, or bus 6 from Piazza San Marco</dd></div>
 <div><dt>Best for</dt><dd>Under sevens</dd></div>
 </dl>
 </div>
@@ -118,7 +118,7 @@ A large square of plane trees with a fenced playground in the middle, benches ar
 <h3>Parco delle Cascine</h3>
 <dl class="venue-meta">
 <div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Parco%20delle%20Cascine%2C%20Firenze" target="_blank" rel="noopener">West along the north bank of the Arno</a></dd></div>
-<div><dt>Getting there</dt><dd>T1 tram from Santa Maria Novella</dd></div>
+<div><dt>Getting there</dt><dd>T1 tram from Santa Maria Novella station, four stops</dd></div>
 <div><dt>Best bit</dt><dd>The old carousel, weekends and holidays</dd></div>
 </dl>
 </div>
