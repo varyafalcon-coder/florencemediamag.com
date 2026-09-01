@@ -12,8 +12,8 @@ Some questions need more than a filter. These are written, checked on the ground
   <a class="artcard" href="/articles/florence-with-children/">
     <span class="kicker">With children</span>
     <h2>What to do in Florence with children</h2>
-    <p>Planned around the hour the day falls apart. The playgrounds Florentine families use, the river almost no guide mentions, and the two museums children actually like.</p>
-    <span class="meta">Checked August 2026 &middot; 7 places</span>
+    <p>The museums built for children rather than adapted for them, the parks Florentine families actually use, the antique carousel, and how to get onto the Arno.</p>
+    <span class="meta">Checked August 2026 &middot; 8 places</span>
   </a>
   <a class="artcard" href="/articles/work-from-a-cafe-in-florence/">
     <span class="kicker">Working here</span>

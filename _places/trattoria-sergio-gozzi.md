@@ -5,7 +5,7 @@ answer: "A lunch-only trattoria on Piazza San Lorenzo with roots going back furt
 area: "San Lorenzo"
 verified: "August 2026"
 categories:
-  - "old places with a soul"
+  - "places with an old soul"
   - "eat like a local for under 10 euro"
 ---
 Open at midday and closed by mid-afternoon, which rules out anyone on an evening schedule and keeps the room local. Handwritten daily menu, Tuscan home cooking, and a bill that does not reflect how close it is to the market and the basilica. Go at noon. By half past one the tables are gone.

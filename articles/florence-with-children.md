@@ -2,137 +2,152 @@
 layout: article
 title: "What to do in Florence with children"
 permalink: /articles/florence-with-children/
-seo_title: "What to do in Florence with children. Parks, the river, and two museums worth the ticket"
-seo_description: "Florence with kids, planned around the hour the day falls apart. Playgrounds locals use, rafting on the Arno, and the two indoor places children actually like."
-answer: "Florence is small enough to walk and hard enough on children that most family days collapse around two in the afternoon. Plan one indoor thing, then somewhere they can run. The part almost no guide mentions is that you can get on the river."
+seo_title: "What to do in Florence with children. Museums that work, parks locals use, and the river"
+seo_description: "Florence with kids, checked in person. The museums built for children rather than adapted for them, the parks Florentine families actually use, the antique carousel, and how to get onto the Arno."
+answer: "Florence is not an obvious city for children, and most visiting parents work that out by the first afternoon. It is also a city that has been looking after children for six hundred years, and a surprising amount of that is still visitable."
 faq:
-  - q: "Is Florence a good city for young children?"
-    a: "It is walkable and adults are relaxed about children in restaurants, which helps. It is short on purpose-built attractions, so the days work better when you plan around energy rather than around sights."
-  - q: "Can children go rafting on the Arno?"
-    a: "Yes. The stretch through the centre is flat water with no rapids, and Firenze Rafting takes children from four years old, five if you want them to enjoy it rather than tolerate it. The season runs from March to November."
-  - q: "Where can children run in central Florence?"
-    a: "Piazza d'Azeglio has a fenced playground fifteen minutes east of the Duomo. Giardino dell'Orticoltura is bigger and quieter. Parco delle Cascine is the largest, with several playgrounds and a carousel, and the T1 tram goes there."
-  - q: "Is Boboli a good place to let children play?"
-    a: "Not really. It is a formal garden with a ticket and staff who will stop children climbing on things. It works as a long walk with statues, not as a place to burn energy."
-  - q: "Which museum should we pick if there is only time for one?"
-    a: "Museo Galileo for children who like machines and instruments, and the Palazzo Vecchio secret passages tour for children who like the idea of hidden staircases. Both are around an hour, which is roughly the honest limit."
+  - q: "Is Florence a good city to bring children to?"
+    a: "Yes, with a lighter plan than you would make for yourself. It is small enough to walk, Italians are relaxed about children in restaurants at any hour, and there is more built for children here than the famous sights suggest. What it lacks is one big family attraction, so the days are made of smaller pieces."
+  - q: "What is the best museum in Florence for young children?"
+    a: "Museo degli Innocenti, because it was built as a museum for children rather than adapted into one. The labels and audio guides were written by children's authors and there is a free treasure hunt kit at the desk. For children who prefer machines and instruments, Museo Galileo is the better hour."
+  - q: "How much can we realistically fit into a day?"
+    a: "One ticketed thing, usually in the morning, and the rest of the day loose. Two museums in one day is where most family trips to Florence come unstuck, and the second one is rarely the one anybody remembers."
+  - q: "Where do Florentine families go with their children?"
+    a: "Giardino dell'Orticoltura and the dragon staircase just above it, the fenced playground on Piazza d'Azeglio, and Parco delle Cascine at weekends. In summer they go to the open air pools, which almost no visitor knows about."
+  - q: "Can children go on the Arno?"
+    a: "Yes. The stretch through the centre is flat water with no rapids, and Firenze Rafting takes children from about four, with the family together in one boat. The season runs roughly March to November."
+  - q: "Is Boboli a good place to take children?"
+    a: "It is a ticketed formal garden rather than a park, and staff will stop children climbing on things. As a long shaded walk with statues and a strange grotto it is lovely. As an afternoon off it is not, and Cascine or Orticoltura will serve you better."
+  - q: "What about the Uffizi and the Accademia?"
+    a: "The Accademia is short and David is genuinely impressive at any age, so it survives a family visit. The Uffizi is long. If the adults want it properly, the usual solution is to split up and take turns rather than march everybody through together."
 ---
 
-## The day falls apart at two in the afternoon
+Florence was not laid out with children in mind, and nobody who has stood in Piazza del Duomo in July holding a hot four year old needs telling. The city's great pleasures are the ones that reward standing still and reading a label, which is not what most children have come for.
 
-The first morning always goes well. The city is compact, everything is fifteen minutes from everything else, and a five year old will look at the Duomo for about ninety seconds and then ask what happens next.
+What is less obvious is how much of Florence was built for children in the first place. This is the city that opened the first institution in Europe devoted entirely to the care of abandoned children, in a building by Brunelleschi, in the 1440s. That building is now a museum with a treasure hunt kit at the desk. The carousel in Piazza della Repubblica has been turning since the early twentieth century and still belongs to the family who restored it. There is a Medici hippopotamus, stuffed in the seventeenth century by craftsmen working from a description, and it shows.
 
-By early afternoon the queue at the Accademia has eaten forty minutes, lunch has eaten another hour, and you are negotiating with someone who has been upright and bored since nine.
-
-Florence does not have many attractions built for children. What it has is a river almost nobody uses, a set of parks that Florentine families rely on and visitors never find, and two museums designed to be touched rather than read.
+Very little of this makes the standard three day itinerary.
 
 <div class="callout">
-<p><strong>The plan that works.</strong> One indoor thing per day, in the morning, and somewhere they can run in the afternoon. Two museums in one day is how you end up carrying a child through Piazza della Signoria at four o'clock.</p>
+<p><strong>The shape of a good day here.</strong> One thing with a ticket, in the morning while everybody is still fresh, and the rest of the day left open. Most family trips that go sideways in Florence go sideways because of the second museum.</p>
 </div>
 
-## The river, which no family guide mentions
+## Museums built for children
 
-Every guide to Florence with children lists the same museums in roughly the same order. None of them mention that the Arno runs through the middle of the city and that you can be on it.
-
-The stretch through the centre is flat. There is no whitewater, the boats are stable, and the whole thing is a view of Florence that the people on Ponte Vecchio are not getting.
+Four museums here do not ask a child to pretend. They are all small, which is the main thing, and none of them needs more than about ninety minutes.
 
 <div class="venue">
-<h3>Rafting under Ponte Vecchio</h3>
+<h3>Museo degli Innocenti</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Spiaggia%20sull%27Arno%2C%20Torre%20di%20San%20Niccolo%2C%20Firenze" target="_blank" rel="noopener">Spiaggia sull'Arno, Torre di San Niccolo</a></dd></div>
-<div><dt>Ages</dt><dd>From four, five if you want them to enjoy it</dd></div>
-<div><dt>Season</dt><dd>March to November, two hours on the water</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Museo%20degli%20Innocenti%2C%20Piazza%20della%20Santissima%20Annunziata%2C%20Firenze" target="_blank" rel="noopener">Piazza della Santissima Annunziata 13</a></dd></div>
+<div><dt>Ages</dt><dd>Three and up</dd></div>
+<div><dt>Time</dt><dd>An hour and a half, more with the roof terrace</dd></div>
 </dl>
 </div>
 
-Run by Firenze Rafting, who launch from the small beach under Torre di San Niccolo. Everyone sits in one boat with a guide, so nobody has to steer and nobody gets separated. Children under twelve pay less than adults. There is a minimum group size, which means a family of four books itself and a family of two waits for other people or pays for a private trip.
+The Istituto degli Innocenti began taking in abandoned children in the fifteenth century, and the museum inside it tells that story rather than the usual one about patrons and painters. Captions and audio guides were written by children's book authors. There is a free kit at the desk for a treasure hunt through the building, and the Bottega dei Ragazzi runs workshops aimed at three to eleven year olds.
 
-The reason it works with children is that it is two hours of something happening, outdoors, with no queue and no rule about being quiet.
+The detail that stays with people is the iron window under the loggia, where babies were passed in anonymously for two centuries. Older children ask good questions about it. Upstairs there is a Botticelli and a Ghirlandaio, and above that a rooftop cafe looking over the square, which makes this one of the few museums in Florence you can finish pleasantly rather than escape from.
 
 <div class="venue">
-<h3>Packrafting on the Arno</h3>
+<h3>Museo Galileo</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Spiaggia%20sull%27Arno%2C%20Torre%20di%20San%20Niccolo%2C%20Firenze" target="_blank" rel="noopener">Same beach under Torre di San Niccolo</a></dd></div>
-<div><dt>Ages</dt><dd>From five, better from eight or nine</dd></div>
-<div><dt>Season</dt><dd>March to November, two hours on the water</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Museo%20Galileo%2C%20Piazza%20dei%20Giudici%2C%20Firenze" target="_blank" rel="noopener">Piazza dei Giudici, beside the Uffizi</a></dd></div>
+<div><dt>Ages</dt><dd>Six and up</dd></div>
+<div><dt>Time</dt><dd>An hour</dd></div>
 </dl>
 </div>
 
-Same river, same company, one small inflatable boat each. This is the version for a child who wants to be doing something rather than being taken somewhere, and it is the wrong choice for a child who will get bored of paddling after ten minutes. Older children usually prefer it. Younger ones usually prefer the raft.
-
-## Where they can actually run
-
-Boboli is worth saying something about first, because every list puts it under children and it does not belong there. It is a ticketed formal garden. Staff will stop a child climbing on things, and there is a lot of gravel and very little shade in August. As a long walk with statues it is fine. As somewhere to let a six year old off the leash it is not.
-
-These three are.
+Globes, telescopes, armillary spheres, early clocks and a great deal of brass. It is a collection rather than a hands-on science centre, but the objects are strange enough to hold attention by themselves, and the video guides explain what each one was for. Children who like knowing how things work do better here than anywhere else in the city.
 
 <div class="venue">
-<h3>Piazza d'Azeglio</h3>
+<h3>La Specola</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Piazza%20d%27Azeglio%2C%20Firenze" target="_blank" rel="noopener">Piazza d'Azeglio</a></dd></div>
-<div><dt>Getting there</dt><dd>Fifteen minutes east of the Duomo on foot</dd></div>
-<div><dt>Good for</dt><dd>Toddlers and small children</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Museo%20La%20Specola%2C%20Via%20Romana%2C%20Firenze" target="_blank" rel="noopener">Via Romana, Oltrarno</a></dd></div>
+<div><dt>Ages</dt><dd>Five and up, with one caveat</dd></div>
+<div><dt>Time</dt><dd>An hour</dd></div>
 </dl>
 </div>
 
-A square with trees, benches and a fenced playground, close enough to the centre that it works as a break rather than an excursion. This is the one to know about when the afternoon is going badly and you are still inside the ring of monuments.
+The zoological wing of the university's natural history collection: room after room of animals the Medici gathered from around the world, including the hippopotamus that once lived in the Boboli gardens and was reassembled after its death by craftsmen who had only ever read about one.
+
+The caveat is the eighteenth century wax anatomy collection at the far end, which is remarkable and not for every child, or every adult. It is signposted and easy to walk past.
+
+<div class="venue">
+<h3>Palazzo Vecchio, the secret passages</h3>
+<dl class="venue-meta">
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Palazzo%20Vecchio%2C%20Piazza%20della%20Signoria%2C%20Firenze" target="_blank" rel="noopener">Piazza della Signoria</a></dd></div>
+<div><dt>Ages</dt><dd>Six and up, and the rule is enforced</dd></div>
+<div><dt>Booking</dt><dd>Separate guided tour, book ahead</dd></div>
+</dl>
+</div>
+
+A guided route through the staircases and hidden rooms the Medici used to cross the building unseen. Narrow stairs and small spaces, so no pushchairs. For younger children the same palace runs storytelling sessions with costumed characters, a different booking and worth asking about when you buy tickets.
+
+Given a choice between this and a gallery, the passages usually win. Walking through a wall in a Medici palace is the kind of thing a child repeats to people at home.
+
+## Where Florentine families go
+
+Boboli is the garden every list recommends and the one that disappoints most families, because it is a ticketed formal garden where climbing on things is not permitted. As a long shaded walk with statues and a grotto it is genuinely lovely. As an afternoon off duty it is not what you want, and the three below are closer to what local families do.
 
 <div class="venue">
 <h3>Giardino dell'Orticoltura</h3>
 <dl class="venue-meta">
 <div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Giardino%20dell%27Orticoltura%2C%20Firenze" target="_blank" rel="noopener">North of Piazza della Liberta</a></dd></div>
-<div><dt>Getting there</dt><dd>Around twenty five minutes on foot from the Duomo, or bus 1 or 7</dd></div>
-<div><dt>Good for</dt><dd>All ages, plus the dragon</dd></div>
+<div><dt>Getting there</dt><dd>Bus 1 or 7, or twenty five minutes on foot</dd></div>
+<div><dt>Best bit</dt><dd>The dragon, five minutes uphill</dd></div>
 </dl>
 </div>
 
-A public garden with a nineteenth century iron and glass greenhouse at the centre and a decent playground near the entrance. Locals use it, which is the point. Five to ten minutes uphill from it is Orti del Parnaso, where a long stone dragon runs down a staircase with the city behind it. Children who have been polite in three churches will climb it for twenty minutes without stopping.
+A public garden with a tall iron and glass greenhouse from 1880 at its centre, lawns, a playground near the entrance and a small lending library under the trees. A neighbourhood garden rather than a sight, which is exactly why it works.
+
+Just above it, in the Orti del Parnaso, a long stone dragon winds down a staircase with the city spread out behind it. Climbable, free and photogenic, and it tends to buy back the goodwill a morning of churches has spent.
+
+<div class="venue">
+<h3>Piazza d'Azeglio</h3>
+<dl class="venue-meta">
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Piazza%20d%27Azeglio%2C%20Firenze" target="_blank" rel="noopener">Piazza Massimo d'Azeglio</a></dd></div>
+<div><dt>Getting there</dt><dd>Fifteen minutes east of the Duomo</dd></div>
+<div><dt>Best for</dt><dd>Under sevens</dd></div>
+</dl>
+</div>
+
+A large square of plane trees with a fenced playground in the middle, benches around it and a bar on the corner. Close enough to the centre to rescue a slow afternoon without becoming an expedition, which is why it is the one worth memorising.
 
 <div class="venue">
 <h3>Parco delle Cascine</h3>
 <dl class="venue-meta">
 <div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Parco%20delle%20Cascine%2C%20Firenze" target="_blank" rel="noopener">West along the north bank of the Arno</a></dd></div>
 <div><dt>Getting there</dt><dd>T1 tram from Santa Maria Novella</dd></div>
-<div><dt>Good for</dt><dd>Half a day, bikes, running</dd></div>
+<div><dt>Best bit</dt><dd>The old carousel, weekends and holidays</dd></div>
 </dl>
 </div>
 
-The biggest park in the city, a long stretch of it running west along the river, with several playgrounds rather than one and an old carousel that runs at weekends. Space enough that children can be sent in a direction and left to it. It is also where the summer pool is, which makes it a full afternoon rather than a stop.
+The city's largest park, a former Medici hunting estate now holding several playgrounds, a running track, bike paths, an outdoor pool and a Tuesday market. There is an old carousel near the middle that turns at weekends for a euro or two. This is half a day rather than a stop, and the easiest place in Florence to stop supervising for a while.
 
-## Two indoor places worth the ticket
+## On the river
+
+The Arno runs through the middle of Florence and hardly anybody uses it, which starts to seem strange once you have noticed. The stretch past the historic centre is flat, with no rapids, and it offers a view of the city that the crowd on Ponte Vecchio is standing directly above and cannot see.
 
 <div class="venue">
-<h3>Museo Galileo</h3>
+<h3>Rafting from San Niccolo</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Museo%20Galileo%2C%20Piazza%20dei%20Giudici%2C%20Firenze" target="_blank" rel="noopener">Piazza dei Giudici, behind the Uffizi</a></dd></div>
-<div><dt>Ages</dt><dd>Six and up</dd></div>
-<div><dt>How long</dt><dd>An hour, maybe ninety minutes</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Spiaggia%20sull%27Arno%2C%20Torre%20di%20San%20Niccolo%2C%20Firenze" target="_blank" rel="noopener">Spiaggia sull'Arno, under Torre di San Niccolo</a></dd></div>
+<div><dt>Ages</dt><dd>From four, and calmer than it sounds</dd></div>
+<div><dt>Season</dt><dd>March to November, two hours</dd></div>
 </dl>
 </div>
 
-Globes, telescopes, armillary spheres and a lot of brass. It is a collection of scientific instruments rather than an interactive centre, but the objects are strange enough to hold attention on their own, and there are working models and video guides that explain what the things do. Small, so it ends before anybody has had enough.
+Firenze Rafting launch from the small beach below the tower. Everyone sits in one boat with a guide doing the steering, so nobody is separated and nobody needs to be competent. Under twelves pay a reduced rate. There is a minimum group size, which in practice means a family of four can book its own departure while a smaller family either joins a scheduled one or pays for a private trip.
 
-<div class="venue">
-<h3>Palazzo Vecchio, secret passages</h3>
-<dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Palazzo%20Vecchio%2C%20Piazza%20della%20Signoria%2C%20Firenze" target="_blank" rel="noopener">Piazza della Signoria</a></dd></div>
-<div><dt>Ages</dt><dd>Six and up, and it is enforced</dd></div>
-<div><dt>Booking</dt><dd>Separate guided tour, book ahead</dd></div>
-</dl>
-</div>
+Children who would rather paddle themselves can take the packrafting version, one small inflatable boat each, which suits roughly eight and up. Younger children are almost always happier in the raft.
 
-A guided route through the staircases and hidden rooms the Medici used to move around the building without being seen. The palace also runs a children's programme with costumed storytelling for younger ages, which is a different booking. Narrow stairs and small rooms, so no pushchairs, and the under six rule is real rather than advisory.
+## Small things that fill an hour
 
-If you are choosing between this and the Uffizi, take the passages. A child who has walked through a wall in a Medici palace will talk about Florence afterwards. A child dragged past forty Annunciations will not.
+The carousel in Piazza della Repubblica has twenty hand painted horses, has been turning since the early 1900s and still belongs to the Florentine family who restored it. Adults can stand alongside. It costs very little and it has saved more afternoons than any museum on this page.
 
-## In summer, go to a pool
+Bartolucci, on a side street between Palazzo Vecchio and the Bargello, has been carving wooden toys since 1981, with the workshop visible at the back. It is a shop, and children treat it as an exhibition.
 
-From roughly June to September the honest answer to an afternoon with children in Florence is water. The city has open air pools that Florentines use and visitors mostly do not know exist, including one inside Parco delle Cascine. They cost a few euros, they are busy at weekends, and they solve the whole afternoon.
+The bronze boar at the Mercato Nuovo is a four minute activity that appears in guides as though it were a morning. Rub the snout, drop a coin in its mouth, move on.
 
-## What not to bother with
-
-The Duomo climb is 463 steps in a stone spiral with no way to turn back once you are in it. Fine for a determined nine year old. A bad idea with anyone smaller, and a genuinely bad idea in July.
-
-Rubbing the nose of the bronze boar at Mercato Nuovo takes four minutes and appears in every guide as though it were an activity. Do it in passing on the way to something else.
-
-And a full length gallery visit with a child under seven will cost you the rest of the day. If the adults want the Uffizi, split up and take turns.
+Gelato is not filler here either. Choosing well is a small skill in itself, and children pick it up considerably faster than their parents do.

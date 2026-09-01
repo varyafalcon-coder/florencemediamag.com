@@ -49,7 +49,7 @@ answer: "Прямой ответ, 40-60 слов"
 
 ## Список категорий
 
-nice cute places to eat at, old places with a soul, hide from the crowd,
+nice cute places to eat at, places with an old soul, hide from the crowd,
 enjoy the view, night heart of the city, pizza worth crossing town for,
 real gelato, not the coloured stuff, eat like a local for under 10 euro,
 drink wine somewhere real, see art without queueing, by the river,

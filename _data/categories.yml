@@ -1,11 +1,11 @@
 # Категории. Имя, эмодзи, группа. Правится здесь и меняется везде.
 primary:
   - name: "nice cute places to eat at"
-    emoji: "🌳"
+    emoji: "🫐"
     slug: "nice-cute-places-to-eat-at"
-  - name: "old places with a soul"
-    emoji: "🍽️"
-    slug: "old-places-with-a-soul"
+  - name: "places with an old soul"
+    emoji: "🧙🏼‍♂️"
+    slug: "places-with-an-old-soul"
   - name: "hide from the crowd"
     emoji: "🚪"
     slug: "hide-from-the-crowd"
@@ -48,7 +48,7 @@ groups:
         emoji: "🪁"
         slug: "to-do-with-kids"
       - name: "a bit out of the city"
-        emoji: "🚌"
+        emoji: "🌳"
         slug: "a-bit-out-of-the-city"
   - label: "Slower"
     items:

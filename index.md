@@ -29,7 +29,7 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   </div>
   {% endfor %}
 
-  <p class="hint">Pick more than one to narrow it down. Quiet plus a view, or cheap plus late.</p>
+  <p class="hint">Pick more than one to narrow it down.</p>
 </div>
 
 <div class="wrap">
@@ -53,16 +53,6 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   {% endfor %}
   </div>
   <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try one tag instead of two, or tell us what you were looking for.</p>
-
-  <h2>Written guides</h2>
-  <p>Some questions need more than a filter. These are written, not listed.</p>
-  <ul class="pills guides">
-  {% for c in site.data.categories.primary %}
-    <li><a href="/collections/{{ c.slug }}/">{{ c.emoji }} {{ c.name }}</a></li>
-  {% endfor %}
-    <li><a href="/collections/">all guides</a></li>
-    <li><a href="/articles/">articles</a></li>
-  </ul>
 </div>
 
 <section class="method wrap">
@@ -74,4 +64,4 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   </div>
 </section>
 
-<script src="{{ '/assets/filter.js' | relative_url }}"></script>
+<script src="{{ '/assets/filter.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
