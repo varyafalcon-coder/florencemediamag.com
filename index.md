@@ -41,16 +41,10 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   <p id="guidelink" class="guidelink" hidden></p>
 
   <div class="grid" id="grid">
-  {% for p in site.places %}
-    <article class="card" data-cats="{{ p.categories | join: '|' }}">
-      <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-      <p>{{ p.answer }}</p>
-      <dl class="facts">
-        <div><dt>Area</dt><dd>{{ p.area }}</dd></div>
-        {% if p.verified != "" %}<div><dt>Verified</dt><dd>{{ p.verified }}</dd></div>{% endif %}
-      </dl>
-    </article>
-  {% endfor %}
+  {% assign pinned = site.places | where_exp: "p", "p.pin" | sort: "pin" %}
+  {% assign rest = site.places | where_exp: "p", "p.pin == nil" %}
+  {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
+  {% for p in rest %}{% include place-card.html place=p %}{% endfor %}
   </div>
   <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try one tag instead of two, or tell us what you were looking for.</p>
 </div>

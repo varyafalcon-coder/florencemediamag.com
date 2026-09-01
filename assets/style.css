@@ -87,6 +87,10 @@ footer p{font-size:14.5px;opacity:.85}
 .filters .group{display:none;margin-top:22px}
 body.allpills .filters .group{display:block}
 .axis{font-size:11px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 10px}
+/* the category label under a collection title needs air above it, not below */
+.doc h1 + .axis{display:flex;align-items:center;gap:9px;
+  margin:clamp(16px,2vw,22px) 0 0;font-size:11.5px}
+.doc h1 + .axis + .answer{margin-top:clamp(20px,2.6vw,28px)}
 .hint{font-size:13px;color:var(--ink-soft);margin-top:14px}
 .resultbar{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:34px}
 .resultbar h2{margin:0}
