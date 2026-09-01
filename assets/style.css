@@ -102,8 +102,13 @@ body.allpills .filters .group{display:block}
   padding:13px var(--pad);border-bottom:1px solid rgba(255,255,255,.16)}
 .navbar nav{display:flex;justify-content:center;flex-wrap:wrap;gap:clamp(18px,3vw,40px);
   font-size:15px;letter-spacing:.015em}
-.navbar nav a{color:#fff;opacity:.86;text-decoration:none;transition:opacity .15s}
-.navbar nav a:hover{opacity:1}
+.navbar nav a{color:#fff;opacity:.86;text-decoration:none;padding-bottom:3px;
+  border-bottom:1.5px solid transparent;
+  transition:opacity 160ms ease,border-color 160ms ease}
+@media (hover:hover) and (pointer:fine){
+  .navbar nav a:hover{opacity:1;border-bottom-color:#fff}
+}
+.navbar nav a:focus-visible{opacity:1;border-bottom-color:#fff}
 
 /* ---------- article typography ---------- */
 .article{max-width:760px}
@@ -227,3 +232,63 @@ body.allpills .filters .group{display:block}
 .artcard p{font-size:15px;color:var(--ink-soft);margin-top:12px;max-width:none}
 .artcard .meta{margin-top:auto;padding-top:18px;font-size:12.5px;color:var(--ink-soft)}
 @media (max-width:800px){.artgrid{grid-template-columns:1fr}}
+
+/* ---------- table of contents ---------- */
+.toc{margin-top:clamp(26px,3.4vw,38px);padding:clamp(18px,2.2vw,24px) clamp(20px,2.4vw,26px);
+  background:var(--surface);max-width:56ch}
+.toc-label{margin:0 0 12px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-soft)}
+.toc ol{margin:0;padding:0;list-style:none;counter-reset:toc}
+.toc li{counter-increment:toc}
+.toc li + li{margin-top:2px}
+.toc a{display:flex;gap:12px;padding:6px 0;font-size:15.5px;line-height:1.45;
+  text-decoration:none;color:var(--ink);transition:color 150ms ease}
+.toc a::before{content:counter(toc);flex:none;width:16px;color:var(--ink-soft);
+  font-size:13px;line-height:1.7}
+@media (hover:hover) and (pointer:fine){
+  .toc a:hover{color:var(--blue)}
+  .toc a:hover::before{color:var(--blue)}
+}
+
+/* schedule reuses the venue property rows but sits on its own */
+.article .body .venue-meta.schedule{margin-top:22px;max-width:34ch}
+
+/* ---------- maps link on every card ---------- */
+.maplink{margin-top:14px;font-size:13px;color:var(--ink-soft);text-decoration:none;
+  border-bottom:1px solid var(--line);align-self:flex-start;padding-bottom:2px;
+  transition:color 150ms ease,border-color 150ms ease}
+@media (hover:hover) and (pointer:fine){
+  .maplink:hover{color:var(--blue);border-bottom-color:var(--blue)}
+}
+
+/* ---------- collections index ---------- */
+.colgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:clamp(14px,2vw,22px);margin-top:clamp(26px,3.4vw,38px)}
+.colcard{display:flex;flex-direction:column;background:var(--card);
+  padding:clamp(20px,2.4vw,26px);text-decoration:none;
+  border-top:3px solid transparent;
+  transition:transform 180ms cubic-bezier(.23,1,.32,1),border-color 180ms ease}
+@media (hover:hover) and (pointer:fine){
+  .colcard:hover{transform:translateY(-2px);border-top-color:var(--blue)}
+}
+.colcard:active{transform:scale(.995)}
+.colcard-em{font-size:24px;line-height:1}
+.colcard-tag{margin-top:14px;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink-soft)}
+.colcard h2{font-size:19px;line-height:1.2;letter-spacing:-.02em;margin:8px 0 0;max-width:none}
+.colcard p{font-size:14.5px;line-height:1.55;color:var(--ink-soft);margin:10px 0 22px;
+  max-width:none;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;
+  overflow:hidden;min-height:calc(4 * 1.55em)}
+.colcard-meta{margin-top:auto;padding-top:16px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--ink-soft)}
+@media (max-width:900px){.colgrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:600px){.colgrid{grid-template-columns:1fr}}
+
+/* ---------- link from a collection to its written guide ---------- */
+.guidecard{display:flex;flex-direction:column;gap:6px;margin-top:26px;max-width:56ch;
+  background:var(--surface);border-left:3px solid var(--blue);
+  padding:18px 22px;text-decoration:none;
+  transition:transform 180ms cubic-bezier(.23,1,.32,1)}
+@media (hover:hover) and (pointer:fine){.guidecard:hover{transform:translateX(2px)}}
+.guidecard-kicker{font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft)}
+.guidecard-title{font-size:17px;line-height:1.35;letter-spacing:-.015em}

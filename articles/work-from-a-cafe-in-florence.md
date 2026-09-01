@@ -14,6 +14,17 @@ faq:
     a: "One order per hour keeps things comfortable. Two hours on a single coffee is pushing it. Nobody is counting, but that is the norm."
   - q: "Is there proper coworking in Florence?"
     a: "Yes. There is a coworking floor inside Manifattura Tabacchi, Impact Hub Firenze near the Mercato Centrale, and a large open workspace at The Social Hub by Lavagnini. All three sell day passes. If you are working full days for more than a week, a pass costs less than a chain of cafe orders and removes the question of whether you have been sitting too long."
+toc:
+  - label: "The real problem is that nobody tells you the rules"
+    id: "the-real-problem-is-that-nobody-tells-you-the-rules"
+  - label: "Five places where it does not feel strange"
+    id: "five-places-where-it-does-not-feel-strange"
+  - label: "Where not to open a laptop"
+    id: "where-not-to-open-a-laptop"
+  - label: "And you can always just ask"
+    id: "and-you-can-always-just-ask"
+  - label: "Quick answers"
+    id: "quick-answers"
 ---
 
 ## The real problem is that nobody tells you the rules

@@ -14,6 +14,17 @@ faq:
     a: "Neither is worse, but a cheap pre-made cone suggests the shop is buying in. Some of the oldest counters in Florence serve in cups only."
   - q: "Is expensive gelato better?"
     a: "In the centre of Florence, price reflects rent more than quality. Distance from the Duomo is a better signal than the price list."
+toc:
+  - label: "Four rules, and they take three seconds each"
+    id: "four-rules-and-they-take-three-seconds-each"
+  - label: "What else gives it away"
+    id: "what-else-gives-it-away"
+  - label: "Six places in Florence that pass"
+    id: "six-places-in-florence-that-pass"
+  - label: "One last thing"
+    id: "one-last-thing"
+  - label: "Quick answers"
+    id: "quick-answers"
 ---
 
 ## Four rules, and they take three seconds each

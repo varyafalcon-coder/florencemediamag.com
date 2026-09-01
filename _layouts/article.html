@@ -6,9 +6,15 @@ layout: default
   <h1>{{ page.title }}</h1>
   {% if page.answer %}<p class="answer">{{ page.answer }}</p>{% endif %}
   <p class="byline">Checked in August 2026 &middot; Florence Media</p>
+  {% if page.toc %}
+  <nav class="toc" aria-label="In this article">
+    <p class="toc-label">In this article</p>
+    <ol>{% for t in page.toc %}<li><a href="#{{ t.id }}">{{ t.label }}</a></li>{% endfor %}</ol>
+  </nav>
+  {% endif %}
   <div class="body">{{ content }}</div>
   {% if page.faq %}
-  <h2 class="qa-head">Quick answers</h2>
+  <h2 class="qa-head" id="quick-answers">Quick answers</h2>
   <div class="qa">
     {% for q in page.faq %}
     <details class="qa-item"{% if forloop.first %} open{% endif %}>
