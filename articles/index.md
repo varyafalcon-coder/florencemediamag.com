@@ -24,7 +24,7 @@ Some questions need more than a filter. These are written, checked on the ground
   <a class="artcard" href="/articles/what-to-avoid-in-florence/">
     <span class="kicker">Tourist traps</span>
     <h2>What to avoid in Florence</h2>
-    <p>Photo menus, the forty minute sandwich, sunset in a car park, and leather that was made somewhere else. Plus what gets a bad name unfairly.</p>
+    <p>Where the good version of everything is, three streets from the famous one. Restaurants, sandwich queues, gelato and leather.</p>
     <span class="meta">Checked August 2026</span>
   </a>
   <a class="artcard" href="/articles/florence-off-the-tourist-track/">

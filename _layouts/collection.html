@@ -15,8 +15,13 @@ layout: default
   {{ content }}
   <h2>The places</h2>
   {% assign list = site.places | where_exp: "p", "p.categories contains page.category" %}
-  {% assign pinned = list | where_exp: "p", "p.pin" | sort: "pin" %}
-  {% assign rest = list | where_exp: "p", "p.pin == nil" %}
+  {% if page.order_by %}
+    {% assign pinned = list | sort: page.order_by %}
+    {% assign rest = "" | split: "," %}
+  {% else %}
+    {% assign pinned = list | where_exp: "p", "p.pin" | sort: "pin" %}
+    {% assign rest = list | where_exp: "p", "p.pin == nil" %}
+  {% endif %}
   <div class="grid">
   {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
   {% for p in rest %}{% include place-card.html place=p %}{% endfor %}

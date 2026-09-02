@@ -4,6 +4,7 @@ title: "Erta Canina"
 answer: "A steep walled lane climbing out of San Niccolo through olive terraces, with a gap in the wall halfway up that frames the whole city."
 area: "San Niccolo"
 verified: "August 2026"
+view_rank: 5
 categories:
   - "enjoy the view"
   - "hide from the crowd"

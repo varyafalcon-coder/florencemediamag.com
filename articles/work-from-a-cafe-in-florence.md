@@ -4,7 +4,7 @@ title: "Can you work from a cafe in Florence? What's actually acceptable here"
 permalink: /articles/work-from-a-cafe-in-florence/
 seo_title: "Can you work from a cafe in Florence? The etiquette and five places"
 seo_description: "Yes, and in most cafes nobody will stop you. What annoys staff, the hours to avoid, and five places in Florence where working on a laptop is already normal."
-answer: "Yes, you can work from a laptop in Florence, and in most cafes nobody will stop you. Italian bar culture is built around short visits, so the real question is how long you can stay. Order something, avoid the lunch rush, and you will almost always be fine."
+answer: "Yes, you can work from a laptop in Florence, and in most cafes nobody will stop you. Italian bar culture is built around short visits, so what matters is how long you stay. Order something, avoid the lunch rush, and you will almost always be fine."
 faq:
   - q: "Do Florence cafes have wifi?"
     a: "Most do, usually free with the password on request. Coverage in the historic centre is generally good, but if your work depends on a stable connection, a local SIM or eSIM is safer."
@@ -15,8 +15,8 @@ faq:
   - q: "Is there proper coworking in Florence?"
     a: "Yes. There is a coworking floor inside Manifattura Tabacchi, Impact Hub Firenze near the Mercato Centrale, and a large open workspace at The Social Hub by Lavagnini. All three sell day passes. If you are working full days for more than a week, a pass costs less than a chain of cafe orders and removes the question of whether you have been sitting too long."
 toc:
-  - label: "The real problem is that nobody tells you the rules"
-    id: "the-real-problem-is-that-nobody-tells-you-the-rules"
+  - label: "How long you can stay"
+    id: "how-long-you-can-stay"
   - label: "Five places where it does not feel strange"
     id: "five-places-where-it-does-not-feel-strange"
   - label: "Where not to open a laptop"
@@ -27,7 +27,7 @@ toc:
     id: "quick-answers"
 ---
 
-## The real problem is that nobody tells you the rules
+## How long you can stay
 
 Most Italian bars are designed for a coffee at the counter that takes ninety seconds. There is no sign saying laptops are welcome and no sign saying they are not. So you sit down, open your computer, and spend the next hour reading the barista's face.
 

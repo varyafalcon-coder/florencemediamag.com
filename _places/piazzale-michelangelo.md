@@ -4,6 +4,7 @@ title: "Piazzale Michelangelo"
 answer: "The postcard view of Florence, and the busiest square in the city at sunset. Two better versions of the same view are ten minutes away on foot."
 area: "San Niccolo"
 verified: "August 2026"
+view_rank: 3
 categories:
   - "enjoy the view"
 ---

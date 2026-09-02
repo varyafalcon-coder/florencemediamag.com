@@ -23,8 +23,8 @@ faq:
 toc:
   - label: "Museums built for children"
     id: "museums-built-for-children"
-  - label: "Where Florentine families go"
-    id: "where-florentine-families-go"
+  - label: "Where families here actually go"
+    id: "where-families-here-actually-go"
   - label: "On the river"
     id: "on-the-river"
   - label: "Small things that fill an hour"
@@ -38,8 +38,6 @@ toc:
 Florence was not laid out with children in mind, and nobody who has stood in Piazza del Duomo in July holding a hot four year old needs telling. The city's great pleasures are the ones that reward standing still and reading a label, which is not what most children have come for.
 
 What is less obvious is how much of Florence was built for children in the first place. The carousel in Piazza della Repubblica has been turning since the early twentieth century and still belongs to the family who restored it. There is a Medici hippopotamus, stuffed in the seventeenth century by craftsmen working from a description, and it shows.
-
-Very little of this makes the standard three day itinerary.
 
 <div class="callout">
 <p><strong>The shape of a good day here.</strong> One thing with a ticket, in the morning while everybody is still fresh, and the rest of the day left open. Most family trips that go sideways in Florence go sideways because of the second museum.</p>
@@ -86,9 +84,9 @@ A guided route through the staircases and hidden rooms the Medici used to cross 
 
 Given a choice between this and a gallery, the passages usually win. Walking through a wall in a Medici palace is the kind of thing a child repeats to people at home.
 
-## Where Florentine families go
+## Where families here actually go
 
-Boboli is the garden every list recommends and the one that disappoints most families, because it is a ticketed formal garden where climbing on things is not permitted. As a long shaded walk with statues and a grotto it is genuinely lovely. As an afternoon off duty it is not what you want, and the three below are closer to what local families do.
+Boboli is a ticketed formal garden, which makes it a beautiful long walk with statues and a grotto and not a place where children can climb on things. For an afternoon off duty, these three are what local families use.
 
 <div class="venue">
 <h3>Giardino dell'Orticoltura</h3>
@@ -132,7 +130,7 @@ The Arno runs through the middle of Florence and hardly anybody uses it, which s
 <div class="venue">
 <h3>Rafting and kayaking with Firenze Rafting</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Spiaggia%20sull%27Arno%2C%20Torre%20di%20San%20Niccolo%2C%20Firenze" target="_blank" rel="noopener">Spiaggia sull'Arno, under Torre di San Niccolo</a></dd></div>
+<div><dt>Where</dt><dd><a href="https://maps.app.goo.gl/JchvViLUTS2tWiK58" target="_blank" rel="noopener">Spiaggia sull'Arno, under Torre di San Niccolo</a></dd></div>
 <div><dt>Ages</dt><dd>From four, and calmer than it sounds</dd></div>
 <div><dt>Season</dt><dd>Every day, March to November</dd></div>
 </dl>

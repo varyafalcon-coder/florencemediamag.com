@@ -4,6 +4,7 @@ title: "Caffetteria delle Oblate"
 answer: "The cafe on the top floor of the public library, with a terrace facing Brunelleschi's dome at close range, for the price of a coffee."
 area: "Centro"
 verified: "August 2026"
+view_rank: 1
 categories:
   - "enjoy the view"
   - "eat like a local for under 10 euro"

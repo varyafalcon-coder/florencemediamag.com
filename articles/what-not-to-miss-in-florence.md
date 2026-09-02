@@ -12,14 +12,14 @@ toc:
     id: "david-and-why-it-survives-the-hype"
   - label: "One Renaissance room, not five"
     id: "one-renaissance-room-not-five"
-  - label: "The evening, which most people get wrong"
-    id: "the-evening-which-most-people-get-wrong"
+  - label: "Where to be at sunset"
+    id: "where-to-be-at-sunset"
   - label: "The Oltrarno after dark"
     id: "the-oltrarno-after-dark"
   - label: "One meal that is not a tourist menu"
     id: "one-meal-that-is-not-a-tourist-menu"
-  - label: "What you can skip without regret"
-    id: "what-you-can-skip-without-regret"
+  - label: "What you can leave out"
+    id: "what-you-can-leave-out"
   - label: "Quick answers"
     id: "quick-answers"
 faq:
@@ -37,7 +37,7 @@ faq:
     a: "All of it, if you accept that the Uffizi is not on the list. Two days in Florence works well when you pick one big museum, not three."
 ---
 
-Almost every list of what not to miss in Florence contains the same twelve items, and following it produces a trip made mostly of queueing. The honest version is shorter, and the ordering matters more than the length.
+Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.
 
 ## The one that is genuinely unmissable
 
@@ -61,9 +61,7 @@ Forty five minutes covers it. Book a time slot and it is one of the least painfu
 
 ## One Renaissance room, not five
 
-This is where most itineraries go wrong. Florence has enough art to fill a month, so visitors try to see four galleries in two days and remember none of them.
-
-Pick one and give it proper attention.
+Florence has enough art to fill a month. On a short visit, one gallery with proper attention beats four at speed.
 
 <div class="venue">
 <h3>The Bargello</h3>
@@ -78,13 +76,11 @@ A medieval fortress and prison turned sculpture museum, holding Donatello's bron
 
 The alternative, if you prefer painting, is the Brancacci Chapel across the river, where Masaccio worked out how to paint space and every painter in Florence came to study afterwards. Small, quiet, ticketed, and one of the genuinely important rooms in European art.
 
-Both of these will teach you more in an hour than three hours of the Uffizi on tired legs. If you are a serious gallery person, ignore this and go to the Uffizi with a booking and a plan.
+Either will give you more in an hour than a long gallery on tired legs. If galleries are the reason you came, go to the Uffizi instead, with a booking and a plan.
 
-## The evening, which most people get wrong
+## Where to be at sunset
 
-Everybody is told to watch the sunset from Piazzale Michelangelo, so everybody does, and the result is a car park with several hundred people in it holding phones.
-
-The view is genuinely good. The problem is only the timing and the crowd, and there are three fixes.
+Piazzale Michelangelo has the postcard view and, at sunset, most of the people who came for it. Three alternatives sit within a few minutes of it.
 
 <div class="venue">
 <h3>San Miniato al Monte</h3>
@@ -95,9 +91,9 @@ The view is genuinely good. The problem is only the timing and the crowd, and th
 </dl>
 </div>
 
-An eleventh century church with a marble facade, a crypt, and monks who still sing vespers. Almost nobody at the Piazzale walks the extra five minutes up.
+An eleventh century church with a marble facade, a crypt, and monks who still sing vespers in the evening. Five minutes above the Piazzale and far quieter.
 
-The Giardino delle Rose, just below the Piazzale, is free, has the same panorama through roses and Folon sculptures, and closes at dusk. And at the bottom, Ponte Santa Trinita gives you Ponte Vecchio lit gold over the water, which is the photograph you actually wanted.
+The Giardino delle Rose sits just below, free, with the same panorama through roses and Folon sculptures, and closes at dusk. Down at river level, Ponte Santa Trinita gives you Ponte Vecchio lit gold over the water.
 
 ## The Oltrarno after dark
 
@@ -111,12 +107,10 @@ Eating badly in Florence takes effort to avoid, because the centre is dense with
 
 A stand-up plate of pasta, a lampredotto roll from a cart, a bowl of ribollita in a trattoria with paper tablecloths. Under fifteen euro, and better than the forty euro version on the main square.
 
-## What you can skip without regret
+## What you can leave out
 
-Ponte Vecchio as a destination. Walk across it, look at the jewellers, keep going. The bridge is far better seen from Ponte Santa Trinita than stood on.
+Ponte Vecchio works better as something you cross than somewhere you stand. The view of it from Ponte Santa Trinita is the better one.
 
-The bronze boar at the Mercato Nuovo. Four minutes, in passing, on the way to something else.
+The long queue for a famous sandwich, when three streets away the same thing is being made with nobody waiting.
 
-The forty minute queue for a famous sandwich. There are four places within three streets doing the same thing with no line.
-
-And the Uffizi, if you are here for two days and you are not primarily an art traveller. Skipping the most famous museum in the city sounds wrong, but a rushed Uffizi and a proper Bargello is a better trade than a rushed everything.
+And the Uffizi, on a two day visit, unless art is the reason you came. One museum seen properly is the better trade.

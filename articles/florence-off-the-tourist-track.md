@@ -26,20 +26,20 @@ toc:
     id: "quick-answers"
 faq:
   - q: "Is Florence really that crowded?"
-    a: "In the historic centre, yes, and it is concentrated in a small area: the Duomo, Ponte Vecchio, Piazza della Signoria and the streets connecting them. Cross the river past Santo Spirito, or go north past Piazza della Liberta, and the density drops off almost immediately."
+    a: "The crowding sits in a small area: the Duomo, Ponte Vecchio, Piazza della Signoria and the streets between them. Cross the river past Santo Spirito, or go north past Piazza della Liberta, and it drops off within a few minutes of walking."
   - q: "What is the best free thing to do in Florence?"
-    a: "Walking the Viale dei Colli from Porta Romana down to Piazza Ferrucci, or going up Erta Canina from San Niccolo. Both are free, both take about an hour, and both give you better views with fewer people than Piazzale Michelangelo, which sits between them."
+    a: "The Viale dei Colli from Porta Romana down to Piazza Ferrucci, or Erta Canina up from San Niccolo. Both are free, both take about an hour, and both are quiet."
   - q: "Is Piazzale Michelangelo worth it?"
-    a: "Once, and preferably not at sunset. It is the busiest place in the city at that hour. San Miniato al Monte is a few minutes higher and quieter, and the Giardino delle Rose just below it is free and has the same view through trees."
+    a: "Yes, and it is calmest in the morning. San Miniato al Monte is five minutes higher up, and the Giardino delle Rose just below it is free and looks out through roses."
   - q: "What can you do in Florence that is not a museum?"
     a: "Get on the Arno with a raft or a kayak, walk the hill road above the Oltrarno, sit in the park at Villa il Ventaglio, or spend a day in the Giunti Odeon, which is a bookshop and cinema inside a fifteenth century palazzo."
   - q: "How far out of the centre do you need to go?"
     a: "Not far. Stibbert is fifteen minutes by bus, Villa il Ventaglio about twenty, Fiesole twenty five. Erta Canina and the Viale dei Colli start inside the city walls. Everything here is a short trip rather than a day out."
 ---
 
-Florence has a crowding problem that is really a geography problem. The famous sights sit inside a square roughly a kilometre and a half across, and the great majority of visitors never leave it. Which means the pressure is enormous in that square and close to nonexistent two streets outside it.
+The famous parts of Florence sit inside a square roughly a kilometre and a half across, and that is where nearly everyone stays. Cross the edge of it and the city empties out within a couple of streets.
 
-This is good news if you know where the edges are. Nothing below is remote or difficult. Most of it is inside the old city walls, and the furthest thing on the list is twenty five minutes on a bus.
+Nothing below is remote or difficult. Most of it is inside the old walls, and the furthest thing here is twenty five minutes on a bus from Piazza San Marco.
 
 ## Walk the Viale dei Colli end to end
 
@@ -54,7 +54,7 @@ When Florence was briefly the capital of Italy in the 1860s, Giuseppe Poggi laid
 </dl>
 </div>
 
-Piazzale Michelangelo sits in the middle of this walk, and it is the least interesting part of it. The two ends are shaded, quiet and almost empty even in August, with garden walls on one side and the city appearing and disappearing on the other.
+Piazzale Michelangelo sits in the middle of this walk. The two ends are the quiet part: shaded, close to empty even in August, garden walls on one side and the city appearing and disappearing on the other.
 
 Bus 12 covers the same route from Porta Romana if you would rather ride up and walk down. Going the other way, from Piazza Ferrucci, means climbing the whole thing, which is fine in April and a bad idea in July.
 
@@ -71,13 +71,13 @@ Bus 12 covers the same route from Porta Romana if you would rather ride up and w
 
 A narrow paved lane between high garden walls that leaves the city almost at once. Ten minutes up and you are among olive terraces, hearing birds instead of scooters, still technically inside the walls.
 
-Partway up there is a gap in the stonework that frames the dome and the campanile exactly. Locals call it lo scorcio, the glimpse. There is no railing, no viewing platform and no queue, and it is a better photograph than the one everybody takes from the Piazzale.
+Partway up there is a gap in the stonework that frames the dome and the campanile exactly. Locals call it lo scorcio, the glimpse. No railing, no platform, no queue.
 
 From the top you are a few minutes from the Giardino delle Rose and from San Miniato al Monte, which means this connects to the Viale dei Colli walk if you want to make an afternoon of it.
 
 ## Fiesole, but walk back down
 
-Fiesole is on every list, usually as a bus ride up and a bus ride back. The bus ride up is the boring half.
+Fiesole is a small hill town twenty five minutes above Florence, with a Roman theatre and Etruscan walls. Take the bus up and walk back down: the descent is the good half.
 
 <div class="venue">
 <h3>Fiesole on foot</h3>
@@ -88,9 +88,9 @@ Fiesole is on every list, usually as a bus ride up and a bus ride back. The bus 
 </dl>
 </div>
 
-Take the bus up, look at the Roman theatre and the Etruscan walls, eat something in the square, then walk back down through San Domenico. The old road drops through cypress and villa gardens, past walls with olive trees behind them, with Florence spread out below and getting slowly closer. It is one of the great walks in Tuscany and it starts twenty five minutes from the Duomo.
+Look at the theatre, eat something in the square, then walk back down through San Domenico. The old road drops through cypress and villa gardens with Florence spread out below and getting slowly closer. It is one of the best walks in Tuscany and it starts twenty five minutes from the Duomo.
 
-Do it downhill. People who try it uphill in summer regret it.
+Downhill. Uphill in summer is another kind of afternoon.
 
 ## The collector's house on the hill
 
@@ -122,7 +122,7 @@ The park outside is free, laid out by the same Poggi who built the Viale dei Col
 
 A hillside park with a lake, an island, a neoclassical villa and long meadows that open onto the city. Poggi again, planting lime and horse chestnut across what had been olive groves so that the view keeps appearing between the trees.
 
-The upper slopes give one of the best free views in Florence, and the difference from Piazzale Michelangelo is that you will often be the only person having it.
+The upper slopes give one of the best free views in Florence, and you will often have it to yourself.
 
 ## Get on the river
 
@@ -131,7 +131,7 @@ The Arno runs through the middle of Florence and hardly anybody is on it. From t
 <div class="venue">
 <h3>Rafting and kayaking with Firenze Rafting</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Spiaggia%20sull%27Arno%2C%20Torre%20di%20San%20Niccolo%2C%20Firenze" target="_blank" rel="noopener">Spiaggia sull'Arno</a>, under Torre di San Niccolo</dd></div>
+<div><dt>Where</dt><dd><a href="https://maps.app.goo.gl/JchvViLUTS2tWiK58" target="_blank" rel="noopener">Spiaggia sull'Arno</a>, under Torre di San Niccolo</dd></div>
 <div><dt>Getting there</dt><dd>Twelve minutes on foot east of Ponte Vecchio along the south bank</dd></div>
 <div><dt>Season</dt><dd>Every day, March to November, two hours</dd></div>
 </dl>
@@ -161,7 +161,7 @@ Departure times shift with the season.
 
 The Odeon opened as a cinema in 1922 inside Palazzo dello Strozzino, under a dome of coloured glass with gilded stucco and three carved Muses. It ran for nearly a century. In November 2023 it reopened as a bookshop and cinema together, after the regular audience objected to a plan that would have dropped the films.
 
-What you get is around twenty five thousand books including English originals, a cafe with a wine window, and the old hall still screening films in their original language. During the day the upper gallery is open with seating and a screen and nobody rushes you out. This is the single best answer in central Florence to a wet afternoon, and it is on the street everybody is already walking down.
+Around twenty five thousand books including English originals, a cafe with a wine window, and the old hall still screening films in their original language. During the day the upper gallery is open with seating and a screen, and nobody rushes you out. The best indoor hour in central Florence when it rains.
 
 ## Spend one day with no plan at all
 
@@ -169,4 +169,4 @@ The most underrated thing you can do here costs nothing and requires you to put 
 
 Pick a direction, ideally south across the river or north past Sant'Ambrogio, and walk without a map, without a list and without checking whether the place you just passed has good reviews. Florence is small enough that you cannot properly get lost and dense enough that you will find something every few minutes: a courtyard with a well in it, a workshop with the door open, a church nobody has written about.
 
-This is a real recommendation rather than a nice sentiment. The city was built at walking speed and it rewards being read that way. Everything on the list above is worth doing, but the day people describe afterwards is usually the one with nothing scheduled in it.
+The city was built at walking speed and it reads best that way. Everything above is worth doing, and the day people describe afterwards is usually the one with nothing in it.
