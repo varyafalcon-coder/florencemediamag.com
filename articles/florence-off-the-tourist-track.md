@@ -12,10 +12,10 @@ toc:
     id: "go-up-erta-canina-instead"
   - label: "Fiesole, but walk back down"
     id: "fiesole-but-walk-back-down"
-  - label: "The collector's house on the hill"
-    id: "the-collectors-house-on-the-hill"
-  - label: "The park nobody sends you to"
-    id: "the-park-nobody-sends-you-to"
+  - label: "A house full of armoured knights"
+    id: "a-house-full-of-armoured-knights"
+  - label: "A hillside park with a lake"
+    id: "a-hillside-park-with-a-lake"
   - label: "Get on the river"
     id: "get-on-the-river"
   - label: "A cinema inside a Renaissance palazzo"
@@ -35,6 +35,8 @@ faq:
     a: "Get on the Arno with a raft or a kayak, walk the hill road above the Oltrarno, sit in the park at Villa il Ventaglio, or spend a day in the Giunti Odeon, which is a bookshop and cinema inside a fifteenth century palazzo."
   - q: "How far out of the centre do you need to go?"
     a: "Not far. Stibbert is fifteen minutes by bus, Villa il Ventaglio about twenty, Fiesole twenty five. Erta Canina and the Viale dei Colli start inside the city walls. Everything here is a short trip rather than a day out."
+published_on: "2026-09-01"
+updated_on: "2026-09-02"
 ---
 
 The famous parts of Florence sit inside a square roughly a kilometre and a half across, and that is where nearly everyone stays. Cross the edge of it and the city empties out within a couple of streets.
@@ -92,7 +94,7 @@ Look at the theatre, eat something in the square, then walk back down through Sa
 
 Downhill. Uphill in summer is another kind of afternoon.
 
-## The collector's house on the hill
+## A house full of armoured knights
 
 <div class="venue">
 <h3>Museo Stibbert</h3>
@@ -109,7 +111,7 @@ The room people remember is the Sala della Cavalcata: a procession of life sized
 
 The park outside is free, laid out by the same Poggi who built the Viale dei Colli, and contains a lake, grottoes and a small Egyptian temple. It is usually empty.
 
-## The park nobody sends you to
+## A hillside park with a lake
 
 <div class="venue">
 <h3>Parco di Villa il Ventaglio</h3>

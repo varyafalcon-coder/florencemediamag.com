@@ -33,6 +33,8 @@ toc:
     id: "ending-the-day-by-the-water"
   - label: "Quick answers"
     id: "quick-answers"
+published_on: "2026-08-31"
+updated_on: "2026-09-02"
 ---
 
 Florence was not laid out with children in mind, and nobody who has stood in Piazza del Duomo in July holding a hot four year old needs telling. The city's great pleasures are the ones that reward standing still and reading a label, which is not what most children have come for.

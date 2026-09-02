@@ -3,7 +3,7 @@ layout: article
 title: "What to avoid in Florence"
 permalink: /articles/what-to-avoid-in-florence/
 seo_title: "What to avoid in Florence, and what to do instead"
-seo_description: "The main squares, the long sandwich queues, the gelato that will not melt, and the leather that was made elsewhere. Where to go instead, checked in person in August 2026."
+seo_description: "Where the good version of everything sits: three streets off the main squares. Restaurants, sandwich queues and how to spot gelato that is not really gelato."
 answer: "Florence has very few scams and quite a lot of ordinary disappointment. The good version of almost everything is two or three streets away from the famous one, and it usually costs less."
 toc:
   - label: "The three street rule"
@@ -12,10 +12,8 @@ toc:
     id: "restaurants-in-the-main-squares"
   - label: "The queue for a sandwich"
     id: "the-queue-for-a-sandwich"
-  - label: "Gelato that will not melt"
-    id: "gelato-that-will-not-melt"
-  - label: "Leather that was made elsewhere"
-    id: "leather-that-was-made-elsewhere"
+  - label: "Gelato that is not really gelato"
+    id: "gelato-that-is-not-really-gelato"
   - label: "Quick answers"
     id: "quick-answers"
 faq:
@@ -28,11 +26,11 @@ faq:
   - q: "Are the famous sandwich queues worth it?"
     a: "The sandwiches are good. So are several places within three streets that have no queue. On a two day trip, forty minutes in a line is a real cost."
   - q: "How do I tell real gelato from the tourist kind?"
-    a: "Real gelato sits flat in covered metal tins and slumps. The banana is grey, the pistachio is dull khaki, and nothing is bright blue. Anything piled into glossy peaks has been stabilised to hold that shape."
-  - q: "Is the leather in Florence real?"
-    a: "Some of it is, and most of it was not made in Florence. The craft still exists in Oltrarno workshops and at the Scuola del Cuoio behind Santa Croce, where you can watch people working."
+    a: "Real gelato sits flat in covered metal tins and slumps. The banana is grey, the pistachio is dull khaki, and nothing is bright blue. Anything piled into glossy peaks has been stabilised to hold that shape in a warm room."
   - q: "Which parts of Florence should I avoid?"
     a: "None of the centre is unsafe in any ordinary sense. The streets right around Santa Maria Novella station are scruffy late at night, and the Cascine park is not a place to walk after dark. Otherwise the usual care about pickpockets in crowds is enough."
+published_on: "2026-09-01"
+updated_on: "2026-09-02"
 ---
 
 Florence is an easy city to enjoy and a slightly tricky one to eat in. Almost nothing here will cheat you outright. What happens instead is quieter: you pay more and wait longer for a weaker version of something the city does extremely well two streets away.
@@ -67,18 +65,10 @@ The sandwiches are genuinely good. The queue is the problem, not the food. Withi
 
 A queue in a city this dense tells you something about how well a place is known, not about how well it cooks.
 
-## Gelato that will not melt
+## Gelato that is not really gelato
 
-Real gelato is churned to be eaten within a day. It sits flat in covered metal tins, and it slumps.
+Real gelato is churned to be eaten within a day. It sits flat in covered metal tins and it slumps, because there is nothing in it holding the shape.
 
-The mounded, glossy, brightly coloured version has been stabilised to hold those peaks in a warm shop. Four checks take about three seconds at the door: flat in covered tins, grey banana, dull khaki pistachio, nothing bright blue.
+Four checks take about three seconds at the door. The tins are flat and covered rather than open. The banana is grey, not yellow. The pistachio is dull khaki, not mint green. Nothing is bright blue.
 
-We wrote the whole method out, with six places in Florence that pass, in [how to tell real gelato from the tourist stuff](/articles/real-gelato-in-florence/).
-
-## Leather that was made elsewhere
-
-Florence has a real leather tradition, and it is still working. There are workshops across the Oltrarno, and the Scuola del Cuoio behind Santa Croce lets you watch the cutting and stitching happen in the room.
-
-The stalls around San Lorenzo are a different trade. Quality ranges from decent to poor, most of it was made somewhere else, and the first price assumes you will not ask again.
-
-If you want a souvenir, buy wherever you like and enjoy it. If the leather itself matters, buy where the work is visible on the premises, and expect to pay what that costs. The same distinction applies to marbled paper, which is a genuine Florentine craft with a mass produced version sitting next to it on the shelf.
+Anything mounded into glossy peaks has been stabilised to hold that shape in a warm room, which is the opposite of what gelato is for. The full method, with six places in Florence that pass it, is in [how to tell real gelato from the tourist stuff](/articles/real-gelato-in-florence/).

@@ -6,12 +6,12 @@ seo_title: "What should you not miss in Florence? An honest short list"
 seo_description: "Six things in Florence that are genuinely worth the time, what to book in advance, and the famous sights that are fine to skip. Checked in person, August 2026."
 answer: "Six things: the Duomo complex from outside, David at the Accademia, the Brancacci or the Bargello depending on your taste, sunset from somewhere that is not Piazzale Michelangelo, one Oltrarno evening, and one meal that costs under fifteen euro. Everything else is negotiable."
 toc:
-  - label: "The one that is genuinely unmissable"
-    id: "the-one-that-is-genuinely-unmissable"
-  - label: "David, and why it survives the hype"
-    id: "david-and-why-it-survives-the-hype"
-  - label: "One Renaissance room, not five"
-    id: "one-renaissance-room-not-five"
+  - label: "The Duomo, and which climb to pick"
+    id: "the-duomo-and-which-climb-to-pick"
+  - label: "David at the Accademia"
+    id: "david-at-the-accademia"
+  - label: "Which single museum to choose"
+    id: "which-single-museum-to-choose"
   - label: "Where to be at sunset"
     id: "where-to-be-at-sunset"
   - label: "The Oltrarno after dark"
@@ -35,11 +35,13 @@ faq:
     a: "Not Piazzale Michelangelo, which is the busiest place in the city at that hour. San Miniato al Monte is a few minutes above it and much calmer, the Giardino delle Rose just below it is free, and Ponte Santa Trinita gives you Ponte Vecchio lit up from the water level."
   - q: "How much of this fits into two days?"
     a: "All of it, if you accept that the Uffizi is not on the list. Two days in Florence works well when you pick one big museum, not three."
+published_on: "2026-09-01"
+updated_on: "2026-09-02"
 ---
 
 Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.
 
-## The one that is genuinely unmissable
+## The Duomo, and which climb to pick
 
 The Duomo complex, and the outside of it before anything else. Santa Maria del Fiore, Giotto's campanile and the Baptistery are on the same small square, all faced in green, white and pink marble, and nothing in a photograph prepares you for the scale.
 
@@ -51,7 +53,7 @@ If you climb something, the choice matters. The dome is 463 steps in a narrow sp
 <p><strong>Book these two, decide the rest on the day.</strong> The Accademia and the dome climb both sell out in season, and the dome often days ahead. Everything else in this article can be improvised.</p>
 </div>
 
-## David, and why it survives the hype
+## David at the Accademia
 
 The Accademia is a short visit built around one object, which is exactly what you want when time is limited. David is seventeen feet of marble at the end of a corridor, and the thing photographs never convey is that Michelangelo carved it at twenty six from a block another sculptor had abandoned as ruined.
 
@@ -59,7 +61,7 @@ The corridor leading up to it holds the unfinished Prisoners, half emerged from 
 
 Forty five minutes covers it. Book a time slot and it is one of the least painful famous things in Italy.
 
-## One Renaissance room, not five
+## Which single museum to choose
 
 Florence has enough art to fill a month. On a short visit, one gallery with proper attention beats four at speed.
 

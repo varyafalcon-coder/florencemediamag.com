@@ -21,10 +21,12 @@ toc:
     id: "five-places-where-it-does-not-feel-strange"
   - label: "Where not to open a laptop"
     id: "where-not-to-open-a-laptop"
-  - label: "And you can always just ask"
-    id: "and-you-can-always-just-ask"
+  - label: "Asking is normal here"
+    id: "asking-is-normal-here"
   - label: "Quick answers"
     id: "quick-answers"
+published_on: "2026-08-18"
+updated_on: "2026-09-01"
 ---
 
 ## How long you can stay
@@ -110,13 +112,13 @@ The most obviously laptop-friendly place on the list and the least central: roug
 
 Not a rule, just what will make your life easier.
 
-**Any bar on Piazza del Duomo, Piazza della Signoria or Ponte Vecchio.** Turnover is the entire business model. You will not be thrown out, but you will feel it.
+Bars on Piazza del Duomo, Piazza della Signoria and around Ponte Vecchio run on turnover. Nobody will throw you out, and you will feel it anyway.
 
-**A trattoria at lunch.** These are restaurants with limited covers, and a laptop on a set table during service is genuinely inconvenient for them.
+A trattoria at lunch is a restaurant with limited covers, and a laptop on a set table during service makes the room harder to run.
 
-**A standing-only bar with three stools.** If there is no table, there is no seat for your laptop either.
+A standing bar with three stools has nowhere to put a laptop, which answers the question by itself.
 
-## And you can always just ask
+## Asking is normal here
 
 > "Posso lavorare qui un po'?"
 

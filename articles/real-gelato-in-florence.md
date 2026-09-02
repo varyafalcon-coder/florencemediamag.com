@@ -25,17 +25,19 @@ toc:
     id: "one-last-thing"
   - label: "Quick answers"
     id: "quick-answers"
+published_on: "2026-08-12"
+updated_on: "2026-09-01"
 ---
 
 ## Four rules, and they take three seconds each
 
-**Look at the containers.** Real gelato is stored in covered metal tins, called pozzetti, or in flat trays under a lid. Gelato piled into peaks in an open display has been stabilised with vegetable fat and emulsifiers so it holds that shape under lights. The peaks are marketing, and you pay for them in texture.
+Start with the containers. Real gelato is stored in covered metal tins, called pozzetti, or in flat trays under a lid. Gelato piled into peaks in an open display has been stabilised with vegetable fat and emulsifiers so it holds that shape under lights. The peaks are marketing, and you pay for them in texture.
 
-**Look at the banana.** Banana oxidises and turns grey, in a tub exactly as it does on a plate. If it is bright yellow, it is coloured.
+Then the banana. It oxidises and turns grey in a tub exactly as it does on a plate. If it is bright yellow, it is coloured.
 
-**Look at the pistachio.** Real pistachio is a dull khaki brown-green. Bright mint green is dye. The same test works on mint: made with leaves, it comes out off-white, not toothpaste blue.
+Then the pistachio, which is a dull khaki brown-green when it is real. Bright mint green is dye. The same test works on mint: made with leaves, it comes out off-white, not toothpaste blue.
 
-**And if anything is blue, walk away.**
+And if anything in the case is blue, keep walking.
 
 > There is no blue food. A bright blue tub is pure colouring, and it is never there alone. One blue tub tells you this is a place where nobody is thinking about what goes into the thing, and every other flavour in the counter was made by the same people with the same priorities.
 

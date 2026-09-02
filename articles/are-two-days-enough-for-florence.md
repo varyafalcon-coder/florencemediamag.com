@@ -6,14 +6,14 @@ seo_title: "Are 2 days enough for Florence? Yes, with one rule"
 seo_description: "Two days in Florence works well with one booked museum per day. A plan that fits, what to book before you arrive, and what changes if one of your days is a Monday."
 answer: "Yes. The historic centre is about a kilometre and a half across, so two days of walking covers the city comfortably. The one rule that makes it work is a single booked museum per day."
 toc:
-  - label: "Why the size of the city decides this"
-    id: "why-the-size-of-the-city-decides-this"
+  - label: "Why two days works in Florence"
+    id: "why-two-days-works-in-florence"
   - label: "Day one"
     id: "day-one"
   - label: "Day two"
     id: "day-two"
-  - label: "Book these three things"
-    id: "book-these-three-things"
+  - label: "What to book before you arrive"
+    id: "what-to-book-before-you-arrive"
   - label: "If one of your days is a Monday"
     id: "if-one-of-your-days-is-a-monday"
   - label: "Quick answers"
@@ -31,6 +31,8 @@ faq:
     a: "The two big variables are museum tickets and where you eat. Booked entry to the Accademia or the Uffizi and one climb come to a few tens of euro per person. Lunch standing up costs under ten and lunch sitting on a main square can cost four times that."
   - q: "Is two days in Florence enough in summer?"
     a: "It is the same two days, planned around the heat rather than the sights. In July and August the middle of the day is hard work outdoors, so the walking goes early and late and the indoor part goes in the afternoon."
+published_on: "2026-09-01"
+updated_on: "2026-09-02"
 ---
 
 Florence's historic centre is about a kilometre and a half across. You can walk from the station to Ponte Vecchio in fifteen minutes and from the Duomo to Santa Croce in ten. There is no metro because nothing is far enough away to need one.
@@ -43,7 +45,7 @@ What Florence has instead of distance is depth: seventy-odd museums, most of the
 <p><strong>One booked museum per day.</strong> Under that limit, two days in Florence feels generous. Over it, the second museum gets rushed and the third is barely remembered. It is the same two days either way.</p>
 </div>
 
-## Why the size of the city decides this
+## Why two days works in Florence
 
 In Rome or Paris a short visit is a logistics problem: an hour a day disappears into transport. Here it does not. You will walk everywhere, and the walking is the good part, because the city was built at that speed and reveals itself accordingly.
 
@@ -73,7 +75,7 @@ If it is hot, swap the climb for two hours on the Arno. The boats leave from the
 
 Evening: Ponte Santa Trinita at dusk, for Ponte Vecchio lit up over the water, then dinner wherever you have ended up.
 
-## Book these three things
+## What to book before you arrive
 
 The Accademia and the Uffizi both use timed entry, and the dome climb sells out several days ahead in summer.
 

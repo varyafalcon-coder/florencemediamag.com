@@ -5,7 +5,7 @@ layout: default
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <a href="{{ '/articles/' | relative_url }}">Articles</a> / <span>{{ page.title }}</span></nav>
   <h1>{{ page.title }}</h1>
   {% if page.answer %}<p class="answer">{{ page.answer }}</p>{% endif %}
-  <p class="byline">Checked in August 2026 &middot; Florence Media</p>
+  <p class="byline">By Florence Media &middot; Updated {{ page.updated_on | default: "2026-09-02" | date: "%-d %B %Y" }}</p>
   {% if page.toc %}
   <nav class="toc" aria-label="In this article">
     <p class="toc-label">In this article</p>
@@ -25,6 +25,6 @@ layout: default
   </div>
   {% endif %}
   <aside class="note">
-    <p><strong>Checked in August 2026.</strong> Every place in this article was visited in person. Hours and prices change. If you find something out of date, <a href="mailto:florencemediamag@gmail.com">tell us</a> and we correct it with a dated note.</p>
+    <p><strong>Checked in person, {{ page.updated_on | default: "2026-09-02" | date: "%B %Y" }}.</strong> Every place in this article was visited by us. Hours and prices change. If you find something out of date, <a href="mailto:florencemediamag@gmail.com">tell us</a> and we correct it with a dated note.</p>
   </aside>
 </article>

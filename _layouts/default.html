@@ -33,6 +33,21 @@
 </script>
 {% endif %}
 {% if page.faq %}
+{% if page.layout == "article" %}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"Article",
+  "headline":{{ page.title | jsonify }},
+  "description":{{ page.seo_description | default: page.answer | jsonify }},
+  "mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url | absolute_url }}"},
+  "datePublished":"{{ page.published_on | default: '2026-08-01' }}",
+  "dateModified":"{{ page.updated_on | default: page.published_on | default: '2026-08-31' }}",
+  "author":{"@type":"Organization","name":"Florence Media","url":"{{ site.url }}"},
+  "publisher":{"@type":"Organization","name":"Florence Media","url":"{{ site.url }}"},
+  "isAccessibleForFree":true
+}
+</script>
+{% endif %}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
 {% for q in page.faq %}{"@type":"Question","name":{{ q.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ q.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}
