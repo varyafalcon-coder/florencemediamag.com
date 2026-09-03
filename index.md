@@ -29,6 +29,15 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   </div>
   {% endfor %}
 
+  <div class="group">
+    <p class="axis">Price</p>
+    <div class="pills">
+      <button class="pill price" type="button" data-price="€" aria-pressed="false">€ cheap</button>
+      <button class="pill price" type="button" data-price="€€" aria-pressed="false">€€ mid</button>
+      <button class="pill price" type="button" data-price="€€€" aria-pressed="false">€€€ splash out</button>
+    </div>
+  </div>
+
   <p class="hint">Pick more than one to narrow it down.</p>
 </div>
 

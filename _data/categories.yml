@@ -15,6 +15,9 @@ primary:
   - name: "night heart of the city"
     emoji: "🌙"
     slug: "night-heart-of-the-city"
+  - name: "aperitivo"
+    emoji: "🍸"
+    slug: "aperitivo"
 groups:
   - label: "More to eat and drink"
     items:

@@ -296,3 +296,13 @@ body.allpills .filters .group{display:block}
 @media (hover:hover) and (pointer:fine){.guidecard:hover{transform:translateX(2px)}}
 .guidecard-kicker{font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft)}
 .guidecard-title{font-size:17px;line-height:1.35;letter-spacing:-.015em}
+
+/* price tier */
+.pricetag{margin-left:6px;font-weight:400;color:var(--ink-soft);letter-spacing:.02em}
+.pill.price{font-variant-numeric:tabular-nums}
+
+/* map page */
+.mapwrap{position:relative;margin-top:clamp(24px,3vw,34px);
+  aspect-ratio:4/3;max-height:78vh;background:var(--card)}
+.mapwrap iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+@media (max-width:640px){.mapwrap{aspect-ratio:3/4}}

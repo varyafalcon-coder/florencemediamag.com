@@ -8,6 +8,8 @@
   var guideEl = document.getElementById('guidelink');
   var seeall = document.getElementById('seeall');
   var active = [];
+  var pricePills = document.querySelectorAll('.pill.price');
+  var activePrice = null;
 
   function slugify(s){
     return s.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/[-\s]+/g,'-');
@@ -17,12 +19,15 @@
     cards.forEach(function(c){
       var tags = c.getAttribute('data-cats').split('|');
       var show = active.every(function(t){ return tags.indexOf(t) > -1; });
+      if(show && activePrice){ show = c.getAttribute('data-price') === activePrice; }
       c.style.display = show ? '' : 'none';
       if(show) n++;
     });
-    titleEl.textContent = active.length ? active.join(' + ') : 'Everything in Florence';
+    var label = active.length ? active.join(' + ') : 'Everything in Florence';
+    if(activePrice){ label += ' · ' + activePrice; }
+    titleEl.textContent = label;
     countEl.textContent = n + (n === 1 ? ' place' : ' places');
-    clearBtn.hidden = active.length === 0;
+    clearBtn.hidden = active.length === 0 && !activePrice;
     emptyEl.hidden = n !== 0;
     if(active.length === 1){
       guideEl.hidden = false;
@@ -55,3 +60,14 @@
     seeall.textContent = open ? 'show fewer' : 'see all 16';
   });
 })();
+
+  pricePills.forEach(function(p){
+    p.addEventListener('click', function(){
+      var v = p.getAttribute('data-price');
+      activePrice = (activePrice === v) ? null : v;
+      pricePills.forEach(function(o){
+        o.setAttribute('aria-pressed', String(o.getAttribute('data-price') === activePrice));
+      });
+      apply();
+    });
+  });
