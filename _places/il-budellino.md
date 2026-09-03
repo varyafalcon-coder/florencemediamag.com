@@ -5,6 +5,7 @@ answer: "A tiny wine counter in the Oltrarno where the aperitivo happens on the 
 area: "Oltrarno"
 verified: "August 2026"
 price: "€"
+maps_q: "Il Budellino, Firenze"
 categories:
   - "aperitivo"
   - "drink wine somewhere real"

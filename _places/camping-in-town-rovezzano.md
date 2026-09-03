@@ -5,6 +5,7 @@ answer: "A campsite pool on the eastern edge of the city that sells day entry to
 area: "Outside the centre"
 verified: "August 2026"
 price: "€€"
+maps_q: "Camping in Town, Rovezzano, Firenze"
 categories:
   - "pools in the city"
 ---

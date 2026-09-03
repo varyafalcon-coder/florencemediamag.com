@@ -5,6 +5,7 @@ answer: "A hillside park northeast of the centre with a lake, a neoclassical vil
 area: "Campo di Marte"
 verified: "August 2026"
 address: "Via Aldini 12"
+maps_q: "Parco di Villa il Ventaglio, Firenze"
 categories:
   - "hide from the crowd"
   - "enjoy the view"

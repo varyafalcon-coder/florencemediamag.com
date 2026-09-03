@@ -5,6 +5,7 @@ answer: "A tree lined boulevard along the hills of the south bank, laid out in t
 area: "Oltrarno"
 verified: "August 2026"
 view_rank: 7
+maps_q: "Viale dei Colli, Firenze"
 categories:
   - "enjoy the view"
   - "hide from the crowd"

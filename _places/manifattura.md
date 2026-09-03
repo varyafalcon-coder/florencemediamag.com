@@ -5,6 +5,7 @@ answer: "A cocktail bar on Piazza San Pancrazio built entirely on Italian spirit
 area: "Santa Maria Novella"
 verified: "August 2026"
 price: "€€"
+maps_q: "Manifattura, Piazza San Pancrazio, Firenze"
 categories:
   - "aperitivo"
   - "night heart of the city"

@@ -5,6 +5,7 @@ answer: "A waterfall in the Apennines north east of Florence that Dante put in t
 area: "Outside the centre"
 verified: "August 2026"
 price: "€€"
+maps_q: "Cascata dell'Acquacheta, Marradi"
 categories:
   - "a bit out of the city"
 ---

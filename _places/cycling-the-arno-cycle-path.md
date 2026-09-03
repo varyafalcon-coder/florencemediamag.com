@@ -4,6 +4,7 @@ title: "Cycling the Arno cycle path"
 answer: "A riverside route heading east out of the city, away from traffic and away from anything that features in a guidebook."
 area: "Outside the centre"
 verified: "August 2026"
+maps_q: "Ciclopista dell'Arno, Firenze"
 categories:
   - "by the river"
   - "do some outdoor activities"

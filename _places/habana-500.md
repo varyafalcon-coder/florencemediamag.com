@@ -5,6 +5,7 @@ answer: "A Cuban bar on the river with loungers, a dance floor and a volleyball 
 area: "Lungarno"
 verified: "August 2026"
 price: "€€"
+maps_q: "Habana 500, Lungarno Pecori Giraldi, Firenze"
 categories:
   - "by the river"
   - "night heart of the city"

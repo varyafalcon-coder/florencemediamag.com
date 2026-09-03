@@ -5,6 +5,7 @@ answer: "An adventure park a few metres from the Arno, with rope courses, ziplin
 area: "Lungarno"
 verified: "August 2026"
 price: "€€"
+maps_q: "Tree Experience, Lungarno Pecori Giraldi, Firenze"
 categories:
   - "to do with kids"
   - "by the river"

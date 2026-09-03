@@ -4,6 +4,7 @@ title: "Giardino dell'Orticoltura"
 answer: "A neighbourhood garden north of the centre with an 1880 glasshouse, a playground, and a stone dragon on a staircase five minutes uphill."
 area: "Rifredi"
 verified: "August 2026"
+maps_q: "Giardino dell'Orticoltura, Firenze"
 categories:
   - "to do with kids"
   - "hide from the crowd"

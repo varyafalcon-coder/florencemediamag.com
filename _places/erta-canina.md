@@ -5,6 +5,7 @@ answer: "A steep walled lane climbing out of San Niccolo through olive terraces,
 area: "San Niccolo"
 verified: "August 2026"
 view_rank: 5
+maps_q: "Via dell'Erta Canina, Firenze"
 categories:
   - "enjoy the view"
   - "hide from the crowd"

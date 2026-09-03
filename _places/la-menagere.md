@@ -6,6 +6,7 @@ area: "San Lorenzo"
 verified: "August 2026"
 address: "Via de' Ginori 8r"
 price: "€€"
+maps_q: "La Menagere, Via de' Ginori, Firenze"
 categories:
   - "nice cute places to eat at"
   - "night heart of the city"

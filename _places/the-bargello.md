@@ -5,6 +5,7 @@ answer: "A medieval fortress and prison holding Donatello's David, Michelangelo'
 area: "Centro"
 verified: "August 2026"
 price: "€€"
+maps_q: "Museo Nazionale del Bargello, Firenze"
 categories:
   - "see art without queueing"
 ---

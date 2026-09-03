@@ -5,6 +5,7 @@ answer: "The only place in Florence where you can run for an hour without stoppi
 area: "Cascine"
 verified: "August 2026"
 price: "€€"
+maps_q: "Parco delle Cascine, Firenze"
 categories:
   - "do some outdoor activities"
 ---

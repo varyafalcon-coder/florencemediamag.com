@@ -4,6 +4,7 @@ title: "Piazza d'Azeglio"
 answer: "A square of plane trees fifteen minutes east of the Duomo with a fenced playground in the middle and a bar on the corner."
 area: "Santa Croce"
 verified: "August 2026"
+maps_q: "Piazza Massimo d'Azeglio, Firenze"
 categories:
   - "to do with kids"
   - "hide from the crowd"

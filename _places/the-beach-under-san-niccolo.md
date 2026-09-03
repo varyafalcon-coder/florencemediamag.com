@@ -4,6 +4,7 @@ title: "The beach under San Niccolo"
 answer: "Every summer a stretch of gravel on the south bank turns into a bar with deck chairs, a screen and a view straight up the river at the bridges. Free to walk in."
 area: "San Niccolo"
 verified: "August 2026"
+maps_q: "Spiaggia sull'Arno, Torre di San Niccolo, Firenze"
 categories:
   - "by the river"
 ---

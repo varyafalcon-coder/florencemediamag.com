@@ -7,6 +7,7 @@ verified: "August 2026"
 pin: 2
 maps: "https://maps.app.goo.gl/JchvViLUTS2tWiK58"
 price: "€"
+maps_q: "Spiaggia sull'Arno, Torre di San Niccolo, Firenze"
 categories:
   - "by the river"
   - "enjoy the view"

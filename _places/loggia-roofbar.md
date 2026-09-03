@@ -5,6 +5,7 @@ answer: "A rooftop bar on the loggia of a palazzo in the centre, open in the war
 area: "Duomo"
 verified: "August 2026"
 price: "€€€"
+maps_q: "Loggia Roofbar, Firenze"
 categories:
   - "aperitivo"
   - "enjoy the view"

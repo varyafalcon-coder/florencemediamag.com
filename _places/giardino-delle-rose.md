@@ -5,6 +5,7 @@ answer: "The same panorama as Piazzale Michelangelo, one terrace lower and with 
 area: "San Niccolo"
 verified: "August 2026"
 view_rank: 2
+maps_q: "Giardino delle Rose, Firenze"
 categories:
   - "hide from the crowd"
   - "enjoy the view"

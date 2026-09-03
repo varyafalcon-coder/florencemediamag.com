@@ -5,6 +5,7 @@ answer: "A rooftop terrace above Piazza della Repubblica with cocktails, a DJ la
 area: "Duomo"
 verified: "August 2026"
 price: "€€€"
+maps_q: "Angel Roofbar, Firenze"
 categories:
   - "aperitivo"
   - "enjoy the view"

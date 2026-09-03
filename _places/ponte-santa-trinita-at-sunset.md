@@ -4,6 +4,7 @@ title: "Ponte Santa Trinita at sunset"
 answer: "The bridge everyone stands on to photograph Ponte Vecchio, which means it is also the bridge with the better view."
 area: "Centro"
 verified: "August 2026"
+maps_q: "Ponte Santa Trinita, Firenze"
 categories:
   - "by the river"
 ---
