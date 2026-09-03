@@ -298,7 +298,9 @@ body.allpills .filters .group{display:block}
 .guidecard-title{font-size:17px;line-height:1.35;letter-spacing:-.015em}
 
 /* price tier */
-.pricetag{margin-left:6px;font-weight:400;color:var(--ink-soft);letter-spacing:.02em}
+.pricetag{margin-left:8px;font-weight:400;font-size:.72em;color:var(--ink-soft);
+  letter-spacing:.04em;vertical-align:2px;white-space:nowrap}
+.card h3{display:flex;align-items:baseline;flex-wrap:wrap;gap:0}
 .pill.price{font-variant-numeric:tabular-nums}
 
 /* map page */

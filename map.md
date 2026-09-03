@@ -8,14 +8,19 @@ seo_description: "Every place on Florence Media on one map, sorted by what you w
 
 Every place on this site on one map. Each one was visited in person and carries the month it was last checked.
 
+{% if site.map_id and site.map_id != "" %}
 <div class="mapwrap">
-  <!-- REPLACE THE src BELOW with the embed link from your Google My Map -->
   <iframe
-    src="https://www.google.com/maps/d/embed?mid=PASTE_YOUR_MAP_ID_HERE"
+    src="https://www.google.com/maps/d/embed?mid={{ site.map_id }}&ehbc=2E2E2E"
     title="Map of every place in Florence Media"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
     allowfullscreen></iframe>
 </div>
 
-The map is grouped by category. Open any pin to get the address and a link to the full entry.
+The map is grouped by category. Open any pin for the address and a link to the full entry.
+{% else %}
+<div class="callout">
+<p><strong>The map is being built.</strong> In the meantime, every place is on the <a href="/">main list</a>, filterable by what you want to do and by price, and each entry links straight to Google Maps.</p>
+</div>
+{% endif %}

@@ -2,10 +2,10 @@
 {%- if p.maps -%}{%- assign mapurl = p.maps -%}
 {%- else -%}{%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ p.title | append: ', Firenze, Italy' | url_encode }}{%- endcapture -%}{%- endif -%}
 <article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}">
-  <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+  <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</h3>
   <p>{{ p.answer }}</p>
   <dl class="facts">
-    <div><dt>Area</dt><dd>{{ p.area }}{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</dd></div>
+    <div><dt>Area</dt><dd>{{ p.area }}</dd></div>
     {% if p.verified != "" %}<div><dt>Verified</dt><dd>{{ p.verified }}</dd></div>{% endif %}
   </dl>
   <a class="maplink" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>

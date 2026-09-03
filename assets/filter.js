@@ -59,7 +59,6 @@
     seeall.setAttribute('aria-expanded', String(open));
     seeall.textContent = open ? 'show fewer' : 'see all 16';
   });
-})();
 
   pricePills.forEach(function(p){
     p.addEventListener('click', function(){
@@ -71,3 +70,4 @@
       apply();
     });
   });
+})();

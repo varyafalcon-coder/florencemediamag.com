@@ -11,6 +11,7 @@ layout: default
     {% if page.address %}<div><dt>Address</dt><dd><a href="https://www.google.com/maps/search/?api=1&query={{ page.address | append: ', Florence, Italy' | url_encode }}" target="_blank" rel="noopener">{{ page.address }}</a></dd></div>{% endif %}
     {% if page.hours %}<div><dt>Hours</dt><dd>{{ page.hours }}</dd></div>{% endif %}
     {% if page.verified != "" %}<div><dt>Checked</dt><dd>{{ page.verified }}</dd></div>{% endif %}
+    {% if page.price %}<div><dt>Price</dt><dd>{{ page.price }}</dd></div>{% endif %}
   </dl>
 
   <div class="body">{{ content }}</div>
