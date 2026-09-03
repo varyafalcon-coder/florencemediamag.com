@@ -1,0 +1,11 @@
+{%- assign p = include.place -%}
+{%- if p.maps_q -%}{%- assign q = p.maps_q -%}
+{%- elsif p.address -%}{%- assign q = p.address | append: ', Firenze, Italy' -%}
+{%- else -%}{%- assign q = p.title | append: ', Firenze, Italy' -%}{%- endif -%}
+<li class="mapitem" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}" data-q="{{ q }}">
+  <button class="mapitem-pick" type="button">
+    <span class="mapitem-name">{{ p.title }}{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</span>
+    <span class="mapitem-area">{{ p.area }}</span>
+  </button>
+  <a class="mapitem-more" href="{{ p.url | relative_url }}">Read</a>
+</li>

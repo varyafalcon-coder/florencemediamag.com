@@ -1,6 +1,11 @@
 {%- assign p = include.place -%}
 {%- if p.maps -%}{%- assign mapurl = p.maps -%}
-{%- else -%}{%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ p.title | append: ', Firenze, Italy' | url_encode }}{%- endcapture -%}{%- endif -%}
+{%- else -%}
+{%- if p.maps_q -%}{%- assign mq = p.maps_q -%}
+{%- elsif p.address -%}{%- assign mq = p.address | append: ', Firenze, Italy' -%}
+{%- else -%}{%- assign mq = p.title | append: ', Firenze, Italy' -%}{%- endif -%}
+{%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ mq | url_encode }}{%- endcapture -%}
+{%- endif -%}
 <article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}">
   <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</h3>
   <p>{{ p.answer }}</p>

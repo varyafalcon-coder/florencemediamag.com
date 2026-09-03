@@ -3,24 +3,96 @@ layout: page
 title: Map
 permalink: /map/
 seo_title: "Map of every place in Florence Media"
-seo_description: "Every place on Florence Media on one map, sorted by what you want to do. Each one visited in person and dated."
+seo_description: "Every place on Florence Media on one map. Filter by what you want to do and by price, then open any place to see exactly where it is."
 ---
 
-Every place on this site on one map. Each one was visited in person and carries the month it was last checked.
+Every place on this site, on one map. Filter the list, pick a place, and the map moves to it.
 
-{% if site.map_id and site.map_id != "" %}
-<div class="mapwrap">
-  <iframe
-    src="https://www.google.com/maps/d/embed?mid={{ site.map_id }}&ehbc=2E2E2E"
-    title="Map of every place in Florence Media"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen></iframe>
+<div class="mapfilters">
+  <button class="mchip is-on" type="button" data-mtag="all">everything</button>
+  {% for c in site.data.categories.primary %}
+  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
+  {% endfor %}
+  {% for g in site.data.categories.groups %}{% for c in g.items %}
+  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
+  {% endfor %}{% endfor %}
+  <span class="mchip-sep" aria-hidden="true"></span>
+  <button class="mchip" type="button" data-mprice="€">€</button>
+  <button class="mchip" type="button" data-mprice="€€">€€</button>
+  <button class="mchip" type="button" data-mprice="€€€">€€€</button>
 </div>
 
-The map is grouped by category. Open any pin for the address and a link to the full entry.
-{% else %}
-<div class="callout">
-<p><strong>The map is being built.</strong> In the meantime, every place is on the <a href="/">main list</a>, filterable by what you want to do and by price, and each entry links straight to Google Maps.</p>
+<div class="maplayout">
+  <div class="maplist" id="maplist">
+    <p class="mapcount" id="mapcount"></p>
+    <ul>
+    {% assign pinned = site.places | where_exp: "p", "p.pin" | sort: "pin" %}
+    {% assign rest = site.places | where_exp: "p", "p.pin == nil" %}
+    {% for p in pinned %}{% include map-item.html place=p %}{% endfor %}
+    {% for p in rest %}{% include map-item.html place=p %}{% endfor %}
+    </ul>
+    <p class="mapempty" id="mapempty" hidden>Nothing matches those filters together. Remove one.</p>
+  </div>
+
+  <div class="mapframe">
+    <iframe id="mapiframe" title="Map of Florence" loading="lazy"
+      src="https://maps.google.com/maps?q=Firenze%2C%20Italy&z=13&output=embed"></iframe>
+  </div>
 </div>
-{% endif %}
+
+<script>
+(function(){
+  var items  = Array.prototype.slice.call(document.querySelectorAll('.mapitem'));
+  var chips  = Array.prototype.slice.call(document.querySelectorAll('.mchip'));
+  var frame  = document.getElementById('mapiframe');
+  var countEl= document.getElementById('mapcount');
+  var emptyEl= document.getElementById('mapempty');
+  var tag = null, price = null, current = null;
+
+  function apply(){
+    var n = 0;
+    items.forEach(function(li){
+      var cats = li.getAttribute('data-cats').split('|');
+      var ok = (!tag || cats.indexOf(tag) > -1) && (!price || li.getAttribute('data-price') === price);
+      li.hidden = !ok;
+      if(ok) n++;
+    });
+    countEl.textContent = n + (n === 1 ? ' place' : ' places');
+    emptyEl.hidden = n !== 0;
+  }
+
+  chips.forEach(function(ch){
+    ch.addEventListener('click', function(){
+      if(ch.hasAttribute('data-mprice')){
+        var v = ch.getAttribute('data-mprice');
+        price = (price === v) ? null : v;
+      } else {
+        var t = ch.getAttribute('data-mtag');
+        tag = (t === 'all' || tag === t) ? null : t;
+      }
+      chips.forEach(function(o){
+        var on = o.hasAttribute('data-mprice')
+          ? o.getAttribute('data-mprice') === price
+          : (o.getAttribute('data-mtag') === 'all' ? !tag : o.getAttribute('data-mtag') === tag);
+        o.classList.toggle('is-on', !!on);
+      });
+      apply();
+    });
+  });
+
+  items.forEach(function(li){
+    li.querySelector('.mapitem-pick').addEventListener('click', function(){
+      if(current) current.classList.remove('is-active');
+      li.classList.add('is-active');
+      current = li;
+      frame.src = 'https://maps.google.com/maps?q=' +
+        encodeURIComponent(li.getAttribute('data-q')) + '&z=17&output=embed';
+      if(window.matchMedia('(max-width: 900px)').matches){
+        document.querySelector('.mapframe').scrollIntoView({behavior:'smooth', block:'center'});
+      }
+    });
+  });
+
+  apply();
+})();
+</script>
