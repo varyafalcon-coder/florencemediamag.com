@@ -10,6 +10,9 @@ author: Florence Media
 email: florencemediamag@gmail.com
 lang: en
 
+# Google My Maps: the mid= value from the embed code
+map_id: "1eQb6meIhGkey7u7rOjddwi3BpaN8Q48"
+
 
 collections:
   places:

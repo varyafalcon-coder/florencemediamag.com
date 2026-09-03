@@ -132,7 +132,7 @@ The Arno runs through the middle of Florence and hardly anybody uses it, which s
 <div class="venue">
 <h3>Rafting and kayaking with Firenze Rafting</h3>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://maps.app.goo.gl/JchvViLUTS2tWiK58" target="_blank" rel="noopener">Spiaggia sull'Arno, under Torre di San Niccolo</a></dd></div>
+<div><dt>Where</dt><dd><a href="https://share.google/5t4USyFStBz823NL1" target="_blank" rel="noopener">Spiaggia sull'Arno, under Torre di San Niccolo</a></dd></div>
 <div><dt>Ages</dt><dd>From four, and calmer than it sounds</dd></div>
 <div><dt>Season</dt><dd>Every day, March to November</dd></div>
 </dl>

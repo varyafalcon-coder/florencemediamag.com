@@ -6,7 +6,7 @@ seo_title: "Map of every place in Florence Media"
 seo_description: "Every place on Florence Media on one map. Filter by what you want to do and by price, then open any place to see exactly where it is."
 ---
 
-Every place on this site, on one map. Filter the list, pick a place, and the map moves to it.
+Every place on this site, on one map. Filter the list, then pick a place to move the map to it.
 
 <div class="mapfilters">
   <button class="mchip is-on" type="button" data-mtag="all">everything</button>
@@ -35,19 +35,41 @@ Every place on this site, on one map. Filter the list, pick a place, and the map
   </div>
 
   <div class="mapframe">
+    <div class="mapbar">
+      <span class="mapbar-label" id="mapbarlabel">All places</span>
+      {% if site.map_id and site.map_id != "" %}<button class="mapbar-all" type="button" id="mapall">Show all pins</button>{% endif %}
+    </div>
     <iframe id="mapiframe" title="Map of Florence" loading="lazy"
-      src="https://maps.google.com/maps?q=Firenze%2C%20Italy&z=13&output=embed"></iframe>
+      src="{% if site.map_id and site.map_id != '' %}https://www.google.com/maps/d/embed?mid={{ site.map_id }}{% else %}https://maps.google.com/maps?q=Firenze%2C%20Italy&z=13&output=embed{% endif %}"></iframe>
   </div>
 </div>
 
 <script>
 (function(){
-  var items  = Array.prototype.slice.call(document.querySelectorAll('.mapitem'));
-  var chips  = Array.prototype.slice.call(document.querySelectorAll('.mchip'));
-  var frame  = document.getElementById('mapiframe');
-  var countEl= document.getElementById('mapcount');
-  var emptyEl= document.getElementById('mapempty');
+  var items   = Array.prototype.slice.call(document.querySelectorAll('.mapitem'));
+  var chips   = Array.prototype.slice.call(document.querySelectorAll('.mchip'));
+  var frame   = document.getElementById('mapiframe');
+  var countEl = document.getElementById('mapcount');
+  var emptyEl = document.getElementById('mapempty');
+  var labelEl = document.getElementById('mapbarlabel');
+  var allBtn  = document.getElementById('mapall');
+  var overview = frame.getAttribute('src');
   var tag = null, price = null, current = null;
+
+  function showAll(){
+    if(current) current.classList.remove('is-active');
+    current = null;
+    labelEl.textContent = 'All places';
+    frame.src = overview;
+  }
+  function show(li){
+    if(current) current.classList.remove('is-active');
+    li.classList.add('is-active');
+    current = li;
+    labelEl.textContent = li.getAttribute('data-name');
+    frame.src = 'https://maps.google.com/maps?q=' +
+      encodeURIComponent(li.getAttribute('data-q')) + '&z=17&output=embed';
+  }
 
   function apply(){
     var n = 0;
@@ -59,6 +81,7 @@ Every place on this site, on one map. Filter the list, pick a place, and the map
     });
     countEl.textContent = n + (n === 1 ? ' place' : ' places');
     emptyEl.hidden = n !== 0;
+    if(current && current.hidden) showAll();
   }
 
   chips.forEach(function(ch){
@@ -82,16 +105,14 @@ Every place on this site, on one map. Filter the list, pick a place, and the map
 
   items.forEach(function(li){
     li.querySelector('.mapitem-pick').addEventListener('click', function(){
-      if(current) current.classList.remove('is-active');
-      li.classList.add('is-active');
-      current = li;
-      frame.src = 'https://maps.google.com/maps?q=' +
-        encodeURIComponent(li.getAttribute('data-q')) + '&z=17&output=embed';
+      show(li);
       if(window.matchMedia('(max-width: 900px)').matches){
         document.querySelector('.mapframe').scrollIntoView({behavior:'smooth', block:'center'});
       }
     });
   });
+
+  if(allBtn) allBtn.addEventListener('click', showAll);
 
   apply();
 })();
