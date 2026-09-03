@@ -4,6 +4,7 @@ title: "Le Volpi e l'Uva"
 answer: "A tiny wine bar on a hidden square two minutes from Ponte Vecchio, pouring small producers almost nobody else in the centre stocks."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€€"
 categories:
   - "drink wine somewhere real"
 ---

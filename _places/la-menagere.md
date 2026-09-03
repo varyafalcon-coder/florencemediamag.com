@@ -5,6 +5,7 @@ answer: "A nineteenth century housewares shop turned flower shop, restaurant and
 area: "San Lorenzo"
 verified: "August 2026"
 address: "Via de' Ginori 8r"
+price: "€€"
 categories:
   - "nice cute places to eat at"
   - "night heart of the city"

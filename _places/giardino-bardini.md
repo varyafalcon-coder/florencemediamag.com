@@ -5,6 +5,7 @@ answer: "A terraced hillside garden in the Oltrarno with a belvedere that frames
 area: "San Niccolo"
 verified: "August 2026"
 view_rank: 4
+price: "€€"
 categories:
   - "hide from the crowd"
   - "enjoy the view"

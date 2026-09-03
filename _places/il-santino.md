@@ -4,7 +4,9 @@ title: "Il Santino"
 answer: "A wine bar on Via di Santo Spirito with almost no seats, where in summer most of the room ends up standing on the pavement outside."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€"
 categories:
+  - "aperitivo"
   - "night heart of the city"
   - "drink wine somewhere real"
 ---

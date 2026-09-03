@@ -4,6 +4,7 @@ title: "Habana 500"
 answer: "A Cuban bar on the river with loungers, a dance floor and a volleyball court, open through the summer and busiest after dark."
 area: "Lungarno"
 verified: "August 2026"
+price: "€€"
 categories:
   - "by the river"
   - "night heart of the city"

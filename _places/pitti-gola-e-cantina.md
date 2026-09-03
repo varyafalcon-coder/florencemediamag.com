@@ -4,6 +4,7 @@ title: "Pitti Gola e Cantina"
 answer: "A small wine bar facing Palazzo Pitti, run by people who will talk you through a bottle properly, with a list weighted to natural and small production wines."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€€"
 categories:
   - "drink wine somewhere real"
 ---

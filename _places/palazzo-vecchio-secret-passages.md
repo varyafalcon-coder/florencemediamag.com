@@ -5,6 +5,7 @@ answer: "A guided route through the staircases and hidden rooms the Medici used 
 area: "Duomo"
 verified: "August 2026"
 address: "Piazza della Signoria"
+price: "€€"
 categories:
   - "to do with kids"
   - "see art without queueing"

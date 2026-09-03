@@ -5,6 +5,7 @@ answer: "Globes, telescopes, early clocks and a great deal of brass, in a small 
 area: "Santa Croce"
 verified: "August 2026"
 address: "Piazza dei Giudici 1"
+price: "€€"
 categories:
   - "to do with kids"
   - "see art without queueing"

@@ -4,6 +4,7 @@ title: "Le Pavoniere"
 answer: "An outdoor pool inside the Cascine park, under old trees, with a nineteenth century villa beside it and a bar at the water. Summer only."
 area: "Cascine"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pools in the city"
 ---

@@ -4,6 +4,7 @@ title: "I Tre Pini"
 answer: "A restored farmhouse on the old Chianti wine road above Pozzolatico, once a coaching inn, now a restaurant with a view back over the hills."
 area: "Impruneta"
 verified: "August 2026"
+price: "€€"
 categories:
   - "a bit out of the city"
 ---

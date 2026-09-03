@@ -4,6 +4,7 @@ title: "Tree Experience Lungarno"
 answer: "An adventure park a few metres from the Arno, with rope courses, ziplines, suspended nets and jumping pillows, right in the middle of the city."
 area: "Lungarno"
 verified: "August 2026"
+price: "€€"
 categories:
   - "to do with kids"
   - "by the river"

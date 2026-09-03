@@ -4,6 +4,7 @@ title: "I' Brindellone"
 answer: "A neighbourhood trattoria in San Frediano where the room is loud, the tables are close and the Florentine steak is priced for locals."
 area: "San Frediano"
 verified: "August 2026"
+price: "€"
 categories:
   - "places with an old soul"
 ---

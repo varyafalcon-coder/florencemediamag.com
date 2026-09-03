@@ -4,6 +4,7 @@ title: "Easy Living in Fattoria"
 answer: "The summer river beach people know from the Arno, run out in the countryside instead, on a farm."
 area: "Outside the centre"
 verified: "August 2026"
+price: "€€"
 categories:
   - "a bit out of the city"
 ---

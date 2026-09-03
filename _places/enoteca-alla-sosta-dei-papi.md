@@ -4,6 +4,7 @@ title: "Enoteca Alla Sosta dei Papi"
 answer: "A wine bar on Borgo la Croce where a glass of house wine costs about three euro and arrives with crostini, and locals refill bottles from the vats."
 area: "Sant'Ambrogio"
 verified: "August 2026"
+price: "€€"
 categories:
   - "drink wine somewhere real"
 ---

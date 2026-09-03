@@ -6,6 +6,7 @@ area: "San Niccolo"
 verified: "August 2026"
 pin: 2
 maps: "https://maps.app.goo.gl/JchvViLUTS2tWiK58"
+price: "€€"
 categories:
   - "by the river"
   - "do some outdoor activities"

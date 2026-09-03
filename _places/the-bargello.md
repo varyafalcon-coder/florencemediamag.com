@@ -4,6 +4,7 @@ title: "The Bargello"
 answer: "A medieval fortress and prison holding Donatello's David, Michelangelo's Bacchus and the best sculpture collection in the city, with a fraction of the queue at the Accademia."
 area: "Centro"
 verified: "August 2026"
+price: "€€"
 categories:
   - "see art without queueing"
 ---

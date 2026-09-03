@@ -5,6 +5,7 @@ answer: "The LEGO shop on Via dei Calzaiuoli, with a Pick a Brick wall and a mac
 area: "Duomo"
 verified: "August 2026"
 address: "Via dei Calzaiuoli 67-71R"
+price: "€€"
 categories:
   - "to do with kids"
 ---

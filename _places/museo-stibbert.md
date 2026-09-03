@@ -5,6 +5,7 @@ answer: "A Victorian collector's house on a hill north of the centre, with a hal
 area: "Montughi"
 verified: "August 2026"
 address: "Via Federico Stibbert 26"
+price: "€€"
 categories:
   - "see art without queueing"
   - "hide from the crowd"

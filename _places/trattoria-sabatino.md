@@ -4,6 +4,7 @@ title: "Trattoria Sabatino"
 answer: "A canteen west of the centre with paper tablecloths, a handwritten menu and prices that have not caught up with the rest of Florence."
 area: "San Frediano"
 verified: "August 2026"
+price: "€"
 categories:
   - "places with an old soul"
   - "eat like a local for under 10 euro"

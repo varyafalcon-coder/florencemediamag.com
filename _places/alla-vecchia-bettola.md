@@ -4,6 +4,7 @@ title: "Alla Vecchia Bettola"
 answer: "A loud trattoria on the corner of Piazza Tasso with marble-topped communal tables, a menu written on butcher's paper each day, and the penne that everyone in the room has ordered."
 area: "San Frediano"
 verified: "August 2026"
+price: "€"
 categories:
   - "places with an old soul"
 ---

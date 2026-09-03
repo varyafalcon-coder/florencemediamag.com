@@ -5,6 +5,7 @@ answer: "A brunch cafe near Porta al Prato with a menu that changes country ever
 area: "Porta al Prato"
 verified: "August 2026"
 address: "Via Montebello 86r"
+price: "€€"
 categories:
   - "nice cute places to eat at"
   - "modern cafes to work at"

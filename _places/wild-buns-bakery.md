@@ -4,6 +4,7 @@ title: "Wild Buns Bakery"
 answer: "A Scandinavian bakery in the Oltrarno run by an Estonian baker, where you sit and watch them roll the buns you are about to eat."
 area: "San Frediano"
 verified: "August 2026"
+price: "€"
 categories:
   - "nice cute places to eat at"
 ---

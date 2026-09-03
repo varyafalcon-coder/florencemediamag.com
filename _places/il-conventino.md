@@ -5,6 +5,7 @@ answer: "A cafe in the cloister of the former Santa Teresa monastery in Oltrarno
 area: "Oltrarno"
 verified: "August 2026"
 address: "Via Giano della Bella 20"
+price: "€"
 categories:
   - "nice cute places to eat at"
   - "hide from the crowd"

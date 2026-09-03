@@ -5,6 +5,7 @@ answer: "The cafe on the top floor of the public library, with a terrace facing 
 area: "Centro"
 verified: "August 2026"
 view_rank: 1
+price: "€"
 categories:
   - "enjoy the view"
   - "eat like a local for under 10 euro"

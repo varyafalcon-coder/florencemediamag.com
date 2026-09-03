@@ -4,7 +4,9 @@ title: "Santarosa Bistrot"
 answer: "A bar and kitchen inside a public garden along the old city walls, with an outdoor space that works as a greenhouse and a lawn people lie on."
 area: "San Frediano"
 verified: "August 2026"
+price: "€€"
 categories:
+  - "aperitivo"
   - "nice cute places to eat at"
   - "by the river"
 ---

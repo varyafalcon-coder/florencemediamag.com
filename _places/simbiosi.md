@@ -5,6 +5,7 @@ answer: "An organic pizzeria on Via de' Ginori where the dough is left to rise s
 area: "San Lorenzo"
 verified: "August 2026"
 address: "Via de' Ginori 56r"
+price: "€€"
 categories:
   - "nice cute places to eat at"
   - "pizza worth crossing town for"

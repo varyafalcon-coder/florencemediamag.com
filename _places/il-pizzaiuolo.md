@@ -4,6 +4,7 @@ title: "Il Pizzaiuolo"
 answer: "Neapolitan pizza in Florence before that was a thing, in a narrow room by the Sant'Ambrogio market, with two sittings and a queue for both."
 area: "Sant'Ambrogio"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pizza worth crossing town for"
 ---

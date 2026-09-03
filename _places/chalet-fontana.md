@@ -5,6 +5,7 @@ answer: "A literary cafe founded in 1896 on the hill road to Piazzale Michelange
 area: "Oltrarno"
 verified: "August 2026"
 address: "Viale Galileo 7"
+price: "€€"
 categories:
   - "places with an old soul"
   - "enjoy the view"

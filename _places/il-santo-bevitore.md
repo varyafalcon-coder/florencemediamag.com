@@ -4,6 +4,7 @@ title: "Il Santo Bevitore"
 answer: "A long room in the Oltrarno with wooden tables and a wine list built by people who care about it, still serious about the food twenty years in."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€€"
 categories:
   - "drink wine somewhere real"
 ---

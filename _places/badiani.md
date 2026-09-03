@@ -4,6 +4,7 @@ title: "Badiani"
 answer: "Out on Viale dei Mille, away from everything, and the reason to go is Buontalenti: an egg and cream flavour invented in Florence that most visitors never hear about."
 area: "Campo di Marte"
 verified: "August 2026"
+price: "€€"
 categories:
   - "real gelato, not the coloured stuff"
 ---

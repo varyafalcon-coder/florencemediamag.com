@@ -4,6 +4,7 @@ title: "Piscina Costoli"
 answer: "The largest municipal pool in Florence, next to the football stadium at Campo di Marte, with three tanks and a wide lawn around them."
 area: "Campo di Marte"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pools in the city"
 ---

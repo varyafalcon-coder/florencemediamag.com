@@ -4,6 +4,7 @@ title: "Gelateria della Passera"
 answer: "A counter the size of a cupboard on the quietest small square in the Oltrarno, with a short flavour list that changes with the season."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€€"
 categories:
   - "real gelato, not the coloured stuff"
 ---

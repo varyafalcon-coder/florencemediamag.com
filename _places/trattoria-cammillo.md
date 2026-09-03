@@ -4,6 +4,7 @@ title: "Trattoria Cammillo"
 answer: "Run by the same family since 1945, a few steps from Ponte Vecchio, where Tuscan cooking sits next to curried prawns invented for English regulars in the fifties."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€€€"
 categories:
   - "places with an old soul"
 ---

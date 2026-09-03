@@ -4,6 +4,7 @@ title: "Piscina del Poggetto"
 answer: "A recently rebuilt pool in a quiet shaded corner of the north of the city, next to the Flog concert venue, with lane swimming in the evenings."
 area: "Rifredi"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pools in the city"
 ---

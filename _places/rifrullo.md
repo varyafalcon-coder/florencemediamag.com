@@ -4,6 +4,7 @@ title: "Rifrullo"
 answer: "A San Niccolo bar with a garden, a fireplace and a terrace under the old walls, open from breakfast to late."
 area: "San Niccolo"
 verified: "August 2026"
+price: "€"
 categories:
   - "nice cute places to eat at"
   - "hide from the crowd"

@@ -4,6 +4,7 @@ title: "Melaleuca"
 answer: "An Australian bakery and bistrot on the Arno, open from half past seven, known for cinnamon rolls and coffee that tastes like coffee."
 area: "Santa Croce"
 verified: "August 2026"
+price: "€"
 categories:
   - "nice cute places to eat at"
 ---

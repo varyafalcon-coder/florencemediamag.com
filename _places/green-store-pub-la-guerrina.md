@@ -5,7 +5,9 @@ answer: "An Irish style neighbourhood pub near the stadium with sixteen taps and
 area: "Campo di Marte"
 verified: "August 2026"
 address: "Viale Malta 1/r"
+price: "€€"
 categories:
+  - "aperitivo"
   - "night heart of the city"
 ---
 Everyone here calls it La Guerrina. Sixteen beers on tap, mostly Irish, plus a rotating guest craft beer, in a wood panelled room that fills with students, families and Fiorentina supporters depending on the night.

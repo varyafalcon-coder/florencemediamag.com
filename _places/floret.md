@@ -4,6 +4,7 @@ title: "Floret"
 answer: "A cafe on the first floor of the LuisaViaRoma shop, under tropical plants and Patricia Urquiola furniture, serving juices, bowls and organic food."
 area: "Centro"
 verified: "August 2026"
+price: "€€"
 categories:
   - "nice cute places to eat at"
   - "hide from the crowd"

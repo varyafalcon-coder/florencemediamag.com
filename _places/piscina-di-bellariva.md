@@ -4,6 +4,7 @@ title: "Piscina di Bellariva"
 answer: "A municipal pool on the Arno east of the centre, named after Goffredo Nannini, with an olympic tank, a children's pool and a large lawn to lie on."
 area: "Bellariva"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pools in the city"
 ---

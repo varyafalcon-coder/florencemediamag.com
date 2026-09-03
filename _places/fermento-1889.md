@@ -4,6 +4,7 @@ title: "Fermento 1889"
 answer: "A pizzeria on Borgo San Frediano built around the flour rather than the topping, with doughs blended and balanced as the main event."
 area: "San Frediano"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pizza worth crossing town for"
 ---

@@ -5,6 +5,7 @@ answer: "An Art Deco cinema inside a Renaissance palazzo, now half bookshop and 
 area: "Duomo"
 verified: "August 2026"
 address: "Piazza degli Strozzi"
+price: "€€"
 categories:
   - "hide from the crowd"
   - "modern cafes to work at"

@@ -4,6 +4,7 @@ title: "Cascata dell'Acquacheta"
 answer: "A waterfall in the Apennines north east of Florence that Dante put in the Inferno, reached on foot from San Godenzo through beech woods."
 area: "Outside the centre"
 verified: "August 2026"
+price: "€€"
 categories:
   - "a bit out of the city"
 ---

@@ -4,6 +4,7 @@ title: "Museo Horne"
 answer: "The house of an English collector, kept as he left it in 1916, with furniture, paintings and objects arranged as a Renaissance home rather than a gallery."
 area: "Santa Croce"
 verified: "August 2026"
+price: "€€"
 categories:
   - "see art without queueing"
 ---

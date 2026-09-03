@@ -4,6 +4,7 @@ title: "Sbrino Gelatificio Contadino"
 answer: "A gelateria built on short supply chains: named farms for the milk, seasonal fruit, nothing bought in as a ready made base."
 area: "Santo Spirito"
 verified: "August 2026"
+price: "€"
 categories:
   - "real gelato, not the coloured stuff"
 ---

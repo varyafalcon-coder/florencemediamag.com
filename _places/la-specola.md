@@ -5,6 +5,7 @@ answer: "The Medici zoological collection: room after room of animals from aroun
 area: "Oltrarno"
 verified: "August 2026"
 address: "Via Romana 17"
+price: "€€"
 categories:
   - "to do with kids"
   - "see art without queueing"

@@ -4,6 +4,7 @@ title: "Bettolina Firenze Sud"
 answer: "A neighbourhood trattoria in the southern suburbs, well away from anything a visitor would walk to."
 area: "Outside the centre"
 verified: "August 2026"
+price: "€"
 categories:
   - "a bit out of the city"
 ---

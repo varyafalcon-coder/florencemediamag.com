@@ -4,6 +4,7 @@ title: "Berbere"
 answer: "Sourdough pizza cut into slices before it reaches the table, with seasonal toppings added raw, made for sharing rather than for one person one pizza."
 area: "San Frediano"
 verified: "August 2026"
+price: "€€"
 categories:
   - "pizza worth crossing town for"
 ---
