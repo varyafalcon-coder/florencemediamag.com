@@ -4,6 +4,7 @@ title: "Giardino delle Rose"
 answer: "The same panorama as Piazzale Michelangelo, one terrace lower and with a fraction of the people. Free, with roses from May and bronze figures by Folon through the grounds."
 area: "San Niccolo"
 verified: "August 2026"
+view_rank: 2
 categories:
   - "hide from the crowd"
   - "enjoy the view"

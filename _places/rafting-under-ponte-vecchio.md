@@ -4,6 +4,8 @@ title: "Rafting under Ponte Vecchio"
 answer: "Two hours on the Arno, launching from the beach under Torre di San Niccolo and passing beneath the bridge everybody else is standing on."
 area: "San Niccolo"
 verified: "August 2026"
+pin: 1
+maps: "https://maps.app.goo.gl/JchvViLUTS2tWiK58"
 categories:
   - "by the river"
   - "do some outdoor activities"
