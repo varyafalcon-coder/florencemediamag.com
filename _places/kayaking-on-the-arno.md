@@ -6,8 +6,10 @@ area: "San Niccolo"
 verified: "August 2026"
 pin: 2
 maps: "https://maps.app.goo.gl/JchvViLUTS2tWiK58"
-price: "€"
+price: "€€"
 maps_q: "Spiaggia sull'Arno, Torre di San Niccolo, Firenze"
+book_url: "https://www.firenzerafting.it/packrafting-pontevecchio-firenze-rafting/"
+book_label: "Book the kayaking trip"
 categories:
   - "by the river"
   - "enjoy the view"

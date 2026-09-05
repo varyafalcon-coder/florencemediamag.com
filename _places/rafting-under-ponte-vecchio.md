@@ -8,6 +8,8 @@ pin: 1
 maps: "https://maps.app.goo.gl/JchvViLUTS2tWiK58"
 price: "€"
 maps_q: "Spiaggia sull'Arno, Torre di San Niccolo, Firenze"
+book_url: "https://www.firenzerafting.it/rafting-pontevecchio-firenze-rafting/"
+book_label: "Book the rafting trip"
 categories:
   - "by the river"
   - "enjoy the view"
