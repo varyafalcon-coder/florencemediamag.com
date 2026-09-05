@@ -9,13 +9,25 @@
 {%- assign allcats = site.data.categories.primary -%}
 {%- for grp in site.data.categories.groups -%}{%- assign allcats = allcats | concat: grp.items -%}{%- endfor -%}
 <article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}">
-  {%- capture badges -%}
+  {%- comment -%} outdoor always leads, then the rest, max three plus a counter {%- endcomment -%}
+  {%- assign emstr = "" -%}
+  {%- if p.categories contains "do some outdoor activities" -%}
+    {%- assign hit = allcats | where: "name", "do some outdoor activities" | first -%}
+    {%- if hit.emoji -%}{%- assign emstr = emstr | append: hit.emoji | append: "|" -%}{%- endif -%}
+  {%- endif -%}
   {%- for c in p.categories -%}
-    {%- assign hit = allcats | where: "name", c | first -%}
-    {%- if hit.emoji -%}<span>{{ hit.emoji }}</span>{%- endif -%}
+    {%- unless c == "do some outdoor activities" -%}
+      {%- assign hit = allcats | where: "name", c | first -%}
+      {%- if hit.emoji -%}{%- assign emstr = emstr | append: hit.emoji | append: "|" -%}{%- endif -%}
+    {%- endunless -%}
   {%- endfor -%}
-  {%- endcapture -%}
-  {% if badges != "" %}<span class="card-em" aria-hidden="true">{{ badges }}</span>{% endif %}
+  {%- assign ems = emstr | split: "|" -%}
+  {%- assign total = ems | size -%}
+  {%- assign extra = total | minus: 3 -%}
+  {% if total > 0 %}<span class="card-em" aria-hidden="true">
+    {%- for e in ems limit: 3 -%}<span>{{ e }}</span>{%- endfor -%}
+    {%- if extra > 0 %}<span class="card-em-more">+{{ extra }}</span>{% endif -%}
+  </span>{% endif %}
   <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</h3>
   <p>{{ p.answer }}</p>
   <dl class="facts">

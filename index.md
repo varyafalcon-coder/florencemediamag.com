@@ -3,6 +3,7 @@ layout: default
 seo_title: "Florence Media. Florence sorted by what you actually want to do"
 seo_description: "Florence filtered by intent, not by category. Places to eat, cafes to work from, spots to escape the crowds, viewpoints and pools. Every entry visited in person and dated."
 ---
+{% include all-places.html %}
 
 <div class="wrap hero">
   <h1>Florence, sorted by what you actually want to do.</h1>
@@ -50,7 +51,6 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   <p id="guidelink" class="guidelink" hidden></p>
 
   <div class="grid" id="grid">
-  {% include all-places.html %}
   {% assign pinned = all_places | where_exp: "p", "p.pin" | sort: "pin" %}
   {% assign rest = all_places | where_exp: "p", "p.pin == nil" %}
   {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
