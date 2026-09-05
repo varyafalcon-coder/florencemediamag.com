@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+{%- assign allcats = site.data.categories.primary -%}
+{%- for g in site.data.categories.groups -%}{%- assign allcats = allcats | concat: g.items -%}{%- endfor -%}
+{%- if page.maps -%}{%- assign mapurl = page.maps -%}
+{%- else -%}
+{%- if page.maps_q -%}{%- assign mq = page.maps_q -%}
+{%- elsif page.address -%}{%- assign mq = page.address | append: ', Firenze, Italy' -%}
+{%- else -%}{%- assign mq = page.title | append: ', Firenze, Italy' -%}{%- endif -%}
+{%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ mq | url_encode }}{%- endcapture -%}
+{%- endif -%}
 <article class="wrap doc">
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <span>{{ page.title }}</span></nav>
   <h1>{{ page.title }}</h1>
@@ -8,22 +17,34 @@ layout: default
 
   <dl class="facts wide">
     <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
-    {% if page.address %}<div><dt>Address</dt><dd><a href="https://www.google.com/maps/search/?api=1&query={{ page.address | append: ', Florence, Italy' | url_encode }}" target="_blank" rel="noopener">{{ page.address }}</a></dd></div>{% endif %}
+    {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
     {% if page.hours %}<div><dt>Hours</dt><dd>{{ page.hours }}</dd></div>{% endif %}
     {% if page.verified != "" %}<div><dt>Checked</dt><dd>{{ page.verified }}</dd></div>{% endif %}
     {% if page.price %}<div><dt>Price</dt><dd>{{ page.price }}</dd></div>{% endif %}
   </dl>
+
+  <div class="actions">
+    {% if page.book_url %}
+    <a class="btn btn-primary" href="{{ page.book_url }}" target="_blank" rel="noopener">
+      {{ page.book_label | default: "Book now" }}
+    </a>
+    {% endif %}
+    <a class="btn btn-ghost" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>
+  </div>
 
   <div class="body">{{ content }}</div>
 
   <h2>Where else this appears</h2>
   <ul class="taglist">
   {% for c in page.categories %}
-    <li><a href="{{ '/collections/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a></li>
+    {% assign match = allcats | where: "name", c | first %}
+    <li><a href="{{ '/collections/' | append: c | slugify | append: '/' | relative_url }}">
+      {% if match.emoji %}<span aria-hidden="true">{{ match.emoji }}</span> {% endif %}{{ c }}
+    </a></li>
   {% endfor %}
   </ul>
 
   <aside class="note">
-    <p><strong>Checked in August 2026.</strong> Hours and prices change, and small places close without announcing it. If something here is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a> and it gets corrected with a dated note.</p>
+    <p><strong>Checked in {{ page.verified | default: "August 2026" }}.</strong> Hours and prices change, and small places close without announcing it. If something here is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a> and it gets corrected with a dated note.</p>
   </aside>
 </article>
