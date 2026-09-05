@@ -44,14 +44,15 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
 <div class="wrap">
   <div class="resultbar">
     <h2 id="resulttitle">Everything in Florence</h2>
-    <span id="resultcount">{{ site.places | size }} places</span>
+    <span id="resultcount">{{ all_places | size }} places</span>
     <button class="clearall" type="button" id="clearall" hidden>clear filters</button>
   </div>
   <p id="guidelink" class="guidelink" hidden></p>
 
   <div class="grid" id="grid">
-  {% assign pinned = site.places | where_exp: "p", "p.pin" | sort: "pin" %}
-  {% assign rest = site.places | where_exp: "p", "p.pin == nil" %}
+  {% include all-places.html %}
+  {% assign pinned = all_places | where_exp: "p", "p.pin" | sort: "pin" %}
+  {% assign rest = all_places | where_exp: "p", "p.pin == nil" %}
   {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
   {% for p in rest %}{% include place-card.html place=p %}{% endfor %}
   </div>

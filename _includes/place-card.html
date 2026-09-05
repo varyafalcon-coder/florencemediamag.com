@@ -6,7 +6,12 @@
 {%- else -%}{%- assign mq = p.title | append: ', Firenze, Italy' -%}{%- endif -%}
 {%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ mq | url_encode }}{%- endcapture -%}
 {%- endif -%}
+{%- assign allcats = site.data.categories.primary -%}
+{%- for grp in site.data.categories.groups -%}{%- assign allcats = allcats | concat: grp.items -%}{%- endfor -%}
+{%- assign firstcat = p.categories | first -%}
+{%- assign badge = allcats | where: "name", firstcat | first -%}
 <article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}">
+  {% if badge.emoji %}<span class="card-em" aria-hidden="true" title="{{ firstcat }}">{{ badge.emoji }}</span>{% endif %}
   <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</h3>
   <p>{{ p.answer }}</p>
   <dl class="facts">

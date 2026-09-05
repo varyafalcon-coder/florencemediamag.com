@@ -2,6 +2,7 @@
 layout: collection
 title: "Where to have an aperitivo in Florence"
 category: "aperitivo"
+order: 7
 emoji: "🍸"
 seo_title: "Where to have an aperitivo in Florence"
 seo_description: "Wine bars, rooftops and courtyards in Florence for the hour between work and dinner, from a three euro glass standing at a counter to a terrace above the rooftops."

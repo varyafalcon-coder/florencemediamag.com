@@ -1,0 +1,5 @@
+{%- comment -%}
+Both place folders as one list. Add new places to _places_more when
+_places gets too large to upload in one go.
+{%- endcomment -%}
+{%- assign all_places = site.places | concat: site.places_more | sort: "title" -%}

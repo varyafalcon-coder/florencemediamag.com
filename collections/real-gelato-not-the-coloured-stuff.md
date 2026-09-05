@@ -2,6 +2,7 @@
 layout: collection
 title: "How to tell real gelato in Florence from the tourist stuff"
 category: "real gelato, not the coloured stuff"
+order: 9
 emoji: "🍦"
 seo_title: "How to tell real gelato in Florence from the tourist stuff"
 seo_description: "Flat covered tins, grey banana, khaki pistachio. The rules, and the gelaterie in Florence that follow them."

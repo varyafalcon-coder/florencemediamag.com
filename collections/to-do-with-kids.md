@@ -2,6 +2,7 @@
 layout: collection
 title: "What to do in Florence with children"
 category: "to do with kids"
+order: 15
 emoji: "🪁"
 seo_title: "What to do in Florence with children"
 seo_description: "Museums built for children, the parks Florentine families use, the antique carousel and the river. Every place visited in person and dated."

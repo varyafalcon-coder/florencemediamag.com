@@ -8,10 +8,11 @@ seo_description: "Every Florence guide on this site in one place: where to eat c
 
 Every guide on this site, each one a written page with the places attached. Pick what you actually want to do.
 
+{% include all-places.html %}
 <div class="colgrid">
-{% assign guides = site.pages | where: "layout", "collection" | sort: "title" %}
+{% assign guides = site.pages | where: "layout", "collection" | sort: "order" %}
 {% for g in guides %}
-  {% assign list = site.places | where_exp: "p", "p.categories contains g.category" %}
+  {% assign list = all_places | where_exp: "p", "p.categories contains g.category" %}
   <a class="colcard" href="{{ g.url | relative_url }}">
     <span class="colcard-em" aria-hidden="true">{{ g.emoji }}</span>
     <span class="colcard-tag">{{ g.category }}</span>

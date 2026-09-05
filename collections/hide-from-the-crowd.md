@@ -2,6 +2,7 @@
 layout: collection
 title: "Where to escape the crowds in Florence"
 category: "hide from the crowd"
+order: 4
 emoji: "🚪"
 seo_title: "Where to escape the crowds in Florence"
 seo_description: "The quietest places in central Florence, mostly hillside gardens and church courtyards, all within a twenty minute walk of Ponte Vecchio."

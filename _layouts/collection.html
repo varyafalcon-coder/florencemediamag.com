@@ -14,7 +14,8 @@ layout: default
   {% endif %}
   {{ content }}
   <h2>The places</h2>
-  {% assign list = site.places | where_exp: "p", "p.categories contains page.category" %}
+  {% include all-places.html %}
+  {% assign list = all_places | where_exp: "p", "p.categories contains page.category" %}
   {% if page.order_by %}
     {% assign pinned = list | sort: page.order_by %}
     {% assign rest = "" | split: "," %}

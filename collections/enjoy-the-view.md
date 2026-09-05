@@ -2,6 +2,7 @@
 layout: collection
 title: "Every viewpoint in Florence, ranked by the climb"
 category: "enjoy the view"
+order: 5
 emoji: "🌇"
 seo_title: "Every viewpoint in Florence, ranked by the climb"
 seo_description: "Where to see Florence from above, which ones are free, and how hard each one is to reach."

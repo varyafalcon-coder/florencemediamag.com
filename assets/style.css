@@ -36,8 +36,13 @@ p{margin:14px 0 0;max-width:68ch}
   padding:12px 20px;text-decoration:none;font-size:15px}
 .pills a:hover{border-color:var(--blue);background:rgba(27,43,184,.07)}
 
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,2vw,24px);margin-top:22px}
-.card{background:var(--card);padding:24px;display:flex;flex-direction:column}
+.grid{padding-top:10px;display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,2vw,24px);margin-top:22px}
+.card{background:var(--card);padding:24px;display:flex;flex-direction:column;position:relative}
+.card-em{position:absolute;top:-14px;left:-10px;z-index:1;
+  width:36px;height:36px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--paper);font-size:18px;line-height:1;
+  box-shadow:0 0 0 1px var(--line)}
 .card h3 a{text-decoration:none}
 .card p{font-size:14.5px;color:var(--ink-soft);margin:10px 0 24px;max-width:none}
 
@@ -309,48 +314,6 @@ body.allpills .filters .group{display:block}
 .card h3{display:flex;align-items:baseline;flex-wrap:wrap;gap:0}
 .pill.price{font-variant-numeric:tabular-nums}
 
-
-/* ---------- map page ---------- */
-.mapfilters{display:flex;flex-wrap:wrap;gap:8px;margin-top:clamp(22px,3vw,30px)}
-.mchip{border:1px solid var(--line);background:var(--surface);border-radius:999px;
-  padding:8px 15px;font:inherit;font-size:13.5px;line-height:1.2;color:var(--ink);
-  cursor:pointer;transition:background 150ms ease,border-color 150ms ease,color 150ms ease}
-@media (hover:hover) and (pointer:fine){.mchip:hover{border-color:var(--blue);color:var(--blue)}}
-.mchip.is-on{background:var(--blue);border-color:var(--blue);color:#fff}
-.mchip-sep{width:1px;align-self:stretch;background:var(--line);margin:0 4px}
-
-.maplayout{display:grid;grid-template-columns:minmax(0,360px) minmax(0,1fr);
-  gap:clamp(16px,2.2vw,26px);margin-top:clamp(18px,2.4vw,26px);align-items:start}
-.maplist{max-height:70vh;overflow:auto;background:var(--surface);padding:6px 0}
-.maplist ul{list-style:none;margin:0;padding:0}
-.mapcount{margin:0;padding:12px 20px 10px;font-size:11px;letter-spacing:.1em;
-  text-transform:uppercase;color:var(--ink-soft)}
-.mapempty{margin:0;padding:14px 20px 20px;font-size:14.5px;color:var(--ink-soft)}
-
-.mapitem{display:flex;align-items:stretch;border-top:1px solid var(--line)}
-.mapitem[hidden]{display:none}
-.mapitem-pick{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;
-  border:0;background:none;font:inherit;text-align:left;cursor:pointer;
-  padding:13px 8px 13px 20px;transition:background 140ms ease}
-.mapitem-name{font-size:15.5px;line-height:1.3;color:var(--ink)}
-.mapitem-area{font-size:12.5px;color:var(--ink-soft)}
-@media (hover:hover) and (pointer:fine){.mapitem-pick:hover{background:var(--card)}}
-.mapitem.is-active{box-shadow:inset 3px 0 0 var(--blue)}
-.mapitem.is-active .mapitem-name{color:var(--blue)}
-.mapitem-more{align-self:center;flex:none;padding:0 18px 0 10px;font-size:12.5px;
-  color:var(--ink-soft);text-decoration:none;border-bottom:1px solid transparent}
-@media (hover:hover) and (pointer:fine){
-  .mapitem-more:hover{color:var(--blue);border-bottom-color:var(--blue)}
-}
-
-.mapframe{position:sticky;top:76px;height:70vh;background:var(--card)}
-.mapframe iframe{width:100%;height:100%;border:0;display:block}
-
-@media (max-width:900px){
-  .maplayout{grid-template-columns:1fr}
-  .maplist{max-height:none;order:2}
-  .mapframe{order:1;position:static;height:56vh}
-}
 
 /* ---------- place page actions ---------- */
 .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:clamp(22px,2.6vw,30px)}
