@@ -18,21 +18,69 @@ layout: default
   <dl class="facts wide">
     <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
     {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
-    {% if page.hours %}<div><dt>Hours</dt><dd>{{ page.hours }}</dd></div>{% endif %}
+    {% for f in page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
     {% if page.verified != "" %}<div><dt>Checked</dt><dd>{{ page.verified }}</dd></div>{% endif %}
     {% if page.price %}<div><dt>Price</dt><dd>{{ page.price }}</dd></div>{% endif %}
   </dl>
 
   <div class="actions">
-    {% if page.book_url %}
-    <a class="btn btn-primary" href="{{ page.book_url }}" target="_blank" rel="noopener">
-      {{ page.book_label | default: "Book now" }}
-    </a>
-    {% endif %}
-    <a class="btn btn-ghost" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>
+    {% if page.book_url %}<a class="btn btn-primary" href="{{ page.book_url }}" target="_blank" rel="noopener">{{ page.book_label | default: "Book now" }}</a>{% endif %}
+    {% unless page.addresses %}<a class="btn btn-ghost" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>{% endunless %}
   </div>
 
-  <div class="body">{{ content }}</div>
+  {% if page.go_for or page.skip_if %}
+  <dl class="verdict">
+    <div><dt>Go for</dt><dd>{{ page.go_for }}</dd></div>
+    <div><dt>Skip if</dt><dd>{{ page.skip_if }}</dd></div>
+  </dl>
+  {% endif %}
+
+  {% if page.addresses %}
+  <section class="addresses">
+    <h2>{{ page.addresses_title | default: "Two addresses" }}</h2>
+    <dl>
+    {% for a in page.addresses %}
+      <div>
+        <dt>{{ a.name }}</dt>
+        <dd>{{ a.address }}
+          <a class="addrlink" href="{{ a.maps }}" target="_blank" rel="noopener">Open in Google Maps</a>
+          {% if a.note %}<span class="addrnote">{{ a.note }}</span>{% endif %}
+        </dd>
+      </div>
+    {% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+  {% if page.consensus %}
+  <section class="consensus">
+    <h2>What everybody agrees on</h2>
+    <p class="consensus-src">{{ page.consensus_source }}</p>
+    <ul>
+    {% for c in page.consensus %}
+      <li><span class="agree {{ c.level }}">{{ c.weight }}</span><p>{{ c.text }}</p></li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.order_note %}
+  <div class="order">
+    <p class="order-label">{{ page.order_label | default: "What to order" }}</p>
+    <p>{{ page.order_note }}</p>
+  </div>
+  {% endif %}
+
+  {% if page.before %}
+  <section class="beforeyougo">
+    <h2>Before you go</h2>
+    <dl>
+    {% for b in page.before %}<dt>{{ b.label }}</dt><dd>{{ b.value }}</dd>{% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+  {% if content != "" %}<div class="body">{{ content }}</div>{% endif %}
 
   <h2>Where else this appears</h2>
   <ul class="taglist">
@@ -46,6 +94,6 @@ layout: default
   </ul>
 
   <aside class="note">
-    <p><strong>Checked in {{ page.verified | default: "August 2026" }}.</strong> Hours and prices change, and small places close without announcing it. If something here is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a> and it gets corrected with a dated note.</p>
+    <p><strong>Checked in person, {{ page.verified | default: "August 2026" }}.</strong>{% if page.consensus %} The consensus section is drawn from public reviews and carries its own date.{% endif %} Hours and prices change, and small places close without announcing it. If something here is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a> and it gets corrected with a dated note.</p>
   </aside>
 </article>
