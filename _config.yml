@@ -10,6 +10,9 @@ author: Florence Media
 email: florencemediamag@gmail.com
 lang: en
 
+# Pages become /folder/name/ instead of /folder/name.html
+permalink: pretty
+
 
 
 collections:
