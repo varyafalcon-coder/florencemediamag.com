@@ -19,8 +19,12 @@ skip_if: You are looking for traditional Italian dishes.
 facts:
 - label: Opens
   value: 8:00 on weekdays, 9:30 at weekends
+- label: Opened
+  value: March 2023, the fifth Ditta in the city
+- label: Also here
+  value: A garden and a newsstand
 consensus_source: Read across public reviews on Google, TripAdvisor and Yelp in September
-  2026.
+  2026, plus Italian coffee writing.
 consensus:
 - weight: Most
   level: high
@@ -30,15 +34,22 @@ consensus:
   level: high
   text: The coffee holds up. Single origin beans from independent growers, and staff
     who can talk about them.
+- weight: Most
+  level: high
+  text: The credentials behind it are documented rather than claimed. Ditta was founded
+    in 2013 by Francesco Sanapo, three times Italian barista champion and later Italian
+    cup taster of the year, who buys micro lots directly from growers.
+- weight: Often
+  level: ''
+  text: This branch opened in March 2023, ten years to the month after the first one,
+    and was built as a literary cafe with a garden and a newsstand rather than as
+    another coffee counter.
 - weight: Often
   level: ''
   text: Family and dog friendly. There is a baby changing table.
-- weight: A few
-  level: ''
-  text: Service quality swings. The same branch produces reviews praising staff by
-    name and reviews complaining about waits.
-order_note: Filter rather than espresso, which is the point of the place. If you are
-  here for brunch, order it outside; the terrace is the whole argument for this branch.
+order_note: Filter rather than espresso, which is the point of the place. Ask what
+  is on the single origin list that week and have it brewed rather than pulled; that
+  is the difference the roastery is built around.
 before:
 - label: Getting there
   value: Bus 23 from the centre, or twenty minutes on foot east along the south bank
