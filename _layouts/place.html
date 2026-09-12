@@ -71,6 +71,18 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.venue_notes %}
+  <section class="fromvenue">
+    <h2>{{ page.venue_notes_title | default: "Straight from the owners" }}</h2>
+    <p class="fromvenue-src">{{ page.venue_notes_source }}</p>
+    <ul>
+    {% for n in page.venue_notes %}
+      <li><strong>{{ n.label }}</strong><span>{{ n.text }}</span></li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   {% if page.before %}
   <section class="beforeyougo">
     <h2>Before you go</h2>
