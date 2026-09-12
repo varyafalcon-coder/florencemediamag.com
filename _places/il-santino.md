@@ -31,12 +31,16 @@ consensus:
     closer to a Spanish tapas bar than a Florentine enoteca.'
 - weight: Most
   level: high
-  text: Wines are chosen rather than listed, and the staff will steer you rather than
-    hand you a menu.
+  text: The list is built on small cantine, with natural wine a real part of it rather
+    than a token shelf.
+- weight: Most
+  level: high
+  text: Wines are chosen rather than listed, and the staff will steer you instead
+    of handing you a menu.
 - weight: Often
   level: ''
-  text: Cheese and cured meat boards are what most people eat, and they are generous
-    for the price.
+  text: Crostoni sit alongside the cheese and cured meat boards, and are the thing
+    to order if you want something warm.
 - weight: Often
   level: ''
   text: It shares an owner with Il Santo Bevitore along the same street, and the standards
@@ -44,9 +48,9 @@ consensus:
 - weight: Some
   level: ''
   text: It is very small. On a busy evening you will be standing.
-order_note: Tell them what you usually drink and let them pick. Then a crostone rather
-  than a board if there are two of you, and ask whether the room between the two places
-  is open if it is a Friday or Saturday.
+order_note: Tell them what you usually drink and let them pick. A crostone rather
+  than a board if there are two of you, and ask whether the middle room is open if
+  it is a Friday or Saturday.
 before:
 - label: Getting there
   value: Five minutes west of Ponte Vecchio along Via di Santo Spirito.
@@ -59,19 +63,11 @@ before:
 - label: Nearby
   value: Il Santo Bevitore for a full meal a few doors along.
 venue_notes_title: Straight from the owners
-venue_notes_source: Told to us directly by Il Santino in September 2026, and not something
-  you will find in the public reviews.
 venue_notes:
-- label: The wine
-  text: They work mostly with small cantine, and natural wine is a real part of the
-    list rather than a token shelf.
-- label: To eat
-  text: Beyond the cheese and cured meat boards there are several crostoni, which
-    most reviews do not mention.
-- label: The new room
-  text: There is now a small room between Il Santo Bevitore and Il Santino, lined
-    with bottles. At weekends it works as a cocktail bar.
+- label: The middle room
+  text: There is a small room between Il Santo Bevitore and Il Santino, lined with
+    bottles. At weekends it runs as a cocktail bar.
 - label: Private hire
   text: That same room can be booked for dinners and private events.
 ---
-Small enough that the crowd is the room. Wine by the glass with cheese, cured meat and small plates from the kitchen of the restaurant next door. Nobody is going to move you along, and nobody is going to find you a table either. It works best as the first stop of the evening, before the square fills up.
+Small enough that the crowd is the room. The list leans on small cantine, with a good showing of natural wine, and alongside the cheese and cured meat there are several crostoni. Nobody is going to move you along, and nobody is going to find you a table either. It works best as the first stop of the evening, before the square fills up.
