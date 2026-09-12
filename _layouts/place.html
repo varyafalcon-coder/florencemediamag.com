@@ -74,7 +74,7 @@ layout: default
   {% if page.venue_notes %}
   <section class="fromvenue">
     <h2>{{ page.venue_notes_title | default: "Straight from the owners" }}</h2>
-    <p class="fromvenue-src">{{ page.venue_notes_source }}</p>
+    {% if page.venue_notes_source %}<p class="fromvenue-src">{{ page.venue_notes_source }}</p>{% endif %}
     <ul>
     {% for n in page.venue_notes %}
       <li><strong>{{ n.label }}</strong><span>{{ n.text }}</span></li>
