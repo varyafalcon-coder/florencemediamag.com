@@ -1,6 +1,6 @@
 ---
 layout: place
-title: Rafting under Ponte Vecchio
+title: Firenze Rafting
 answer: Two hours on the Arno, launching from the beach under Torre di San Niccolo
   and passing beneath the bridge everybody else is standing on.
 area: San Niccolo

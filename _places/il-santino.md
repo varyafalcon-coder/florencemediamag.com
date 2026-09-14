@@ -69,10 +69,5 @@ venue_notes:
     bottles. At weekends it runs as a cocktail bar.
 - label: Private hire
   text: That same room can be booked for dinners and private events.
-photo: il-santino.jpg
-photo_2x: il-santino@2x.jpg
-photo_alt: The doorway of Il Santino on Via di Santo Spirito, with stools and small
-  tables on the pavement outside
-photo_credit: Il Santino, Via di Santo Spirito
 ---
 Small enough that the crowd is the room. The list leans on small cantine, with a good showing of natural wine, and alongside the cheese and cured meat there are several crostoni. Nobody is going to move you along, and nobody is going to find you a table either. It works best as the first stop of the evening, before the square fills up.

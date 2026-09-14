@@ -1,6 +1,6 @@
 ---
 layout: place
-title: Kayaking on the Arno
+title: Kayaking with Firenze Rafting
 answer: One small inflatable kayak each, so you paddle yourself down the Arno instead
   of sitting in a raft with seven other people and a guide.
 area: San Niccolo
