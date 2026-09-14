@@ -30,6 +30,11 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   </div>
   {% endfor %}
 
+  <div class="searchrow">
+    <input type="search" id="placesearch" placeholder="Search a place, a street, a dish" autocomplete="off" aria-label="Search places">
+    <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
+  </div>
+
   <div class="group">
     <p class="axis">Price</p>
     <div class="pills">

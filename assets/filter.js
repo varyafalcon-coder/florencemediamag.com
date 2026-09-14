@@ -10,6 +10,9 @@
   var active = [];
   var pricePills = document.querySelectorAll('.pill.price');
   var activePrice = null;
+  var searchEl = document.getElementById('placesearch');
+  var searchClear = document.getElementById('searchclear');
+  var query = '';
 
   function slugify(s){
     return s.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/[-\s]+/g,'-');
@@ -20,14 +23,16 @@
       var tags = c.getAttribute('data-cats').split('|');
       var show = active.every(function(t){ return tags.indexOf(t) > -1; });
       if(show && activePrice){ show = c.getAttribute('data-price') === activePrice; }
+      if(show && query){ show = (c.getAttribute('data-find') || '').indexOf(query) > -1; }
       c.style.display = show ? '' : 'none';
       if(show) n++;
     });
     var label = active.length ? active.join(' + ') : 'Everything in Florence';
     if(activePrice){ label += ' · ' + activePrice; }
+    if(query){ label = 'Search: ' + searchEl.value.trim(); }
     titleEl.textContent = label;
     countEl.textContent = n + (n === 1 ? ' place' : ' places');
-    clearBtn.hidden = active.length === 0 && !activePrice;
+    clearBtn.hidden = active.length === 0 && !activePrice && !query;
     emptyEl.hidden = n !== 0;
     if(active.length === 1){
       guideEl.hidden = false;
@@ -70,4 +75,17 @@
       apply();
     });
   });
+  if(searchEl){
+    searchEl.addEventListener('input', function(){
+      query = searchEl.value.trim().toLowerCase();
+      searchClear.hidden = query === '';
+      apply();
+    });
+    searchClear.addEventListener('click', function(){
+      searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); searchEl.focus();
+    });
+    searchEl.addEventListener('keydown', function(e){
+      if(e.key === 'Escape'){ searchEl.value=''; query=''; searchClear.hidden=true; apply(); }
+    });
+  }
 })();

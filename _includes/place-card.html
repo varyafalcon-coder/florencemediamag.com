@@ -8,7 +8,8 @@
 {%- endif -%}
 {%- assign allcats = site.data.categories.primary -%}
 {%- for grp in site.data.categories.groups -%}{%- assign allcats = allcats | concat: grp.items -%}{%- endfor -%}
-<article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}">
+{%- capture haystack -%}{{ p.title }} {{ p.area }} {{ p.answer }} {{ p.address }} {{ p.categories | join: " " }}{%- endcapture -%}
+<article class="card" data-cats="{{ p.categories | join: '|' }}" data-price="{{ p.price }}" data-find="{{ haystack | downcase | strip_newlines | escape }}">
   {%- comment -%} outdoor always leads, then the rest, max three plus a counter {%- endcomment -%}
   {%- assign emstr = "" -%}
   {%- if p.categories contains "do some outdoor activities" -%}

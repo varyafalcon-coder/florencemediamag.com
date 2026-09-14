@@ -404,3 +404,22 @@ body.allpills .filters .group{display:block}
   .fromvenue li{grid-template-columns:1fr;gap:4px}
   .fromvenue li strong{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase}
 }
+
+/* ---------- place photo ---------- */
+.placephoto{margin:clamp(24px,3vw,32px) 0 0;max-width:62ch}
+.placephoto img{display:block;width:100%;height:auto;background:var(--card)}
+.placephoto figcaption{margin-top:9px;font-size:12.5px;line-height:1.5;color:var(--ink-soft)}
+
+/* ---------- search ---------- */
+.searchrow{position:relative;margin-top:clamp(18px,2.4vw,26px);max-width:440px}
+#placesearch{width:100%;box-sizing:border-box;font:inherit;font-size:15.5px;
+  padding:13px 40px 13px 18px;border:1px solid var(--line);border-radius:999px;
+  background:var(--surface);color:var(--ink);
+  transition:border-color 150ms ease}
+#placesearch::placeholder{color:var(--ink-soft)}
+#placesearch:focus{outline:none;border-color:var(--blue)}
+#placesearch::-webkit-search-cancel-button{display:none}
+#searchclear{position:absolute;right:6px;top:50%;transform:translateY(-50%);
+  width:30px;height:30px;border:0;border-radius:50%;background:none;cursor:pointer;
+  font-size:20px;line-height:1;color:var(--ink-soft)}
+@media (hover:hover) and (pointer:fine){#searchclear:hover{color:var(--blue)}}
