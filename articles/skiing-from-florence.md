@@ -7,6 +7,8 @@ seo_description: "Six ski areas you can reach from Florence, from Abetone at und
 answer: "The nearest skiing to Florence is Abetone, about an hour and fifty minutes by car, with the Cimone a little further on the Emilian side. For reliable snow and big terrain, the Dolomites are four hours away: Val Gardena, Cortina and Madonna di Campiglio. Cervinia, five hours, is the high-altitude option for early and late season."
 published_on: "2026-11-04"
 updated_on: "2026-11-04"
+verify_label: "Researched"
+verify_note: "Lift prices and season dates come from the resorts' own 2026/27 price lists. Restaurants and hotels were chosen from the Michelin guide, Gambero Rosso and the resorts' tourist boards, and not all of them have been visited by us yet. Openings depend on snow, especially in the Apennines, so check the lift status before you drive."
 toc:
   - label: "First, which kind of trip"
     id: "first-which-kind-of-trip"
@@ -38,8 +40,6 @@ faq:
   - q: "When does the ski season start in Italy?"
     a: "Cervinia opens first, planned for late October. Livigno and the Dolomiti Superski areas aim for the end of November. Abetone and the Cimone usually open in early December if there is snow, with Abetone listing 4 December 2026 as its planned start."
 ---
-
-All prices and dates below come from the resorts' own 2026/27 price lists and announcements, read in early November 2026. Openings depend on snow, especially in the Apennines, so check the lift status before you drive.
 
 ## First, which kind of trip
 

@@ -9,6 +9,12 @@ seo_description: "Guides to Florence that answer questions a list cannot: how to
 Some questions need more than a filter. These are written, checked on the ground, and dated.
 
 <div class="artgrid">
+  <a class="artcard" href="/articles/skiing-from-florence/">
+    <span class="kicker">Day trips and weekends</span>
+    <h2>Where to go skiing from Florence this winter</h2>
+    <p>Abetone for a Saturday, the Dolomites for a long weekend, Cervinia when the Apennines are green. 2026/27 lift prices and where to eat and sleep at each.</p>
+    <span class="meta">Researched November 2026 &middot; 6 ski areas</span>
+  </a>
   <a class="artcard" href="/articles/are-two-days-enough-for-florence/">
     <span class="kicker">Planning</span>
     <h2>Are 2 days enough for Florence?</h2>
