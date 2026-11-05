@@ -10,8 +10,8 @@ updated_on: "2026-11-05"
 verify_label: "Researched"
 verify_note: "Places were chosen from the tourist boards of the Modena Apennines and recent reviews. Not all of them have been visited by us yet. Several close on weekdays outside the holidays, so phone first."
 toc:
-  - label: "Why go"
-    id: "why-go"
+  - label: "Why is it worth going?"
+    id: "why-is-it-worth-going"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to eat"
@@ -39,7 +39,7 @@ faq:
 <div><dt>Size</dt><dd>About 50 km, up to 2,100 m</dd></div>
 </dl>
 
-## Why go
+## Why is it worth going?
 
 <p class="lede">Cross into Emilia and two things change: the mountains get bigger and the food gets better.</p>
 

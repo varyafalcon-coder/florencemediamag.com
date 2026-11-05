@@ -10,8 +10,8 @@ updated_on: "2026-11-05"
 verify_label: "Researched"
 verify_note: "Places were chosen from the Michelin guide, the Aosta Valley tourist board and recent reviews. Not all of them have been visited by us yet. Hours on the slopes depend on the lifts, and the lifts depend on the wind."
 toc:
-  - label: "Why go"
-    id: "why-go"
+  - label: "Why is it worth going?"
+    id: "why-is-it-worth-going"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to eat"
@@ -39,7 +39,7 @@ faq:
 <div><dt>Season</dt><dd>From 24 Oct 2026</dd></div>
 </dl>
 
-## Why go
+## Why is it worth going?
 
 <p class="lede">When the Apennines are brown in December, Cervinia is white.</p>
 

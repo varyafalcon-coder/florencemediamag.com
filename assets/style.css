@@ -603,3 +603,4 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .emptybox[hidden]{display:none}
 .emptybox p{margin:0 auto;font-size:16px;color:var(--ink-soft);max-width:none}
 .emptybox .morebtn{margin-top:16px}
+.article .body p.lede{font-weight:400;font-style:italic;font-size:clamp(19px,2vw,22px);line-height:1.5;color:var(--ink);border-left:3px solid var(--blue);padding-left:16px;letter-spacing:0}

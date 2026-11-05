@@ -10,8 +10,8 @@ updated_on: "2026-11-05"
 verify_label: "Researched"
 verify_note: "Places were chosen from the Michelin guide, the Pontedilegno-Tonale ski area's own maps and tourist information, and recent reviews. Not all of them have been visited by us yet. Two lifts on the Ponte di Legno side, Valbiolo and Corno d'Aola, were closed for works in summer 2026, so check which huts can be reached before you set off."
 toc:
-  - label: "Why go"
-    id: "why-go"
+  - label: "Why is it worth going?"
+    id: "why-is-it-worth-going"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to eat"
@@ -43,7 +43,7 @@ faq:
 <div><dt>Season</dt><dd>Late Nov to early May</dd></div>
 </dl>
 
-## Why go
+## Why is it worth going?
 
 <p class="lede">Most ski resorts are a village or a ski station. This one is both, joined by a lift.</p>
 
