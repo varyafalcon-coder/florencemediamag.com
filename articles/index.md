@@ -18,41 +18,53 @@ Some questions need more than a filter. These are written, checked on the ground
 <h2 class="artsec-title"><span aria-hidden="true">❄️</span> Winter</h2>
 <p class="artsec-intro">Skiing from Florence, and where to eat and sleep in the mountains.</p>
 <div class="artgrid">
-  <a class="artcard" href="/articles/skiing-from-florence/">
+  <a class="artcard has-photo" href="/articles/skiing-from-florence/">
+    {% include ski-thumb.html id="valgardena" %}
     <span class="kicker">Day trips and weekends</span>
     <h2>Where to go skiing from Florence this winter</h2>
     <p>Nine ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
     <span class="meta">Researched November 2026 &middot; 9 ski areas</span>
+    {% include ski-thumb.html id="valgardena" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
+    {% include ski-thumb.html id="pontedilegno" %}
     <span class="kicker">Ski food guide</span>
     <h2>Ponte di Legno and the Tonale: a weekend on the snow</h2>
     <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="pontedilegno" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
+    {% include ski-thumb.html id="campiglio" %}
     <span class="kicker">Ski food guide</span>
     <h2>The Dolomites from Florence: three valleys, three weekends</h2>
     <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="campiglio" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-abetone/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-abetone/">
+    {% include ski-thumb.html id="abetone" %}
     <span class="kicker">Ski food guide</span>
     <h2>Abetone: a day on the snow from Florence</h2>
     <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="abetone" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-on-the-cimone/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-on-the-cimone/">
+    {% include ski-thumb.html id="cimone" %}
     <span class="kicker">Ski food guide</span>
     <h2>The Cimone: skiing with the best food in the Apennines</h2>
     <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="cimone" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-val-gardena/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-val-gardena/">
+    {% include ski-thumb.html id="valgardena" %}
     <span class="kicker">Ski guide</span>
     <h2>Val Gardena: wooden villages and the Sellaronda</h2>
     <p>The Dolomites trip that works by train. Seceda, Selva, Ortisei and the huts worth the stop.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="valgardena" part="credit" %}
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-cortina/">
     <span class="kicker">Ski guide</span>
@@ -60,29 +72,37 @@ Some questions need more than a filter. These are written, checked on the ground
     <p>Lagazuoi, Cinque Torri, Rifugio Averau and a Michelin star in town.</p>
     <span class="meta">Researched November 2026</span>
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">
+    {% include ski-thumb.html id="campiglio" %}
     <span class="kicker">Ski guide</span>
     <h2>Madonna di Campiglio: polished slopes under the Brenta</h2>
     <p>Groomed runs, a walkable village, lunch at the Spinale and the Grostè.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="campiglio" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/">
+    {% include ski-thumb.html id="corno" %}
     <span class="kicker">Ski guide</span>
     <h2>Corno alle Scale: small, wild and quiet</h2>
     <p>The emptiest snow within two hours of Florence, inside a regional park.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="corno" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-livigno/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-livigno/">
+    {% include ski-thumb.html id="livigno" %}
     <span class="kicker">Ski guide</span>
     <h2>Livigno: high, cold and full of snow</h2>
     <p>Snow from November to May, two ski sides, pizzoccheri and sciatt, and duty-free evenings.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="livigno" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-cervinia/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-cervinia/">
+    {% include ski-thumb.html id="cervinia" %}
     <span class="kicker">Ski food guide</span>
     <h2>Cervinia: skiing under the Matterhorn</h2>
     <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="cervinia" part="credit" %}
   </a>
 </div>
 </section>

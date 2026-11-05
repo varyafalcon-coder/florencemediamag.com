@@ -708,3 +708,6 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .skiphoto{margin-inline:calc(-1 * var(--pad))}
   .skiphoto figcaption{padding-inline:var(--pad)}
 }
+.artcard .cardphoto{display:block;width:calc(100% + 52px);max-width:none;margin:-26px -26px 18px;
+  aspect-ratio:16/9;height:auto;object-fit:cover;background:var(--line)}
+.artcard .cardcredit{padding-top:8px;font-size:11px;line-height:1.4;color:var(--ink-soft);opacity:.85}
