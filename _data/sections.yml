@@ -1,0 +1,32 @@
+# Homepage filter. Six plain sections instead of sixteen tags.
+# Each section groups existing categories from categories.yml.
+# "label" is what the reader sees under the section when it is open.
+- name: "Eat"
+  tags:
+    - { tag: "nice cute places to eat at", label: "Lovely places to eat" }
+    - { tag: "pizza worth crossing town for", label: "Pizza" }
+    - { tag: "eat like a local for under 10 euro", label: "Under 10 euro" }
+    - { tag: "real gelato, not the coloured stuff", label: "Gelato" }
+- name: "Drink"
+  tags:
+    - { tag: "aperitivo", label: "Aperitivo" }
+    - { tag: "drink wine somewhere real", label: "Wine" }
+    - { tag: "night heart of the city", label: "Late night" }
+- name: "See"
+  tags:
+    - { tag: "places with an old soul", label: "Old places with a soul" }
+    - { tag: "see art without queueing", label: "Art without the queue" }
+    - { tag: "enjoy the view", label: "Views" }
+- name: "Outdoors"
+  tags:
+    - { tag: "do some outdoor activities", label: "Active" }
+    - { tag: "by the river", label: "By the river" }
+    - { tag: "pools in the city", label: "Pools" }
+    - { tag: "a bit out of the city", label: "Just outside the city" }
+- name: "Quiet"
+  tags:
+    - { tag: "hide from the crowd", label: "Away from the crowd" }
+    - { tag: "modern cafes to work at", label: "Cafes to work from" }
+- name: "With kids"
+  tags:
+    - { tag: "to do with kids", label: "With kids" }

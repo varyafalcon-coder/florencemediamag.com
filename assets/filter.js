@@ -1,91 +1,114 @@
 (function(){
-  var pills = document.querySelectorAll('.pill[data-tag]');
+  var LIMIT = window.matchMedia('(max-width: 640px)').matches ? 6 : 12;
+  var tabs = document.querySelectorAll('.tab[data-section]');
+  var subtabs = document.querySelectorAll('.subtab[data-tag]');
+  var subrows = document.querySelectorAll('.subtabs');
   var cards = document.querySelectorAll('#grid .card');
   var titleEl = document.getElementById('resulttitle');
   var countEl = document.getElementById('resultcount');
   var clearBtn = document.getElementById('clearall');
   var emptyEl = document.getElementById('empty');
   var guideEl = document.getElementById('guidelink');
-  var seeall = document.getElementById('seeall');
-  var active = [];
-  var pricePills = document.querySelectorAll('.pill.price');
-  var activePrice = null;
+  var showAllBtn = document.getElementById('showall');
   var searchEl = document.getElementById('placesearch');
   var searchClear = document.getElementById('searchclear');
+  var priceEl = document.getElementById('pricepick');
+
+  var section = null;      // {name, tags[]}
+  var tag = null;          // one specific category inside the section
+  var tagLabel = '';
+  var price = '';
   var query = '';
+  var expanded = false;
 
   function slugify(s){
     return s.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/[-\s]+/g,'-');
   }
+  function filtering(){ return !!(section || price || query); }
+
   function apply(){
-    var n = 0;
+    var n = 0, shown = 0;
+    var cap = (!filtering() && !expanded) ? LIMIT : Infinity;
     cards.forEach(function(c){
-      var tags = c.getAttribute('data-cats').split('|');
-      var show = active.every(function(t){ return tags.indexOf(t) > -1; });
-      if(show && activePrice){ show = c.getAttribute('data-price') === activePrice; }
-      if(show && query){ show = (c.getAttribute('data-find') || '').indexOf(query) > -1; }
-      c.style.display = show ? '' : 'none';
-      if(show) n++;
+      var cats = c.getAttribute('data-cats').split('|');
+      var ok = true;
+      if(tag){ ok = cats.indexOf(tag) > -1; }
+      else if(section){ ok = section.tags.some(function(t){ return cats.indexOf(t) > -1; }); }
+      if(ok && price){ ok = c.getAttribute('data-price') === price; }
+      if(ok && query){ ok = (c.getAttribute('data-find') || '').indexOf(query) > -1; }
+      if(ok){ n++; }
+      var visible = ok && shown < cap;
+      if(visible){ shown++; }
+      c.style.display = visible ? '' : 'none';
     });
-    var label = active.length ? active.join(' + ') : 'Everything in Florence';
-    if(activePrice){ label += ' · ' + activePrice; }
+
+    var label = 'Everything in Florence';
+    if(section){ label = tag ? tagLabel : section.name; }
     if(query){ label = 'Search: ' + searchEl.value.trim(); }
     titleEl.textContent = label;
-    countEl.textContent = n + (n === 1 ? ' place' : ' places');
-    clearBtn.hidden = active.length === 0 && !activePrice && !query;
+    countEl.textContent = n + (n === 1 ? ' place' : ' places') + (price ? ' at ' + price : '');
+    clearBtn.hidden = !filtering();
     emptyEl.hidden = n !== 0;
-    if(active.length === 1){
+    showAllBtn.hidden = shown >= n;
+
+    if(tag){
       guideEl.hidden = false;
-      guideEl.innerHTML = '<a href="/collections/' + slugify(active[0]) + '/">Read the full guide to ' + active[0] + '</a>';
+      guideEl.innerHTML = '<a href="/collections/' + slugify(tag) + '/">Read the full guide: ' + tagLabel.toLowerCase() + '</a>';
     } else { guideEl.hidden = true; }
-    document.querySelector('.pill[data-tag="all"]').setAttribute('aria-pressed', String(active.length === 0));
   }
-  pills.forEach(function(p){
-    p.addEventListener('click', function(){
-      var t = p.getAttribute('data-tag');
-      if(t === 'all'){
-        active = [];
-        pills.forEach(function(o){ o.setAttribute('aria-pressed', String(o === p)); });
-      } else {
-        var i = active.indexOf(t);
-        if(i > -1){ active.splice(i,1); } else { active.push(t); }
-        p.setAttribute('aria-pressed', String(active.indexOf(t) > -1));
-      }
-      apply();
-    });
-  });
-  clearBtn.addEventListener('click', function(){
-    active = [];
-    pills.forEach(function(o){ o.setAttribute('aria-pressed', String(o.getAttribute('data-tag') === 'all')); });
+
+  function setSection(btn){
+    var name = btn.getAttribute('data-section');
+    section = (name === 'all') ? null : { name: name, tags: btn.getAttribute('data-tags').split('|') };
+    tag = null; tagLabel = '';
+    // a section with a single category goes straight to it
+    if(section && section.tags.length === 1){ tag = section.tags[0]; tagLabel = name; }
+    tabs.forEach(function(t){ t.setAttribute('aria-pressed', String(t === btn)); });
+    subtabs.forEach(function(s){ s.setAttribute('aria-pressed', 'false'); });
+    subrows.forEach(function(r){ r.hidden = !section || r.getAttribute('data-for') !== section.name; });
     apply();
-  });
-  seeall.addEventListener('click', function(){
-    var open = document.body.classList.toggle('allpills');
-    seeall.setAttribute('aria-expanded', String(open));
-    seeall.textContent = open ? 'show fewer' : 'see all 16';
+  }
+
+  tabs.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      // clicking the open section again closes it
+      if(section && btn.getAttribute('data-section') === section.name){
+        setSection(document.querySelector('.tab[data-section="all"]'));
+      } else { setSection(btn); }
+    });
   });
 
-  pricePills.forEach(function(p){
-    p.addEventListener('click', function(){
-      var v = p.getAttribute('data-price');
-      activePrice = (activePrice === v) ? null : v;
-      pricePills.forEach(function(o){
-        o.setAttribute('aria-pressed', String(o.getAttribute('data-price') === activePrice));
-      });
+  subtabs.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var t = btn.getAttribute('data-tag');
+      if(tag === t){ tag = null; tagLabel = ''; }
+      else { tag = t; tagLabel = btn.textContent.trim(); }
+      subtabs.forEach(function(s){ s.setAttribute('aria-pressed', String(s.getAttribute('data-tag') === tag)); });
       apply();
     });
   });
-  if(searchEl){
-    searchEl.addEventListener('input', function(){
-      query = searchEl.value.trim().toLowerCase();
-      searchClear.hidden = query === '';
-      apply();
-    });
-    searchClear.addEventListener('click', function(){
-      searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); searchEl.focus();
-    });
-    searchEl.addEventListener('keydown', function(e){
-      if(e.key === 'Escape'){ searchEl.value=''; query=''; searchClear.hidden=true; apply(); }
-    });
-  }
+
+  priceEl.addEventListener('change', function(){ price = priceEl.value; apply(); });
+
+  clearBtn.addEventListener('click', function(){
+    searchEl.value = ''; query = ''; searchClear.hidden = true;
+    priceEl.value = ''; price = '';
+    setSection(document.querySelector('.tab[data-section="all"]'));
+  });
+
+  showAllBtn.addEventListener('click', function(){ expanded = true; apply(); });
+
+  searchEl.addEventListener('input', function(){
+    query = searchEl.value.trim().toLowerCase();
+    searchClear.hidden = query === '';
+    apply();
+  });
+  searchClear.addEventListener('click', function(){
+    searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); searchEl.focus();
+  });
+  searchEl.addEventListener('keydown', function(e){
+    if(e.key === 'Escape'){ searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); }
+  });
+
+  apply();
 })();

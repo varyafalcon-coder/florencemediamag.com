@@ -1,57 +1,70 @@
 ---
 layout: default
-seo_title: "Florence Media. Florence sorted by what you actually want to do"
-seo_description: "Florence filtered by intent, not by category. Places to eat, cafes to work from, spots to escape the crowds, viewpoints and pools. Every entry visited in person and dated."
+seo_title: "Florence Media. Florence and everything within reach"
+seo_description: "Where to eat, what to see and where to go from Florence, for people who live here and people passing through. Places in the city sorted by what you want to do, and day trips and weekends from Florence. Every entry visited and dated."
 ---
 {% include all-places.html %}
 
 <div class="wrap hero">
-  <h1>Florence, sorted by what you actually want to do.</h1>
-  <p>Here you won't find top 50 lists. Pick the mood, get the places. Each one is visited in person, dated, and checked again every season.</p>
+  <h1>Florence, and everything within reach.</h1>
+  <p>Where to eat, what to see and where to go next, for people who live here and people passing through. Every place is visited, dated and checked again each season.</p>
+  <nav class="doors" aria-label="Sections">
+    <a class="door" href="#in-florence">
+      <span class="door-kicker">In the city</span>
+      <span class="door-title">In Florence</span>
+      <span class="door-text">{{ all_places | size }} places, sorted by what you feel like doing</span>
+    </a>
+    <a class="door" href="#from-florence">
+      <span class="door-kicker">Day trips and weekends</span>
+      <span class="door-title">From Florence</span>
+      <span class="door-text">Hills and abbeys an hour away, mountains for the weekend</span>
+    </a>
+  </nav>
 </div>
 
-<div class="wrap filters">
-  <div class="pills">
-    <button class="pill" type="button" data-tag="all" aria-pressed="true">everything</button>
-    {% for c in site.data.categories.primary %}
-    <button class="pill" type="button" data-tag="{{ c.name }}" aria-pressed="false"><span class="em" aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
-    {% endfor %}
-    <button class="pill seeall" type="button" id="seeall" aria-expanded="false">see all 16</button>
+<section class="wrap homesec" id="in-florence">
+  <div class="sechead">
+    <p class="axis">In the city</p>
+    <h2>In Florence</h2>
   </div>
 
-  {% for g in site.data.categories.groups %}
-  <div class="group">
-    <p class="axis">{{ g.label }}</p>
-    <div class="pills">
-      {% for c in g.items %}
-      <button class="pill" type="button" data-tag="{{ c.name }}" aria-pressed="false"><span class="em" aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
+  <div class="filters">
+    <div class="tabs" role="toolbar" aria-label="What do you want to do">
+      <button class="tab" type="button" data-section="all" aria-pressed="true">Everything</button>
+      {% for s in site.data.sections %}
+      <button class="tab" type="button" data-section="{{ s.name }}" data-tags="{% for t in s.tags %}{{ t.tag }}{% unless forloop.last %}|{% endunless %}{% endfor %}" aria-pressed="false">{{ s.name }}</button>
       {% endfor %}
     </div>
-  </div>
-  {% endfor %}
 
-  <div class="searchrow">
-    <input type="search" id="placesearch" placeholder="Search a place, a street, a dish" autocomplete="off" aria-label="Search places">
-    <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
-  </div>
+    {% for s in site.data.sections %}{% if s.tags.size > 1 %}
+    <div class="subtabs" data-for="{{ s.name }}" hidden>
+      {% for t in s.tags %}
+      <button class="subtab" type="button" data-tag="{{ t.tag }}" aria-pressed="false">{{ t.label }}</button>
+      {% endfor %}
+    </div>
+    {% endif %}{% endfor %}
 
-  <div class="group">
-    <p class="axis">Price</p>
-    <div class="pills">
-      <button class="pill price" type="button" data-price="€" aria-pressed="false">€ cheap</button>
-      <button class="pill price" type="button" data-price="€€" aria-pressed="false">€€ mid</button>
-      <button class="pill price" type="button" data-price="€€€" aria-pressed="false">€€€ splash out</button>
+    <div class="toolrow">
+      <div class="searchrow">
+        <input type="search" id="placesearch" placeholder="Search a place, a street, a dish" autocomplete="off" aria-label="Search places">
+        <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
+      </div>
+      <label class="pricepick">
+        <span>Price</span>
+        <select id="pricepick">
+          <option value="">Any</option>
+          <option value="€">€ cheap</option>
+          <option value="€€">€€ mid</option>
+          <option value="€€€">€€€ splash out</option>
+        </select>
+      </label>
     </div>
   </div>
 
-  <p class="hint">Pick more than one to narrow it down.</p>
-</div>
-
-<div class="wrap">
   <div class="resultbar">
-    <h2 id="resulttitle">Everything in Florence</h2>
+    <h3 id="resulttitle">Everything in Florence</h3>
     <span id="resultcount">{{ all_places | size }} places</span>
-    <button class="clearall" type="button" id="clearall" hidden>clear filters</button>
+    <button class="clearall" type="button" id="clearall" hidden>Clear</button>
   </div>
   <p id="guidelink" class="guidelink" hidden></p>
 
@@ -61,8 +74,85 @@ seo_description: "Florence filtered by intent, not by category. Places to eat, c
   {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
   {% for p in rest %}{% include place-card.html place=p %}{% endfor %}
   </div>
-  <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try one tag instead of two, or tell us what you were looking for.</p>
-</div>
+  <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try a wider section, or tell us what you were looking for.</p>
+  <div class="moreline"><button class="morebtn" type="button" id="showall" hidden>Show all {{ all_places | size }} places</button></div>
+</section>
+
+<section class="wrap homesec" id="from-florence">
+  <div class="sechead">
+    <p class="axis">Day trips and weekends</p>
+    <h2>From Florence</h2>
+    <p class="secintro">Sorted by how far you are willing to go. Times are by car from the centre.</p>
+  </div>
+
+  <div class="tier">
+    <div class="tierhead">
+      <p class="tiertime">An hour or so</p>
+      <p class="tiernote">Hill towns, abbeys, forests and waterfalls. Back for dinner.</p>
+    </div>
+    <div class="artgrid">
+      {% assign trips = "walking-up-to-fiesole|settignano-and-the-desiderio-hills|villa-demidoff-pratolino|badia-a-passignano|vallombrosa-abbey-and-forest|cascata-dellacquacheta" | split: "|" %}
+      {% assign kicks = "Fiesole · on foot|Settignano|Pratolino|Chianti|Vallombrosa|Romagna Apennines" | split: "|" %}
+      {% for slug in trips %}{% assign tp = all_places | where_exp: "p", "p.slug == slug" | first %}{% if tp %}
+      <a class="artcard" href="{{ tp.url | relative_url }}">
+        <span class="kicker">{{ kicks[forloop.index0] }}</span>
+        <h2>{{ tp.title }}</h2>
+        <p>{{ tp.answer | truncatewords: 26 }}</p>
+      </a>
+      {% endif %}{% endfor %}
+    </div>
+    <p class="tierlink"><a href="{{ '/collections/a-bit-out-of-the-city/' | relative_url }}">All day trips a bit out of Florence</a></p>
+  </div>
+
+  <div class="tier">
+    <div class="tierhead">
+      <p class="tiertime">Around two hours</p>
+      <p class="tiernote">The Apennines: Abetone, the Corno alle Scale and the Cimone. Skiing in winter, cheap and close.</p>
+    </div>
+    <div class="artgrid">
+      <a class="artcard" href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">
+        <span class="kicker">Abetone &middot; 1 h 50</span>
+        <h2>Where to eat and stay in Abetone</h2>
+        <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
+      </a>
+      <a class="artcard" href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">
+        <span class="kicker">Cimone &middot; 2 h 15</span>
+        <h2>Where to eat and stay on the Cimone</h2>
+        <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="tier">
+    <div class="tierhead">
+      <p class="tiertime">Four to five hours</p>
+      <p class="tiernote">The Alps for a weekend: the Dolomites, Pontedilegno-Tonale and Cervinia.</p>
+    </div>
+    <div class="artgrid">
+      <a class="artcard" href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">
+        <span class="kicker">Dolomites &middot; 4 to 4 h 30</span>
+        <h2>Where to eat and stay in the Dolomites</h2>
+        <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
+      </a>
+      <a class="artcard" href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">
+        <span class="kicker">Ponte di Legno &middot; 4 h 30</span>
+        <h2>Where to eat in Ponte di Legno and on the Tonale</h2>
+        <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
+      </a>
+      <a class="artcard" href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">
+        <span class="kicker">Cervinia &middot; 5 h</span>
+        <h2>Where to eat and stay in Cervinia</h2>
+        <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
+      </a>
+    </div>
+  </div>
+
+  <a class="feature" href="{{ '/articles/skiing-from-florence/' | relative_url }}">
+    <span class="kicker">The overview</span>
+    <span class="feature-title">Where to go skiing from Florence this winter</span>
+    <span class="feature-text">Nine ski areas side by side: driving time, size, altitude and 2026/27 lift prices.</span>
+  </a>
+</section>
 
 <section class="method wrap">
   <h2>Why anything here is worth trusting</h2>
