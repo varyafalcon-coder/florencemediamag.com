@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "The Cimone: skiing with the best food in the Apennines"
 permalink: /articles/where-to-eat-and-stay-on-the-cimone/
 seo_title: "The Cimone from Florence: where to eat, ski and sleep"

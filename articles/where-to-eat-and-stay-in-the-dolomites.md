@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "The Dolomites from Florence: three valleys, three weekends"
 permalink: /articles/where-to-eat-and-stay-in-the-dolomites/
 seo_title: "The Dolomites from Florence: where to eat, ski and sleep in Val Gardena, Cortina and Madonna di Campiglio"

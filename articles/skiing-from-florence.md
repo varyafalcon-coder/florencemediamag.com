@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Where to go skiing from Florence this winter"
 permalink: /articles/skiing-from-florence/
 seo_title: "Where to go skiing from Florence this winter (2026/27)"

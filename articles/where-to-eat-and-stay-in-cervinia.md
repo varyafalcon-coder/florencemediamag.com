@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Cervinia: skiing under the Matterhorn"
 permalink: /articles/where-to-eat-and-stay-in-cervinia/
 seo_title: "Cervinia from Florence: where to eat, ski and sleep under the Matterhorn"

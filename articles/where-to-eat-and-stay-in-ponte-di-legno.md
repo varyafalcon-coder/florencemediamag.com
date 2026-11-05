@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Ponte di Legno and the Tonale: a weekend on the snow"
 permalink: /articles/where-to-eat-and-stay-in-ponte-di-legno/
 seo_title: "Ponte di Legno and Passo del Tonale: where to eat, ski and sleep on a weekend from Florence"

@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Abetone: a day on the snow from Florence"
 permalink: /articles/where-to-eat-and-stay-in-abetone/
 seo_title: "Abetone from Florence: where to eat, ski and sleep"

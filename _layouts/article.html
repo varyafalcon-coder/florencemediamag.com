@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="wrap doc article">
+<article class="wrap doc article{% if page.look %} look-{{ page.look }}{% endif %}">
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <a href="{{ '/articles/' | relative_url }}">Articles</a> / <span>{{ page.title }}</span></nav>
   <h1>{{ page.title }}</h1>
   {% if page.answer %}<p class="answer">{{ page.answer }}</p>{% endif %}

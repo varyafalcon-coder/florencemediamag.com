@@ -664,3 +664,25 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .article .body p.base-text{margin:6px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink-soft)}
 @media (max-width:640px){.bases{grid-template-columns:1fr}}
 .article .body .glance{max-width:64ch}
+
+/* ---------- "cards" look for the ski guides: no rules, everything on soft panels ---------- */
+.look-cards .body h2{border-top:0;padding-top:0;margin-top:clamp(48px,6vw,68px)}
+.look-cards .glance{background:transparent;border:0;gap:10px}
+.look-cards .glance div{background:var(--card)}
+.look-cards .ladder li,.look-cards .ladder li:last-child{border:0;background:var(--card);padding:16px 18px;margin-top:10px}
+.look-cards .ladder li:first-child{margin-top:0}
+.look-cards .dayplan{position:relative;border-left:0;background:var(--card);padding:24px 22px 24px 30px}
+.look-cards .dayplan::before{content:"";position:absolute;left:30px;top:32px;bottom:34px;width:2px;background:var(--blue)}
+.look-cards .dayplan li{padding-left:26px}
+.look-cards .dayplan li::before{left:-5px}
+.article.look-cards .body ul.tips li{border-top:0;background:var(--card);padding:14px 18px 14px 44px;margin-top:10px}
+.article.look-cards .body ul.tips li::before{left:18px;top:14px}
+.look-cards .cmp{border-top:0}
+.look-cards .cmp-row,.look-cards .cmp-head{border-bottom:0}
+.look-cards .cmp-row{background:var(--card);padding:13px 16px;margin-top:8px}
+.look-cards .cmp-head{padding:0 16px 4px}
+.article.look-cards .body ul.tips li{font-size:15.5px;line-height:1.55}
+.look-cards .qa-head{border-top:0;padding-top:0}
+.look-cards .qa-item,.look-cards .qa-item:first-child{border:0;background:var(--card);padding:0 18px;margin-top:10px}
+.look-cards .qa-item summary{padding:16px 0}
+@media (prefers-color-scheme:dark){.look-cards .ladder .alt{color:#7f8cff}}
