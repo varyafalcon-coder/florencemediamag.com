@@ -501,3 +501,7 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .card h3 a::after{content:"";position:absolute;inset:0}
 .card:has(h3 a):hover h3 a{color:var(--blue)}
 .card .card-em{z-index:1}
+.pills-second{margin-top:10px}
+.seasonpills{margin-top:24px}
+.artsec[hidden]{display:none}
+.seasonpills + .artsec{margin-top:clamp(30px,4vw,44px)}

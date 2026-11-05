@@ -8,7 +8,12 @@ seo_description: "Guides to Florence that answer questions a list cannot: how to
 
 Some questions need more than a filter. These are written, checked on the ground, and dated.
 
-<nav class="artjump" aria-label="Seasons"><a href="#winter">Winter</a><a href="#summer">Summer</a><a href="#all-year">All year</a></nav>
+<div class="pills seasonpills" id="seasonpills" role="toolbar" aria-label="Seasons">
+  <button class="pill" type="button" data-season="all" aria-pressed="true"><span class="em" aria-hidden="true">✨</span> everything</button>
+  <button class="pill" type="button" data-season="winter" aria-pressed="false"><span class="em" aria-hidden="true">❄️</span> winter</button>
+  <button class="pill" type="button" data-season="summer" aria-pressed="false"><span class="em" aria-hidden="true">☀️</span> summer</button>
+  <button class="pill" type="button" data-season="all-year" aria-pressed="false"><span class="em" aria-hidden="true">🗓️</span> all year</button>
+</div>
 
 <section class="artsec" id="winter">
 <h2 class="artsec-title"><span aria-hidden="true">❄️</span> Winter</h2>
@@ -108,3 +113,21 @@ Some questions need more than a filter. These are written, checked on the ground
   </a>
 </div>
 </section>
+
+<script>
+(function(){
+  var pills = document.querySelectorAll('#seasonpills .pill');
+  var secs = document.querySelectorAll('.artsec');
+  function show(v){
+    pills.forEach(function(p){ p.setAttribute('aria-pressed', String(p.getAttribute('data-season') === v)); });
+    secs.forEach(function(sec){ sec.hidden = v !== 'all' && sec.id !== v; });
+  }
+  pills.forEach(function(p){ p.addEventListener('click', function(){
+    var v = p.getAttribute('data-season');
+    show(v);
+    history.replaceState(null, '', v === 'all' ? location.pathname : '#' + v);
+  }); });
+  var h = location.hash.replace('#','');
+  if(h === 'winter' || h === 'summer' || h === 'all-year'){ show(h); }
+})();
+</script>

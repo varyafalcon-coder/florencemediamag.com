@@ -125,44 +125,51 @@
 
   apply();
 
-  /* ---------- From Florence: distance ---------- */
+  /* ---------- From Florence: what and how far ---------- */
+  var kindPills = document.querySelectorAll('#kindpills .pill[data-kind]');
   var distPills = document.querySelectorAll('#distpills .pill[data-dist]');
   var tripCards = document.querySelectorAll('#tripgrid > *');
   var tripTitle = document.getElementById('triptitle');
   var tripCount = document.getElementById('tripcount');
   var tripsAll = document.getElementById('tripsall');
-  var dist = [];
+  var kinds = [], dist = [];
   var tripsExpanded = false;
 
+  function pillText(p){ var em = p.querySelector('.em'); return p.textContent.replace(em ? em.textContent : '', '').trim(); }
+  function matches(list, attr){
+    var have = (attr || '').split(' ');
+    return !list.length || list.some(function(x){ return have.indexOf(x) > -1; });
+  }
   function applyTrips(){
     var n = 0, shown = 0;
-    var cap = (!dist.length && !tripsExpanded) ? LIMIT : Infinity;
+    var cap = (!kinds.length && !dist.length && !tripsExpanded) ? LIMIT : Infinity;
     tripCards.forEach(function(c){
-      var d = (c.getAttribute('data-dist') || '').split(' ');
-      var ok = !dist.length || dist.some(function(x){ return d.indexOf(x) > -1; });
+      var ok = matches(kinds, c.getAttribute('data-kind')) && matches(dist, c.getAttribute('data-dist'));
       if(ok){ n++; }
       var visible = ok && shown < cap;
       if(visible){ shown++; }
       c.style.display = visible ? '' : 'none';
     });
-    var names = [];
-    distPills.forEach(function(p){
-      var on = dist.indexOf(p.getAttribute('data-dist')) > -1;
-      p.setAttribute('aria-pressed', String(on));
-      if(on){ var em = p.querySelector('.em'); names.push(p.textContent.replace(em ? em.textContent : '', '').trim()); }
-    });
-    tripTitle.textContent = names.length ? cap1(names.join(' or ')) : 'Day trips and weekends';
-    tripCount.textContent = n + ' places and guides';
+    var a = [], b = [];
+    kindPills.forEach(function(p){ var on = kinds.indexOf(p.getAttribute('data-kind')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ a.push(pillText(p)); } });
+    distPills.forEach(function(p){ var on = dist.indexOf(p.getAttribute('data-dist')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ b.push(pillText(p)); } });
+    var label = [a.join(' or '), b.join(' or ')].filter(Boolean).join(', ');
+    tripTitle.textContent = label ? cap1(label) : 'Day trips and weekends';
+    tripCount.textContent = n + (n === 1 ? ' result' : ' results');
     tripsAll.hidden = shown >= n;
+    emptyTrips.hidden = n !== 0;
   }
-  distPills.forEach(function(p){
-    p.addEventListener('click', function(){
-      var v = p.getAttribute('data-dist');
-      var i = dist.indexOf(v);
-      if(i > -1){ dist.splice(i,1); } else { dist.push(v); }
+  var emptyTrips = document.getElementById('tripempty');
+  function toggler(list, attr){
+    return function(){
+      var v = this.getAttribute(attr);
+      var i = list.indexOf(v);
+      if(i > -1){ list.splice(i,1); } else { list.push(v); }
       applyTrips();
-    });
-  });
+    };
+  }
+  kindPills.forEach(function(p){ p.addEventListener('click', toggler(kinds, 'data-kind')); });
+  distPills.forEach(function(p){ p.addEventListener('click', toggler(dist, 'data-dist')); });
   tripsAll.addEventListener('click', function(){ tripsExpanded = true; applyTrips(); });
   applyTrips();
 })();
