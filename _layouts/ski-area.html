@@ -4,18 +4,11 @@ layout: default
 {%- assign ski = site.data.ski -%}
 {%- assign a = ski.areas | where: "id", page.area_id | first -%}
 {%- assign tier = ski.tiers | where: "key", a.tier | first -%}
-<article class="wrap doc skiarea">
+<article class="wrap doc skiarea article look-cards">
   <nav class="crumbs"><a href="{{ '/ski-season/' | relative_url }}">Ski season</a> / <span>{{ a.name }}</span></nav>
   <p class="axis skiarea-region">{{ a.region }}</p>
   <h1>{{ a.name }}</h1>
   <p class="answer">{{ a.short }}</p>
-
-  {% if a.guide %}
-  <a class="skimore" href="{{ a.guide | relative_url }}">
-    <span class="kicker">Where to eat and sleep</span>
-    <span class="skimore-title">{{ a.guide_label }}</span>
-  </a>
-  {% endif %}
 
   <p class="skiarea-tags">{% for k in a.want %}{% assign w = ski.wants | where: "key", k | first %}<a href="{{ '/ski-season/' | relative_url }}?want={{ k }}">{{ w.emoji }} {{ w.label }}</a>{% endfor %}</p>
 
@@ -27,6 +20,34 @@ layout: default
       <div><p class="skiarea-label">Go if</p><p>{{ a.go_if }}</p></div>
       <div><p class="skiarea-label">Skip if</p><p>{{ a.skip_if }}</p></div>
     </div>
+
+    {%- assign places = site.data.trips | where: "url", a.guide -%}
+    {%- assign eats = places | where: "kind", "eat" -%}
+    {%- assign stays = places | where: "kind", "stay" -%}
+
+    <h2>Where to stay</h2>
+    <div class="soon">
+      <span class="soon-badge">In progress</span>
+      <p class="soon-title">🛏️ Our hotel pick in {{ a.name }}</p>
+      <p class="soon-text">We are choosing a hotel in {{ a.name }} to stay at this winter. Our recommendation, with an honest review, will appear here soon.</p>
+    </div>
+    {% if stays.size > 0 %}
+    <p class="picklabel">Other places to stay</p>
+    <div class="grid tripcards">
+      {% for t in stays %}{% include trip-card.html slug=t.slug %}{% endfor %}
+    </div>
+    {% endif %}
+
+    {% if eats.size > 0 %}
+    <h2>Where to eat</h2>
+    <div class="grid tripcards">
+      {% for t in eats %}{% include trip-card.html slug=t.slug %}{% endfor %}
+    </div>
+    {% endif %}
+
+    {% if a.guide %}
+    <p class="guideline">The full guide, with a perfect day and what to order: <a href="{{ a.guide | relative_url }}">{{ a.guide_label }}</a></p>
+    {% endif %}
 
     <h2>Getting there from Florence</h2>
     <dl class="glance glance2">

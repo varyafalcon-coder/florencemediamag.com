@@ -686,3 +686,6 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .look-cards .qa-item,.look-cards .qa-item:first-child{border:0;background:var(--card);padding:0 18px;margin-top:10px}
 .look-cards .qa-item summary{padding:16px 0}
 @media (prefers-color-scheme:dark){.look-cards .ladder .alt{color:#7f8cff}}
+.article .body p.guideline{margin-top:20px;font-size:15.5px;color:var(--ink-soft)}
+.skiarea.article .body .skiarea-fit p{margin:0;font-size:16px}
+.skiarea.article .body .skiarea-fit p.skiarea-label{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 6px}
