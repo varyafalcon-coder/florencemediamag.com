@@ -495,3 +495,9 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 #tripgrid .artcard h2{font-size:20px}
 #tripgrid .card h3 a{text-decoration:none}
 .tripnote{font-size:13px;color:var(--ink-soft);margin-top:clamp(20px,2.4vw,28px);max-width:70ch}
+
+/* cards without the facts row: whole card clickable, no empty space */
+.card p{min-height:0;margin-bottom:0}
+.card h3 a::after{content:"";position:absolute;inset:0}
+.card:has(h3 a):hover h3 a{color:var(--blue)}
+.card .card-em{z-index:1}

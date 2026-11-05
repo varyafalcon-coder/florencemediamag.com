@@ -78,49 +78,44 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 
   <div class="grid" id="tripgrid">
     {%- comment -%} The written guides first {%- endcomment -%}
-    <a class="artcard" data-dist="two four" href="{{ '/articles/skiing-from-florence/' | relative_url }}">
-      <span class="kicker">Guide &middot; skiing &middot; 2 to 5 h</span>
-      <h2>Where to go skiing from Florence this winter</h2>
+    <article class="card tripcard" data-dist="two four">
+      <span class="tripkicker">Guide &middot; skiing &middot; 2 to 5 h</span>
+      <h3><a href="{{ '/articles/skiing-from-florence/' | relative_url }}">Where to go skiing from Florence this winter</a></h3>
       <p>Nine ski areas side by side: driving time, size, altitude and 2026/27 lift prices.</p>
-    </a>
-    <a class="artcard" data-dist="four" href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">
-      <span class="kicker">Guide &middot; Ponte di Legno &middot; 4 h 30</span>
-      <h2>Where to eat in Ponte di Legno and on the Tonale</h2>
+    </article>
+    <article class="card tripcard" data-dist="four">
+      <span class="tripkicker">Guide &middot; Ponte di Legno &middot; 4 h 30</span>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">Where to eat in Ponte di Legno and on the Tonale</a></h3>
       <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes.</p>
-    </a>
-    <a class="artcard" data-dist="four" href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">
-      <span class="kicker">Guide &middot; Dolomites &middot; 4 h</span>
-      <h2>Where to eat and stay in the Dolomites</h2>
+    </article>
+    <article class="card tripcard" data-dist="four">
+      <span class="tripkicker">Guide &middot; Dolomites &middot; 4 h</span>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">Where to eat and stay in the Dolomites</a></h3>
       <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
-    </a>
-    <a class="artcard" data-dist="two" href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">
-      <span class="kicker">Guide &middot; Abetone &middot; 1 h 50</span>
-      <h2>Where to eat and stay in Abetone</h2>
+    </article>
+    <article class="card tripcard" data-dist="two">
+      <span class="tripkicker">Guide &middot; Abetone &middot; 1 h 50</span>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">Where to eat and stay in Abetone</a></h3>
       <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria and two hotels by the lifts.</p>
-    </a>
-    <a class="artcard" data-dist="two" href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">
-      <span class="kicker">Guide &middot; Cimone &middot; 2 h 15</span>
-      <h2>Where to eat and stay on the Cimone</h2>
+    </article>
+    <article class="card tripcard" data-dist="two">
+      <span class="tripkicker">Guide &middot; Cimone &middot; 2 h 15</span>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">Where to eat and stay on the Cimone</a></h3>
       <p>Tigelle country. A medieval inn near Sestola and a refuge hotel at the lifts.</p>
-    </a>
-    <a class="artcard" data-dist="four" href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">
-      <span class="kicker">Guide &middot; Cervinia &middot; 5 h</span>
-      <h2>Where to eat and stay in Cervinia</h2>
+    </article>
+    <article class="card tripcard" data-dist="four">
+      <span class="tripkicker">Guide &middot; Cervinia &middot; 5 h</span>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">Where to eat and stay in Cervinia</a></h3>
       <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, a hotel you can ski to.</p>
-    </a>
+    </article>
 
     {%- comment -%} Towns an hour or so away, from _data/trips.yml {%- endcomment -%}
     {% assign towns = site.data.trips | where: "dist", "hour" %}
     {% for t in towns %}
     <article class="card tripcard" data-dist="{{ t.dist }}">
       <span class="tripkicker">{{ t.place }} &middot; {{ t.time }} &middot; {{ t.kind }}</span>
-      <h3>{% if t.url %}<a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h3>
+      <h3>{% if t.url %}<a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% else %}<a href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">{{ t.title }}</a>{% endif %}</h3>
       <p>{{ t.text }}</p>
-      <dl class="facts">
-        <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
-        <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
-      </dl>
-      <a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
     </article>
     {% endfor %}
 
@@ -132,11 +127,6 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       <span class="tripkicker">{{ nearplace[forloop.index0] }} &middot; near Florence</span>
       <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a></h3>
       <p>{{ tp.answer }}</p>
-      <dl class="facts">
-        <div><dt>Area</dt><dd>{{ nearplace[forloop.index0] }}</dd></div>
-        <div><dt>Verified</dt><dd>{{ tp.verified }}</dd></div>
-      </dl>
-      <a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query={{ tp.title | append: ', ' | append: nearplace[forloop.index0] | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
     </article>
     {% endif %}{% endfor %}
 
@@ -145,13 +135,8 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     {% for t in ski %}
     <article class="card tripcard" data-dist="{{ t.dist }}">
       <span class="tripkicker">{{ t.place }} &middot; {{ t.time }} &middot; {{ t.kind }}</span>
-      <h3>{% if t.url %}<a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h3>
+      <h3>{% if t.url %}<a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% else %}<a href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">{{ t.title }}</a>{% endif %}</h3>
       <p>{{ t.text }}</p>
-      <dl class="facts">
-        <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
-        <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
-      </dl>
-      <a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
     </article>
     {% endfor %}
   </div>
