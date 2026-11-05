@@ -396,3 +396,74 @@
   slug: hotel-hermitage
   price: €€€
   area: ski
+- title: Kosmo Taste the Mountain
+  place: Livigno, Mottolino
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: At the bottom of the Mottolino gondola, cooking with local, seasonal mountain produce, and a big terrace over the valley.
+  maps_q: Kosmo Taste the Mountain, Mottolino, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: kosmo-taste-the-mountain
+  order: Valtellina dishes made with local produce
+  note: Listed in the Michelin guide in 2024 and 2025
+  area: ski
+- title: Camana Veglia
+  place: Livigno
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: A traditional restaurant in the village, for a proper Valtellina dinner after a day on the snow.
+  maps_q: Camana Veglia, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: camana-veglia
+  order: Pizzoccheri, sciatt, local meat
+  note: Listed in the Michelin guide in 2024 and 2025
+  area: ski
+- title: La Rasiga
+  place: Livigno
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: 'The place for the dishes of the valley: sciatt, pizzoccheri and polenta taragna. Popular, so book at weekends.'
+  maps_q: La Rasiga, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: la-rasiga
+  order: Sciatt, pizzoccheri, polenta taragna
+  note: Recommended by Gambero Rosso. Book at weekends
+  area: ski
+- title: Costaccia
+  place: Livigno, Carosello
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: A wooden hut on the slope at the top of the Livigno Centro gondola. Pizzoccheri inside or on the terrace.
+  maps_q: Baita Costaccia, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: costaccia
+  order: Pizzoccheri, pizza
+  note: Top of the Livigno Centro gondola
+  area: ski
+- title: La Stuvetta
+  place: Livigno, Carosello 3000
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: A sit-down lunch of Valtellina dishes in a wooden dining room at the top of the Carosello 3000 gondola.
+  maps_q: La Stuvetta, Carosello 3000, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: la-stuvetta
+  order: Valtellina specialities
+  note: Top of the Carosello 3000 gondola
+  area: ski
+- title: M'Eating Point
+  place: Livigno, Mottolino
+  dist: four
+  time: 5 h 30
+  kind: eat
+  text: Self service at about 2,400 metres at the top of the Mottolino gondola, with a panoramic terrace. Quick and simple.
+  maps_q: M'Eating Point, Mottolino, Livigno
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: meating-point
+  note: Open the same hours as the lifts
+  area: ski

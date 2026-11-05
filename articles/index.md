@@ -48,6 +48,12 @@ Some questions need more than a filter. These are written, checked on the ground
     <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
     <span class="meta">Researched November 2026</span>
   </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-livigno/">
+    <span class="kicker">Ski guide</span>
+    <h2>Livigno: high, cold and full of snow</h2>
+    <p>Snow from November to May, two ski sides, pizzoccheri and sciatt, and duty-free evenings.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-cervinia/">
     <span class="kicker">Ski food guide</span>
     <h2>Cervinia: skiing under the Matterhorn</h2>

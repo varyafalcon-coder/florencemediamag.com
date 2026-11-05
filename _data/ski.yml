@@ -159,6 +159,8 @@ areas:
     go_if: "You snowboard, you are young or feel it, and you want snow you can count on."
     skip_if: "You do not want to drive the last hour with chains."
     want: [apres, snow, big]
+    guide: "/articles/where-to-eat-and-stay-in-livigno/"
+    guide_label: "Livigno: high, cold and full of snow"
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }

@@ -109,5 +109,6 @@ For three days or more, and for warm Decembers.
 <article class="card tripcard"><span class="tripkicker">Dolomites · 4 h</span><h3><a href="/articles/where-to-eat-and-stay-in-the-dolomites/">The Dolomites from Florence: three valleys, three weekends</a></h3></article>
 <article class="card tripcard"><span class="tripkicker">Abetone · 1 h 50</span><h3><a href="/articles/where-to-eat-and-stay-in-abetone/">Abetone: a day on the snow from Florence</a></h3></article>
 <article class="card tripcard"><span class="tripkicker">Cimone · 2 h 15</span><h3><a href="/articles/where-to-eat-and-stay-on-the-cimone/">The Cimone: skiing with the best food in the Apennines</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Livigno · 5 h 30</span><h3><a href="/articles/where-to-eat-and-stay-in-livigno/">Livigno: high, cold and full of snow</a></h3></article>
 <article class="card tripcard"><span class="tripkicker">Cervinia · 5 h</span><h3><a href="/articles/where-to-eat-and-stay-in-cervinia/">Cervinia: skiing under the Matterhorn</a></h3></article>
 </div>
