@@ -205,3 +205,15 @@ tiers:
   - { key: near, title: "Up to two hours", note: "The Apennines. Good for a day, cheap, and dependent on the snow." }
   - { key: alps, title: "Four to five hours", note: "The Alps for a long weekend. Snow on almost every run." }
   - { key: far,  title: "Five hours and more", note: "The high Alps. For three days or more, and for warm Decembers." }
+
+# Night photos for the top three winter cards on /articles/ (cropped to 16:9).
+night:
+  - key: skiing
+    photo: "/assets/photos/ski/night-livigno.jpg"
+    credit: "Photo: Evgeniy Isaev via Wikimedia Commons, CC BY 2.0, cropped"
+  - key: pontedilegno
+    photo: "/assets/photos/ski/night-tonale.jpg"
+    credit: "Photo: Zoran Kurelić Rabko via Wikimedia Commons, CC BY-SA 3.0, cropped"
+  - key: dolomites
+    photo: "/assets/photos/ski/night-cortina.jpg"
+    credit: "Photo: Antonio De Lorenzo via Wikimedia Commons, CC BY 2.5, cropped"

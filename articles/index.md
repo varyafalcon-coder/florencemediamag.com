@@ -19,28 +19,28 @@ Some questions need more than a filter. These are written, checked on the ground
 <p class="artsec-intro">Skiing from Florence, and where to eat and sleep in the mountains.</p>
 <div class="artgrid">
   <a class="artcard has-photo" href="/articles/skiing-from-florence/">
-    {% include ski-thumb.html id="valgardena" %}
+    {% include ski-thumb.html night="skiing" %}
     <span class="kicker">Day trips and weekends</span>
     <h2>Where to go skiing from Florence this winter</h2>
     <p>Nine ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
     <span class="meta">Researched November 2026 &middot; 9 ski areas</span>
-    {% include ski-thumb.html id="valgardena" part="credit" %}
+    {% include ski-thumb.html night="skiing" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
-    {% include ski-thumb.html id="pontedilegno" %}
+    {% include ski-thumb.html night="pontedilegno" %}
     <span class="kicker">Ski food guide</span>
     <h2>Ponte di Legno and the Tonale: a weekend on the snow</h2>
     <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="pontedilegno" part="credit" %}
+    {% include ski-thumb.html night="pontedilegno" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
-    {% include ski-thumb.html id="campiglio" %}
+    {% include ski-thumb.html night="dolomites" %}
     <span class="kicker">Ski food guide</span>
     <h2>The Dolomites from Florence: three valleys, three weekends</h2>
     <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="campiglio" part="credit" %}
+    {% include ski-thumb.html night="dolomites" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-abetone/">
     {% include ski-thumb.html id="abetone" %}
@@ -107,6 +107,7 @@ Some questions need more than a filter. These are written, checked on the ground
     {% include ski-thumb.html id="cervinia" part="credit" %}
   </a>
 </div>
+<p class="photocredits">Night photos on the first three cards, from Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_(13334716953).jpg">Livigno</a> by Evgeniy Isaev, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; <a href="https://commons.wikimedia.org/wiki/File:Tonale_-_Pista_Valena_Night_skiing_-_panoramio.jpg">Tonale</a> by Zoran Kurelić Rabko, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; <a href="https://commons.wikimedia.org/wiki/File:Cortina_belfry_a.JPG">Cortina</a> by Antonio De Lorenzo, <a href="https://creativecommons.org/licenses/by/2.5/">CC BY 2.5</a>. All cropped.</p>
 </section>
 
 <section class="artsec" id="summer">

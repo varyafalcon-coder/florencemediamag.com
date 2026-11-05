@@ -1,9 +1,15 @@
-{%- comment -%}Small credited ski photo for cards that are links themselves. part="credit" prints the plain-text credit (no nested links).{%- endcomment -%}
-{%- assign sa = site.data.ski.areas | where: "id", include.id | first -%}
-{%- if sa.photo -%}
-{%- if include.part == "credit" -%}
-<span class="cardcredit">{{ sa.photo_credit | strip_html }}</span>
+{%- comment -%}Small credited ski photo for cards that are links themselves. id= an area from _data/ski.yml, or night= a key from its night list. part="credit" prints the plain-text credit (no nested links).{%- endcomment -%}
+{%- if include.night -%}
+{%- assign n = site.data.ski.night | where: "key", include.night | first -%}
+{%- assign ph = n.photo -%}{%- assign cr = n.credit -%}
 {%- else -%}
-<img class="cardphoto" src="{{ sa.photo | replace: '.jpg', '-640.jpg' | relative_url }}" srcset="{{ sa.photo | replace: '.jpg', '-640.jpg' | relative_url }} 640w, {{ sa.photo | relative_url }} 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+{%- assign sa = site.data.ski.areas | where: "id", include.id | first -%}
+{%- assign ph = sa.photo -%}{%- assign cr = sa.photo_credit | strip_html -%}
+{%- endif -%}
+{%- if ph -%}
+{%- if include.part == "credit" -%}
+<span class="cardcredit">{{ cr }}</span>
+{%- else -%}
+<img class="cardphoto" src="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }}" srcset="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }} 640w, {{ ph | relative_url }} 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
 {%- endif -%}
 {%- endif -%}
