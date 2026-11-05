@@ -1,7 +1,32 @@
 (function(){
+  /* ---------- In Florence / From Florence switch ---------- */
+  var switchBtns = document.querySelectorAll('.switch-btn');
+  var panes = { 'in': document.getElementById('in-florence'), 'out': document.getElementById('from-florence') };
+
+  function showPane(name, scroll){
+    switchBtns.forEach(function(b){ b.setAttribute('aria-selected', String(b.getAttribute('data-pane') === name)); });
+    Object.keys(panes).forEach(function(k){ panes[k].hidden = k !== name; });
+    if(scroll){ document.querySelector('.switch').scrollIntoView({ block: 'start' }); }
+  }
+  switchBtns.forEach(function(b){
+    b.addEventListener('click', function(){
+      var name = b.getAttribute('data-pane');
+      showPane(name, false);
+      history.replaceState(null, '', name === 'out' ? '#from-florence' : location.pathname);
+    });
+  });
+  function fromHash(){
+    if(location.hash === '#from-florence'){ showPane('out', true); }
+    else if(location.hash === '#in-florence'){ showPane('in', true); }
+  }
+  window.addEventListener('hashchange', fromHash);
+  fromHash();
+
+  /* ---------- In Florence: categories, price, search ---------- */
   var LIMIT = window.matchMedia('(max-width: 640px)').matches ? 6 : 12;
-  var tabs = document.querySelectorAll('.tab[data-section]');
-  var subtabs = document.querySelectorAll('.subtab[data-tag]');
+  var pills = document.querySelectorAll('#catpills .pill[data-tag]');
+  var seeall = document.getElementById('seeall');
+  var catbox = document.getElementById('catpills');
   var cards = document.querySelectorAll('#grid .card');
   var titleEl = document.getElementById('resulttitle');
   var countEl = document.getElementById('resultcount');
@@ -13,8 +38,7 @@
   var searchClear = document.getElementById('searchclear');
   var priceEl = document.getElementById('pricepick');
 
-  var section = null;      // {name, tags[]} or null for everything
-  var active = [];         // selected categories, combined with AND
+  var active = [];
   var price = '';
   var query = '';
   var expanded = false;
@@ -23,19 +47,20 @@
     return s.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/[-\s]+/g,'-');
   }
   function labelOf(t){
-    var b = document.querySelector('.subtab[data-tag="' + t.replace(/"/g,'\\"') + '"]');
-    return b ? b.textContent.trim() : t;
+    var out = t;
+    pills.forEach(function(p){
+      if(p.getAttribute('data-tag') === t){ out = p.getAttribute('data-label'); }
+    });
+    return out;
   }
-  function filtering(){ return !!(section || active.length || price || query); }
+  function filtering(){ return !!(active.length || price || query); }
 
   function apply(){
     var n = 0, shown = 0;
     var cap = (!filtering() && !expanded) ? LIMIT : Infinity;
     cards.forEach(function(c){
       var cats = c.getAttribute('data-cats').split('|');
-      var ok = true;
-      if(active.length){ ok = active.every(function(t){ return cats.indexOf(t) > -1; }); }
-      else if(section){ ok = section.tags.some(function(t){ return cats.indexOf(t) > -1; }); }
+      var ok = active.every(function(t){ return cats.indexOf(t) > -1; });
       if(ok && price){ ok = c.getAttribute('data-price') === price; }
       if(ok && query){ ok = (c.getAttribute('data-find') || '').indexOf(query) > -1; }
       if(ok){ n++; }
@@ -44,9 +69,7 @@
       c.style.display = visible ? '' : 'none';
     });
 
-    var label = 'Everything in Florence';
-    if(active.length){ label = active.map(labelOf).join(' + '); }
-    else if(section){ label = section.name; }
+    var label = active.length ? active.map(labelOf).join(' + ') : 'Everything in Florence';
     if(query){ label = 'Search: ' + searchEl.value.trim(); }
     titleEl.textContent = label;
     countEl.textContent = n + (n === 1 ? ' place' : ' places') + (price ? ' at ' + price : '');
@@ -59,47 +82,32 @@
       guideEl.innerHTML = '<a href="/collections/' + slugify(active[0]) + '/">Read the full guide: ' + labelOf(active[0]) + '</a>';
     } else { guideEl.hidden = true; }
 
-    subtabs.forEach(function(b){
-      var t = b.getAttribute('data-tag');
-      b.hidden = !!section && section.tags.indexOf(t) === -1;
-      b.setAttribute('aria-pressed', String(active.indexOf(t) > -1));
-    });
+    pills.forEach(function(p){ p.setAttribute('aria-pressed', String(active.indexOf(p.getAttribute('data-tag')) > -1)); });
   }
 
-  function setSection(btn){
-    var name = btn.getAttribute('data-section');
-    section = (name === 'all') ? null : { name: name, tags: btn.getAttribute('data-tags').split('|') };
-    // keep only the selected categories that still make sense in this section
-    if(section){ active = active.filter(function(t){ return section.tags.indexOf(t) > -1; }); }
-    tabs.forEach(function(t){ t.setAttribute('aria-pressed', String(t === btn)); });
-    apply();
-  }
-
-  tabs.forEach(function(btn){
-    btn.addEventListener('click', function(){
-      if(section && btn.getAttribute('data-section') === section.name){
-        setSection(document.querySelector('.tab[data-section="all"]'));
-      } else { setSection(btn); }
-    });
-  });
-
-  subtabs.forEach(function(btn){
-    btn.addEventListener('click', function(){
-      var t = btn.getAttribute('data-tag');
+  pills.forEach(function(p){
+    var em = p.querySelector('.em');
+    p.setAttribute('data-label', p.textContent.replace(em ? em.textContent : '', '').trim());
+    p.addEventListener('click', function(){
+      var t = p.getAttribute('data-tag');
       var i = active.indexOf(t);
       if(i > -1){ active.splice(i,1); } else { active.push(t); }
       apply();
     });
   });
-
-  priceEl.addEventListener('change', function(){ price = priceEl.value; apply(); });
-
-  clearBtn.addEventListener('click', function(){
-    searchEl.value = ''; query = ''; searchClear.hidden = true;
-    priceEl.value = ''; price = ''; active = [];
-    setSection(document.querySelector('.tab[data-section="all"]'));
+  seeall.setAttribute('data-label', seeall.textContent);
+  seeall.addEventListener('click', function(){
+    var open = catbox.classList.toggle('open');
+    seeall.setAttribute('aria-expanded', String(open));
+    seeall.textContent = open ? 'Fewer' : seeall.getAttribute('data-label');
   });
 
+  priceEl.addEventListener('change', function(){ price = priceEl.value; apply(); });
+  clearBtn.addEventListener('click', function(){
+    active = []; price = ''; priceEl.value = '';
+    searchEl.value = ''; query = ''; searchClear.hidden = true;
+    apply();
+  });
   showAllBtn.addEventListener('click', function(){ expanded = true; apply(); });
 
   searchEl.addEventListener('input', function(){
@@ -115,4 +123,34 @@
   });
 
   apply();
+
+  /* ---------- From Florence: distance ---------- */
+  var distPills = document.querySelectorAll('#distpills .pill[data-dist]');
+  var tripCards = document.querySelectorAll('#tripgrid .artcard');
+  var tripTitle = document.getElementById('triptitle');
+  var dist = [];
+
+  function applyTrips(){
+    tripCards.forEach(function(c){
+      var d = c.getAttribute('data-dist').split(' ');
+      var ok = !dist.length || dist.some(function(x){ return d.indexOf(x) > -1; });
+      c.style.display = ok ? '' : 'none';
+    });
+    var names = [];
+    distPills.forEach(function(p){
+      var on = dist.indexOf(p.getAttribute('data-dist')) > -1;
+      p.setAttribute('aria-pressed', String(on));
+      if(on){ var em = p.querySelector('.em'); names.push(p.textContent.replace(em ? em.textContent : '', '').trim()); }
+    });
+    tripTitle.textContent = names.length ? names.join(' or ') : 'Day trips and weekends';
+  }
+  distPills.forEach(function(p){
+    p.addEventListener('click', function(){
+      var v = p.getAttribute('data-dist');
+      var i = dist.indexOf(v);
+      if(i > -1){ dist.splice(i,1); } else { dist.push(v); }
+      applyTrips();
+    });
+  });
+  applyTrips();
 })();

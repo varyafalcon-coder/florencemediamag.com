@@ -3,7 +3,7 @@ layout: place
 title: "Circolo Rondinella del Torrino"
 answer: "A members' club on the riverbank at Lungarno Soderini where two euro buys a year's membership and access to a shaded terrace over the Arno."
 area: "San Frediano"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€"
 categories:
   - "by the river"

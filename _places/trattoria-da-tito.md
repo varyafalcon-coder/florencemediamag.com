@@ -4,7 +4,7 @@ title: Antica Trattoria da Tito
 answer: A trattoria on Via San Gallo open since 1913, with graffiti from floor to
   ceiling and waiters who tease the room as a matter of principle.
 area: San Marco
-verified: August 2026
+verified: October 2026
 address: Via San Gallo 112r
 price: €
 categories:

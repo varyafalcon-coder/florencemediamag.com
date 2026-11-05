@@ -3,7 +3,7 @@ layout: place
 title: "Pizza Man De Amicis"
 answer: "A neighbourhood pizzeria out near Campo di Marte where Florentines order by the metre and nobody is there for the atmosphere."
 area: "Campo di Marte"
-verified: "August 2026"
+verified: "October 2026"
 price: "€"
 categories:
   - "pizza worth crossing town for"

@@ -4,7 +4,7 @@ title: "Where to eat and stay in Abetone"
 permalink: /articles/where-to-eat-and-stay-in-abetone/
 seo_title: "Where to eat and stay in Abetone: restaurants and hotels near the slopes"
 seo_description: "The best food near Abetone is fifteen minutes down the road in Cutigliano. Two places to eat, two hotels, and what to order in the Pistoia mountains."
-answer: "Ski at Abetone, eat in Cutigliano. The village fifteen minutes below the pass has the best cooking in the Pistoia mountains: Trattoria da Fagiolino, with a Michelin Bib Gourmand, and the Rifugio della Saida for tortelli. To sleep at the lifts, Val di Luce Spa Resort is ski-in, ski-out, and Hotel Bellavista is a nineteenth century villa a hundred metres from the slopes in Abetone itself."
+answer: "Ski at Abetone, eat fifteen minutes down the road in Cutigliano. Sleep at the lifts in Val di Luce or in a villa in the village."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"

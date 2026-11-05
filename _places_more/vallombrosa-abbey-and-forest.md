@@ -3,7 +3,7 @@ layout: place
 title: "Vallombrosa Abbey and forest"
 answer: "An eleventh century abbey in a fir forest an hour east of Florence, with shaded trails, small cascades and the tallest tree in Italy."
 area: "Outside the centre"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Abbazia di Vallombrosa, Reggello"
 categories:
   - "a bit out of the city"

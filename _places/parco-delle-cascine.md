@@ -4,7 +4,7 @@ title: Parco delle Cascine
 answer: Three kilometres of park along the north bank, once a Medici hunting estate,
   now the city's running track, playground and Tuesday market.
 area: Cascine
-verified: August 2026
+verified: October 2026
 categories:
 - by the river
 - to do with kids

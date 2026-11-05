@@ -3,7 +3,7 @@ layout: place
 title: "The Viale dei Colli walk"
 answer: "A tree lined boulevard along the hills of the south bank, laid out in the 1860s, running from Porta Romana to Piazza Ferrucci by way of Piazzale Michelangelo."
 area: "Oltrarno"
-verified: "August 2026"
+verified: "October 2026"
 view_rank: 7
 maps_q: "Viale dei Colli, Firenze"
 categories:

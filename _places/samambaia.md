@@ -4,7 +4,7 @@ title: Samambaia
 answer: A brunch cafe near Porta al Prato with a menu that changes country every month,
   from Vietnamese bun cha to Florentine hash browns.
 area: Porta al Prato
-verified: August 2026
+verified: October 2026
 address: Via Montebello 86r
 price: €€
 categories:

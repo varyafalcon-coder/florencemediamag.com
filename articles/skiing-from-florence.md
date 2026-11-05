@@ -4,7 +4,7 @@ title: "Where to go skiing from Florence this winter"
 permalink: /articles/skiing-from-florence/
 seo_title: "Where to go skiing from Florence this winter (2026/27)"
 seo_description: "Nine ski areas you can reach from Florence, sorted by driving time: under two hours, four to five hours, and five or more. 2026/27 lift prices, size, altitude and season dates for each."
-answer: "Within two hours of Florence you have Abetone, the Corno alle Scale and the Cimone: cheap, good for a day, but low and dependent on the snow. Four to five hours away are the Dolomites and Pontedilegno-Tonale, where the snow is reliable and the terrain lasts a weekend. At five hours and more, Cervinia and Livigno are the high-altitude options for early and late season."
+answer: "Abetone, the Corno and the Cimone are two hours away and good for a day. The Dolomites and Pontedilegno-Tonale are four to five hours away and worth a weekend."
 published_on: "2026-11-04"
 updated_on: "2026-11-05"
 verify_label: "Researched"

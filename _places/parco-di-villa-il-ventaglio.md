@@ -3,7 +3,7 @@ layout: place
 title: "Parco di Villa il Ventaglio"
 answer: "A hillside park northeast of the centre with a lake, a neoclassical villa and meadows that open straight onto the city."
 area: "Campo di Marte"
-verified: "August 2026"
+verified: "October 2026"
 address: "Via Aldini 12"
 maps_q: "Parco di Villa il Ventaglio, Firenze"
 categories:

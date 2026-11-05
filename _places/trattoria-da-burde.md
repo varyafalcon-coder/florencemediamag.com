@@ -5,7 +5,7 @@ answer: A trattoria that opened as a fiaschetteria in 1901 and now sits well out
   the walls, which is exactly why the room is full of Florentines and almost nobody
   else.
 area: Outside the centre
-verified: August 2026
+verified: October 2026
 price: €
 categories:
 - places with an old soul

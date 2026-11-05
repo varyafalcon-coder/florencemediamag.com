@@ -4,7 +4,7 @@ title: Manifattura
 answer: A cocktail bar on Piazza San Pancrazio built entirely on Italian spirits,
   with no imported bottles behind the counter at all.
 area: Santa Maria Novella
-verified: August 2026
+verified: October 2026
 price: €€
 maps_q: Manifattura, Piazza San Pancrazio, Firenze
 categories:

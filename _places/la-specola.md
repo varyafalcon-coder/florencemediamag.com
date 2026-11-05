@@ -4,7 +4,7 @@ title: La Specola
 answer: 'The Medici zoological collection: room after room of animals from around
   the world, including a hippopotamus that once lived in the Boboli gardens.'
 area: Oltrarno
-verified: August 2026
+verified: October 2026
 address: Via Romana 17
 price: €€
 categories:

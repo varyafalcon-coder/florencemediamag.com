@@ -4,7 +4,7 @@ title: Ditta Artigianale Piazza Ferrucci
 answer: The riverside branch of the roastery that taught Florence to care about filter
   coffee, with a garden terrace, a long brunch menu and cocktails after dark.
 area: Piazza Ferrucci
-verified: August 2026
+verified: October 2026
 price: €€
 categories:
 - aperitivo

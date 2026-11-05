@@ -3,7 +3,7 @@ layout: place
 title: "Palazzo Vecchio, the secret passages"
 answer: "A guided route through the staircases and hidden rooms the Medici used to cross their own palace without being seen by anybody."
 area: "Duomo"
-verified: "August 2026"
+verified: "October 2026"
 address: "Piazza della Signoria"
 price: "€€"
 categories:

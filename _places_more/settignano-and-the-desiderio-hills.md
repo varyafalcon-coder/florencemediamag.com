@@ -3,7 +3,7 @@ layout: place
 title: "Settignano and the hills behind it"
 answer: "A village on a terrace above the city where Michelangelo was nursed, with a square, a bar and paths running out into olive terraces."
 area: "Settignano"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Piazza Desiderio, Settignano, Firenze"
 categories:
   - "a bit out of the city"

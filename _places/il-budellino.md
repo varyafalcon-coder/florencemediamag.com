@@ -4,7 +4,7 @@ title: Il Budellino
 answer: A tiny wine counter in the Oltrarno where the aperitivo happens on the street
   outside because the room holds about eight people.
 area: Oltrarno
-verified: August 2026
+verified: October 2026
 price: €
 maps_q: Il Budellino, Firenze
 categories:

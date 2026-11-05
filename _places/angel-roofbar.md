@@ -3,7 +3,7 @@ layout: place
 title: "Angel Roofbar"
 answer: "A rooftop terrace above Piazza della Repubblica with cocktails, a DJ later, and a view straight across the roofs to the dome."
 area: "Duomo"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€€"
 maps_q: "Angel Roofbar, Firenze"
 categories:

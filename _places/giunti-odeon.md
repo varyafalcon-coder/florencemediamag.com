@@ -4,7 +4,7 @@ title: Giunti Odeon
 answer: An Art Deco cinema inside a Renaissance palazzo, now half bookshop and half
   screening room, showing films in their original language.
 area: Duomo
-verified: August 2026
+verified: October 2026
 address: Piazza degli Strozzi
 price: €€
 categories:

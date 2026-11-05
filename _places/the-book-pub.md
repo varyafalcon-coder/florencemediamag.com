@@ -3,7 +3,7 @@ layout: place
 title: "The Book Pub"
 answer: "A small pub on Piazza Ghiberti behind the Sant'Ambrogio market, with books on the shelves, board games on the tables and a beer list that changes often."
 area: "Sant'Ambrogio"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€"
 categories:
   - "night heart of the city"

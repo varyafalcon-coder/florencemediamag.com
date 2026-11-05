@@ -4,7 +4,7 @@ title: Il Conventino Caffe Letterario
 answer: A cafe in the cloister of the former Santa Teresa monastery in Oltrarno, surrounded
   by working artisan studios, with a garden you can sit in all day.
 area: Oltrarno
-verified: August 2026
+verified: October 2026
 address: Via Giano della Bella 20
 price: €
 categories:

@@ -5,7 +5,7 @@ answer: A medieval fortress and prison holding Donatello's David, Michelangelo's
   and the best sculpture collection in the city, with a fraction of the queue at the
   Accademia.
 area: Centro
-verified: August 2026
+verified: October 2026
 price: €€
 maps_q: Museo Nazionale del Bargello, Firenze
 categories:

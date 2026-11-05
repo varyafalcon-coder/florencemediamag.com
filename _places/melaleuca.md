@@ -5,7 +5,7 @@ answer: 'An Australian bakery on the Arno that opens at half past seven and serv
   the breakfast Italy does not: eggs, sourdough, house smoked bacon, and a cinnamon
   roll people plan their morning around.'
 area: Santa Croce and Santa Maria Novella
-verified: August 2026
+verified: October 2026
 price: €
 categories:
 - nice cute places to eat at

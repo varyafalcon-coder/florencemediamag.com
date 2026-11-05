@@ -4,7 +4,7 @@ title: Green Store Pub, La Guerrina
 answer: An Irish style neighbourhood pub near the stadium with sixteen taps and a
   kitchen that stays open until two in the morning.
 area: Campo di Marte
-verified: August 2026
+verified: October 2026
 address: Viale Malta 1/r
 price: €€
 categories:

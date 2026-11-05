@@ -4,7 +4,7 @@ title: Birreria Art. 17
 answer: A craft beer bar on Borgo la Croce named after the article of the Italian
   constitution that guarantees the right to assemble peacefully.
 area: Sant'Ambrogio
-verified: August 2026
+verified: October 2026
 price: €€
 categories:
 - aperitivo

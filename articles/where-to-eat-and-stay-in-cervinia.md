@@ -4,7 +4,7 @@ title: "Where to eat and stay in Cervinia"
 permalink: /articles/where-to-eat-and-stay-in-cervinia/
 seo_title: "Where to eat and stay in Cervinia: huts, restaurants and hotels under the Matterhorn"
 seo_description: "Lunch on the slopes facing the Matterhorn, a dinner worth leaving the village for, and two hotels, one classic and one you can ski to the door of."
-answer: "For lunch on the slopes, Chalet Etoile at Plan Maison has been run by the same family since 1974 and faces the Matterhorn. For dinner, drive five minutes down to Les Neiges d'Antan. To stay, the Hermitage is the classic luxury chalet of Cervinia, and Baita Cretaz is a three star above 2,000 metres that you can ski to."
+answer: "Lunch on the slopes at Chalet Etoile facing the Matterhorn, dinner at Les Neiges d'Antan, a hotel you can ski to."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"

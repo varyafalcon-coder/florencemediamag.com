@@ -3,7 +3,7 @@ layout: place
 title: "Monte Ceceri"
 answer: "The hill above Fiesole where Leonardo is said to have tested his flying machine, with a loop walk through old sandstone quarries and a view down the Arno valley."
 area: "Fiesole"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Monte Ceceri, Fiesole"
 categories:
   - "a bit out of the city"

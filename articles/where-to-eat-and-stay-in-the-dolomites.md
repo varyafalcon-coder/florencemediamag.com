@@ -4,7 +4,7 @@ title: "Where to eat and stay in the Dolomites"
 permalink: /articles/where-to-eat-and-stay-in-the-dolomites/
 seo_title: "Where to eat and stay in the Dolomites: Val Gardena, Cortina, Madonna di Campiglio"
 seo_description: "For a ski weekend from Florence: two places to eat and one hotel in each of Val Gardena, Cortina and Madonna di Campiglio, from mountain huts to a farm restaurant."
-answer: "In Val Gardena, eat at Tubladel in Ortisei and have lunch at Rifugio Comici on the Sellaronda, then sleep at the ADLER in the centre of Ortisei. In Cortina, book El Brite de Larieto for dinner and Rifugio Scoiattoli at Cinque Torri for lunch, and stay at Hotel Serena by the Faloria cable car. In Madonna di Campiglio, Antico Focolare and Rifugio Graffer, with Hotel Alpina for a fair price in the middle of the village."
+answer: "A dinner, a mountain hut for lunch and a hotel in each of Val Gardena, Cortina and Madonna di Campiglio."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"

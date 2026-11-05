@@ -4,7 +4,7 @@ title: Museo Galileo
 answer: Globes, telescopes, early clocks and a great deal of brass, in a small museum
   next to the Uffizi that children get through in an hour.
 area: Santa Croce
-verified: August 2026
+verified: October 2026
 address: Piazza dei Giudici 1
 price: €€
 categories:

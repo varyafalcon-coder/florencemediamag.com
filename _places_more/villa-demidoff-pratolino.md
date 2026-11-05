@@ -3,7 +3,7 @@ layout: place
 title: "Parco Mediceo di Pratolino, Villa Demidoff"
 answer: "A Medici park north of the city built around the Appennino, a colossal stone giant by Giambologna crouching over a pool."
 area: "Outside the centre"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Parco Mediceo di Pratolino, Vaglia"
 categories:
   - "a bit out of the city"

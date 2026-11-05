@@ -4,7 +4,7 @@ title: Museo Stibbert
 answer: A Victorian collector's house on a hill north of the centre, with a hall of
   life sized armoured knights on horseback and a park with an Egyptian temple.
 area: Montughi
-verified: August 2026
+verified: October 2026
 address: Via Federico Stibbert 26
 price: €€
 categories:

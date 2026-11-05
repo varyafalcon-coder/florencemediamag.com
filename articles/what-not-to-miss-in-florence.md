@@ -3,7 +3,7 @@ layout: article
 title: "What should you not miss in Florence?"
 permalink: /articles/what-not-to-miss-in-florence/
 seo_title: "What should you not miss in Florence? An honest short list"
-seo_description: "Six things in Florence that are genuinely worth the time, what to book in advance, and the famous sights that are fine to skip. Checked in person, August 2026."
+seo_description: "Six things in Florence that are genuinely worth the time, what to book in advance, and the famous sights that are fine to skip. Checked in person, October 2026."
 answer: "Six things: the Duomo complex from outside, David at the Accademia, the Brancacci or the Bargello depending on your taste, sunset from somewhere that is not Piazzale Michelangelo, one Oltrarno evening, and one meal that costs under fifteen euro. Everything else is negotiable."
 toc:
   - label: "The Duomo, and which climb to pick"
@@ -36,7 +36,7 @@ faq:
   - q: "How much of this fits into two days?"
     a: "All of it, if you accept that the Uffizi is not on the list. Two days in Florence works well when you pick one big museum, not three."
 published_on: "2026-09-01"
-updated_on: "2026-09-02"
+updated_on: "2026-10-02"
 ---
 
 Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.

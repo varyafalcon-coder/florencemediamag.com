@@ -4,7 +4,7 @@ title: Habana 500
 answer: A Cuban bar on the river with loungers, a dance floor and a volleyball court,
   open through the summer and busiest after dark.
 area: Lungarno
-verified: August 2026
+verified: October 2026
 price: €€
 maps_q: Habana 500, Lungarno Pecori Giraldi, Firenze
 categories:

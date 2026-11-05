@@ -3,7 +3,7 @@ layout: place
 title: "Loggia Roofbar"
 answer: "A rooftop bar on the loggia of a palazzo in the centre, open in the warm months, with the Duomo close enough to feel oversized."
 area: "Duomo"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€€"
 maps_q: "Loggia Roofbar, Firenze"
 categories:

@@ -4,7 +4,7 @@ title: LEGO Certified Store
 answer: The LEGO shop on Via dei Calzaiuoli, with a Pick a Brick wall and a machine
   that turns a photograph of you into a brick mosaic.
 area: Duomo
-verified: August 2026
+verified: October 2026
 address: Via dei Calzaiuoli 67-71R
 price: €€
 categories:

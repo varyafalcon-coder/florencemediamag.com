@@ -3,7 +3,7 @@ layout: place
 title: "Camping in Town, Rovezzano"
 answer: "A campsite pool on the eastern edge of the city that sells day entry to anyone, not only to guests."
 area: "Outside the centre"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€"
 maps_q: "Camping in Town, Rovezzano, Firenze"
 categories:

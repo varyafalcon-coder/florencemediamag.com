@@ -5,7 +5,7 @@ answer: A small stone room off Via di Santo Spirito, pouring wine from tiny prod
   with a serious showing of natural bottles, alongside crostoni, cheese and cured
   meat.
 area: Santo Spirito
-verified: August 2026
+verified: October 2026
 price: €
 categories:
 - aperitivo

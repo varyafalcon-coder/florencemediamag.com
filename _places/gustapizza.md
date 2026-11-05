@@ -4,7 +4,7 @@ title: Gustapizza
 answer: Cheap, fast, sometimes heart shaped, and eaten sitting on the steps of Santo
   Spirito with a beer from the bar opposite.
 area: Santo Spirito
-verified: August 2026
+verified: October 2026
 price: €
 categories:
 - pizza worth crossing town for

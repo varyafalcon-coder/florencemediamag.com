@@ -4,7 +4,7 @@ title: "Where to eat and stay on the Cimone"
 permalink: /articles/where-to-eat-and-stay-on-the-cimone/
 seo_title: "Where to eat and stay on the Cimone: Sestola, Fanano and the slopes"
 seo_description: "The Cimone is tigelle and gnocco fritto country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat tigelle in Fanano."
-answer: "The Cimone is in the Modena mountains, which means tigelle, gnocco fritto and tortelloni rather than Tuscan food. For dinner, Locanda Zita in the medieval hamlet of Vesale near Sestola is the one to book, and it has rooms. To sleep at the lifts, Rifugio Calvanella is a small refuge hotel at Pian del Falco. For tigelle with local cured meats, Il Lido di Fanano."
+answer: "Tigelle and tortelloni, not Tuscan food. Dinner at Locanda Zita near Sestola, a bed at the lifts in Rifugio Calvanella."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"

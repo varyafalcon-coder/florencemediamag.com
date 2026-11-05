@@ -3,7 +3,7 @@ layout: place
 title: "Ditta Artigianale Lungarno"
 answer: "The riverside branch of the roastery that taught Florence to care about filter coffee, with a terrace and a long brunch menu."
 area: "Lungarno"
-verified: "August 2026"
+verified: "October 2026"
 price: "€€"
 categories:
   - "aperitivo"

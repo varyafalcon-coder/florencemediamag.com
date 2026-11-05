@@ -4,7 +4,7 @@ title: Le Murate Caffe Letterario
 answer: A cafe and bar in the courtyard of a former prison, now a cultural centre,
   with tables under the arches and events most weeks.
 area: Santa Croce
-verified: August 2026
+verified: October 2026
 price: €€
 categories:
 - aperitivo

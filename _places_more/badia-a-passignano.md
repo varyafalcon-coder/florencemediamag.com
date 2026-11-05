@@ -3,7 +3,7 @@ layout: place
 title: "Badia a Passignano"
 answer: "A fortified abbey standing alone among Chianti vineyards, with a Ghirlandaio Last Supper inside and cypress avenues around it."
 area: "Outside the centre"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Badia a Passignano, Tavarnelle Val di Pesa"
 categories:
   - "a bit out of the city"

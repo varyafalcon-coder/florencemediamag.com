@@ -4,7 +4,7 @@ title: Chalet Fontana
 answer: A literary cafe founded in 1896 on the hill road to Piazzale Michelangelo,
   with a garden, a vegetable plot and a restaurant behind it.
 area: Oltrarno
-verified: August 2026
+verified: October 2026
 address: Viale Galileo 7
 price: €€
 categories:

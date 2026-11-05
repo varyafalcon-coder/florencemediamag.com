@@ -4,7 +4,7 @@ title: "Where to eat in Ponte di Legno and on the Tonale"
 permalink: /articles/where-to-eat-and-stay-in-ponte-di-legno/
 seo_title: "Where to eat in Ponte di Legno and Passo del Tonale: restaurants, mountain huts and local dishes"
 seo_description: "Casoncelli, gnoc de la cua and Silter cheese. The restaurants worth booking in Ponte di Legno and Temù, the huts to stop at on the slopes of the Tonale, and which village to sleep in."
-answer: "Book dinner at Kro in Temù, a Michelin-listed restaurant in old stone stables, ten minutes below Ponte di Legno. In the village, Tipico Ponte di Legno and La Loggia cook the local dishes: casoncelli, gnoc de la cua, Silter cheese. On the slopes, Capanna Bleis at 2,525 metres on the Tonale side and Passo Paradiso on the way up to the Presena glacier. Sleep in Ponte di Legno for the village, on the Tonale for the snow."
+answer: "Dinner at Kro in Temù, local dishes in the village, lunch high up at Capanna Bleis on the Tonale side."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"

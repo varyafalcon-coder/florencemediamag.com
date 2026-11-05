@@ -4,7 +4,7 @@ title: Firenze Rafting
 answer: Two hours on the Arno, launching from the beach under Torre di San Niccolo
   and passing beneath the bridge everybody else is standing on.
 area: San Niccolo
-verified: August 2026
+verified: October 2026
 pin: 1
 maps: https://share.google/5t4USyFStBz823NL1
 price: €

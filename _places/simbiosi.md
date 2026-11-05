@@ -4,7 +4,7 @@ title: Simbiosi
 answer: An organic pizzeria on Via de' Ginori where the dough is left to rise slowly
   and the flour, oil and produce are traceable to named growers.
 area: San Lorenzo
-verified: August 2026
+verified: October 2026
 address: Via de' Ginori 56r
 price: €€
 categories:

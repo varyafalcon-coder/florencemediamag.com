@@ -4,7 +4,7 @@ title: La Menagere
 answer: A nineteenth century housewares shop turned flower shop, restaurant and cocktail
   bar, with live jazz in the cellar most nights.
 area: San Lorenzo
-verified: August 2026
+verified: October 2026
 address: Via de' Ginori 8r
 price: €€
 maps_q: La Menagere, Via de' Ginori, Firenze

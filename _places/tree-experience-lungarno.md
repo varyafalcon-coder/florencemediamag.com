@@ -4,7 +4,7 @@ title: Tree Experience Lungarno
 answer: An adventure park a few metres from the Arno, with rope courses, ziplines,
   suspended nets and jumping pillows, right in the middle of the city.
 area: Lungarno
-verified: August 2026
+verified: October 2026
 price: €€
 maps_q: Tree Experience, Lungarno Pecori Giraldi, Firenze
 categories:

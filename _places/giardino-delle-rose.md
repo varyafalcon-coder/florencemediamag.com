@@ -5,7 +5,7 @@ answer: The same panorama as Piazzale Michelangelo, one terrace lower and with a
   of the people. Free, with roses from May and bronze figures by Folon through the
   grounds.
 area: San Niccolo
-verified: August 2026
+verified: October 2026
 view_rank: 2
 maps_q: Giardino delle Rose, Firenze
 categories:

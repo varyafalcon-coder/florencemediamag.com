@@ -3,7 +3,7 @@ layout: place
 title: "Trattoria Za Za"
 answer: "A large trattoria on Piazza del Mercato Centrale, open since 1977, with eccentric rooms full of paintings and dolls, Tuscan classics, and a queue outside even for people who booked."
 area: "San Lorenzo"
-verified: "August 2026"
+verified: "October 2026"
 price: "€"
 categories:
   - "places with an old soul"

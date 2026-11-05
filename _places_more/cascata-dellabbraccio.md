@@ -3,7 +3,7 @@ layout: place
 title: "Cascata dell'Abbraccio"
 answer: "A waterfall in the Mugello where the stream wraps around the rock, reached by a short walk from the village and cold enough to swim in."
 area: "Outside the centre"
-verified: "August 2026"
+verified: "October 2026"
 maps_q: "Cascata dell'Abbraccio, Palazzuolo sul Senio"
 categories:
   - "a bit out of the city"
