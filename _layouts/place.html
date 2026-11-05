@@ -24,7 +24,7 @@ layout: default
   </figure>
   {% endif %}
 
-  <dl class="facts wide">
+  <dl class="glance placeglance">
     <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
     {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
     {% for f in page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
@@ -34,7 +34,7 @@ layout: default
 
   <div class="actions">
     {% if page.book_url %}<a class="btn btn-primary" href="{{ page.book_url }}" target="_blank" rel="noopener">{{ page.book_label | default: "Book now" }}</a>{% endif %}
-    {% unless page.addresses %}<a class="btn btn-ghost" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>{% endunless %}
+    {% unless page.addresses %}<a class="btn {% if page.book_url %}btn-ghost{% else %}btn-primary{% endif %}" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>{% endunless %}
   </div>
 
   {% if page.go_for or page.skip_if %}
