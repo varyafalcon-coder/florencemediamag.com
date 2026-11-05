@@ -7,7 +7,9 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 {%- assign allcats = site.data.categories.primary -%}
 {%- for grp in site.data.categories.groups -%}{%- assign allcats = allcats | concat: grp.items -%}{%- endfor -%}
 {%- comment -%} Order of the category buttons. The first eight show by default, eating first. {%- endcomment -%}
-{%- assign order = "nice cute places to eat at|places with an old soul|pizza worth crossing town for|aperitivo|night heart of the city|enjoy the view|do some outdoor activities|hide from the crowd|eat like a local for under 10 euro|real gelato, not the coloured stuff|drink wine somewhere real|see art without queueing|by the river|pools in the city|a bit out of the city|modern cafes to work at|to do with kids" | split: "|" -%}
+{%- assign outplaces = all_places | where_exp: "p", "p.categories contains 'a bit out of the city'" -%}
+{%- assign incount = all_places.size | minus: outplaces.size -%}
+{%- assign order = "nice cute places to eat at|places with an old soul|pizza worth crossing town for|aperitivo|night heart of the city|enjoy the view|do some outdoor activities|hide from the crowd|eat like a local for under 10 euro|real gelato, not the coloured stuff|drink wine somewhere real|see art without queueing|by the river|pools in the city|modern cafes to work at|to do with kids" | split: "|" -%}
 
 <div class="wrap hero">
   <h1>Florence, and everything within reach.</h1>
@@ -47,7 +49,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 
   <div class="resultbar">
     <h2 id="resulttitle">Everything in Florence</h2>
-    <span id="resultcount">{{ all_places | size }} places</span>
+    <span id="resultcount">{{ incount }} places</span>
     <button class="clearall" type="button" id="clearall" hidden>Clear</button>
   </div>
   <p id="guidelink" class="guidelink" hidden></p>
@@ -55,11 +57,11 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   <div class="grid" id="grid">
   {% assign pinned = all_places | where_exp: "p", "p.pin" | sort: "pin" %}
   {% assign rest = all_places | where_exp: "p", "p.pin == nil" %}
-  {% for p in pinned %}{% include place-card.html place=p %}{% endfor %}
-  {% for p in rest %}{% include place-card.html place=p %}{% endfor %}
+  {% for p in pinned %}{% unless p.categories contains "a bit out of the city" %}{% include place-card.html place=p %}{% endunless %}{% endfor %}
+  {% for p in rest %}{% unless p.categories contains "a bit out of the city" %}{% include place-card.html place=p %}{% endunless %}{% endfor %}
   </div>
-  <p class="empty" id="empty" hidden>Nothing here yet for that combination. Try one category instead of two, or tell us what you were looking for.</p>
-  <div class="moreline"><button class="morebtn" type="button" id="showall" hidden>Show all {{ all_places | size }} places</button></div>
+  <div class="emptybox" id="empty" hidden><p>No place has all of these yet.</p><button type="button" class="morebtn" id="emptyclear">Clear filters</button></div>
+  <div class="moreline"><button class="morebtn" type="button" id="showall" hidden>Show all {{ incount }} places</button></div>
 </section>
 
 <section class="wrap pane" id="from-florence" role="tabpanel" aria-labelledby="tab-out" hidden>
@@ -68,10 +70,11 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       <button class="pill" type="button" data-kind="eat" aria-pressed="false"><span class="em" aria-hidden="true">🍝</span> places to eat</button>
       <button class="pill" type="button" data-kind="stay" aria-pressed="false"><span class="em" aria-hidden="true">🛏️</span> places to stay</button>
       <button class="pill" type="button" data-kind="see" aria-pressed="false"><span class="em" aria-hidden="true">🏛️</span> things to see</button>
+      <button class="pill" type="button" data-kind="near" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> a bit out of the city</button>
       <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">🏔️</span> in the mountains</button>
     </div>
     <div class="pills pills-second" id="distpills">
-      <button class="pill" type="button" data-dist="hour" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> an hour or so</button>
+      <button class="pill" type="button" data-dist="hour" aria-pressed="false"><span class="em" aria-hidden="true">🚗</span> an hour or so</button>
       <button class="pill" type="button" data-dist="two" aria-pressed="false"><span class="em" aria-hidden="true">⛰️</span> around two hours</button>
       <button class="pill" type="button" data-dist="four" aria-pressed="false"><span class="em" aria-hidden="true">🏔️</span> four to five hours</button>
     </div>
@@ -88,25 +91,23 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     {% assign towns = site.data.trips | where: "dist", "hour" %}
     {% for t in towns %}{% include trip-card.html slug=t.slug %}{% endfor %}
 
-    {%- comment -%} Places on this site just outside the city, visited and dated {%- endcomment -%}
-    {% assign near = "walking-up-to-fiesole|settignano-and-the-desiderio-hills|villa-demidoff-pratolino|badia-a-passignano|vallombrosa-abbey-and-forest|cascata-dellacquacheta" | split: "|" %}
-    {% assign nearplace = "Fiesole|Settignano|Pratolino|Chianti|Vallombrosa|Romagna Apennines" | split: "|" %}
-    {% for slug in near %}{% assign tp = all_places | where_exp: "p", "p.slug == slug" | first %}{% if tp %}
-    <article class="card tripcard" data-dist="hour" data-kind="see">
+    {%- comment -%} Places on this site tagged "a bit out of the city": visited and dated {%- endcomment -%}
+    {% for tp in outplaces %}
+    <article class="card tripcard" data-dist="hour" data-kind="near">
       <span class="card-em" aria-hidden="true"><span>🌳</span></span>
-      <span class="tripkicker">{{ nearplace[forloop.index0] }} &middot; near Florence</span>
-      <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a></h3>
+      <span class="tripkicker">{{ tp.area }} &middot; a bit out of the city</span>
+      <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a>{% if tp.price %} <span class="pricetag">{{ tp.price }}</span>{% endif %}</h3>
       <p>{{ tp.answer }}</p>
     </article>
-    {% endif %}{% endfor %}
+    {% endfor %}
 
     {%- comment -%} Places in the ski areas, from _data/trips.yml {%- endcomment -%}
     {% assign ski = site.data.trips | where: "area", "ski" %}
     {% for t in ski %}{% include trip-card.html slug=t.slug %}{% endfor %}
   </div>
-  <p class="empty" id="tripempty" hidden>Nothing for that combination yet. Try one button instead of two.</p>
+  <div class="emptybox" id="tripempty" hidden><p>Nothing matches all of these yet.</p><button type="button" class="morebtn" id="tripclear">Clear filters</button></div>
   <div class="moreline"><button class="morebtn" type="button" id="tripsall" hidden>Show everything</button></div>
-  <p class="tripnote">Places outside the city are chosen from the Michelin guide, local tourist boards and recent reviews, and not all of them have been visited by us yet. The ones marked verified have.</p>
+  <p class="tripnote">Places outside the city are chosen from the Michelin guide, local tourist boards and recent reviews, and not all of them have been visited by us yet. The places marked 🌳 a bit out of the city have.</p>
 </section>
 
 <section class="method wrap">

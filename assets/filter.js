@@ -74,7 +74,9 @@
     if(query){ label = 'Search: ' + searchEl.value.trim(); }
     titleEl.textContent = label;
     countEl.textContent = n + (n === 1 ? ' place' : ' places') + (price ? ' at ' + price : '');
-    clearBtn.hidden = !filtering();
+    if(n === 0){ titleEl.textContent = 'No matches'; }
+    clearBtn.hidden = !filtering() || n === 0;
+    countEl.hidden = n === 0;
     emptyEl.hidden = n !== 0;
     showAllBtn.hidden = shown >= n;
 
@@ -110,6 +112,7 @@
     apply();
   });
   showAllBtn.addEventListener('click', function(){ expanded = true; apply(); });
+  document.getElementById('emptyclear').addEventListener('click', function(){ clearBtn.click(); });
 
   searchEl.addEventListener('input', function(){
     query = searchEl.value.trim().toLowerCase();
@@ -155,6 +158,8 @@
     distPills.forEach(function(p){ var on = dist.indexOf(p.getAttribute('data-dist')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ b.push(pillText(p)); } });
     var label = [a.join(' or '), b.join(' or ')].filter(Boolean).join(', ');
     tripTitle.textContent = label ? cap1(label) : 'Day trips and weekends';
+    if(n === 0){ tripTitle.textContent = 'No matches'; }
+    tripCount.hidden = n === 0;
     tripCount.textContent = n + (n === 1 ? ' result' : ' results');
     tripsAll.hidden = shown >= n;
     emptyTrips.hidden = n !== 0;
@@ -171,5 +176,6 @@
   kindPills.forEach(function(p){ p.addEventListener('click', toggler(kinds, 'data-kind')); });
   distPills.forEach(function(p){ p.addEventListener('click', toggler(dist, 'data-dist')); });
   tripsAll.addEventListener('click', function(){ tripsExpanded = true; applyTrips(); });
+  document.getElementById('tripclear').addEventListener('click', function(){ kinds.length = 0; dist.length = 0; applyTrips(); });
   applyTrips();
 })();

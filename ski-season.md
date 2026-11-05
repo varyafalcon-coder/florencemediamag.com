@@ -10,7 +10,7 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
 <div class="wrap hero skihero">
   <p class="axis">Ski season 2026/27</p>
   <h1>Ski season from Florence.</h1>
-  <p>Nine ski areas, two to five and a half hours away. Pick by what you want from the trip, not by the name.</p>
+  <p>Nine ski areas, 2 to 6 hours away. Pick by what you want from the trip.</p>
 </div>
 
 <section class="wrap">
@@ -45,7 +45,7 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
   </div>
   {% endfor %}
 
-  <p class="empty" id="skiempty" hidden>No single area does all of that. Try one button fewer.</p>
+  <div class="emptybox" id="skiempty" hidden><p>No ski area does all of these.</p><button type="button" class="morebtn" id="skiclear">Clear filters</button></div>
 
   <a class="skimore" href="{{ '/articles/skiing-from-florence/' | relative_url }}">
     <span class="kicker">The full comparison</span>
@@ -64,6 +64,7 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
   var tiers = document.querySelectorAll('.skitier');
   var empty = document.getElementById('skiempty');
   var active = [];
+  document.getElementById('skiclear').addEventListener('click', function(){ active.length = 0; apply(); });
   function apply(){
     var total = 0;
     cards.forEach(function(c){
