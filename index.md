@@ -71,12 +71,12 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       <button class="pill" type="button" data-kind="stay" aria-pressed="false"><span class="em" aria-hidden="true">🛏️</span> places to stay</button>
       <button class="pill" type="button" data-kind="see" aria-pressed="false"><span class="em" aria-hidden="true">🏛️</span> things to see</button>
       <button class="pill" type="button" data-kind="near" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> a bit out of the city</button>
-      <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">🏔️</span> in the mountains</button>
+      <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">⛷️</span> in the mountains</button>
     </div>
     <div class="pills pills-second" id="distpills">
       <button class="pill" type="button" data-dist="hour" aria-pressed="false"><span class="em" aria-hidden="true">🚗</span> an hour or so</button>
-      <button class="pill" type="button" data-dist="two" aria-pressed="false"><span class="em" aria-hidden="true">⛰️</span> around two hours</button>
-      <button class="pill" type="button" data-dist="four" aria-pressed="false"><span class="em" aria-hidden="true">🏔️</span> four to five hours</button>
+      <button class="pill" type="button" data-dist="two" aria-pressed="false"><span class="em" aria-hidden="true">⏳</span> around two hours</button>
+      <button class="pill" type="button" data-dist="four" aria-pressed="false"><span class="em" aria-hidden="true">🧳</span> four to five hours</button>
     </div>
   </div>
 

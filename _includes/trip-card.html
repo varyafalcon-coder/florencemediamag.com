@@ -1,7 +1,7 @@
 {%- assign t = site.data.trips | where: "slug", include.slug | first -%}
 {%- if t -%}
 <article class="card tripcard" data-dist="{{ t.dist }}" data-kind="{{ t.kind }}{% if t.area == 'ski' %} mountain{% endif %}">
-  <span class="card-em" aria-hidden="true"><span>{% case t.kind %}{% when "eat" %}🍝{% when "stay" %}🛏️{% else %}🏛️{% endcase %}</span>{% if t.area == "ski" %}<span>🏔️</span>{% endif %}</span>
+  <span class="card-em" aria-hidden="true"><span>{% case t.kind %}{% when "eat" %}🍝{% when "stay" %}🛏️{% else %}🏛️{% endcase %}</span>{% if t.area == "ski" %}<span>⛷️</span>{% endif %}</span>
   <span class="tripkicker">{{ t.place }} &middot; {{ t.time }} &middot; {{ t.kind }}</span>
   <h3><a href="{{ '/trips/' | append: t.slug | append: '/' | relative_url }}">{{ t.title }}</a>{% if t.price %} <span class="pricetag">{{ t.price }}</span>{% endif %}</h3>
   <p>{{ t.text }}</p>
