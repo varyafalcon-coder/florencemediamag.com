@@ -9,7 +9,6 @@ seo_description: "Guides to Florence that answer questions a list cannot: how to
 Some questions need more than a filter. These are written, checked on the ground, and dated.
 
 <div class="pills seasonpills" id="seasonpills" role="toolbar" aria-label="Seasons">
-  <button class="pill" type="button" data-season="all" aria-pressed="true"><span class="em" aria-hidden="true">✨</span> everything</button>
   <button class="pill" type="button" data-season="winter" aria-pressed="false"><span class="em" aria-hidden="true">❄️</span> winter</button>
   <button class="pill" type="button" data-season="summer" aria-pressed="false"><span class="em" aria-hidden="true">☀️</span> summer</button>
   <button class="pill" type="button" data-season="all-year" aria-pressed="false"><span class="em" aria-hidden="true">🗓️</span> all year</button>
@@ -124,6 +123,7 @@ Some questions need more than a filter. These are written, checked on the ground
   }
   pills.forEach(function(p){ p.addEventListener('click', function(){
     var v = p.getAttribute('data-season');
+    if(p.getAttribute('aria-pressed') === 'true'){ v = 'all'; }
     show(v);
     history.replaceState(null, '', v === 'all' ? location.pathname : '#' + v);
   }); });
