@@ -91,11 +91,6 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <div><p class="base-name">Pinzolo</p><p class="base-text">Lower, cheaper, linked by lift.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="hotel-alpina" %}
-</div>
 
 ## Where to eat
 

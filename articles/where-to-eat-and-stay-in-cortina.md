@@ -91,11 +91,6 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <div><p class="base-name">Outside town</p><p class="base-text">Quieter, a short drive, better prices.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="hotel-serena" %}
-</div>
 
 ## Where to eat
 

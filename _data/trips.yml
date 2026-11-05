@@ -119,40 +119,17 @@
   order: The tortelli, with ragù or butter and sage
   note: Phone before going in winter
   area: ski
-- title: Val di Luce Spa Resort
-  place: Abetone
-  dist: two
-  time: 1 h 50
-  kind: stay
-  text: Ski-in, ski-out at the foot of the Val di Luce runs, with a spa for afterwards.
-  maps_q: Val di Luce Spa Resort, Abetone
-  url: /articles/where-to-eat-and-stay-in-abetone/
-  slug: val-di-luce-spa-resort
-  price: €€€
-  note: Reopens for winter in December
-  area: ski
-- title: Hotel Bellavista
-  place: Abetone
-  dist: two
-  time: 1 h 50
-  kind: stay
-  text: A nineteenth century villa of a Florentine noble family, about a hundred metres from the lifts.
-  maps_q: Hotel Bellavista, Via Brennero 383, Abetone
-  url: /articles/where-to-eat-and-stay-in-abetone/
-  slug: hotel-bellavista
-  price: €€
-  area: ski
 - title: Locanda Zita
   place: Vesale, near Sestola
   dist: two
   time: 2 h 15
   kind: eat
-  text: A stone and wood inn in a medieval hamlet, with handmade tortelloni, game and crescentine, and rooms upstairs.
+  text: A stone and wood inn in a medieval hamlet, with handmade tortelloni, game and crescentine.
   maps_q: Locanda Zita, Piazza San Giorgio 6, Vesale, Sestola
   url: /articles/where-to-eat-and-stay-on-the-cimone/
   slug: locanda-zita
   order: Handmade tortelloni, crescentine
-  note: Eleven rooms upstairs. Closed Wednesday and Thursday
+  note: Closed Wednesday and Thursday
   area: ski
 - title: Il Lido di Fanano
   place: Fanano
@@ -165,17 +142,6 @@
   slug: il-lido-di-fanano
   order: Tigelle with local cured meats
   note: Hours change through the winter
-  area: ski
-- title: Rifugio Calvanella
-  place: Pian del Falco, Cimone
-  dist: two
-  time: 2 h 15
-  kind: stay
-  text: Five rooms and a restaurant a minute from the slopes. On the snow before the day trippers have parked.
-  maps_q: Rifugio Calvanella, Via Pian del Falco 109, Sestola
-  url: /articles/where-to-eat-and-stay-on-the-cimone/
-  slug: rifugio-calvanella
-  price: €€
   area: ski
 - title: Kro
   place: Temù, Ponte di Legno
@@ -260,17 +226,6 @@
   order: The seafood platter
   note: Book for lunch in high season
   area: ski
-- title: ADLER Spa Resort Dolomiti
-  place: Ortisei, Val Gardena
-  dist: four
-  time: 4 h
-  kind: stay
-  text: The big spa hotel of the valley, in the pedestrian centre and a walk from the Seceda lifts.
-  maps_q: ADLER Spa Resort Dolomiti, Ortisei
-  url: /articles/where-to-eat-and-stay-in-val-gardena/
-  slug: adler-spa-resort-dolomiti
-  price: €€€
-  area: ski
 - title: El Brite de Larieto
   place: Cortina d'Ampezzo
   dist: four
@@ -295,18 +250,6 @@
   order: Ampezzo dishes
   note: 42 seats. Phone +39 0436 867939
   area: ski
-- title: Hotel Serena
-  place: Cortina d'Ampezzo
-  dist: four
-  time: 4 h 30
-  kind: stay
-  text: A long-running three star with half board, a walk from the Faloria cable car.
-  maps_q: Hotel Serena, Via Faloria 8, Cortina d'Ampezzo
-  url: /articles/where-to-eat-and-stay-in-cortina/
-  slug: hotel-serena
-  price: €€
-  note: Half board
-  area: ski
 - title: Rifugio Graffer
   place: Madonna di Campiglio
   dist: four
@@ -317,17 +260,6 @@
   url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
   slug: rifugio-graffer
   note: A refuge of the Trentino Alpine Club, with a restaurant and self service
-  area: ski
-- title: Hotel Alpina
-  place: Madonna di Campiglio
-  dist: four
-  time: 4 h 15
-  kind: stay
-  text: A three star in the middle of the village, known for fair prices in a town that mostly is not.
-  maps_q: Hotel Alpina, Madonna di Campiglio
-  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
-  slug: hotel-alpina
-  price: €€
   area: ski
 - title: Chalet Etoile
   place: Plan Maison, Cervinia
@@ -352,17 +284,6 @@
   slug: les-neiges-dantan
   note: Five minutes by car, or the hotel shuttle if you stay
   area: ski
-- title: Baita Cretaz
-  place: Cervinia
-  dist: four
-  time: 5 h
-  kind: stay
-  text: A three star above 2,000 metres that you can ski to the door of, with a Matterhorn terrace.
-  maps_q: Baita Cretaz, Località Campetto 1, Breuil-Cervinia
-  url: /articles/where-to-eat-and-stay-in-cervinia/
-  slug: baita-cretaz
-  price: €€
-  area: ski
 - title: Capanna Valbione
   place: Ponte di Legno
   dist: four
@@ -384,17 +305,6 @@
   url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
   slug: ristorante-antico-focolare
   price: €€
-  area: ski
-- title: Hotel Hermitage
-  place: Cervinia
-  dist: four
-  time: 5 h
-  kind: stay
-  text: The classic luxury chalet of Cervinia, with La Chandelle restaurant and its cheese trolley.
-  maps_q: Hotel Hermitage, Via Piolet 1, Breuil-Cervinia
-  url: /articles/where-to-eat-and-stay-in-cervinia/
-  slug: hotel-hermitage
-  price: €€€
   area: ski
 - title: Kosmo Taste the Mountain
   place: Livigno, Mottolino
@@ -509,7 +419,7 @@
   maps_q: Rifugio Averau, Cortina d'Ampezzo
   url: /articles/where-to-eat-and-stay-in-cortina/
   slug: rifugio-averau
-  note: Book for lunch. It has rooms too
+  note: Book for lunch
   area: ski
 - title: Rifugio Lagazuoi
   place: Lagazuoi, Cortina

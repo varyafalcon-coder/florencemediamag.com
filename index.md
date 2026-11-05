@@ -68,7 +68,6 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   <div class="filters">
     <div class="pills" id="kindpills">
       <button class="pill" type="button" data-kind="eat" aria-pressed="false"><span class="em" aria-hidden="true">🍝</span> places to eat</button>
-      <button class="pill" type="button" data-kind="stay" aria-pressed="false"><span class="em" aria-hidden="true">🛏️</span> places to stay</button>
       <button class="pill" type="button" data-kind="see" aria-pressed="false"><span class="em" aria-hidden="true">🏛️</span> things to see</button>
       <button class="pill" type="button" data-kind="near" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> a bit out of the city</button>
       <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">⛷️</span> in the mountains</button>

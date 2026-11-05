@@ -76,7 +76,6 @@ Ortisei has the evenings, Selva the skiing. <a href="/articles/where-to-eat-and-
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-emilio-comici" %}
 {% include trip-card.html slug="tubladel" %}
-{% include trip-card.html slug="adler-spa-resort-dolomiti" %}
 </div>
 
 ## Cortina d'Ampezzo
@@ -86,7 +85,6 @@ The most beautiful skiing here, at Cinque Torri. <a href="/articles/where-to-eat
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-scoiattoli" %}
 {% include trip-card.html slug="el-brite-de-larieto" %}
-{% include trip-card.html slug="hotel-serena" %}
 </div>
 
 ## Madonna di Campiglio
@@ -96,7 +94,6 @@ The sharp, dark Brenta Dolomites. <a href="/articles/where-to-eat-and-stay-in-ma
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-graffer" %}
 {% include trip-card.html slug="ristorante-antico-focolare" %}
-{% include trip-card.html slug="hotel-alpina" %}
 </div>
 
 ## What to order

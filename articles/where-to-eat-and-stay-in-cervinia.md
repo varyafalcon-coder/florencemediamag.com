@@ -32,8 +32,8 @@ toc:
 faq:
   - q: "Where should you have lunch on the slopes in Cervinia?"
     a: "Chalet Etoile at Plan Maison, open for lunch from 12:00 to 16:00, with Aosta Valley dishes and a big terrace facing the Matterhorn."
-  - q: "Can you ski to your hotel in Cervinia?"
-    a: "Yes, at Baita Cretaz, a three star above 2,000 metres at Località Campetto, on the slopes."
+  - q: "Where should you stay in Cervinia?"
+    a: "In Breuil-Cervinia for the lifts on foot, on the slopes above 2,000 metres to ski to the door, or lower down in Valtournenche for a quieter, cheaper base."
   - q: "When does Cervinia open?"
     a: "It is planned to open on 24 October 2026, one of the earliest openings in Europe, because the lifts reach about 3,500 metres."
 ---
@@ -91,12 +91,6 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <div><p class="base-name">Valtournenche</p><p class="base-text">Quieter and cheaper, a lift up.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="hotel-hermitage" %}
-{% include trip-card.html slug="baita-cretaz" %}
-</div>
 
 ## Where to eat
 

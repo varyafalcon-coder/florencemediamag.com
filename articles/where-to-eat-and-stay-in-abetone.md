@@ -32,8 +32,8 @@ toc:
 faq:
   - q: "Where is the best place to eat near Abetone?"
     a: "In Cutigliano, about fifteen minutes below the pass. Trattoria da Fagiolino has a Michelin Bib Gourmand in the 2026 guide and cooks Tuscan mountain food: handmade pasta, mushrooms, game."
-  - q: "Is there a hotel on the slopes at Abetone?"
-    a: "Yes. Val di Luce Spa Resort sits at the foot of the Val di Luce runs, so you walk from the hotel onto the snow. In Abetone village, Hotel Bellavista is about 100 metres from the lifts."
+  - q: "Where should you stay at Abetone?"
+    a: "In Abetone village for the lifts in the square, in Val di Luce to ski from the door, or in Cutigliano for a quieter village with the good restaurants."
   - q: "Can you do Abetone as a day trip from Florence?"
     a: "Yes. It is about an hour and fifty minutes by car. Leave by seven and you are on the lifts before ten, and back in Florence for the evening."
 ---
@@ -91,12 +91,6 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <div><p class="base-name">Cutigliano</p><p class="base-text">Quieter, a real village, the good restaurants.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="val-di-luce-spa-resort" %}
-{% include trip-card.html slug="hotel-bellavista" %}
-</div>
 
 ## Where to eat
 

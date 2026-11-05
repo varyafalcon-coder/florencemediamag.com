@@ -91,11 +91,6 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <div><p class="base-name">Santa Cristina</p><p class="base-text">In between, quieter.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="adler-spa-resort-dolomiti" %}
-</div>
 
 ## Where to eat
 

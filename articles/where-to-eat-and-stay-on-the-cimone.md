@@ -32,8 +32,8 @@ toc:
 faq:
   - q: "What is the typical food on the Cimone?"
     a: "Tigelle, also called crescentine: small round breads cooked between hot discs and filled with lard, rosemary, garlic and Parmigiano. Also borlenghi, very thin crêpes, gnocco fritto, tortelloni and mushrooms."
-  - q: "Where can you stay at the lifts on the Cimone?"
-    a: "Rifugio Calvanella at Pian del Falco is a small refuge hotel with five rooms and its own restaurant, about a minute's walk from the slopes."
+  - q: "Where should you stay on the Cimone?"
+    a: "In Sestola, the main village with the lifts above it, at the Pian del Falco base to be first on the snow, or in Vesale and Fanano for quieter, older villages."
   - q: "Is Sestola or Fanano the better base?"
     a: "Sestola is the main village, with more hotels and the Passo del Lupo and Pian del Falco lifts above it. Fanano is quieter and closer to the Cimoncino side."
 ---
@@ -74,8 +74,8 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <ol class="dayplan">
 <li><span class="when">Morning</span><span class="what">Start at Passo del Lupo above Sestola.</span></li>
 <li><span class="when">Lunch</span><span class="what">Tigelle in a hut on the slopes. Order more than you think.</span></li>
-<li><span class="when">Afternoon</span><span class="what">Last run down to Pian del Falco and <a href="/trips/rifugio-calvanella/">Rifugio Calvanella</a>.</span></li>
-<li><span class="when">Evening</span><span class="what">Dinner at <a href="/trips/locanda-zita/">Locanda Zita</a> in Vesale, and sleep upstairs.</span></li>
+<li><span class="when">Afternoon</span><span class="what">Last run down to Pian del Falco.</span></li>
+<li><span class="when">Evening</span><span class="what">Dinner at <a href="/trips/locanda-zita/">Locanda Zita</a> in the medieval hamlet of Vesale.</span></li>
 </ol>
 
 ## Where to stay
@@ -92,12 +92,6 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <div><p class="base-name">Vesale and Fanano</p><p class="base-text">Quieter, older, the good food.</p></div>
 </div>
 
-<p class="picklabel">Other places to stay</p>
-
-<div class="grid tripcards">
-{% include trip-card.html slug="rifugio-calvanella" %}
-{% include trip-card.html slug="locanda-zita" %}
-</div>
 
 ## Where to eat
 
