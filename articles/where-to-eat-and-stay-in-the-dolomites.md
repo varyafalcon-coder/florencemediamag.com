@@ -13,6 +13,8 @@ verify_note: "Places were chosen from the Michelin guide, Gambero Rosso and the 
 toc:
   - label: "Which valley"
     id: "which-valley"
+  - label: "Where to stay"
+    id: "where-to-stay"
   - label: "Val Gardena"
     id: "val-gardena"
   - label: "Cortina d'Ampezzo"
@@ -21,6 +23,8 @@ toc:
     id: "madonna-di-campiglio"
   - label: "What to order"
     id: "what-to-order"
+  - label: "Getting there"
+    id: "getting-there"
   - label: "Before you go"
     id: "before-you-go"
   - label: "Quick answers"
@@ -36,23 +40,38 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 to 4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>A long weekend, big terrain</dd></div>
-<div><dt>Day pass</dt><dd>75 to 89 €</dd></div>
+<div><dt>Day pass</dt><dd>75 to 89&nbsp;€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to April</dd></div>
 </dl>
+
+<div class="bignums">
+<div><span class="bn">1,200 km</span><span class="bl">on one Dolomiti Superski pass</span></div>
+<div><span class="bn">3</span><span class="bl">valleys, three weekends</span></div>
+<div><span class="bn">4 h</span><span class="bl">from Florence</span></div>
+<div><span class="bn">By train</span><span class="bl">to all three</span></div>
+</div>
 
 ## Which valley
 
 <p class="lede">Choose the valley first, then the hut.</p>
 
-<ul class="tips">
-<li><strong>Val Gardena</strong> if it is your first time in the Dolomites, or you want to get there by train.</li>
-<li><strong>Cortina</strong> for the most beautiful scenery and an elegant town. The most expensive of the three.</li>
-<li><strong>Madonna di Campiglio</strong> for perfectly groomed slopes and a stylish, compact village.</li>
-</ul>
+<ol class="ladder">
+<li><span class="alt">4 h</span><span class="lname">Val Gardena</span><span class="ldesc">Your first time in the Dolomites, or arriving by train. Wooden villages and the Sellaronda.</span></li>
+<li><span class="alt">4 h 30</span><span class="lname">Cortina d'Ampezzo</span><span class="ldesc">The most beautiful scenery and an elegant town. The most expensive of the three.</span></li>
+<li><span class="alt">4 h 15</span><span class="lname">Madonna di Campiglio</span><span class="ldesc">Perfectly groomed slopes and a stylish, compact village.</span></li>
+</ol>
+
+## Where to stay
+
+<div class="soon">
+<span class="soon-badge">In progress</span>
+<p class="soon-title">🛏️ Our hotel pick in the Dolomites</p>
+<p class="soon-text">We are choosing a hotel in the Dolomites to stay at this winter. Our recommendation, with an honest review, will appear here soon.</p>
+</div>
 
 ## Val Gardena
 
-Train to Bolzano, bus 350 to Ortisei. Ortisei has the evenings, Selva the skiing.
+Ortisei has the evenings, Selva the skiing.
 
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-emilio-comici" %}
@@ -62,7 +81,7 @@ Train to Bolzano, bus 350 to Ortisei. Ortisei has the evenings, Selva the skiing
 
 ## Cortina d'Ampezzo
 
-Olympic slopes and the most beautiful skiing on this page, at Cinque Torri. Expect a bus between areas.
+The most beautiful skiing here, at Cinque Torri. Expect a bus between areas.
 
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-scoiattoli" %}
@@ -89,14 +108,21 @@ The sharp, dark Brenta Dolomites, and a village you can walk around all weekend.
 <div><dt>Kaiserschmarrn</dt><dd>A torn, sugared pancake with jam.</dd></div>
 </dl>
 
+## Getting there
+
+<dl class="glance glance2">
+<div><dt>By car</dt><dd>4 to 4 h 30</dd></div>
+<div><dt>By train</dt><dd>Val Gardena: Bolzano, then bus 350. Campiglio: Trento, then bus. Cortina: Calalzo or Venice Mestre, then bus</dd></div>
+</dl>
+
 ## Before you go
 
 <ul class="tips">
 <li>Book the famous huts a day or two ahead in high season.</li>
 <li>The Dolomiti Superski pass is 5% cheaper bought online two days ahead.</li>
-<li>No car: train to Bolzano, Trento or Calalzo, then bus.</li>
+<li>Winter tyres or chains on board are required on most mountain roads from 15 November to 15 April.</li>
 </ul>
 
 <div class="callout">
-<p>See how they compare: <a href="/ski-season/">our ski season page</a>.</p>
+<p>See how it compares with the other ski areas: <a href="/ski-season/">our ski season page</a>.</p>
 </div>
