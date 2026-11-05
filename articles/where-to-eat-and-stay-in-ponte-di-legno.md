@@ -32,7 +32,7 @@ faq:
   - q: "What is the typical food in Ponte di Legno?"
     a: "Casoncelli, a filled pasta from the Brescia mountains, gnoc de la cua, the village's own soft gnocchi, Silter, the protected cheese of Val Camonica, and polenta with game or mushrooms."
   - q: "Is it better to stay in Ponte di Legno or at Passo del Tonale?"
-    a: "Ponte di Legno for a real village with restaurants and evenings, Passo del Tonale for snow at the door and the shortest way to the glacier. The two are joined by lifts, so you can ski both from either."
+    a: "Ponte di Legno for a real village with restaurants and evenings, Passo del Tonale if you want to step out of the hotel straight onto the slopes, with the gondola to the glacier right there. The two are joined by lifts, so you can ski both from either."
   - q: "How much is a ski pass at Pontedilegno-Tonale in 2026/27?"
     a: "A day costs from 52 euro, and 70 euro at peak dates: 26 December to 10 January and the whole of February. On most other days there is a 10 euro discount on the adult day pass."
 ---
@@ -73,7 +73,7 @@ Below, Ponte di Legno: stone houses, a church square, real evenings. Above, Pass
 
 <ul class="tips">
 <li><strong>Ponte di Legno</strong> for the village and the evenings.</li>
-<li><strong>Passo del Tonale</strong> for snow at the door and the glacier one gondola away.</li>
+<li><strong>Passo del Tonale</strong> if you want to step out of the hotel straight onto the slopes. The gondola up to the glacier starts here too.</li>
 <li><strong>Temù</strong> for quieter and cheaper, with Kro around the corner.</li>
 </ul>
 
