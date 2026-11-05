@@ -693,3 +693,18 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .article .body .skiarea-fit p.fit-text{margin:0;font-size:16px;line-height:1.5}
 .article .body .skiarea-fit p.skiarea-label{margin:0 0 6px;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
 .article .body .skiarea-tags a{text-decoration:none}
+
+/* ---------- ski photos (Wikimedia Commons, credited) ---------- */
+.skicard-photo{display:block;width:calc(100% + 2 * clamp(22px,2.8vw,32px));max-width:none;
+  margin:calc(-1 * clamp(22px,2.8vw,32px)) calc(-1 * clamp(22px,2.8vw,32px)) clamp(16px,2vw,20px);
+  aspect-ratio:16/9;height:auto;object-fit:cover;background:var(--line)}
+.skicard-credit{position:relative;z-index:2;margin:12px 0 0;font-size:11px;line-height:1.45;color:var(--ink-soft);max-width:none}
+.article .body .skicard p.skicard-credit{margin:12px 0 0;font-size:11px;line-height:1.45}
+.skicard-credit a,.skiphoto figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.skiphoto{margin:0 0 clamp(22px,3vw,32px)}
+.skiphoto img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:var(--card)}
+.skiphoto figcaption{margin-top:9px;font-size:12.5px;line-height:1.5;color:var(--ink-soft)}
+@media (max-width:640px){
+  .skiphoto{margin-inline:calc(-1 * var(--pad))}
+  .skiphoto figcaption{padding-inline:var(--pad)}
+}

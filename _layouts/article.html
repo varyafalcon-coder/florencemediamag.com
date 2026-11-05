@@ -3,6 +3,13 @@ layout: default
 ---
 <article class="wrap doc article{% if page.look %} look-{{ page.look }}{% endif %}">
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <a href="{{ '/articles/' | relative_url }}">Articles</a> / <span>{{ page.title }}</span></nav>
+  {%- assign skiarea = site.data.ski.areas | where: "guide", page.url | first -%}
+  {% if skiarea.photo %}
+  <figure class="skiphoto">
+    <img src="{{ skiarea.photo | relative_url }}" width="1280" height="720" alt="{{ skiarea.photo_alt | default: skiarea.name }}" fetchpriority="high" decoding="async">
+    {% if skiarea.photo_credit %}<figcaption>{{ skiarea.photo_credit }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
   <h1>{{ page.title }}</h1>
   {% if page.answer %}<p class="answer">{{ page.answer }}</p>{% endif %}
   <p class="byline">By Florence Media &middot; Updated {{ page.updated_on | default: "2026-10-02" | date: "%-d %B %Y" }}</p>

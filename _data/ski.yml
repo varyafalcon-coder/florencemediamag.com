@@ -19,6 +19,9 @@ areas:
     want: [family, value, food]
     guide: "/articles/where-to-eat-and-stay-in-abetone/"
     guide_label: "Abetone: a day on the snow from Florence"
+    photo: "/assets/photos/ski/abetone.jpg"
+    photo_alt: "Snowy fir forest at Abetone on a sunny day"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Neve_Foresta_Abetone.jpg">Albertolai</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
   - id: corno
     short: "Small, wild and often empty, inside a regional park."
@@ -37,6 +40,9 @@ areas:
     want: [quiet, value]
     guide: "/articles/where-to-eat-and-stay-at-corno-alle-scale/"
     guide_label: "Corno alle Scale: small, wild and quiet"
+    photo: "/assets/photos/ski/corno.jpg"
+    photo_alt: "Snow-covered ridge of Corno alle Scale"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Corno_alle_Scale_winter.jpg">Lapillo Primo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
   - id: cimone
     short: "The biggest in the Apennines, with tigelle in the huts."
@@ -55,6 +61,9 @@ areas:
     want: [value, food, family]
     guide: "/articles/where-to-eat-and-stay-on-the-cimone/"
     guide_label: "The Cimone: skiing with the best food in the Apennines"
+    photo: "/assets/photos/ski/cimone.jpg"
+    photo_alt: "A groomed run on the Cimone under a clear sky"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_innevata_Cimone.jpg">Cosmochiarabo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
   - id: valgardena
     short: "Ladin villages, the Sellaronda, and you can come by train."
@@ -73,6 +82,9 @@ areas:
     want: [big, nocar, food, apres, family]
     guide: "/articles/where-to-eat-and-stay-in-val-gardena/"
     guide_label: "Val Gardena: wooden villages and the Sellaronda"
+    photo: "/assets/photos/ski/valgardena.jpg"
+    photo_alt: "Groomed run on the Seceda with the Sassolungo behind"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Groomed_skirun_from_Seceda_Val_Gardena.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -91,6 +103,9 @@ areas:
     want: [big, apres, nocar]
     guide: "/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"
     guide_label: "Madonna di Campiglio: polished slopes under the Brenta"
+    photo: "/assets/photos/ski/campiglio.jpg"
+    photo_alt: "The Madonna di Campiglio ski area under the Brenta Dolomites"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Skiarea_campiglio.jpg">Manuel Righi</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -109,6 +124,9 @@ areas:
     want: [snow, value, family, quiet, big, nocar]
     guide: "/articles/where-to-eat-and-stay-in-ponte-di-legno/"
     guide_label: "Ponte di Legno and the Tonale: a weekend on the snow"
+    photo: "/assets/photos/ski/pontedilegno.jpg"
+    photo_alt: "The Tonale ski area seen from the Presena glacier"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Glacier_%28Ghiacciaio%29_Presena_view_from_ski_resort_Tonale_%2Cgroup_of_Cevedale_and_Bernina.jpg_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
 
   - id: cortina
     short: "The glamour resort, with the most beautiful scenery."
@@ -145,6 +163,9 @@ areas:
     want: [snow, big, apres, family, nocar]
     guide: "/articles/where-to-eat-and-stay-in-cervinia/"
     guide_label: "Cervinia: skiing under the Matterhorn"
+    photo: "/assets/photos/ski/cervinia.jpg"
+    photo_alt: "The Matterhorn above the Pancheron chairlift at Cervinia"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cervino_%2B_seggiovia_Pancheron.JPG">SteGrifo27</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
 
   - id: livigno
     short: "Young, cold, snow-sure, with the liveliest nights."
@@ -163,6 +184,9 @@ areas:
     want: [apres, snow, big]
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"
+    photo: "/assets/photos/ski/livigno.jpg"
+    photo_alt: "Snowy slopes of the Mottolino ski area above Livigno"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_area_Mottolino_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }

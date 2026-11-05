@@ -1,12 +1,14 @@
 {%- assign ski = site.data.ski -%}
 {%- assign a = ski.areas | where: "id", include.id | first -%}
 {%- if a -%}
-<article class="skicard" id="{{ a.id }}" data-want="{{ a.want | join: ' ' }}">
+<article class="skicard{% if a.photo %} has-photo{% endif %}" id="{{ a.id }}" data-want="{{ a.want | join: ' ' }}">
   <span class="card-em" aria-hidden="true">{% for k in a.want limit: 3 %}{% assign w = ski.wants | where: "key", k | first %}<span>{{ w.emoji }}</span>{% endfor %}</span>
+  {% if a.photo %}<img class="skicard-photo" src="{{ a.photo | replace: '.jpg', '-640.jpg' | relative_url }}" srcset="{{ a.photo | replace: '.jpg', '-640.jpg' | relative_url }} 640w, {{ a.photo | relative_url }} 1280w" sizes="(max-width: 800px) 100vw, 560px" width="640" height="360" alt="" loading="lazy" decoding="async">{% endif %}
   <p class="skicard-kicker">{{ a.region }}</p>
   <h3><a href="{{ a.guide | relative_url }}">{{ a.name }}</a></h3>
   <p class="skicard-time"><strong>{{ a.car }}</strong> by car &middot; {{ a.top }} top</p>
   <p class="skicard-vibe">{{ a.short }}</p>
   <span class="skicard-more">Read more</span>
+  {% if a.photo_credit %}<p class="skicard-credit">{{ a.photo_credit }}</p>{% endif %}
 </article>
 {%- endif -%}
