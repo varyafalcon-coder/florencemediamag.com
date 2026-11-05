@@ -3,7 +3,7 @@ layout: page
 title: About Florence Media
 permalink: /about/
 seo_title: "About Florence Media. Who writes this and why"
-seo_description: "Florence Media is written and checked in Florence. Every place is visited in person and carries the date it was last checked. No paid listings, no affiliate links."
+seo_description: "Florence Media is written and checked in Florence. Every place is visited in person and carries the date it was last checked."
 ---
 
 Florence Media is a guide to Florence written in English and checked on the ground.

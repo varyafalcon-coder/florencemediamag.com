@@ -623,3 +623,5 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .placenote{margin-top:16px;font-size:15.5px;line-height:1.55;max-width:64ch;color:var(--ink-soft)}
 .placenote strong{color:var(--ink)}
 .skiarea > .skimore,.doc > .skimore{margin-top:clamp(20px,2.6vw,28px);max-width:64ch}
+.cols2{grid-template-columns:repeat(2,1fr)}
+@media (max-width:640px){.cols2{grid-template-columns:1fr}}

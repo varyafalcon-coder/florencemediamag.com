@@ -112,9 +112,8 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 
 <section class="method wrap">
   <h2>Why anything here is worth trusting</h2>
-  <div class="cols3">
+  <div class="cols3 cols2">
     <div><h3>Every place carries a date</h3><p>Nothing is listed without the day somebody stood in it. If a place has not been checked in six months it comes off the site until it is.</p></div>
-    <div><h3>No paid placement</h3><p>Nobody buys a listing and nothing here is affiliate. Bookings go straight to the operator.</p></div>
     <div><h3>Sorted by intent, not category</h3><p>People do not search for restaurants. They search for somewhere quiet, somewhere cheap, somewhere with a view.</p></div>
   </div>
 </section>

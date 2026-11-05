@@ -3,7 +3,7 @@ layout: page
 title: How every place on this site is checked
 permalink: /how-we-verify/
 seo_title: "How every place on Florence Media is checked"
-seo_description: "Each entry is visited in person and dated. Anything not checked in six months comes off the site. Nothing here is paid for and nothing is affiliate."
+seo_description: "Each entry is visited in person and dated. Anything not checked in six months comes off the site."
 answer: "Every place on Florence Media was visited in person. Each entry carries the date it was last checked, and if that date is more than six months old the entry comes off the site until somebody goes back."
 ---
 
@@ -15,9 +15,9 @@ Going there. Standing in the room, ordering something, looking at the opening ho
 
 Times of day described as best or quietest are our own observations across a season, not data. Seasonal openings change every year. Anything that depends on a specific evening, a specific member of staff or the weather is not a fact and is not presented as one.
 
-## Nothing here is paid for
+## When we are hosted
 
-No place has paid to be listed and none can. There are no affiliate links and no commission on bookings. Where there is any other connection to a business, that connection is written on the entry itself, in plain text, not in a footer.
+Where we have a connection to a place, for example when a hotel has hosted our stay, it is written on the entry itself, in plain text, not hidden in a footer.
 
 ## Corrections and closures
 
