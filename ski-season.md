@@ -32,14 +32,7 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
     </div>
     <div class="skigrid">
       {% for a in list %}
-      <article class="skicard" id="{{ a.id }}" data-want="{{ a.want | join: ' ' }}">
-        <span class="card-em" aria-hidden="true">{% for k in a.want limit: 3 %}{% assign w = ski.wants | where: "key", k | first %}<span>{{ w.emoji }}</span>{% endfor %}</span>
-        <p class="skicard-kicker">{{ a.region }}</p>
-        <h3><a href="{{ '/ski-season/' | append: a.id | append: '/' | relative_url }}">{{ a.name }}</a></h3>
-        <p class="skicard-time"><strong>{{ a.car }}</strong> by car &middot; {{ a.top }} top</p>
-        <p class="skicard-vibe">{{ a.short }}</p>
-        <span class="skicard-more">Read more</span>
-      </article>
+      {% include ski-card.html id=a.id %}
       {% endfor %}
     </div>
   </div>
