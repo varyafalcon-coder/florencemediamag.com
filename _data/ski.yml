@@ -20,8 +20,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-abetone/"
     guide_label: "Abetone: a day on the snow from Florence"
     photo: "/assets/photos/ski/abetone.jpg"
-    photo_alt: "Snowy fir forest at Abetone on a sunny day"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Neve_Foresta_Abetone.jpg">Albertolai</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
+    photo_alt: "Snow on Monte Gomito above the Selletta hut at Abetone"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Monte_Gomito_e_rifugio_della_Selletta.JPG">Innocenti.rob</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
 
   - id: corno
     short: "Small, wild and often empty, inside a regional park."
@@ -145,6 +145,9 @@ areas:
     want: [apres, big, food, nocar]
     guide: "/articles/where-to-eat-and-stay-in-cortina/"
     guide_label: "Cortina: the most beautiful skiing in the Dolomites"
+    photo: "/assets/photos/ski/cortina.jpg"
+    photo_alt: "The Cinque Torri ski area above Cortina in winter"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."

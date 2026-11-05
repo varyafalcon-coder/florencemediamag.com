@@ -66,11 +66,13 @@ Some questions need more than a filter. These are written, checked on the ground
     <span class="meta">Researched November 2026</span>
     {% include ski-thumb.html id="valgardena" part="credit" %}
   </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-cortina/">
+  <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-cortina/">
+    {% include ski-thumb.html id="cortina" %}
     <span class="kicker">Ski guide</span>
     <h2>Cortina: the most beautiful skiing in the Dolomites</h2>
     <p>Lagazuoi, Cinque Torri, Rifugio Averau and a Michelin star in town.</p>
     <span class="meta">Researched November 2026</span>
+    {% include ski-thumb.html id="cortina" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">
     {% include ski-thumb.html id="campiglio" %}
