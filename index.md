@@ -83,43 +83,6 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   </div>
 
   <div class="grid" id="tripgrid">
-    {%- comment -%} The written guides first {%- endcomment -%}
-    <article class="card tripcard" data-dist="two four" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; skiing &middot; 2 to 5 h</span>
-      <h3><a href="{{ '/articles/skiing-from-florence/' | relative_url }}">Where to go skiing from Florence this winter</a></h3>
-      <p>Nine ski areas side by side: driving time, size, altitude and 2026/27 lift prices.</p>
-    </article>
-    <article class="card tripcard" data-dist="four" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; Ponte di Legno &middot; 4 h 30</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">Ponte di Legno and the Tonale: a weekend on the snow</a></h3>
-      <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes.</p>
-    </article>
-    <article class="card tripcard" data-dist="four" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; Dolomites &middot; 4 h</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">The Dolomites from Florence: three valleys, three weekends</a></h3>
-      <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
-    </article>
-    <article class="card tripcard" data-dist="two" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; Abetone &middot; 1 h 50</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">Abetone: a day on the snow from Florence</a></h3>
-      <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria and two hotels by the lifts.</p>
-    </article>
-    <article class="card tripcard" data-dist="two" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; Cimone &middot; 2 h 15</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">The Cimone: skiing with the best food in the Apennines</a></h3>
-      <p>Tigelle country. A medieval inn near Sestola and a refuge hotel at the lifts.</p>
-    </article>
-    <article class="card tripcard" data-dist="four" data-kind="guide">
-      <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
-      <span class="tripkicker">Guide &middot; Cervinia &middot; 5 h</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">Cervinia: skiing under the Matterhorn</a></h3>
-      <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, a hotel you can ski to.</p>
-    </article>
 
     {%- comment -%} Towns an hour or so away, from _data/trips.yml {%- endcomment -%}
     {% assign towns = site.data.trips | where: "dist", "hour" %}
