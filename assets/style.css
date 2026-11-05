@@ -500,3 +500,12 @@ body.allpills .filters .group{display:block}
   .subtabs::-webkit-scrollbar{display:none}
   .subtab{flex:0 0 auto}
 }
+.subtab[hidden]{display:none}
+
+/* articles page: two sections */
+.artjump{display:flex;gap:22px;margin-top:22px;font-size:15px}
+.artjump a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
+.artsec{margin-top:clamp(40px,5vw,64px);scroll-margin-top:60px}
+.artsec .axis{margin:0 0 8px}
+.artsec-title{margin:0;font-size:clamp(26px,3.4vw,38px);letter-spacing:-.03em}
+.artsec-intro{color:var(--ink-soft);margin-top:10px}

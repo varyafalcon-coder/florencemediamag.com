@@ -32,17 +32,18 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     <div class="tabs" role="toolbar" aria-label="What do you want to do">
       <button class="tab" type="button" data-section="all" aria-pressed="true">Everything</button>
       {% for s in site.data.sections %}
-      <button class="tab" type="button" data-section="{{ s.name }}" data-tags="{% for t in s.tags %}{{ t.tag }}{% unless forloop.last %}|{% endunless %}{% endfor %}" aria-pressed="false">{{ s.name }}</button>
+      <button class="tab" type="button" data-section="{{ s.name }}" data-tags="{{ s.tags | join: '|' }}" aria-pressed="false">{{ s.name }}</button>
       {% endfor %}
     </div>
 
-    {% for s in site.data.sections %}{% if s.tags.size > 1 %}
-    <div class="subtabs" data-for="{{ s.name }}" hidden>
-      {% for t in s.tags %}
-      <button class="subtab" type="button" data-tag="{{ t.tag }}" aria-pressed="false">{{ t.label }}</button>
-      {% endfor %}
+    {%- assign allcats = site.data.categories.primary -%}
+    {%- for grp in site.data.categories.groups -%}{%- assign allcats = allcats | concat: grp.items -%}{%- endfor %}
+    <div class="subtabs">
+      {% for s in site.data.sections %}{% for t in s.tags %}{% assign c = allcats | where: "name", t | first %}
+      <button class="subtab" type="button" data-tag="{{ t }}" data-section="{{ s.name }}" aria-pressed="false">{{ c.label | default: t }}</button>
+      {% endfor %}{% endfor %}
     </div>
-    {% endif %}{% endfor %}
+    <p class="hint">Pick more than one to narrow it down.</p>
 
     <div class="toolrow">
       <div class="searchrow">

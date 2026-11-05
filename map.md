@@ -11,10 +11,10 @@ Every place on this site, on one map. Filter the list, then pick a place to move
 <div class="mapfilters">
   <button class="mchip is-on" type="button" data-mtag="all">everything</button>
   {% for c in site.data.categories.primary %}
-  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
+  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.label | default: c.name }}</button>
   {% endfor %}
   {% for g in site.data.categories.groups %}{% for c in g.items %}
-  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.name }}</button>
+  <button class="mchip" type="button" data-mtag="{{ c.name }}"><span aria-hidden="true">{{ c.emoji }}</span> {{ c.label | default: c.name }}</button>
   {% endfor %}{% endfor %}
   <span class="mchip-sep" aria-hidden="true"></span>
   <button class="mchip" type="button" data-mprice="€">€</button>

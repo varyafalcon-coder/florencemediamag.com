@@ -109,7 +109,7 @@ layout: default
     {% assign match = allcats | where: "name", c | first %}
     {% if match.slug %}{% assign cslug = match.slug %}{% else %}{% assign cslug = c | slugify %}{% endif %}
     <li><a href="{{ '/collections/' | append: cslug | append: '/' | relative_url }}">
-      {% if match.emoji %}<span aria-hidden="true">{{ match.emoji }}</span> {% endif %}{{ c }}
+      {% if match.emoji %}<span aria-hidden="true">{{ match.emoji }}</span> {% endif %}{{ match.label | default: c }}
     </a></li>
   {% endfor %}
   </ul>

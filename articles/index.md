@@ -6,45 +6,15 @@ seo_title: "Articles. Florence, explained rather than listed"
 seo_description: "Guides to Florence that answer questions a list cannot: how to tell real gelato, whether you can work from a cafe, and what the rules actually are."
 ---
 
-Some questions need more than a filter. These are written, checked on the ground, and dated.
+Some questions need more than a filter. These are written, checked on the ground, and dated, in two parts: living in and visiting Florence, and getting out of it.
 
+<nav class="artjump" aria-label="Article sections"><a href="#in-florence">In Florence</a><a href="#from-florence">From Florence</a></nav>
+
+<section class="artsec" id="in-florence">
+<p class="axis">In the city</p>
+<h2 class="artsec-title">In Florence</h2>
+<p class="artsec-intro">Planning a visit, eating, working and getting around the city.</p>
 <div class="artgrid">
-  <a class="artcard" href="/articles/skiing-from-florence/">
-    <span class="kicker">Day trips and weekends</span>
-    <h2>Where to go skiing from Florence this winter</h2>
-    <p>Nine ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
-    <span class="meta">Researched November 2026 &middot; 9 ski areas</span>
-  </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
-    <span class="kicker">Ski food guide</span>
-    <h2>Where to eat in Ponte di Legno and on the Tonale</h2>
-    <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
-    <span class="meta">Researched November 2026</span>
-  </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
-    <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in the Dolomites</h2>
-    <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
-    <span class="meta">Researched November 2026</span>
-  </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-abetone/">
-    <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in Abetone</h2>
-    <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
-    <span class="meta">Researched November 2026</span>
-  </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-on-the-cimone/">
-    <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay on the Cimone</h2>
-    <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
-    <span class="meta">Researched November 2026</span>
-  </a>
-  <a class="artcard" href="/articles/where-to-eat-and-stay-in-cervinia/">
-    <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in Cervinia</h2>
-    <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
-    <span class="meta">Researched November 2026</span>
-  </a>
   <a class="artcard" href="/articles/are-two-days-enough-for-florence/">
     <span class="kicker">Planning</span>
     <h2>Are 2 days enough for Florence?</h2>
@@ -88,3 +58,48 @@ Some questions need more than a filter. These are written, checked on the ground
     <span class="meta">Checked August 2026 &middot; 6 places</span>
   </a>
 </div>
+</section>
+
+<section class="artsec" id="from-florence">
+<p class="axis">Day trips and weekends</p>
+<h2 class="artsec-title">From Florence</h2>
+<p class="artsec-intro">Where to go when you leave the city, and where to eat and sleep when you get there.</p>
+<div class="artgrid">
+  <a class="artcard" href="/articles/skiing-from-florence/">
+    <span class="kicker">Day trips and weekends</span>
+    <h2>Where to go skiing from Florence this winter</h2>
+    <p>Nine ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
+    <span class="meta">Researched November 2026 &middot; 9 ski areas</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Where to eat in Ponte di Legno and on the Tonale</h2>
+    <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Where to eat and stay in the Dolomites</h2>
+    <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-abetone/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Where to eat and stay in Abetone</h2>
+    <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-on-the-cimone/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Where to eat and stay on the Cimone</h2>
+    <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-cervinia/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Where to eat and stay in Cervinia</h2>
+    <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+</div>
+</section>
