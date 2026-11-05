@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>Closest</dt><dd>Abetone, 1 h 50</dd></div>
 <div><dt>Best weekend</dt><dd>Val Gardena or Ponte di Legno</dd></div>
-<div><dt>Day pass</dt><dd>28 to 89 €</dd></div>
+<div><dt>Day pass</dt><dd>28 to 89 €</dd></div>
 <div><dt>Season</dt><dd>Late October to May</dd></div>
 </dl>
 
@@ -92,15 +92,15 @@ For three days or more, and for warm Decembers.
 <table>
 <thead><tr><th>Area</th><th>By car</th><th>Size</th><th>Top</th><th>Day pass</th></tr></thead>
 <tbody>
-<tr><td>Abetone</td><td>1 h 50</td><td>~25 runs</td><td>1,900 m</td><td>51 €</td></tr>
-<tr><td>Corno alle Scale</td><td>2 h</td><td>~15 runs</td><td>1,950 m</td><td>28 to 38 €</td></tr>
-<tr><td>Cimone</td><td>2 h 15</td><td>~50 km</td><td>2,100 m</td><td>44 to 57 €</td></tr>
-<tr><td>Val Gardena</td><td>4 h</td><td>~175 km</td><td>2,500 m</td><td>80 to 89 €</td></tr>
-<tr><td>Madonna di Campiglio</td><td>4 h 15</td><td>~150 km</td><td>2,500 m</td><td>75 to 89 €</td></tr>
-<tr><td>Pontedilegno-Tonale</td><td>4 h 30</td><td>~100 km</td><td>3,000 m</td><td>52 to 70 €</td></tr>
-<tr><td>Cortina</td><td>4 h 30</td><td>~120 km</td><td>2,930 m</td><td>80 to 89 €</td></tr>
-<tr><td>Cervinia</td><td>5 h</td><td>~150 km</td><td>3,480 m</td><td>64 to 88 €</td></tr>
-<tr><td>Livigno</td><td>5 h 30</td><td>~115 km</td><td>2,800 m</td><td>51.50 to 74.50 €</td></tr>
+<tr><td>Abetone</td><td>1 h 50</td><td>~25 runs</td><td>1,900 m</td><td>51 €</td></tr>
+<tr><td>Corno alle Scale</td><td>2 h</td><td>~15 runs</td><td>1,950 m</td><td>28 to 38 €</td></tr>
+<tr><td>Cimone</td><td>2 h 15</td><td>~50 km</td><td>2,100 m</td><td>44 to 57 €</td></tr>
+<tr><td>Val Gardena</td><td>4 h</td><td>~175 km</td><td>2,500 m</td><td>80 to 89 €</td></tr>
+<tr><td>Madonna di Campiglio</td><td>4 h 15</td><td>~150 km</td><td>2,500 m</td><td>75 to 89 €</td></tr>
+<tr><td>Pontedilegno-Tonale</td><td>4 h 30</td><td>~100 km</td><td>3,000 m</td><td>52 to 70 €</td></tr>
+<tr><td>Cortina</td><td>4 h 30</td><td>~120 km</td><td>2,930 m</td><td>80 to 89 €</td></tr>
+<tr><td>Cervinia</td><td>5 h</td><td>~150 km</td><td>3,480 m</td><td>64 to 88 €</td></tr>
+<tr><td>Livigno</td><td>5 h 30</td><td>~115 km</td><td>2,800 m</td><td>51.50 to 74.50 €</td></tr>
 </tbody>
 </table>
 </div>

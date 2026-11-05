@@ -10,6 +10,13 @@ layout: default
   <h1>{{ a.name }}</h1>
   <p class="answer">{{ a.short }}</p>
 
+  {% if a.guide %}
+  <a class="skimore" href="{{ a.guide | relative_url }}">
+    <span class="kicker">Where to eat and sleep</span>
+    <span class="skimore-title">{{ a.guide_label }}</span>
+  </a>
+  {% endif %}
+
   <p class="skiarea-tags">{% for k in a.want %}{% assign w = ski.wants | where: "key", k | first %}<a href="{{ '/ski-season/' | relative_url }}?want={{ k }}">{{ w.emoji }} {{ w.label }}</a>{% endfor %}</p>
 
   <div class="body">
@@ -22,30 +29,19 @@ layout: default
     </div>
 
     <h2>Getting there from Florence</h2>
-    <div class="venue">
-      <dl class="venue-meta">
-        <div><dt>By car</dt><dd>{{ a.car }} from the centre, without traffic</dd></div>
-        <div><dt>By train</dt><dd>{% if a.train == "No practical option" %}No practical option, you need a car{% else %}{{ a.train | slice: 0 | upcase }}{{ a.train | slice: 1, 300 }}{% endif %}</dd></div>
-        <div><dt>Distance group</dt><dd>{{ tier.title }}. {{ tier.note }}</dd></div>
-      </dl>
-    </div>
+    <dl class="glance glance2">
+      <div><dt>By car</dt><dd>{{ a.car }}</dd></div>
+      <div><dt>By train</dt><dd>{% if a.train == "No practical option" %}Not practical, you need a car{% else %}{{ a.train | slice: 0 | upcase }}{{ a.train | slice: 1, 300 }}{% endif %}</dd></div>
+    </dl>
 
     <h2>The numbers</h2>
-    <div class="venue">
-      <dl class="venue-meta">
-        <div><dt>Size</dt><dd>{{ a.size }}</dd></div>
-        <div><dt>Top</dt><dd>{{ a.top }}</dd></div>
-        <div><dt>Day pass 2026/27</dt><dd>{{ a.pass }}</dd></div>
-        <div><dt>Season</dt><dd>{{ a.season }}</dd></div>
-      </dl>
-    </div>
+    <dl class="glance">
+      <div><dt>Size</dt><dd>{{ a.size }}</dd></div>
+      <div><dt>Top</dt><dd>{{ a.top }}</dd></div>
+      <div><dt>Day pass 2026/27</dt><dd>{{ a.pass }}</dd></div>
+      <div><dt>Season</dt><dd>{{ a.season }}</dd></div>
+    </dl>
 
-    {% if a.guide %}
-    <a class="skimore" href="{{ a.guide | relative_url }}">
-      <span class="kicker">Where to eat and sleep</span>
-      <span class="skimore-title">{{ a.guide_label }}</span>
-    </a>
-    {% endif %}
   </div>
 
   <p class="skiarea-back"><a href="{{ '/ski-season/' | relative_url }}">All nine ski areas</a> &middot; <a href="{{ '/articles/skiing-from-florence/' | relative_url }}">Full comparison with prices</a></p>

@@ -35,7 +35,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>1 h 50 by car</dd></div>
 <div><dt>Best for</dt><dd>A day out, families, beginners</dd></div>
-<div><dt>Day pass</dt><dd>51 € on weekdays</dd></div>
+<div><dt>Day pass</dt><dd>51 € on weekdays</dd></div>
 <div><dt>Season</dt><dd>4 Dec to 11 Apr</dd></div>
 </dl>
 

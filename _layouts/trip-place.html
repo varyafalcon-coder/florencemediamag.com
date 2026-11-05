@@ -8,16 +8,16 @@ layout: default
   <h1>{{ t.title }}</h1>
   <p class="answer">{{ t.text }}</p>
 
-  <dl class="facts wide">
+  <dl class="glance placeglance">
     <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
     <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
     {% if t.price %}<div><dt>Price</dt><dd>{{ t.price }}</dd></div>{% endif %}
     {% if t.order %}<div><dt>Order</dt><dd>{{ t.order }}</dd></div>{% endif %}
-    {% if t.note %}<div><dt>Good to know</dt><dd>{{ t.note }}</dd></div>{% endif %}
   </dl>
+  {% if t.note %}<p class="placenote"><strong>Good to know.</strong> {{ t.note }}</p>{% endif %}
 
   <div class="actions">
-    <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
+    <a class="btn btn-primary" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
   </div>
 
   {% if t.url %}

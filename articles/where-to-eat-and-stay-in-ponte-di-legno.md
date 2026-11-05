@@ -39,7 +39,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>Value, snow, a real village</dd></div>
-<div><dt>Day pass</dt><dd>52 to 70 €</dd></div>
+<div><dt>Day pass</dt><dd>52 to 70 €</dd></div>
 <div><dt>Season</dt><dd>Late Nov to early May</dd></div>
 </dl>
 
@@ -89,7 +89,7 @@ Below, Ponte di Legno: stone houses, a church square, real evenings. Above, Pass
 ## Before you go
 
 <ul class="tips">
-<li>Peak dates, 70 €: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
+<li>Peak dates, 70 €: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
 <li>Book Kro for Friday and Saturday nights.</li>
 <li>Check the lift status: two lifts on the Ponte di Legno side had works in summer 2026.</li>
 </ul>

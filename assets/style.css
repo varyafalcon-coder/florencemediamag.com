@@ -615,3 +615,11 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .article .body .tripcards .tripcard h3{font-size:18px;line-height:1.3}
 .article .body .skigrid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media (max-width:640px){.article .body .skigrid{grid-template-columns:1fr}}
+/* place and ski area pages */
+.placeglance{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.glance2{grid-template-columns:1fr 2fr}
+@media (max-width:560px){.glance2{grid-template-columns:1fr}}
+.doc .glance{max-width:64ch}
+.placenote{margin-top:16px;font-size:15.5px;line-height:1.55;max-width:64ch;color:var(--ink-soft)}
+.placenote strong{color:var(--ink)}
+.skiarea > .skimore,.doc > .skimore{margin-top:clamp(20px,2.6vw,28px);max-width:64ch}

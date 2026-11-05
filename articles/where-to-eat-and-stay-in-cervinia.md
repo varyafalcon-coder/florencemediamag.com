@@ -35,7 +35,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h by car</dd></div>
 <div><dt>Best for</dt><dd>Snow when nowhere else has it</dd></div>
-<div><dt>Day pass</dt><dd>64 €, 88 € with Zermatt</dd></div>
+<div><dt>Day pass</dt><dd>64 €, 88 € with Zermatt</dd></div>
 <div><dt>Season</dt><dd>From 24 Oct 2026</dd></div>
 </dl>
 
@@ -80,7 +80,7 @@ The highest skiing in Italy, long gentle runs, lunch in Switzerland if you like.
 ## Before you go
 
 <ul class="tips">
-<li>64 € on the Italian side, 88 € with Zermatt.</li>
+<li>64 € on the Italian side, 88 € with Zermatt.</li>
 <li>Wind closes the top lifts more often than snow does.</li>
 <li>No car: train to Châtillon-Saint-Vincent, then bus.</li>
 </ul>

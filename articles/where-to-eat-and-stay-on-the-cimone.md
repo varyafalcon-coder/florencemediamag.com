@@ -35,7 +35,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>2 h 15 by car</dd></div>
 <div><dt>Best for</dt><dd>A full day, food, value</dd></div>
-<div><dt>Day pass</dt><dd>44 € weekdays, 57 € weekends</dd></div>
+<div><dt>Day pass</dt><dd>44 € weekdays, 57 € weekends</dd></div>
 <div><dt>Size</dt><dd>About 50 km, up to 2,100 m</dd></div>
 </dl>
 
@@ -79,7 +79,7 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 ## Before you go
 
 <ul class="tips">
-<li>44 € on weekdays, 57 € at weekends, plus a 3 € card.</li>
+<li>44 € on weekdays, 57 € at weekends, plus a 3 € card.</li>
 <li>Many restaurants close on weekdays outside the holidays. Phone first.</li>
 <li>Check the lift status: it depends on the snow.</li>
 </ul>
