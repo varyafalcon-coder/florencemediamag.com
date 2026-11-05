@@ -48,6 +48,30 @@ Some questions need more than a filter. These are written, checked on the ground
     <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
     <span class="meta">Researched November 2026</span>
   </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-val-gardena/">
+    <span class="kicker">Ski guide</span>
+    <h2>Val Gardena: wooden villages and the Sellaronda</h2>
+    <p>The Dolomites trip that works by train. Seceda, Selva, Ortisei and the huts worth the stop.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-cortina/">
+    <span class="kicker">Ski guide</span>
+    <h2>Cortina: the most beautiful skiing in the Dolomites</h2>
+    <p>Lagazuoi, Cinque Torri, Rifugio Averau and a Michelin star in town.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">
+    <span class="kicker">Ski guide</span>
+    <h2>Madonna di Campiglio: polished slopes under the Brenta</h2>
+    <p>Groomed runs, a walkable village, lunch at the Spinale and the Grostè.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/">
+    <span class="kicker">Ski guide</span>
+    <h2>Corno alle Scale: small, wild and quiet</h2>
+    <p>The emptiest snow within two hours of Florence, inside a regional park.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-livigno/">
     <span class="kicker">Ski guide</span>
     <h2>Livigno: high, cold and full of snow</h2>

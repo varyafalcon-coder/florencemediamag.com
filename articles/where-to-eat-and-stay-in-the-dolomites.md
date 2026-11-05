@@ -71,7 +71,7 @@ faq:
 
 ## Val Gardena
 
-Ortisei has the evenings, Selva the skiing.
+Ortisei has the evenings, Selva the skiing. <a href="/articles/where-to-eat-and-stay-in-val-gardena/">The full Val Gardena guide</a>.
 
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-emilio-comici" %}
@@ -81,7 +81,7 @@ Ortisei has the evenings, Selva the skiing.
 
 ## Cortina d'Ampezzo
 
-The most beautiful skiing here, at Cinque Torri. Expect a bus between areas.
+The most beautiful skiing here, at Cinque Torri. <a href="/articles/where-to-eat-and-stay-in-cortina/">The full Cortina guide</a>.
 
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-scoiattoli" %}
@@ -91,7 +91,7 @@ The most beautiful skiing here, at Cinque Torri. Expect a bus between areas.
 
 ## Madonna di Campiglio
 
-The sharp, dark Brenta Dolomites, and a village you can walk around all weekend.
+The sharp, dark Brenta Dolomites. <a href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">The full Campiglio guide</a>.
 
 <div class="grid tripcards">
 {% include trip-card.html slug="rifugio-graffer" %}

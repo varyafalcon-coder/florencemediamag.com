@@ -35,6 +35,8 @@ areas:
     go_if: "You want quiet slopes, a cheap day and a view across the whole Apennine ridge."
     skip_if: "You want variety. Three hours here and you have seen it all."
     want: [quiet, value]
+    guide: "/articles/where-to-eat-and-stay-at-corno-alle-scale/"
+    guide_label: "Corno alle Scale: small, wild and quiet"
 
   - id: cimone
     short: "The biggest in the Apennines, with tigelle in the huts."
@@ -69,8 +71,8 @@ areas:
     go_if: "It is your first Dolomites weekend, you want to arrive by train, or you want long days on the snow."
     skip_if: "You are on a tight budget."
     want: [big, nocar, food, apres, family]
-    guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "The Dolomites from Florence: three valleys, three weekends"
+    guide: "/articles/where-to-eat-and-stay-in-val-gardena/"
+    guide_label: "Val Gardena: wooden villages and the Sellaronda"
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -87,8 +89,8 @@ areas:
     go_if: "You like well kept pistes, a pretty village and an aperitivo after skiing."
     skip_if: "You want rustic or cheap."
     want: [big, apres, nocar]
-    guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "The Dolomites from Florence: three valleys, three weekends"
+    guide: "/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"
+    guide_label: "Madonna di Campiglio: polished slopes under the Brenta"
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -123,8 +125,8 @@ areas:
     go_if: "You want the views, the town and a dinner worth dressing for."
     skip_if: "You want to ski from one area to the next without a bus, or to spend little."
     want: [apres, big, food, nocar]
-    guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "The Dolomites from Florence: three valleys, three weekends"
+    guide: "/articles/where-to-eat-and-stay-in-cortina/"
+    guide_label: "Cortina: the most beautiful skiing in the Dolomites"
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."

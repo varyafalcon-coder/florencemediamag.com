@@ -242,7 +242,7 @@
   kind: eat
   text: A rustic dining room like an old Alpine hut, listed in the Michelin guide. Local meat and game.
   maps_q: Tubladel, Via Trebinger 22, Ortisei
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
   slug: tubladel
   price: €€€
   order: Local meat and game, wine by the glass
@@ -255,7 +255,7 @@
   kind: eat
   text: The hut on the Sellaronda famous for serving fish at 2,000 metres. Book for lunch in high season.
   maps_q: Rifugio Comici, Plan de Gralba, Selva di Val Gardena
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
   slug: rifugio-emilio-comici
   order: The seafood platter
   note: Book for lunch in high season
@@ -267,7 +267,7 @@
   kind: stay
   text: The big spa hotel of the valley, in the pedestrian centre and a walk from the Seceda lifts.
   maps_q: ADLER Spa Resort Dolomiti, Ortisei
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
   slug: adler-spa-resort-dolomiti
   price: €€€
   area: ski
@@ -278,7 +278,7 @@
   kind: eat
   text: A working farm with a restaurant and a fifteenth century stube. Everything made with their own milk and cheese.
   maps_q: El Brite de Larieto, Cortina d'Ampezzo
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-cortina/
   slug: el-brite-de-larieto
   price: €€€
   order: Anything made with their own milk and cheese
@@ -290,7 +290,7 @@
   kind: eat
   text: A 42 seat hut under the rock towers of Cinque Torri, cooking Ampezzo dishes.
   maps_q: Rifugio Scoiattoli, Cinque Torri, Cortina d'Ampezzo
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-cortina/
   slug: rifugio-scoiattoli
   order: Ampezzo dishes
   note: 42 seats. Phone +39 0436 867939
@@ -302,7 +302,7 @@
   kind: stay
   text: A long-running three star with half board, a walk from the Faloria cable car.
   maps_q: Hotel Serena, Via Faloria 8, Cortina d'Ampezzo
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-cortina/
   slug: hotel-serena
   price: €€
   note: Half board
@@ -314,7 +314,7 @@
   kind: eat
   text: An Alpine Club refuge at 2,261 metres at the top of the Grostè cable car. Lunch with the Brenta in front of you.
   maps_q: Rifugio Graffer, Grostè, Madonna di Campiglio
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
   slug: rifugio-graffer
   note: A refuge of the Trentino Alpine Club, with a restaurant and self service
   area: ski
@@ -325,7 +325,7 @@
   kind: stay
   text: A three star in the middle of the village, known for fair prices in a town that mostly is not.
   maps_q: Hotel Alpina, Madonna di Campiglio
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
   slug: hotel-alpina
   price: €€
   area: ski
@@ -381,7 +381,7 @@
   kind: eat
   text: Trentino cooking and pizza in a warm, old-fashioned dining room in the centre.
   maps_q: Ristorante Antico Focolare, Viale Dolomiti di Brenta 64, Madonna di Campiglio
-  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
   slug: ristorante-antico-focolare
   price: €€
   area: ski
@@ -466,4 +466,134 @@
   url: /articles/where-to-eat-and-stay-in-livigno/
   slug: meating-point
   note: Open the same hours as the lifts
+  area: ski
+- title: Danielhütte
+  place: Seceda, Val Gardena
+  dist: four
+  time: 4 h
+  kind: eat
+  text: A hut on the Seceda pastures above Ortisei, a favourite with locals, with a terrace under the Seceda ridge.
+  maps_q: Danielhütte, Seceda, Ortisei
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
+  slug: danielhutte
+  note: Up the Seceda cable car from Ortisei, then a short ski down
+  area: ski
+- title: Rifugio Panorama
+  place: Selva, Val Gardena
+  dist: four
+  time: 4 h
+  kind: eat
+  text: Above Selva at the top of the Dantercepies gondola, often called the best food on the Sellaronda.
+  maps_q: Rifugio Panorama, Dantercepies, Selva di Val Gardena
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
+  slug: rifugio-panorama
+  note: Closed on Mondays
+  area: ski
+- title: Chalet Gerard
+  place: Selva, Val Gardena
+  dist: four
+  time: 4 h
+  kind: eat
+  text: A chalet restaurant above Selva with a view of the Sella group, listed in the Michelin guide.
+  maps_q: Chalet Gerard, Selva di Val Gardena
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
+  slug: chalet-gerard
+  note: Listed in the Michelin guide
+  area: ski
+- title: Rifugio Averau
+  place: Cinque Torri, Cortina
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: Often named among the best mountain restaurants in the Alps. Traditional cooking with a refined touch, run by the Siorpaes family.
+  maps_q: Rifugio Averau, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-cortina/
+  slug: rifugio-averau
+  note: Book for lunch. It has rooms too
+  area: ski
+- title: Rifugio Lagazuoi
+  place: Lagazuoi, Cortina
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: Lunch at 2,752 metres at the top of the Lagazuoi cable car from Passo Falzarego, with one of the great views of the Dolomites.
+  maps_q: Rifugio Lagazuoi, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-cortina/
+  slug: rifugio-lagazuoi
+  note: Three minutes by cable car from Passo Falzarego
+  area: ski
+- title: Ristorante Tivoli
+  place: Cortina d'Ampezzo
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: Chef Graziano Prest's restaurant, one of the best tables in Cortina and holder of a Michelin star.
+  maps_q: Ristorante Tivoli, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-cortina/
+  slug: ristorante-tivoli
+  price: €€€€
+  note: Michelin star. Book well ahead
+  area: ski
+- title: Chalet Spinale
+  place: Monte Spinale, Campiglio
+  dist: four
+  time: 4 h 15
+  kind: eat
+  text: 'At the top of the Spinale gondola, six minutes from the village: self service and a sit-down restaurant known for its pizza and wine list.'
+  maps_q: Chalet Spinale, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
+  slug: chalet-spinale
+  order: Pizza, Trentino dishes
+  area: ski
+- title: Rifugio Stoppani al Grostè
+  place: Passo del Grostè, Campiglio
+  dist: four
+  time: 4 h 15
+  kind: eat
+  text: The highest hut of the area at about 2,450 metres, with a sun terrace facing the Brenta.
+  maps_q: Rifugio Stoppani al Grostè, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
+  slug: rifugio-stoppani-al-groste
+  area: ski
+- title: Pradalago 2100
+  place: Pradalago, Campiglio
+  dist: four
+  time: 4 h 15
+  kind: eat
+  text: At the top of the Pradalago gondola, seven minutes from the village, with a panoramic view of the Brenta Dolomites.
+  maps_q: Pradalago 2100, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
+  slug: pradalago-2100
+  area: ski
+- title: Ristorante Artini
+  place: Madonna di Campiglio
+  dist: four
+  time: 4 h 15
+  kind: eat
+  text: Near the Pradalago gondola in the village, run by the same family for more than forty years.
+  maps_q: Ristorante Artini, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-madonna-di-campiglio/
+  slug: ristorante-artini
+  area: ski
+- title: Rifugio Le Rocce
+  place: Corno alle Scale
+  dist: two
+  time: 2 h
+  kind: eat
+  text: The hut near the top of the ski area, reached by chairlift, for a simple lunch with the whole Apennine ridge around you.
+  maps_q: Rifugio Le Rocce, Corno alle Scale
+  url: /articles/where-to-eat-and-stay-at-corno-alle-scale/
+  slug: rifugio-le-rocce
+  note: Opening days vary, phone +39 333 173 3209
+  area: ski
+- title: Rifugio Duca degli Abruzzi
+  place: Lago Scaffaiolo, Corno alle Scale
+  dist: two
+  time: 2 h
+  kind: eat
+  text: The old Alpine Club hut by the small lake below the summit, on the ridge between Emilia and Tuscany. A hot plate of pasta after a walk on the snow.
+  maps_q: Rifugio Duca degli Abruzzi, Lago Scaffaiolo
+  url: /articles/where-to-eat-and-stay-at-corno-alle-scale/
+  slug: rifugio-duca-degli-abruzzi
+  note: On foot or with snowshoes from the slopes. Check it is open
   area: ski
