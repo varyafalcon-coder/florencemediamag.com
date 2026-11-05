@@ -182,6 +182,14 @@ body.allpills .filters .group{display:block}
 .article .body .callout p{margin:0;font-size:17px;line-height:1.6;max-width:none}
 .article .body .callout p + p{margin-top:12px}
 
+/* comparison table in articles */
+.table-wrap{margin-top:clamp(26px,3vw,34px);overflow-x:auto;-webkit-overflow-scrolling:touch}
+.table-wrap table{width:100%;border-collapse:collapse;font-size:15px;line-height:1.45;min-width:520px}
+.table-wrap th{text-align:left;font-size:13px;font-weight:600;color:var(--ink-soft);
+  padding:0 14px 10px 0;border-bottom:1px solid var(--line)}
+.table-wrap td{padding:10px 14px 10px 0;border-bottom:1px solid var(--line);color:var(--ink);white-space:nowrap}
+.table-wrap td:first-child{white-space:normal;font-weight:600}
+
 /* footnote / editorial note */
 .note{margin-top:clamp(46px,6vw,72px);background:var(--surface);border:0;
   padding:clamp(20px,2.4vw,26px) clamp(22px,2.8vw,30px)}
