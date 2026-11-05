@@ -44,9 +44,9 @@ faq:
 <p class="lede">Choose the valley first, then the hut.</p>
 
 <ul class="tips">
-<li><strong>Val Gardena</strong> for a first time or arriving by train.</li>
-<li><strong>Cortina</strong> for the scenery and the town. Expensive and proud of it.</li>
-<li><strong>Madonna di Campiglio</strong> for polish: groomed runs, a smart village.</li>
+<li><strong>Val Gardena</strong> if it is your first time in the Dolomites, or you want to get there by train.</li>
+<li><strong>Cortina</strong> for the most beautiful scenery and an elegant town. The most expensive of the three.</li>
+<li><strong>Madonna di Campiglio</strong> for perfectly groomed slopes and a stylish, compact village.</li>
 </ul>
 
 ## Val Gardena

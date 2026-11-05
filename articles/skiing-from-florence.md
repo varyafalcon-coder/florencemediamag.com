@@ -88,21 +88,17 @@ For three days or more, and for warm Decembers.
 
 ## All nine side by side
 
-<div class="table-wrap">
-<table>
-<thead><tr><th>Area</th><th>By car</th><th>Size</th><th>Top</th><th>Day pass</th></tr></thead>
-<tbody>
-<tr><td>Abetone</td><td>1 h 50</td><td>~25 runs</td><td>1,900 m</td><td>51 €</td></tr>
-<tr><td>Corno alle Scale</td><td>2 h</td><td>~15 runs</td><td>1,950 m</td><td>28 to 38 €</td></tr>
-<tr><td>Cimone</td><td>2 h 15</td><td>~50 km</td><td>2,100 m</td><td>44 to 57 €</td></tr>
-<tr><td>Val Gardena</td><td>4 h</td><td>~175 km</td><td>2,500 m</td><td>80 to 89 €</td></tr>
-<tr><td>Madonna di Campiglio</td><td>4 h 15</td><td>~150 km</td><td>2,500 m</td><td>75 to 89 €</td></tr>
-<tr><td>Pontedilegno-Tonale</td><td>4 h 30</td><td>~100 km</td><td>3,000 m</td><td>52 to 70 €</td></tr>
-<tr><td>Cortina</td><td>4 h 30</td><td>~120 km</td><td>2,930 m</td><td>80 to 89 €</td></tr>
-<tr><td>Cervinia</td><td>5 h</td><td>~150 km</td><td>3,480 m</td><td>64 to 88 €</td></tr>
-<tr><td>Livigno</td><td>5 h 30</td><td>~115 km</td><td>2,800 m</td><td>51.50 to 74.50 €</td></tr>
-</tbody>
-</table>
+<div class="cmp">
+<div class="cmp-head"><span>Ski area</span><span>By car</span><span>Size</span><span>Day pass</span></div>
+<a class="cmp-row" href="/ski-season/abetone/"><span class="cmp-name">Abetone</span><span class="cmp-car">1 h 50</span><span class="cmp-size">25 runs</span><span class="cmp-pass">51 €</span></a>
+<a class="cmp-row" href="/ski-season/corno/"><span class="cmp-name">Corno alle Scale</span><span class="cmp-car">2 h</span><span class="cmp-size">15 runs</span><span class="cmp-pass">28 to 38 €</span></a>
+<a class="cmp-row" href="/ski-season/cimone/"><span class="cmp-name">Cimone</span><span class="cmp-car">2 h 15</span><span class="cmp-size">50 km</span><span class="cmp-pass">44 to 57 €</span></a>
+<a class="cmp-row" href="/ski-season/valgardena/"><span class="cmp-name">Val Gardena</span><span class="cmp-car">4 h</span><span class="cmp-size">175 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/ski-season/campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89 €</span></a>
+<a class="cmp-row" href="/ski-season/pontedilegno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70 €</span></a>
+<a class="cmp-row" href="/ski-season/cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/ski-season/cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
+<a class="cmp-row" href="/ski-season/livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">115 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
 </div>
 
 ## Where to eat and stay

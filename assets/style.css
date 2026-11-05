@@ -625,3 +625,19 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .skiarea > .skimore,.doc > .skimore{margin-top:clamp(20px,2.6vw,28px);max-width:64ch}
 .cols2{grid-template-columns:repeat(2,1fr)}
 @media (max-width:640px){.cols2{grid-template-columns:1fr}}
+/* comparison list instead of a wide table */
+.cmp{margin-top:22px;border-top:1px solid var(--line);max-width:64ch}
+.cmp-head,.cmp-row{display:grid;grid-template-columns:2fr 1fr 1fr 1.3fr;gap:12px;align-items:baseline;padding:13px 0;border-bottom:1px solid var(--line)}
+.cmp-head span{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.article .body .cmp-row{text-decoration:none;color:var(--ink);font-size:15px}
+.cmp-name{font-weight:700}
+.cmp-row:hover .cmp-name{color:var(--blue)}
+.cmp-car,.cmp-size,.cmp-pass{color:var(--ink-soft);font-variant-numeric:tabular-nums}
+@media (max-width:600px){
+  .cmp-head{display:none}
+  .cmp-row{grid-template-columns:1fr auto;row-gap:4px}
+  .cmp-name{grid-column:1}
+  .cmp-car{grid-column:2;text-align:right;color:var(--ink);font-weight:600}
+  .cmp-size{grid-column:1;font-size:14px}
+  .cmp-pass{grid-column:2;text-align:right;font-size:14px}
+}
