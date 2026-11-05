@@ -591,3 +591,10 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .article .body p.picklabel{font-size:11px;letter-spacing:.11em;margin:clamp(30px,4vw,40px) 0 0;color:var(--ink-soft);text-transform:uppercase}
 .article .body .venue p.bestfor{font-size:15.5px;margin-top:6px}
 .article .body p.lede{font-size:clamp(19px,2vw,22px);line-height:1.5;font-weight:600;letter-spacing:-.01em}
+/* place cards inside articles */
+.article .body .tripcards{grid-template-columns:repeat(2,minmax(0,1fr));margin-top:22px;padding-top:12px}
+@media (max-width:640px){.article .body .tripcards{grid-template-columns:1fr}}
+.article .body .tripcards h3{font-size:19px;margin:0}
+.article .body .tripcards p{font-size:14.5px;line-height:1.55;margin:10px 0 0;max-width:none}
+.article .body .tripcards .pricetag{font-size:14px}
+.article .body .tripcards h3 a{text-decoration:none}

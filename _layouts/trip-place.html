@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{%- assign t = site.data.trips | where: "slug", page.trip_slug | first -%}
+<article class="wrap doc">
+  <nav class="crumbs"><a href="{{ '/#from-florence' | relative_url }}">From Florence</a> / <span>{{ t.title }}</span></nav>
+  <p class="axis skiarea-region">{{ t.place }} &middot; {{ t.kind }}</p>
+  <h1>{{ t.title }}</h1>
+  <p class="answer">{{ t.text }}</p>
+
+  <dl class="facts wide">
+    <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
+    <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
+    {% if t.price %}<div><dt>Price</dt><dd>{{ t.price }}</dd></div>{% endif %}
+    {% if t.order %}<div><dt>Order</dt><dd>{{ t.order }}</dd></div>{% endif %}
+    {% if t.note %}<div><dt>Good to know</dt><dd>{{ t.note }}</dd></div>{% endif %}
+  </dl>
+
+  <div class="actions">
+    <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
+  </div>
+
+  {% if t.url %}
+  {%- assign guide = site.pages | where: "url", t.url | first -%}
+  <a class="skimore" href="{{ t.url | relative_url }}">
+    <span class="kicker">From our guide</span>
+    <span class="skimore-title">{{ guide.title | default: "Read the full guide" }}</span>
+  </a>
+  {% endif %}
+
+  {%- assign same = site.data.trips | where: "place", t.place -%}
+  {%- if same.size > 1 -%}
+  <h2>Also in {{ t.place }}</h2>
+  <div class="grid">
+    {% for o in same %}{% if o.slug != t.slug %}{% include trip-card.html slug=o.slug %}{% endif %}{% endfor %}
+  </div>
+  {%- endif -%}
+
+  <aside class="note">
+    <p><strong>Researched, November 2026.</strong> Chosen from the Michelin guide, local tourist boards and recent reviews. We have not been here in person yet. Hours change through the season, so check before you go. If something is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a>.</p>
+  </aside>
+</article>
