@@ -57,6 +57,8 @@ faq:
 
 Wooden Ladin villages under enormous rock walls, mountain huts with real cooking, and the Sellaronda, the ski loop around the Sella massif. Ortisei has the evenings, Selva has the skiing, and the train to Bolzano gets you most of the way.
 
+{% include ski-fit.html id="valgardena" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -137,5 +139,5 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/valgardena/">Val Gardena on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

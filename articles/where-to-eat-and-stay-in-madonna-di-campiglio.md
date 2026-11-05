@@ -57,6 +57,8 @@ faq:
 
 Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Cortina. The runs are long and perfectly groomed, the village is compact and smart, and you can leave the car parked all weekend.
 
+{% include ski-fit.html id="campiglio" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -138,5 +140,5 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/campiglio/">Madonna di Campiglio on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

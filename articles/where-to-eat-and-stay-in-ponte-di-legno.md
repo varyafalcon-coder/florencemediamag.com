@@ -61,6 +61,8 @@ faq:
 
 Ponte di Legno is a real mountain village, with stone houses, a church square and evenings that feel like a town. Above it, Passo del Tonale and the Presena glacier keep the snow white from November to May. It is Alpine skiing at Apennine prices, and almost nobody in Florence knows about it.
 
+{% include ski-fit.html id="pontedilegno" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -137,5 +139,5 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other eight ski areas: <a href="/ski-season/pontedilegno/">Pontedilegno-Tonale on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

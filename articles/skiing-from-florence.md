@@ -91,15 +91,15 @@ For three days or more, and for warm Decembers.
 
 <div class="cmp">
 <div class="cmp-head"><span>Ski area</span><span>By car</span><span>Size</span><span>Day pass</span></div>
-<a class="cmp-row" href="/ski-season/abetone/"><span class="cmp-name">Abetone</span><span class="cmp-car">1 h 50</span><span class="cmp-size">25 runs</span><span class="cmp-pass">51 €</span></a>
-<a class="cmp-row" href="/ski-season/corno/"><span class="cmp-name">Corno alle Scale</span><span class="cmp-car">2 h</span><span class="cmp-size">15 runs</span><span class="cmp-pass">28 to 38 €</span></a>
-<a class="cmp-row" href="/ski-season/cimone/"><span class="cmp-name">Cimone</span><span class="cmp-car">2 h 15</span><span class="cmp-size">50 km</span><span class="cmp-pass">44 to 57 €</span></a>
-<a class="cmp-row" href="/ski-season/valgardena/"><span class="cmp-name">Val Gardena</span><span class="cmp-car">4 h</span><span class="cmp-size">175 km</span><span class="cmp-pass">80 to 89 €</span></a>
-<a class="cmp-row" href="/ski-season/campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89 €</span></a>
-<a class="cmp-row" href="/ski-season/pontedilegno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70 €</span></a>
-<a class="cmp-row" href="/ski-season/cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89 €</span></a>
-<a class="cmp-row" href="/ski-season/cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
-<a class="cmp-row" href="/ski-season/livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">115 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-abetone/"><span class="cmp-name">Abetone</span><span class="cmp-car">1 h 50</span><span class="cmp-size">25 runs</span><span class="cmp-pass">51 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/"><span class="cmp-name">Corno alle Scale</span><span class="cmp-car">2 h</span><span class="cmp-size">15 runs</span><span class="cmp-pass">28 to 38 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-the-cimone/"><span class="cmp-name">Cimone</span><span class="cmp-car">2 h 15</span><span class="cmp-size">50 km</span><span class="cmp-pass">44 to 57 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-gardena/"><span class="cmp-name">Val Gardena</span><span class="cmp-car">4 h</span><span class="cmp-size">175 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">115 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
 </div>
 
 ## Where to eat and stay

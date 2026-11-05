@@ -57,6 +57,8 @@ faq:
 
 A village on a pass with wooden hotels, ski schools and very little pretence. You can have breakfast in Florence and be on the snow by ten, and fifteen minutes down the road is one of the best trattorias in the Tuscan mountains.
 
+{% include ski-fit.html id="abetone" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -128,5 +130,5 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/abetone/">Abetone on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

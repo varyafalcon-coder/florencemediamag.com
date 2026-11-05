@@ -59,6 +59,8 @@ faq:
 
 The village sits at 1,816 metres in a long, cold valley close to Switzerland, which is the whole point: the snow arrives early and stays until May. Two ski areas face each other across the valley, the snowparks draw riders from all over Europe, and the evenings are the liveliest of any resort within reach of Florence.
 
+{% include ski-fit.html id="livigno" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -133,5 +135,5 @@ The village sits at 1,816 metres in a long, cold valley close to Switzerland, wh
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/livigno/">Livigno on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

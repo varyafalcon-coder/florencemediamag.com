@@ -1,73 +1,12 @@
----
-layout: default
----
-{%- assign ski = site.data.ski -%}
-{%- assign a = ski.areas | where: "id", page.area_id | first -%}
-{%- assign tier = ski.tiers | where: "key", a.tier | first -%}
-<article class="wrap doc skiarea article look-cards">
-  <nav class="crumbs"><a href="{{ '/ski-season/' | relative_url }}">Ski season</a> / <span>{{ a.name }}</span></nav>
-  <p class="axis skiarea-region">{{ a.region }}</p>
-  <h1>{{ a.name }}</h1>
-  <p class="answer">{{ a.short }}</p>
-
-  <p class="skiarea-tags">{% for k in a.want %}{% assign w = ski.wants | where: "key", k | first %}<a href="{{ '/ski-season/' | relative_url }}?want={{ k }}">{{ w.emoji }} {{ w.label }}</a>{% endfor %}</p>
-
-  <div class="body">
-    <h2>What it feels like</h2>
-    <p>{{ a.vibe }}</p>
-
-    <div class="skiarea-fit">
-      <div><p class="skiarea-label">Go if</p><p>{{ a.go_if }}</p></div>
-      <div><p class="skiarea-label">Skip if</p><p>{{ a.skip_if }}</p></div>
-    </div>
-
-    {%- assign places = site.data.trips | where: "url", a.guide -%}
-    {%- assign eats = places | where: "kind", "eat" -%}
-    {%- assign stays = places | where: "kind", "stay" -%}
-
-    <h2>Where to stay</h2>
-    <div class="soon">
-      <span class="soon-badge">In progress</span>
-      <p class="soon-title">🛏️ Our hotel pick in {{ a.name }}</p>
-      <p class="soon-text">We are choosing a hotel in {{ a.name }} to stay at this winter. Our recommendation, with an honest review, will appear here soon.</p>
-    </div>
-    {% if stays.size > 0 %}
-    <p class="picklabel">Other places to stay</p>
-    <div class="grid tripcards">
-      {% for t in stays %}{% include trip-card.html slug=t.slug %}{% endfor %}
-    </div>
-    {% endif %}
-
-    {% if eats.size > 0 %}
-    <h2>Where to eat</h2>
-    <div class="grid tripcards">
-      {% for t in eats %}{% include trip-card.html slug=t.slug %}{% endfor %}
-    </div>
-    {% endif %}
-
-    {% if a.guide %}
-    <p class="guideline">The full guide, with a perfect day and what to order: <a href="{{ a.guide | relative_url }}">{{ a.guide_label }}</a></p>
-    {% endif %}
-
-    <h2>Getting there from Florence</h2>
-    <dl class="glance glance2">
-      <div><dt>By car</dt><dd>{{ a.car }}</dd></div>
-      <div><dt>By train</dt><dd>{% if a.train == "No practical option" %}Not practical, you need a car{% else %}{{ a.train | slice: 0 | upcase }}{{ a.train | slice: 1, 300 }}{% endif %}</dd></div>
-    </dl>
-
-    <h2>The numbers</h2>
-    <dl class="glance">
-      <div><dt>Size</dt><dd>{{ a.size }}</dd></div>
-      <div><dt>Top</dt><dd>{{ a.top }}</dd></div>
-      <div><dt>Day pass 2026/27</dt><dd>{{ a.pass }}</dd></div>
-      <div><dt>Season</dt><dd>{{ a.season }}</dd></div>
-    </dl>
-
-  </div>
-
-  <p class="skiarea-back"><a href="{{ '/ski-season/' | relative_url }}">All nine ski areas</a> &middot; <a href="{{ '/articles/skiing-from-florence/' | relative_url }}">Full comparison with prices</a></p>
-
-  <aside class="note">
-    <p><strong>Researched, November 2026.</strong> Prices, sizes and dates come from the resort's own 2026/27 price list where published, and from the latest available list where not. Openings depend on snow, so check the lift status before you drive. If something is out of date, <a href="mailto:florencemediamag@gmail.com">tell us</a>.</p>
-  </aside>
-</article>
+{%- assign a = site.data.ski.areas | where: "id", page.area_id | first -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ a.name }} | Florence Media</title>
+<link rel="canonical" href="{{ a.guide | absolute_url }}">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={{ a.guide | relative_url }}">
+</head>
+<body><p><a href="{{ a.guide | relative_url }}">{{ a.guide_label }}</a></p></body>
+</html>

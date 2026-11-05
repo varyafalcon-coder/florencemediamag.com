@@ -57,6 +57,8 @@ faq:
 
 Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The village is no beauty. You will be looking up at the Matterhorn all day.
 
+{% include ski-fit.html id="cervinia" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -128,5 +130,5 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/cervinia/">Cervinia on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

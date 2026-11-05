@@ -57,6 +57,8 @@ faq:
 
 The largest ski area in the Apennines, with five base areas, so a full day never feels like the same three runs. The cheapest full day of skiing within reach of Florence, and tigelle in the huts.
 
+{% include ski-fit.html id="cimone" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -129,5 +131,5 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/cimone/">the Cimone on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

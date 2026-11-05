@@ -57,6 +57,8 @@ faq:
 
 Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of the Tofana, and in the evening the walk along Corso Italia. Cortina is expensive and proud of it. The huts here are among the best places to eat in the Alps.
 
+{% include ski-fit.html id="cortina" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -137,5 +139,5 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/cortina/">Cortina on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

@@ -1,0 +1,9 @@
+{%- assign ski = site.data.ski -%}
+{%- assign a = ski.areas | where: "id", include.id | first -%}
+{%- if a -%}
+<p class="skiarea-tags">{% for k in a.want %}{% assign w = ski.wants | where: "key", k | first %}<a href="{{ '/ski-season/' | relative_url }}?want={{ k }}">{{ w.emoji }} {{ w.label }}</a>{% endfor %}</p>
+<div class="skiarea-fit">
+  <div><p class="skiarea-label">Go if</p><p class="fit-text">{{ a.go_if }}</p></div>
+  <div><p class="skiarea-label">Skip if</p><p class="fit-text">{{ a.skip_if }}</p></div>
+</div>
+{%- endif -%}

@@ -57,6 +57,8 @@ faq:
 
 Small and wild, inside a regional park on the Bologna side of the ridge. The lifts are old and the runs short, but on a Tuscan weekend it is often the quietest snow you can reach in two hours, and the view from the top takes in the whole Apennine ridge.
 
+{% include ski-fit.html id="corno" %}
+
 ## The mountain, top to bottom
 
 <ol class="ladder">
@@ -121,5 +123,5 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/corno/">Corno alle Scale on our ski season page</a>.</p>
+<p>See how it compares with the other ski areas on <a href="/ski-season/">our ski season page</a>.</p>
 </div>
