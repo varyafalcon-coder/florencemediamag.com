@@ -491,3 +491,7 @@ details.toc summary::-webkit-details-marker{display:none}
 details.toc summary::after{content:"+";font-size:18px;line-height:1;color:var(--ink-soft);letter-spacing:0}
 details.toc[open] summary::after{content:"\2212"}
 details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
+.tripkicker{font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:10px}
+#tripgrid .artcard h2{font-size:20px}
+#tripgrid .card h3 a{text-decoration:none}
+.tripnote{font-size:13px;color:var(--ink-soft);margin-top:clamp(20px,2.4vw,28px);max-width:70ch}

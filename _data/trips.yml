@@ -1,0 +1,256 @@
+# Cards in the From Florence section of the homepage.
+# dist: hour | two | four. kind: eat | stay | see. url: optional article with more.
+- title: La Taverna di San Giuseppe
+  place: Siena
+  dist: hour
+  time: 1 h 10
+  kind: eat
+  text: Tuscan cooking in a room with Roman brick walls, over a wine cellar cut into an Etruscan house. Order the ribollita and the galletto al mattone.
+  maps_q: La Taverna di San Giuseppe, Via Giovanni Duprè 132, Siena
+- title: Piazza del Campo and the Torre del Mangia
+  place: Siena
+  dist: hour
+  time: 1 h 10
+  kind: see
+  text: The shell-shaped square the Palio races around, and some 400 steps up the tower above it for the view over the roofs.
+  maps_q: Torre del Mangia, Piazza del Campo, Siena
+- title: Buca di Sant'Antonio
+  place: Lucca
+  dist: hour
+  time: 1 h 10
+  kind: eat
+  text: A trattoria on Via della Cervia, a few steps from Piazza San Michele, cooking Tuscan classics for more than two hundred years. Handmade pasta, a good wine list.
+  maps_q: Buca di Sant'Antonio, Via della Cervia 3, Lucca
+- title: The walls of Lucca
+  place: Lucca
+  dist: hour
+  time: 1 h 10
+  kind: see
+  text: Four kilometres of Renaissance walls with a tree-lined path along the top. Hire a bike in town and ride the whole circuit in half an hour.
+  maps_q: Mura di Lucca, Lucca
+- title: Osteria dei Cavalieri
+  place: Pisa
+  dist: hour
+  time: 1 h 15
+  kind: eat
+  text: Tuscan food near Piazza dei Cavalieri, in the university part of Pisa that tourists at the tower never reach. Busy with locals, so book.
+  maps_q: Osteria dei Cavalieri, Via San Frediano 16, Pisa
+- title: Piazza dei Miracoli
+  place: Pisa
+  dist: hour
+  time: 1 h 15
+  kind: see
+  text: The cathedral, the baptistery and the tower on one lawn. Book the climb up the tower online for a set time, or come early and see the square without it.
+  maps_q: Piazza dei Miracoli, Pisa
+- title: Cantina Senese
+  place: Livorno
+  dist: hour
+  time: 1 h 20
+  kind: eat
+  text: A plain trattoria near the port for Livorno's fish cooking. The cacciucco, the city's fish stew, is a Friday dish, the mussels are good any day.
+  maps_q: Cantina Senese, Borgo dei Cappuccini 95, Livorno
+- title: Terrazza Mascagni
+  place: Livorno
+  dist: hour
+  time: 1 h 20
+  kind: see
+  text: A long seafront terrace with a black and white chequered floor and the open sea in front. Come for the sunset, then walk back to the canals of the Venezia quarter.
+  maps_q: Terrazza Mascagni, Livorno
+- title: Enoteca Del Duca
+  place: Volterra
+  dist: hour
+  time: 1 h 30
+  kind: eat
+  text: A family restaurant inside the walls of Volterra, listed in the Michelin guide, with classic Tuscan cooking and a cellar worth asking about.
+  maps_q: Enoteca Del Duca, Via di Castello 2, Volterra
+- title: The Roman theatre and the Guarnacci museum
+  place: Volterra
+  dist: hour
+  time: 1 h 30
+  kind: see
+  text: A Roman theatre from the first century BC just below the walls, and a museum full of carved Etruscan funeral urns a few streets away.
+  maps_q: Teatro Romano, Volterra
+- title: Trattoria da Fagiolino
+  place: Cutigliano, below Abetone
+  dist: two
+  time: 1 h 50
+  kind: eat
+  text: A family trattoria with a Michelin Bib Gourmand. Handmade pasta, mushrooms, game, fifteen minutes below the slopes.
+  maps_q: Trattoria da Fagiolino, Via Carega 1, Cutigliano
+  url: /articles/where-to-eat-and-stay-in-abetone/
+- title: Rifugio della Saida
+  place: Cutigliano, below Abetone
+  dist: two
+  time: 1 h 50
+  kind: eat
+  text: A mountain refuge known for its tortelli, with ragù or with butter and sage. Phone before going in winter.
+  maps_q: Rifugio della Saida, Via del Libro Aperto 1, Cutigliano
+  url: /articles/where-to-eat-and-stay-in-abetone/
+- title: Val di Luce Spa Resort
+  place: Abetone
+  dist: two
+  time: 1 h 50
+  kind: stay
+  text: Ski-in, ski-out at the foot of the Val di Luce runs, with a spa for afterwards.
+  maps_q: Val di Luce Spa Resort, Abetone
+  url: /articles/where-to-eat-and-stay-in-abetone/
+- title: Hotel Bellavista
+  place: Abetone
+  dist: two
+  time: 1 h 50
+  kind: stay
+  text: A nineteenth century villa of a Florentine noble family, about a hundred metres from the lifts.
+  maps_q: Hotel Bellavista, Via Brennero 383, Abetone
+  url: /articles/where-to-eat-and-stay-in-abetone/
+- title: Locanda Zita
+  place: Vesale, near Sestola
+  dist: two
+  time: 2 h 15
+  kind: eat
+  text: A stone and wood inn in a medieval hamlet, with handmade tortelloni, game and crescentine, and rooms upstairs.
+  maps_q: Locanda Zita, Piazza San Giorgio 6, Vesale, Sestola
+  url: /articles/where-to-eat-and-stay-on-the-cimone/
+- title: Il Lido di Fanano
+  place: Fanano
+  dist: two
+  time: 2 h 15
+  kind: eat
+  text: A country restaurant by a small lake, for tigelle with the cured meats of the valley.
+  maps_q: Il Lido di Fanano
+  url: /articles/where-to-eat-and-stay-on-the-cimone/
+- title: Rifugio Calvanella
+  place: Pian del Falco, Cimone
+  dist: two
+  time: 2 h 15
+  kind: stay
+  text: Five rooms and a restaurant a minute from the slopes. On the snow before the day trippers have parked.
+  maps_q: Rifugio Calvanella, Via Pian del Falco 109, Sestola
+  url: /articles/where-to-eat-and-stay-on-the-cimone/
+- title: Kro
+  place: Temù, Ponte di Legno
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: Old stone stables turned into a dining room of stone and wood, listed in the Michelin guide. Mushrooms, game, handmade casoncelli.
+  maps_q: Kro, Via Tollarini 70, Pontagna, Temù
+  url: /articles/where-to-eat-and-stay-in-ponte-di-legno/
+- title: Tipico Ponte di Legno
+  place: Ponte di Legno
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: 'A village restaurant built around the local dishes: casoncelli, gnoc de la cua, pizzoccheri.'
+  maps_q: Tipico, Corso Milano 31, Ponte di Legno
+  url: /articles/where-to-eat-and-stay-in-ponte-di-legno/
+- title: La Loggia
+  place: Ponte di Legno
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: Grilled meat and casoncelli bresciani in the centre of the village.
+  maps_q: La Loggia, Via Don G. Signorini 4, Ponte di Legno
+  url: /articles/where-to-eat-and-stay-in-ponte-di-legno/
+- title: Rifugio Capanna Bleis
+  place: Passo del Tonale
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: A small hut at 2,525 metres by the top of the Nigritella-Bleis chairlift, facing the Presanella.
+  maps_q: Capanna Bleis, Passo del Tonale
+  url: /articles/where-to-eat-and-stay-in-ponte-di-legno/
+- title: Passo Paradiso
+  place: Passo del Tonale
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: The stop where you change gondolas for the Presena glacier, with typical dishes at ordinary prices.
+  maps_q: Passo Paradiso, Passo del Tonale
+  url: /articles/where-to-eat-and-stay-in-ponte-di-legno/
+- title: Tubladel
+  place: Ortisei, Val Gardena
+  dist: four
+  time: 4 h
+  kind: eat
+  text: A rustic dining room like an old Alpine hut, listed in the Michelin guide. Local meat and game.
+  maps_q: Tubladel, Via Trebinger 22, Ortisei
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Rifugio Emilio Comici
+  place: Selva, Val Gardena
+  dist: four
+  time: 4 h
+  kind: eat
+  text: The hut on the Sellaronda famous for serving fish at 2,000 metres. Book for lunch in high season.
+  maps_q: Rifugio Comici, Plan de Gralba, Selva di Val Gardena
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: ADLER Spa Resort Dolomiti
+  place: Ortisei, Val Gardena
+  dist: four
+  time: 4 h
+  kind: stay
+  text: The big spa hotel of the valley, in the pedestrian centre and a walk from the Seceda lifts.
+  maps_q: ADLER Spa Resort Dolomiti, Ortisei
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: El Brite de Larieto
+  place: Cortina d'Ampezzo
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: A working farm with a restaurant and a fifteenth century stube. Everything made with their own milk and cheese.
+  maps_q: El Brite de Larieto, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Rifugio Scoiattoli
+  place: Cinque Torri, Cortina
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: A 42 seat hut under the rock towers of Cinque Torri, cooking Ampezzo dishes.
+  maps_q: Rifugio Scoiattoli, Cinque Torri, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Hotel Serena
+  place: Cortina d'Ampezzo
+  dist: four
+  time: 4 h 30
+  kind: stay
+  text: A long-running three star with half board, a walk from the Faloria cable car.
+  maps_q: Hotel Serena, Via Faloria 8, Cortina d'Ampezzo
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Rifugio Graffer
+  place: Madonna di Campiglio
+  dist: four
+  time: 4 h 15
+  kind: eat
+  text: An Alpine Club refuge at 2,261 metres at the top of the Grostè cable car. Lunch with the Brenta in front of you.
+  maps_q: Rifugio Graffer, Grostè, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Hotel Alpina
+  place: Madonna di Campiglio
+  dist: four
+  time: 4 h 15
+  kind: stay
+  text: A three star in the middle of the village, known for fair prices in a town that mostly is not.
+  maps_q: Hotel Alpina, Madonna di Campiglio
+  url: /articles/where-to-eat-and-stay-in-the-dolomites/
+- title: Chalet Etoile
+  place: Plan Maison, Cervinia
+  dist: four
+  time: 5 h
+  kind: eat
+  text: Run by the same family since 1974. Aosta Valley cooking on a terrace facing the Matterhorn, lunch only.
+  maps_q: Chalet Etoile, Plan Maison, Breuil-Cervinia
+  url: /articles/where-to-eat-and-stay-in-cervinia/
+- title: Les Neiges d'Antan
+  place: Below Cervinia
+  dist: four
+  time: 5 h
+  kind: eat
+  text: A quiet hotel outside the village whose restaurant is the reason many people come.
+  maps_q: Les Neiges d'Antan, Cret de Perrères 10, Valtournenche
+  url: /articles/where-to-eat-and-stay-in-cervinia/
+- title: Baita Cretaz
+  place: Cervinia
+  dist: four
+  time: 5 h
+  kind: stay
+  text: A three star above 2,000 metres that you can ski to the door of, with a Matterhorn terrace.
+  maps_q: Baita Cretaz, Località Campetto 1, Breuil-Cervinia
+  url: /articles/where-to-eat-and-stay-in-cervinia/

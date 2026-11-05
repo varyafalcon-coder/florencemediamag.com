@@ -53,6 +53,7 @@
     });
     return out;
   }
+  function cap1(x){ return x.charAt(0).toUpperCase() + x.slice(1); }
   function filtering(){ return !!(active.length || price || query); }
 
   function apply(){
@@ -69,7 +70,7 @@
       c.style.display = visible ? '' : 'none';
     });
 
-    var label = active.length ? active.map(labelOf).join(' + ') : 'Everything in Florence';
+    var label = active.length ? cap1(active.map(labelOf).join(' + ')) : 'Everything in Florence';
     if(query){ label = 'Search: ' + searchEl.value.trim(); }
     titleEl.textContent = label;
     countEl.textContent = n + (n === 1 ? ' place' : ' places') + (price ? ' at ' + price : '');
@@ -126,15 +127,23 @@
 
   /* ---------- From Florence: distance ---------- */
   var distPills = document.querySelectorAll('#distpills .pill[data-dist]');
-  var tripCards = document.querySelectorAll('#tripgrid .artcard');
+  var tripCards = document.querySelectorAll('#tripgrid > *');
   var tripTitle = document.getElementById('triptitle');
+  var tripCount = document.getElementById('tripcount');
+  var tripsAll = document.getElementById('tripsall');
   var dist = [];
+  var tripsExpanded = false;
 
   function applyTrips(){
+    var n = 0, shown = 0;
+    var cap = (!dist.length && !tripsExpanded) ? LIMIT : Infinity;
     tripCards.forEach(function(c){
-      var d = c.getAttribute('data-dist').split(' ');
+      var d = (c.getAttribute('data-dist') || '').split(' ');
       var ok = !dist.length || dist.some(function(x){ return d.indexOf(x) > -1; });
-      c.style.display = ok ? '' : 'none';
+      if(ok){ n++; }
+      var visible = ok && shown < cap;
+      if(visible){ shown++; }
+      c.style.display = visible ? '' : 'none';
     });
     var names = [];
     distPills.forEach(function(p){
@@ -142,7 +151,9 @@
       p.setAttribute('aria-pressed', String(on));
       if(on){ var em = p.querySelector('.em'); names.push(p.textContent.replace(em ? em.textContent : '', '').trim()); }
     });
-    tripTitle.textContent = names.length ? names.join(' or ') : 'Day trips and weekends';
+    tripTitle.textContent = names.length ? cap1(names.join(' or ')) : 'Day trips and weekends';
+    tripCount.textContent = n + ' places and guides';
+    tripsAll.hidden = shown >= n;
   }
   distPills.forEach(function(p){
     p.addEventListener('click', function(){
@@ -152,5 +163,6 @@
       applyTrips();
     });
   });
+  tripsAll.addEventListener('click', function(){ tripsExpanded = true; applyTrips(); });
   applyTrips();
 })();
