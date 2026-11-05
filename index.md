@@ -93,31 +93,31 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     <article class="card tripcard" data-dist="four" data-kind="guide ski">
       <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
       <span class="tripkicker">Guide &middot; Ponte di Legno &middot; 4 h 30</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">Where to eat in Ponte di Legno and on the Tonale</a></h3>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-ponte-di-legno/' | relative_url }}">Ponte di Legno and the Tonale: a weekend on the snow</a></h3>
       <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes.</p>
     </article>
     <article class="card tripcard" data-dist="four" data-kind="guide ski">
       <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
       <span class="tripkicker">Guide &middot; Dolomites &middot; 4 h</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">Where to eat and stay in the Dolomites</a></h3>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-the-dolomites/' | relative_url }}">The Dolomites from Florence: three valleys, three weekends</a></h3>
       <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
     </article>
     <article class="card tripcard" data-dist="two" data-kind="guide ski">
       <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
       <span class="tripkicker">Guide &middot; Abetone &middot; 1 h 50</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">Where to eat and stay in Abetone</a></h3>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-abetone/' | relative_url }}">Abetone: a day on the snow from Florence</a></h3>
       <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria and two hotels by the lifts.</p>
     </article>
     <article class="card tripcard" data-dist="two" data-kind="guide ski">
       <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
       <span class="tripkicker">Guide &middot; Cimone &middot; 2 h 15</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">Where to eat and stay on the Cimone</a></h3>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-on-the-cimone/' | relative_url }}">The Cimone: skiing with the best food in the Apennines</a></h3>
       <p>Tigelle country. A medieval inn near Sestola and a refuge hotel at the lifts.</p>
     </article>
     <article class="card tripcard" data-dist="four" data-kind="guide ski">
       <span class="card-em" aria-hidden="true"><span>📖</span><span>⛷️</span></span>
       <span class="tripkicker">Guide &middot; Cervinia &middot; 5 h</span>
-      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">Where to eat and stay in Cervinia</a></h3>
+      <h3><a href="{{ '/articles/where-to-eat-and-stay-in-cervinia/' | relative_url }}">Cervinia: skiing under the Matterhorn</a></h3>
       <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, a hotel you can ski to.</p>
     </article>
 

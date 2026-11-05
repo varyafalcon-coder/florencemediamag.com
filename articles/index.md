@@ -26,31 +26,31 @@ Some questions need more than a filter. These are written, checked on the ground
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
     <span class="kicker">Ski food guide</span>
-    <h2>Where to eat in Ponte di Legno and on the Tonale</h2>
+    <h2>Ponte di Legno and the Tonale: a weekend on the snow</h2>
     <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
     <span class="meta">Researched November 2026</span>
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
     <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in the Dolomites</h2>
+    <h2>The Dolomites from Florence: three valleys, three weekends</h2>
     <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
     <span class="meta">Researched November 2026</span>
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-abetone/">
     <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in Abetone</h2>
+    <h2>Abetone: a day on the snow from Florence</h2>
     <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
     <span class="meta">Researched November 2026</span>
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-on-the-cimone/">
     <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay on the Cimone</h2>
+    <h2>The Cimone: skiing with the best food in the Apennines</h2>
     <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
     <span class="meta">Researched November 2026</span>
   </a>
   <a class="artcard" href="/articles/where-to-eat-and-stay-in-cervinia/">
     <span class="kicker">Ski food guide</span>
-    <h2>Where to eat and stay in Cervinia</h2>
+    <h2>Cervinia: skiing under the Matterhorn</h2>
     <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
     <span class="meta">Researched November 2026</span>
   </a>

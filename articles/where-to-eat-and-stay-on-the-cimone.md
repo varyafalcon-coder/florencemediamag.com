@@ -1,21 +1,27 @@
 ---
 layout: article
-title: "Where to eat and stay on the Cimone"
+title: "The Cimone: skiing with the best food in the Apennines"
 permalink: /articles/where-to-eat-and-stay-on-the-cimone/
-seo_title: "Where to eat and stay on the Cimone: Sestola, Fanano and the slopes"
-seo_description: "The Cimone is tigelle and gnocco fritto country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat tigelle in Fanano."
-answer: "Tigelle and tortelloni, not Tuscan food. Dinner at Locanda Zita near Sestola, a bed at the lifts in Rifugio Calvanella."
+seo_title: "The Cimone from Florence: where to eat, ski and sleep"
+seo_description: "The biggest ski area in the Apennines, two hours fifteen from Florence, where lunch is half the reason to go. A perfect day, a medieval inn near Sestola, tigelle in Fanano and a refuge hotel at the lifts."
+answer: "The biggest ski area in the Apennines, two hours from Florence, in the land of tigelle and tortelloni. Lunch is half the reason to go."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"
 verify_note: "Places were chosen from the tourist boards of the Modena Apennines and recent reviews. Not all of them have been visited by us yet. Several close on weekdays outside the holidays, so phone first."
 toc:
-  - label: "What to eat up here"
-    id: "what-to-eat-up-here"
+  - label: "Why go"
+    id: "why-go"
+  - label: "A perfect day"
+    id: "a-perfect-day"
   - label: "Where to eat"
     id: "where-to-eat"
-  - label: "Where to stay"
-    id: "where-to-stay"
+  - label: "Where to sleep"
+    id: "where-to-sleep"
+  - label: "What to order"
+    id: "what-to-order"
+  - label: "Before you go"
+    id: "before-you-go"
   - label: "Quick answers"
     id: "quick-answers"
 faq:
@@ -27,47 +33,79 @@ faq:
     a: "Sestola is the main village, with more hotels and the Passo del Lupo and Pian del Falco lifts above it. Fanano is quieter and closer to the Cimoncino side."
 ---
 
-## What to eat up here
+<dl class="glance">
+<div><dt>From Florence</dt><dd>2 h 15 by car</dd></div>
+<div><dt>Best for</dt><dd>A full day, food, value</dd></div>
+<div><dt>Day pass</dt><dd>44 € weekdays, 57 € weekends</dd></div>
+<div><dt>Size</dt><dd>About 50 km, up to 2,100 m</dd></div>
+</dl>
 
-Cross into Emilia and the food changes completely. The mountain staple is the tigella, or crescentina: a small round bread cooked between hot discs and split open for a paste of lard, rosemary and garlic, with Parmigiano grated on top. Borlenghi are paper-thin crêpes with the same filling. Gnocco fritto is fried dough with prosciutto. Then tortelloni, mushrooms, and chestnuts.
+## Why go
 
-Unlike in Tuscany, some of the best eating is at the mountain huts themselves, and lunch on the slopes is part of the reason to come.
+<p class="lede">Cross into Emilia and two things change: the mountains get bigger, and the food gets better.</p>
+
+The Cimone is the largest ski area in the Apennines and a little higher than Abetone, which is why Modena and Bologna ski here. Five base areas, Passo del Lupo, Pian del Falco, Lago della Ninfa, Cimoncino and Montecreto, mean a full day here does not feel like laps of the same three runs. The weekday pass is the cheapest full day of skiing within reach of Florence.
+
+And then there is lunch. The mountain huts here make tigelle and tortelloni as good as anything in the valley.
+
+## A perfect day
+
+<ol class="dayplan">
+<li><span class="when">Morning</span><span class="what">Start at Passo del Lupo above Sestola and work across the area while the pistes are freshly groomed.</span></li>
+<li><span class="when">Lunch</span><span class="what">Tigelle in a hut on the slopes. Order more than you think you need.</span></li>
+<li><span class="when">Afternoon</span><span class="what">A last run down to Pian del Falco, where <a href="#calvanella">Rifugio Calvanella</a> sits at the lifts.</span></li>
+<li><span class="when">Evening</span><span class="what">Drive out to the medieval hamlet of Vesale for dinner at <a href="#locanda-zita">Locanda Zita</a>, and sleep upstairs.</span></li>
+</ol>
 
 ## Where to eat
 
-<div class="venue">
+<div class="venue" id="locanda-zita">
 <h3>Locanda Zita</h3>
+<p class="bestfor">The dinner of the weekend, in a stone and wood inn in a medieval hamlet. The drive out in the dark feels like a mistake until you arrive.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Locanda%20Zita%2C%20Piazza%20San%20Giorgio%206%2C%20Vesale%2C%20Sestola" target="_blank" rel="noopener">Piazza San Giorgio 6</a>, in the medieval hamlet of Vesale, a few km from Sestola</dd></div>
-<div><dt>What it is</dt><dd>A stone and wood inn with a restaurant and eleven rooms</dd></div>
-<div><dt>What to order</dt><dd>Handmade tortelloni, game, mushrooms, crescentine</dd></div>
-<div><dt>Note</dt><dd>Closed Wednesday and Thursday</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Locanda%20Zita%2C%20Piazza%20San%20Giorgio%206%2C%20Vesale%2C%20Sestola" target="_blank" rel="noopener">Piazza San Giorgio 6, Vesale, near Sestola</a></dd></div>
+<div><dt>Order</dt><dd>Handmade tortelloni, game, mushrooms, crescentine</dd></div>
+<div><dt>Good to know</dt><dd>Eleven rooms upstairs. Closed Wednesday and Thursday</dd></div>
 </dl>
 </div>
 
-The drive out to Vesale in the dark feels like a mistake until you arrive. It is the dinner of the weekend, and the rooms upstairs mean you do not have to drive back.
-
-<div class="venue">
+<div class="venue" id="lido-fanano">
 <h3>Il Lido di Fanano</h3>
+<p class="bestfor">A country restaurant by a small lake, for tigelle with the cured meats of the valley.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Il%20Lido%20di%20Fanano" target="_blank" rel="noopener">Fanano</a>, by a small fishing lake outside the village</dd></div>
-<div><dt>What it is</dt><dd>A country restaurant cooking the local mountain tradition</dd></div>
-<div><dt>What to order</dt><dd>Tigelle with the cured meats of the valley</dd></div>
-<div><dt>Note</dt><dd>Hours change through the winter, check before going</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Il%20Lido%20di%20Fanano" target="_blank" rel="noopener">Outside Fanano</a></dd></div>
+<div><dt>Good to know</dt><dd>Hours change through the winter, check before going</dd></div>
 </dl>
 </div>
 
-## Where to stay
+## Where to sleep
 
-<div class="venue">
+<div class="venue" id="calvanella">
 <h3>Rifugio Calvanella</h3>
+<p class="bestfor">Five rooms and a restaurant a minute from the slopes. You are skiing before the day trippers have parked.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Rifugio%20Calvanella%2C%20Via%20Pian%20del%20Falco%20109%2C%20Sestola" target="_blank" rel="noopener">Via Pian del Falco 109</a>, at the Pian del Falco base</dd></div>
-<div><dt>Why stay</dt><dd>A small refuge hotel with five rooms and its own restaurant, about a minute from the slopes. You are on the snow before the day trippers have parked</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Rifugio%20Calvanella%2C%20Via%20Pian%20del%20Falco%20109%2C%20Sestola" target="_blank" rel="noopener">Via Pian del Falco 109, Sestola</a></dd></div>
 <div><dt>Price</dt><dd>€€</dd></div>
 </dl>
 </div>
 
+## What to order
+
+<dl class="dishes">
+<div><dt>Tigelle</dt><dd>Small round breads, split and filled with lard, rosemary and garlic, Parmigiano on top.</dd></div>
+<div><dt>Borlenghi</dt><dd>Paper-thin crêpes with the same filling, folded in four.</dd></div>
+<div><dt>Gnocco fritto</dt><dd>Puffed fried dough, eaten with prosciutto.</dd></div>
+<div><dt>Tortelloni</dt><dd>Filled with ricotta and herbs, with butter and sage.</dd></div>
+</dl>
+
+## Before you go
+
+<ul class="tips">
+<li>The pass is 44 euro on weekdays and 57 at weekends and over Christmas, plus a 3 euro card.</li>
+<li>Many restaurants close on weekdays outside the holidays. Phone first.</li>
+<li>Check the lift status: like all the Apennines, the Cimone depends on the snow.</li>
+</ul>
+
 <div class="callout">
-<p>Lift prices, the size of the area and how the Cimone compares with Abetone and the Corno alle Scale are in <a href="/articles/skiing-from-florence/">Where to go skiing from Florence this winter</a>.</p>
+<p>How the Cimone compares with the other eight ski areas within reach of Florence: <a href="/ski-season/cimone/">the Cimone on our ski season page</a>.</p>
 </div>

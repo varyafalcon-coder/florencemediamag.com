@@ -202,9 +202,9 @@ Livigno is a long, high valley that is cold all winter, which is the whole point
 For the areas Florentines go to most, we have written separate guides: the restaurants worth the drive, the huts worth stopping at on the slopes, and a hotel or two to sleep in.
 
 <ul>
-<li><a href="/articles/where-to-eat-and-stay-in-abetone/">Where to eat and stay in Abetone</a></li>
-<li><a href="/articles/where-to-eat-and-stay-on-the-cimone/">Where to eat and stay on the Cimone</a></li>
-<li><a href="/articles/where-to-eat-and-stay-in-the-dolomites/">Where to eat and stay in the Dolomites: Val Gardena, Cortina, Madonna di Campiglio</a></li>
-<li><a href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">Where to eat in Ponte di Legno and on the Tonale</a></li>
-<li><a href="/articles/where-to-eat-and-stay-in-cervinia/">Where to eat and stay in Cervinia</a></li>
+<li><a href="/articles/where-to-eat-and-stay-in-abetone/">Abetone: a day on the snow from Florence</a></li>
+<li><a href="/articles/where-to-eat-and-stay-on-the-cimone/">The Cimone: skiing with the best food in the Apennines</a></li>
+<li><a href="/articles/where-to-eat-and-stay-in-the-dolomites/">The Dolomites from Florence: three valleys, three weekends</a></li>
+<li><a href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">Ponte di Legno and the Tonale: a weekend on the snow</a></li>
+<li><a href="/articles/where-to-eat-and-stay-in-cervinia/">Cervinia: skiing under the Matterhorn</a></li>
 </ul>

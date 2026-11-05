@@ -560,3 +560,34 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .skiarea .skimore{max-width:64ch}
 .skiarea-back{margin-top:clamp(30px,4vw,44px);font-size:15px}
 .skiarea-back a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
+
+/* ---------- zone guides: at a glance, a day, dishes, tips ---------- */
+.glance{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);
+  margin-top:clamp(22px,3vw,30px);max-width:none;border:1px solid var(--line)}
+.glance div{background:var(--surface);padding:16px 18px}
+.glance dt{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.glance dd{margin:5px 0 0;font-size:15px;line-height:1.45;font-weight:600}
+@media (max-width:760px){.glance{grid-template-columns:1fr 1fr}}
+.article .body .lede{font-size:clamp(18px,1.9vw,21px);line-height:1.55;max-width:60ch}
+.dayplan{list-style:none;margin:22px 0 0;padding:0;max-width:64ch;border-left:2px solid var(--blue)}
+.dayplan li{position:relative;padding:0 0 22px 24px}
+.dayplan li:last-child{padding-bottom:0}
+.dayplan li::before{content:"";position:absolute;left:-7px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--blue)}
+.dayplan .when{display:block;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.dayplan .what{display:block;margin-top:4px;font-size:16.5px;line-height:1.55}
+.dayplan a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
+.picklabel{margin:clamp(30px,4vw,40px) 0 0;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft)}
+.article .body .picklabel + .venue{margin-top:12px}
+.venue .bestfor{margin:6px 0 0;font-size:15.5px;line-height:1.5;color:var(--ink-soft);max-width:none}
+.dishes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:22px;max-width:64ch}
+.dishes div{background:var(--card);padding:16px 18px}
+.dishes dt{font-weight:700;font-size:16px}
+.dishes dd{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink-soft)}
+@media (max-width:560px){.dishes{grid-template-columns:1fr}}
+.article .body ul.tips{list-style:none;padding:0;max-width:64ch}
+.article .body ul.tips li{padding:12px 0 12px 30px;border-top:1px solid var(--line);position:relative;margin:0}
+.article .body ul.tips li::before{content:"→";position:absolute;left:0;color:var(--blue);font-weight:700}
+.article .body .venue{scroll-margin-top:70px}
+.article .body p.picklabel{font-size:11px;letter-spacing:.11em;margin:clamp(30px,4vw,40px) 0 0;color:var(--ink-soft);text-transform:uppercase}
+.article .body .venue p.bestfor{font-size:15.5px;margin-top:6px}
+.article .body p.lede{font-size:clamp(19px,2vw,22px);line-height:1.5;font-weight:600;letter-spacing:-.01em}

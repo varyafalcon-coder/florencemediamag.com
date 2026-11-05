@@ -18,7 +18,7 @@ areas:
     skip_if: "It has been a warm winter. Abetone depends on natural snow and snowmaking."
     want: [family, value, food]
     guide: "/articles/where-to-eat-and-stay-in-abetone/"
-    guide_label: "Where to eat and stay in Abetone"
+    guide_label: "Abetone: a day on the snow from Florence"
 
   - id: corno
     short: "Small, wild and often empty, inside a regional park."
@@ -52,7 +52,7 @@ areas:
     skip_if: "You want silence on a Saturday."
     want: [value, food, family]
     guide: "/articles/where-to-eat-and-stay-on-the-cimone/"
-    guide_label: "Where to eat and stay on the Cimone"
+    guide_label: "The Cimone: skiing with the best food in the Apennines"
 
   - id: valgardena
     short: "Ladin villages, the Sellaronda, and you can come by train."
@@ -70,7 +70,7 @@ areas:
     skip_if: "You are on a tight budget."
     want: [big, nocar, food, apres, family]
     guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "Where to eat and stay in the Dolomites"
+    guide_label: "The Dolomites from Florence: three valleys, three weekends"
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -88,7 +88,7 @@ areas:
     skip_if: "You want rustic or cheap."
     want: [big, apres, nocar]
     guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "Where to eat and stay in the Dolomites"
+    guide_label: "The Dolomites from Florence: three valleys, three weekends"
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -106,7 +106,7 @@ areas:
     skip_if: "You want nightlife until four."
     want: [snow, value, family, quiet, big, nocar]
     guide: "/articles/where-to-eat-and-stay-in-ponte-di-legno/"
-    guide_label: "Where to eat in Ponte di Legno and on the Tonale"
+    guide_label: "Ponte di Legno and the Tonale: a weekend on the snow"
 
   - id: cortina
     short: "The glamour resort, with the most beautiful scenery."
@@ -124,7 +124,7 @@ areas:
     skip_if: "You want to ski from one area to the next without a bus, or to spend little."
     want: [apres, big, food, nocar]
     guide: "/articles/where-to-eat-and-stay-in-the-dolomites/"
-    guide_label: "Where to eat and stay in the Dolomites"
+    guide_label: "The Dolomites from Florence: three valleys, three weekends"
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."
@@ -142,7 +142,7 @@ areas:
     skip_if: "You want a pretty village."
     want: [snow, big, apres, family, nocar]
     guide: "/articles/where-to-eat-and-stay-in-cervinia/"
-    guide_label: "Where to eat and stay in Cervinia"
+    guide_label: "Cervinia: skiing under the Matterhorn"
 
   - id: livigno
     short: "Young, cold, snow-sure, with the liveliest nights."

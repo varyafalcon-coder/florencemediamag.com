@@ -1,125 +1,156 @@
 ---
 layout: article
-title: "Where to eat in Ponte di Legno and on the Tonale"
+title: "Ponte di Legno and the Tonale: a weekend on the snow"
 permalink: /articles/where-to-eat-and-stay-in-ponte-di-legno/
-seo_title: "Where to eat in Ponte di Legno and Passo del Tonale: restaurants, mountain huts and local dishes"
-seo_description: "Casoncelli, gnoc de la cua and Silter cheese. The restaurants worth booking in Ponte di Legno and Temù, the huts to stop at on the slopes of the Tonale, and which village to sleep in."
-answer: "Dinner at Kro in Temù, local dishes in the village, lunch high up at Capanna Bleis on the Tonale side."
+seo_title: "Ponte di Legno and Passo del Tonale: where to eat, ski and sleep on a weekend from Florence"
+seo_description: "A stone village below, a glacier at 3,000 metres above, four and a half hours from Florence. A perfect day, the restaurants worth booking, the huts on the slopes, what to order, and which village to sleep in."
+answer: "A real Alpine village below, a glacier at 3,000 metres above, and a lift pass that costs less than the Dolomites. Four and a half hours from Florence."
 published_on: "2026-11-05"
 updated_on: "2026-11-05"
 verify_label: "Researched"
 verify_note: "Places were chosen from the Michelin guide, the Pontedilegno-Tonale ski area's own maps and tourist information, and recent reviews. Not all of them have been visited by us yet. Two lifts on the Ponte di Legno side, Valbiolo and Corno d'Aola, were closed for works in summer 2026, so check which huts can be reached before you set off."
 toc:
-  - label: "Two places in one ski area"
-    id: "two-places-in-one-ski-area"
-  - label: "What to eat up here"
-    id: "what-to-eat-up-here"
-  - label: "Dinner in the valley"
-    id: "dinner-in-the-valley"
-  - label: "Lunch on the slopes"
-    id: "lunch-on-the-slopes"
+  - label: "Why go"
+    id: "why-go"
+  - label: "A perfect day"
+    id: "a-perfect-day"
+  - label: "Where to eat"
+    id: "where-to-eat"
+  - label: "What to order"
+    id: "what-to-order"
   - label: "Where to sleep"
     id: "where-to-sleep"
+  - label: "Before you go"
+    id: "before-you-go"
   - label: "Quick answers"
     id: "quick-answers"
 faq:
+  - q: "How far is Ponte di Legno from Florence?"
+    a: "About four and a half hours by car, via Brescia and Val Camonica or via Trento and Val di Sole. By train, go to Brescia, take the local line to Edolo and a bus up the valley."
   - q: "What is the best restaurant near Ponte di Legno?"
     a: "Kro, in Pontagna di Temù about ten minutes below the village, listed in the Michelin guide. Alpine and regional cooking in converted stone stables: mushrooms, game, handmade casoncelli. Check closing days before you go."
   - q: "What is the typical food in Ponte di Legno?"
     a: "Casoncelli, a filled pasta from the Brescia mountains, gnoc de la cua, the village's own soft gnocchi, Silter, the protected cheese of Val Camonica, and polenta with game or mushrooms."
-  - q: "Where can you eat on the slopes at Passo del Tonale?"
-    a: "Capanna Bleis at 2,525 metres by the top of the Nigritella-Bleis chairlift, Passo Paradiso where you change gondolas for the Presena glacier, and Malga Valbiolo and Capanna Valbione at the top of their chairlifts."
   - q: "Is it better to stay in Ponte di Legno or at Passo del Tonale?"
     a: "Ponte di Legno for a real village with restaurants and evenings, Passo del Tonale for snow at the door and the shortest way to the glacier. The two are joined by lifts, so you can ski both from either."
+  - q: "How much is a ski pass at Pontedilegno-Tonale in 2026/27?"
+    a: "A day costs from 52 euro, and 70 euro at peak dates: 26 December to 10 January and the whole of February. On most other days there is a 10 euro discount on the adult day pass."
 ---
 
-## Two places in one ski area
+<dl class="glance">
+<div><dt>From Florence</dt><dd>4 h 30 by car</dd></div>
+<div><dt>Best for</dt><dd>Value, snow, a real village</dd></div>
+<div><dt>Day pass</dt><dd>52 to 70 €</dd></div>
+<div><dt>Season</dt><dd>Late Nov to early May</dd></div>
+</dl>
 
-Pontedilegno-Tonale is one lift pass and two quite different places.
+## Why go
 
-Ponte di Legno, at 1,260 metres, is an old village at the top of Val Camonica, in Lombardy. It has stone houses with wooden balconies, a church square, shops that are not ski shops, and families from Milan and Brescia who have been coming for three generations. Passo del Tonale, at 1,880 metres and just over the border in Trentino, is a ski station: hotels, lifts and snow from November to May. Above it is the Presena glacier at 3,000 metres.
+<p class="lede">Most ski resorts are either a village or a ski station. This one is both, joined by a lift.</p>
 
-For food, that means dinner in the valley and lunch up top.
+Down in the valley, at 1,260 metres, Ponte di Legno is an old stone and wood village at the top of Val Camonica, with a church square, wooden balconies and shops that sell more than ski wax. Families from Milan and Brescia have been coming here for three generations, and in the evening the main street feels like a town, not a resort.
 
-## What to eat up here
+Up the road, at 1,880 metres, Passo del Tonale is all snow. Wide, easy runs, snow from November to May, and above it the Presena glacier at 3,000 metres. The run from the glacier back down to the valley is one of the longest in the Alps.
 
-This is the Brescia mountains, and the dishes are their own. Casoncelli are the local filled pasta, half moons of meat or herbs with melted butter, sage and grated cheese. Gnoc de la cua is Ponte di Legno's own: soft gnocchi of flour, potato and greens, served with butter and cheese. Silter is the protected cheese of Val Camonica, a firm, slightly sharp mountain cheese aged in the valley. Then polenta, with game, with mushrooms or simply with more cheese, and pizzoccheri, buckwheat pasta with cabbage and potato, borrowed from Valtellina next door.
+The lift pass costs less than the Dolomites, and the area is about 100 km. That is a long weekend that never repeats itself.
 
-## Dinner in the valley
+## A perfect day
 
-<div class="venue">
+<ol class="dayplan">
+<li><span class="when">Morning</span><span class="what">Take the Paradiso and Presena gondolas up to the glacier while the snow is fresh. At 3,000 metres it is the best snow in the area.</span></li>
+<li><span class="when">Lunch</span><span class="what">Ski down to <a href="#capanna-bleis">Capanna Bleis</a> at 2,525 metres for polenta on the terrace, facing the Presanella. Or stop at <a href="#passo-paradiso">Passo Paradiso</a> on the way down.</span></li>
+<li><span class="when">Afternoon</span><span class="what">Work your way across to the Ponte di Legno side and finish with the long run down to the village.</span></li>
+<li><span class="when">Evening</span><span class="what">A walk through the village, then dinner at <a href="#kro">Kro</a> in Temù, ten minutes down the valley. Book it.</span></li>
+</ol>
+
+## Where to eat
+
+<p class="picklabel">Dinner in the valley</p>
+
+<div class="venue" id="kro">
 <h3>Kro</h3>
+<p class="bestfor">The one to book for Saturday night. Old stone stables turned into a dining room of stone and wood.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Kro%2C%20Via%20Tollarini%2070%2C%20Pontagna%2C%20Tem%C3%B9" target="_blank" rel="noopener">Via Tollarini 70/c</a>, Pontagna di Temù, about ten minutes below Ponte di Legno</dd></div>
-<div><dt>What it is</dt><dd>Old stone stables turned into a dining room of stone and wood, listed in the Michelin guide for Alpine and regional cooking</dd></div>
-<div><dt>What to order</dt><dd>Mushrooms, game, the handmade casoncelli</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Kro%2C%20Via%20Tollarini%2070%2C%20Pontagna%2C%20Tem%C3%B9" target="_blank" rel="noopener">Via Tollarini 70/c, Pontagna di Temù</a></dd></div>
 <div><dt>Price</dt><dd>€€</dd></div>
-<div><dt>Note</dt><dd>Closing days vary through the season. Phone +39 0364 906411</dd></div>
+<div><dt>Order</dt><dd>Mushrooms, game, the handmade casoncelli</dd></div>
+<div><dt>Good to know</dt><dd>Listed in the Michelin guide. Closing days vary, phone +39 0364 906411</dd></div>
 </dl>
 </div>
 
-The one to book for a Saturday night. It is a short drive down the valley from Ponte di Legno and the Temù lifts.
-
-<div class="venue">
+<div class="venue" id="tipico">
 <h3>Tipico Ponte di Legno</h3>
+<p class="bestfor">The local dishes, on the main street. The easiest dinner after a long day.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Tipico%2C%20Corso%20Milano%2031%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Corso Milano 31</a>, on the main street</dd></div>
-<div><dt>What it is</dt><dd>A village restaurant built around the local dishes</dd></div>
-<div><dt>What to order</dt><dd>Handmade casoncelli, gnoc de la cua, pizzoccheri</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Tipico%2C%20Corso%20Milano%2031%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Corso Milano 31, Ponte di Legno</a></dd></div>
+<div><dt>Order</dt><dd>Handmade casoncelli, gnoc de la cua, pizzoccheri</dd></div>
 </dl>
 </div>
 
-<div class="venue">
+<div class="venue" id="la-loggia">
 <h3>La Loggia</h3>
+<p class="bestfor">For meat eaters: grilled cuts and the mountain pasta, in the centre of the village.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=La%20Loggia%2C%20Via%20Don%20G.%20Signorini%204%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Via Don G. Signorini 4</a>, in the centre</dd></div>
-<div><dt>What it is</dt><dd>A meat restaurant, with grilled cuts and the mountain pasta</dd></div>
-<div><dt>What to order</dt><dd>Casoncelli bresciani to start, then whatever is on the grill</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=La%20Loggia%2C%20Via%20Don%20G.%20Signorini%204%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Via Don G. Signorini 4, Ponte di Legno</a></dd></div>
 <div><dt>Price</dt><dd>€€</dd></div>
+<div><dt>Order</dt><dd>Casoncelli bresciani, then whatever is on the grill</dd></div>
 </dl>
 </div>
 
-## Lunch on the slopes
+<p class="picklabel">Lunch on the slopes</p>
 
-The huts on the Tonale side are simple: self service, polenta, a terrace in the sun. You come for the position, not the menu.
-
-<div class="venue">
+<div class="venue" id="capanna-bleis">
 <h3>Rifugio Capanna Bleis</h3>
+<p class="bestfor">A high lunch without going all the way to the glacier, with the Presanella in front of you.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Capanna%20Bleis%2C%20Passo%20del%20Tonale" target="_blank" rel="noopener">2,525 metres</a>, next to the top of the Nigritella-Bleis chairlift above Passo del Tonale</dd></div>
-<div><dt>What it is</dt><dd>A small mountain hut in the middle of the Tonale ski area, facing the Presanella</dd></div>
-<div><dt>Best for</dt><dd>A lunch high up without going all the way to the glacier</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Capanna%20Bleis%2C%20Passo%20del%20Tonale" target="_blank" rel="noopener">2,525 m, top of the Nigritella-Bleis chairlift, Tonale side</a></dd></div>
 </dl>
 </div>
 
-<div class="venue">
+<div class="venue" id="passo-paradiso">
 <h3>Passo Paradiso</h3>
+<p class="bestfor">The stop between the two gondolas to the glacier. Typical dishes at ordinary prices.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Passo%20Paradiso%2C%20Passo%20del%20Tonale" target="_blank" rel="noopener">Passo Paradiso</a>, where you change from the Paradiso gondola to the Presena gondola</dd></div>
-<div><dt>What it is</dt><dd>The stop on the way up to the glacier, with typical dishes at ordinary prices</dd></div>
-<div><dt>Best for</dt><dd>A warm-up before the glacier, or lunch after the long run down</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Passo%20Paradiso%2C%20Passo%20del%20Tonale" target="_blank" rel="noopener">Passo Paradiso, between the Paradiso and Presena gondolas</a></dd></div>
 </dl>
 </div>
 
-<div class="venue">
+<div class="venue" id="capanna-valbione">
 <h3>Capanna Valbione</h3>
+<p class="bestfor">Above the village on the gentle runs. The one for children and first days on skis.</p>
 <dl class="venue-meta">
-<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Capanna%20Valbione%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Valbione</a>, at the top of the Valbione chairlift on the Ponte di Legno side</dd></div>
-<div><dt>What it is</dt><dd>Restaurant and bar above the village, on the gentle runs families use</dd></div>
-<div><dt>Best for</dt><dd>Children, beginners, and the quieter Ponte di Legno side of the area</dd></div>
+<div><dt>Where</dt><dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Capanna%20Valbione%2C%20Ponte%20di%20Legno" target="_blank" rel="noopener">Top of the Valbione chairlift, Ponte di Legno side</a></dd></div>
 </dl>
 </div>
+
+## What to order
+
+<dl class="dishes">
+<div><dt>Casoncelli</dt><dd>Half moons of pasta filled with meat or herbs, with melted butter, sage and cheese.</dd></div>
+<div><dt>Gnoc de la cua</dt><dd>Ponte di Legno's own soft gnocchi of flour, potato and greens, with butter and cheese.</dd></div>
+<div><dt>Silter</dt><dd>The protected cheese of Val Camonica: firm, slightly sharp, aged in the valley.</dd></div>
+<div><dt>Pizzoccheri</dt><dd>Buckwheat pasta with cabbage, potato and cheese, borrowed from Valtellina next door.</dd></div>
+</dl>
 
 ## Where to sleep
 
-There are three bases, and which one is right depends on the trip.
+There are three bases, and the right one depends on the trip.
 
-<ul>
-<li><strong>Ponte di Legno</strong> is the place to stay if the evenings matter: restaurants, a walk through the village, shops. The lifts start from the edge of the village and connect to the Tonale.</li>
-<li><strong>Passo del Tonale</strong> is the place to stay if the snow matters most. You ski from the door, the snow is better early and late in the season, and the glacier is one gondola away. In the evening there is not much else.</li>
-<li><strong>Temù</strong>, a few kilometres down the valley, is quieter and usually cheaper, with its own lift up into the area and Kro around the corner.</li>
+<ul class="tips">
+<li><strong>Ponte di Legno</strong> if the evenings matter: restaurants, a walk through the village, shops. The lifts start at the edge of the village and connect to the Tonale.</li>
+<li><strong>Passo del Tonale</strong> if the snow matters most. You ski from the door, the snow is better early and late in the season, and the glacier is one gondola away. Quiet in the evening.</li>
+<li><strong>Temù</strong>, a few kilometres down the valley, if you want it quieter and cheaper, with its own lift up into the area and Kro around the corner.</li>
+</ul>
+
+## Before you go
+
+<ul class="tips">
+<li>Peak dates for the lift pass are 26 December to 10 January and the whole of February. Outside them the adult day pass is up to 18 euro cheaper.</li>
+<li>Book Kro for Friday and Saturday nights, especially in February.</li>
+<li>Check the lift status before you set off. The Valbiolo and Corno d'Aola lifts were closed for works in summer 2026.</li>
+<li>If the Apennines have no snow in December, this is one of the first areas in Italy to open, thanks to the glacier.</li>
 </ul>
 
 <div class="callout">
-<p>Lift prices, the size of the area and how Pontedilegno-Tonale compares with the Dolomites are in <a href="/articles/skiing-from-florence/">Where to go skiing from Florence this winter</a>.</p>
+<p>How Pontedilegno-Tonale compares with the other eight ski areas within reach of Florence: <a href="/ski-season/pontedilegno/">Pontedilegno-Tonale on our ski season page</a>.</p>
 </div>
