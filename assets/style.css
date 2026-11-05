@@ -641,3 +641,26 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .cmp-size{grid-column:1;font-size:14px}
   .cmp-pass{grid-column:2;text-align:right;font-size:14px}
 }
+
+/* ---------- Ponte di Legno page extras ---------- */
+.bignums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:16px;max-width:64ch}
+.bignums div{background:var(--blue);color:#fff;padding:16px 16px 18px}
+.bignums .bn{display:block;font-size:clamp(22px,3vw,28px);font-weight:700;letter-spacing:-.03em;line-height:1.1}
+.bignums .bl{display:block;margin-top:6px;font-size:12.5px;line-height:1.35;opacity:.85}
+@media (max-width:640px){.bignums{grid-template-columns:1fr 1fr}}
+.ladder{list-style:none;margin:22px 0 0;padding:0;max-width:64ch}
+.ladder li{display:grid;grid-template-columns:86px 1fr;column-gap:16px;padding:14px 0;border-top:1px solid var(--line)}
+.ladder li:last-child{border-bottom:1px solid var(--line)}
+.ladder .alt{grid-row:1 / span 2;font-weight:700;font-size:15px;color:var(--blue);font-variant-numeric:tabular-nums;padding-top:2px}
+.ladder .lname{font-weight:700;font-size:16.5px}
+.ladder .ldesc{font-size:15px;color:var(--ink-soft);line-height:1.5;margin-top:2px}
+.soon{position:relative;margin-top:22px;max-width:64ch;border:2px dashed var(--blue);padding:22px 24px;background:var(--card)}
+.soon-badge{display:inline-block;background:var(--blue);color:#fff;font-size:11px;letter-spacing:.1em;text-transform:uppercase;padding:4px 10px;border-radius:999px}
+.article .body p.soon-title{margin:12px 0 0;font-size:19px;font-weight:700;letter-spacing:-.01em}
+.article .body p.soon-text{margin:6px 0 0;font-size:15.5px;color:var(--ink-soft);line-height:1.55}
+.bases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px;max-width:64ch}
+.bases > div{background:var(--card);padding:16px 18px}
+.article .body p.base-name{margin:0;font-weight:700;font-size:16px}
+.article .body p.base-text{margin:6px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink-soft)}
+@media (max-width:640px){.bases{grid-template-columns:1fr}}
+.article .body .glance{max-width:64ch}
