@@ -505,3 +505,35 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .seasonpills{margin-top:24px}
 .artsec[hidden]{display:none}
 .seasonpills + .artsec{margin-top:clamp(30px,4vw,44px)}
+
+/* ---------- ski season page ---------- */
+.skihero .axis{margin:0 0 12px}
+.skitier{margin-top:clamp(40px,5vw,60px)}
+.skitier[hidden],.skicard[hidden]{display:none}
+.skitier-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 20px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+.skitier-head h2{margin:0;font-size:clamp(24px,3vw,34px);letter-spacing:-.03em}
+.skitier-head p{margin:0;color:var(--ink-soft);font-size:15px}
+.skigrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(18px,2.2vw,26px);margin-top:clamp(24px,3vw,32px)}
+@media (max-width:800px){.skigrid{grid-template-columns:1fr}}
+.skicard{position:relative;background:var(--card);padding:clamp(22px,2.8vw,32px);display:flex;flex-direction:column;scroll-margin-top:70px}
+.skicard-kicker{margin:0;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-soft)}
+.skicard h3{font-size:clamp(24px,2.6vw,30px);letter-spacing:-.03em;margin:8px 0 0}
+.skicard-time{margin:10px 0 0;font-size:14.5px;color:var(--ink-soft)}
+.skicard-time strong{color:var(--ink)}
+.skicard-vibe{margin:16px 0 0;font-size:16.5px;line-height:1.6;max-width:none}
+.skicard-fit{margin:18px 0 0;display:grid;gap:12px}
+.skicard-fit div{display:block}
+.skicard-fit dt{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.skicard-fit dd{margin:3px 0 0;font-size:15px;line-height:1.5}
+.skicard-stats{list-style:none;margin:20px 0 0;padding:16px 0 0;border-top:1px solid var(--line);
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 20px;font-size:14px;line-height:1.45}
+.skicard-stats span{display:block;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:2px}
+.skicard-tags{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 0}
+.skicard-tags span{font-size:12.5px;border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--ink-soft)}
+.skicard-link{margin-top:18px;font-size:15px;font-weight:600;text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
+.skimore{display:block;margin-top:clamp(40px,5vw,60px);background:var(--blue);color:#fff;text-decoration:none;
+  padding:clamp(22px,3vw,34px);transition:transform .15s}
+.skimore:hover{transform:translateY(-2px)}
+.skimore .kicker{font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;opacity:.75}
+.skimore-title{display:block;font-size:clamp(20px,2.6vw,28px);font-weight:700;letter-spacing:-.025em;margin-top:8px;line-height:1.15}
+.skinote{margin-top:clamp(28px,3.4vw,40px)}
