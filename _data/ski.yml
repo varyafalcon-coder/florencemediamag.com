@@ -3,6 +3,7 @@
 # want: keys from the "wants" list at the bottom of this file.
 areas:
   - id: abetone
+    short: "Florence's home mountain. Wooden hotels, ski schools, no pretence."
     name: "Abetone"
     region: "Pistoia mountains, Tuscany"
     tier: near
@@ -20,6 +21,7 @@ areas:
     guide_label: "Where to eat and stay in Abetone"
 
   - id: corno
+    short: "Small, wild and often empty, inside a regional park."
     name: "Corno alle Scale"
     region: "Bologna Apennines, Emilia-Romagna"
     tier: near
@@ -35,6 +37,7 @@ areas:
     want: [quiet, value]
 
   - id: cimone
+    short: "The biggest in the Apennines, with tigelle in the huts."
     name: "Cimone"
     region: "Modena Apennines, Emilia-Romagna"
     tier: near
@@ -52,6 +55,7 @@ areas:
     guide_label: "Where to eat and stay on the Cimone"
 
   - id: valgardena
+    short: "Ladin villages, the Sellaronda, and you can come by train."
     name: "Val Gardena"
     region: "Dolomites, South Tyrol"
     tier: alps
@@ -69,6 +73,7 @@ areas:
     guide_label: "Where to eat and stay in the Dolomites"
 
   - id: campiglio
+    short: "Smart village, perfect red runs, aperitivo after skiing."
     name: "Madonna di Campiglio"
     region: "Brenta Dolomites, Trentino"
     tier: alps
@@ -86,6 +91,7 @@ areas:
     guide_label: "Where to eat and stay in the Dolomites"
 
   - id: pontedilegno
+    short: "A real village below, a glacier at 3,000 m above. Good value."
     name: "Pontedilegno-Tonale"
     region: "Val Camonica, Lombardy, and Trentino"
     tier: alps
@@ -103,6 +109,7 @@ areas:
     guide_label: "Where to eat in Ponte di Legno and on the Tonale"
 
   - id: cortina
+    short: "The glamour resort, with the most beautiful scenery."
     name: "Cortina d'Ampezzo"
     region: "Dolomites, Veneto"
     tier: alps
@@ -120,6 +127,7 @@ areas:
     guide_label: "Where to eat and stay in the Dolomites"
 
   - id: cervinia
+    short: "The highest skiing in Italy, under the Matterhorn."
     name: "Breuil-Cervinia"
     region: "Aosta Valley"
     tier: far
@@ -137,6 +145,7 @@ areas:
     guide_label: "Where to eat and stay in Cervinia"
 
   - id: livigno
+    short: "Young, cold, snow-sure, with the liveliest nights."
     name: "Livigno"
     region: "Valtellina, Lombardy"
     tier: far

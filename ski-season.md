@@ -35,21 +35,10 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
       <article class="skicard" id="{{ a.id }}" data-want="{{ a.want | join: ' ' }}">
         <span class="card-em" aria-hidden="true">{% for k in a.want limit: 3 %}{% assign w = ski.wants | where: "key", k | first %}<span>{{ w.emoji }}</span>{% endfor %}</span>
         <p class="skicard-kicker">{{ a.region }}</p>
-        <h3>{{ a.name }}</h3>
-        <p class="skicard-time"><strong>{{ a.car }}</strong> by car{% if a.train != "No practical option" %} &middot; or {{ a.train }}{% endif %}</p>
-        <p class="skicard-vibe">{{ a.vibe }}</p>
-        <dl class="skicard-fit">
-          <div><dt>Go if</dt><dd>{{ a.go_if }}</dd></div>
-          <div><dt>Skip if</dt><dd>{{ a.skip_if }}</dd></div>
-        </dl>
-        <ul class="skicard-stats">
-          <li><span>Size</span>{{ a.size }}</li>
-          <li><span>Top</span>{{ a.top }}</li>
-          <li><span>Day pass</span>{{ a.pass }}</li>
-          <li><span>Season</span>{{ a.season }}</li>
-        </ul>
-        <p class="skicard-tags">{% for k in a.want %}{% assign w = ski.wants | where: "key", k | first %}<span>{{ w.emoji }} {{ w.label }}</span>{% endfor %}</p>
-        {% if a.guide %}<a class="skicard-link" href="{{ a.guide | relative_url }}">{{ a.guide_label }}</a>{% endif %}
+        <h3><a href="{{ '/ski-season/' | append: a.id | append: '/' | relative_url }}">{{ a.name }}</a></h3>
+        <p class="skicard-time"><strong>{{ a.car }}</strong> by car &middot; {{ a.top }} top</p>
+        <p class="skicard-vibe">{{ a.short }}</p>
+        <span class="skicard-more">Read more</span>
       </article>
       {% endfor %}
     </div>
@@ -87,6 +76,8 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
     pills.forEach(function(p){ p.setAttribute('aria-pressed', String(active.indexOf(p.getAttribute('data-want')) > -1)); });
     empty.hidden = total !== 0;
   }
+  var q = new URLSearchParams(location.search).get('want');
+  if(q){ active.push(q); }
   pills.forEach(function(p){
     p.addEventListener('click', function(){
       var k = p.getAttribute('data-want');
@@ -95,5 +86,6 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
       apply();
     });
   });
+  apply();
 })();
 </script>
