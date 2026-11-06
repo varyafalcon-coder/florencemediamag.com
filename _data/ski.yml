@@ -83,8 +83,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-val-gardena/"
     guide_label: "Val Gardena: wooden villages and the Sellaronda"
     photo: "/assets/photos/ski/valgardena.jpg"
-    photo_alt: "Groomed run on the Seceda with the Sassolungo behind"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Groomed_skirun_from_Seceda_Val_Gardena.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_alt: "The Seceda chairlift above a sea of clouds in Val Gardena"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Lift_Seceda_Gherd%C3%ABina.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -209,8 +209,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-on-plan-de-corones/"
     guide_label: "Plan de Corones: one mountain, done perfectly"
     photo: "/assets/photos/ski/kronplatz.jpg"
-    photo_alt: "Snowy slopes on the Kronplatz on a clear day"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:ITA_Brunico%2C_Kronplatz_040.jpg">-wuppertaler</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, cropped'
+    photo_alt: "Skiers on the Kronplatz above the clouds in the Puster valley"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Kronplatz_-_panoramio.jpg">ottori1982</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."
@@ -230,8 +230,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-cervinia/"
     guide_label: "Cervinia: skiing under the Matterhorn"
     photo: "/assets/photos/ski/cervinia.jpg"
-    photo_alt: "The Matterhorn above the Pancheron chairlift at Cervinia"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cervino_%2B_seggiovia_Pancheron.JPG">SteGrifo27</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
+    photo_alt: "Breuil-Cervinia under deep snow after a snowfall"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:After_one_day_of_snowfall%2C_Cervinia%2C_Italy_%2827834665829%29.jpg">Cosmo F Kramer</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, cropped'
 
   - id: livigno
     short: "Young, cold, snow-sure, with the liveliest nights."
@@ -251,8 +251,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"
     photo: "/assets/photos/ski/livigno.jpg"
-    photo_alt: "The Mottolino slopes above the village of Livigno"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_Area_Mottolino%2C_View_to_Livigno_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
+    photo_alt: "Livigno main street in the snow at night"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_%2813334716953%29.jpg">Evgeniy Isaev</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, cropped'
 
   - id: courmayeur
     short: "Under Mont Blanc, with the smartest après-ski and hot springs below."
