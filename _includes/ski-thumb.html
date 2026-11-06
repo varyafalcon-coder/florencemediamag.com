@@ -10,6 +10,6 @@
 {%- if include.part == "credit" -%}
 <span class="cardcredit">{{ cr }}</span>
 {%- else -%}
-<img class="cardphoto" src="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }}" srcset="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }} 640w, {{ ph | relative_url }} 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+<img class="cardphoto" src="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" srcset="{{ ph | replace: '.jpg', '-640.jpg' | relative_url }}?v={{ site.time | date: '%s' }} 640w, {{ ph | relative_url }}?v={{ site.time | date: '%s' }} 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
 {%- endif -%}
 {%- endif -%}

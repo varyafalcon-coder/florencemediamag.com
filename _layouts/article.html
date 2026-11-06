@@ -6,7 +6,7 @@ layout: default
   {%- assign skiarea = site.data.ski.areas | where: "guide", page.url | first -%}
   {% if skiarea.photo %}
   <figure class="skiphoto">
-    <img src="{{ skiarea.photo | relative_url }}" width="1280" height="720" alt="{{ skiarea.photo_alt | default: skiarea.name }}" fetchpriority="high" decoding="async">
+    <img src="{{ skiarea.photo | relative_url }}?v={{ site.time | date: '%s' }}" width="1280" height="720" alt="{{ skiarea.photo_alt | default: skiarea.name }}" fetchpriority="high" decoding="async">
     {% if skiarea.photo_credit %}<figcaption>{{ skiarea.photo_credit }}</figcaption>{% endif %}
   </figure>
   {% endif %}
