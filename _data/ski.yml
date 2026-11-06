@@ -166,6 +166,9 @@ areas:
     want: [food, big, quiet]
     guide: "/articles/where-to-eat-and-stay-in-alta-badia/"
     guide_label: "Alta Badia: the Dolomites at their most refined"
+    photo: "/assets/photos/ski/altabadia.jpg"
+    photo_alt: "Evening light over the Alta Badia ski slopes"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Piz_Bo%C3%A9_Alta_Badia_Italy_Landscape_Photography_%28188283153%29.jpeg">Giuseppe Milo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
 
   - id: fassa
     short: "Sellaronda, the Marmolada glacier, and the closest of the Dolomites."
@@ -184,6 +187,9 @@ areas:
     want: [big, snow, family, value]
     guide: "/articles/where-to-eat-and-stay-in-val-di-fassa/"
     guide_label: "Val di Fassa: the Sellaronda and the Marmolada"
+    photo: "/assets/photos/ski/fassa.jpg"
+    photo_alt: "Snowy slopes of the Belvedere above Canazei"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Canazei_Belvedere_-_panoramio.jpg">Pier B.</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: kronplatz
     short: "One mountain, perfect lifts, a museum and a chef at the top."
@@ -202,6 +208,9 @@ areas:
     want: [nocar, big, family, food]
     guide: "/articles/where-to-eat-and-stay-on-plan-de-corones/"
     guide_label: "Plan de Corones: one mountain, done perfectly"
+    photo: "/assets/photos/ski/kronplatz.jpg"
+    photo_alt: "Snowy slopes on the Kronplatz on a clear day"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:ITA_Brunico%2C_Kronplatz_040.jpg">-wuppertaler</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, cropped'
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."
@@ -262,6 +271,9 @@ areas:
     want: [apres, food, snow]
     guide: "/articles/where-to-eat-and-stay-in-courmayeur/"
     guide_label: "Courmayeur: Mont Blanc, lunch and hot springs"
+    photo: "/assets/photos/ski/courmayeur.jpg"
+    photo_alt: "Sunset over the Mont Blanc range"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Sunset_on_the_Mont_Blanc.jpg">BluCondor</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: bormio
     short: "The Olympic downhill, a 3,000 m top and Roman thermal baths."
@@ -280,6 +292,9 @@ areas:
     want: [snow, value, quiet]
     guide: "/articles/where-to-eat-and-stay-in-bormio/"
     guide_label: "Bormio: the Olympic downhill and the thermal baths"
+    photo: "/assets/photos/ski/bormio.jpg"
+    photo_alt: "The floodlit night run at Bormio"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_illuminata_di_Bormio.jpg">Luigi Rosa</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, cropped'
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }
