@@ -20,8 +20,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-abetone/"
     guide_label: "Abetone: a day on the snow from Florence"
     photo: "/assets/photos/ski/abetone.jpg"
-    photo_alt: "Snow on Monte Gomito above the Selletta hut at Abetone"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Monte_Gomito_e_rifugio_della_Selletta.JPG">Innocenti.rob</a> via Wikimedia Commons'
+    photo_alt: "A skier above the Abetone pistes"
+    photo_credit: 'Photo: <a href="https://www.flickr.com/photos/56174478@N05/5243128143">fran-42</a> via Flickr'
 
   - id: corno
     short: "Small, wild and often empty, inside a regional park."
@@ -41,8 +41,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-at-corno-alle-scale/"
     guide_label: "Corno alle Scale: small, wild and quiet"
     photo: "/assets/photos/ski/corno.jpg"
-    photo_alt: "Snow-covered ridge of Corno alle Scale"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Corno_alle_Scale_winter.jpg">Lapillo Primo</a> via Wikimedia Commons'
+    photo_alt: "The Duca degli Abruzzi hut at Lago Scaffaiolo in the snow, below Corno alle Scale"
+    photo_credit: 'Photo: <a href="https://www.flickr.com/photos/78368745@N00/70398589">Franco Pecchio</a> via Flickr'
 
   - id: cimone
     short: "The biggest in the Apennines, with tigelle in the huts."
@@ -62,8 +62,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-on-the-cimone/"
     guide_label: "The Cimone: skiing with the best food in the Apennines"
     photo: "/assets/photos/ski/cimone.jpg"
-    photo_alt: "A groomed run on the Cimone under a clear sky"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_innevata_Cimone.jpg">Cosmochiarabo</a> via Wikimedia Commons'
+    photo_alt: "Skiers at a lift station in the snowy woods of the Cimone"
+    photo_credit: 'Photo: <a href="https://www.flickr.com/photos/46383895@N00/357524774">Enrico Strocchi</a> via Flickr'
 
   - id: valgardena
     short: "Ladin villages, the Sellaronda, and you can come by train."
