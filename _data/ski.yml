@@ -104,8 +104,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"
     guide_label: "Madonna di Campiglio: polished slopes under the Brenta"
     photo: "/assets/photos/ski/campiglio.jpg"
-    photo_alt: "The Madonna di Campiglio ski area under the Brenta Dolomites"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Skiarea_campiglio.jpg">Manuel Righi</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, cropped'
+    photo_alt: "A snowy mountain hut above Madonna di Campiglio in late light"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Madonna_di_Campiglio%2C_Italy_%28Unsplash%29.jpg">Michal Průcha</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -125,8 +125,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-ponte-di-legno/"
     guide_label: "Ponte di Legno and the Tonale: a weekend on the snow"
     photo: "/assets/photos/ski/pontedilegno.jpg"
-    photo_alt: "The Tonale ski area seen from the Presena glacier"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Glacier_%28Ghiacciaio%29_Presena_view_from_ski_resort_Tonale_%2Cgroup_of_Cevedale_and_Bernina.jpg_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_alt: "Passo del Tonale at dusk, lights on under the snow"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Passo_del_Tonale_-_View_from_the_Top_Residence_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: cortina
     short: "The glamour resort, with the most beautiful scenery."
@@ -230,8 +230,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-cervinia/"
     guide_label: "Cervinia: skiing under the Matterhorn"
     photo: "/assets/photos/ski/cervinia.jpg"
-    photo_alt: "Breuil-Cervinia under deep snow after a snowfall"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:After_one_day_of_snowfall%2C_Cervinia%2C_Italy_%2827834665829%29.jpg">Cosmo F Kramer</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, cropped'
+    photo_alt: "Breuil-Cervinia under the Matterhorn in winter"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Breuil-Cervinia%2C_view_to_Matterhorn_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
 
   - id: livigno
     short: "Young, cold, snow-sure, with the liveliest nights."
