@@ -24,7 +24,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Where to go skiing from Florence this winter</h2>
     <p>Fourteen ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
     <span class="meta">Researched November 2026 &middot; 14 ski areas</span>
-    {% include ski-thumb.html id="valgardena" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
     {% include ski-thumb.html id="pontedilegno" %}
@@ -32,7 +31,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Ponte di Legno and the Tonale: a weekend on the snow</h2>
     <p>Casoncelli, gnoc de la cua and Silter cheese. Dinner in the valley, huts on the slopes, and which village to sleep in.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="pontedilegno" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-the-dolomites/">
     {% include ski-thumb.html id="fassa" %}
@@ -40,7 +38,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>The Dolomites from Florence: three valleys, three weekends</h2>
     <p>Val Gardena, Cortina and Madonna di Campiglio: a dinner, a mountain hut and a hotel in each.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="fassa" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-abetone/">
     {% include ski-thumb.html id="abetone" %}
@@ -48,7 +45,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Abetone: a day on the snow from Florence</h2>
     <p>Ski at Abetone, eat in Cutigliano. A Bib Gourmand trattoria, tortelli at a refuge, and two hotels by the lifts.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="abetone" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-on-the-cimone/">
     {% include ski-thumb.html id="cimone" %}
@@ -56,7 +52,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>The Cimone: skiing with the best food in the Apennines</h2>
     <p>Tigelle country. A medieval inn near Sestola, a refuge hotel at the lifts, and where to eat in Fanano.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="cimone" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-val-gardena/">
     {% include ski-thumb.html id="valgardena" %}
@@ -64,7 +59,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Val Gardena: wooden villages and the Sellaronda</h2>
     <p>The Dolomites trip that works by train. Seceda, Selva, Ortisei and the huts worth the stop.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="valgardena" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-cortina/">
     {% include ski-thumb.html id="cortina" %}
@@ -72,7 +66,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Cortina: the most beautiful skiing in the Dolomites</h2>
     <p>Lagazuoi, Cinque Torri, Rifugio Averau and a Michelin star in town.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="cortina" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/">
     {% include ski-thumb.html id="campiglio" %}
@@ -80,7 +73,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Madonna di Campiglio: polished slopes under the Brenta</h2>
     <p>Groomed runs, a walkable village, lunch at the Spinale and the Grostè.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="campiglio" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/">
     {% include ski-thumb.html id="corno" %}
@@ -88,7 +80,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Corno alle Scale: small, wild and quiet</h2>
     <p>The emptiest snow within two hours of Florence, inside a regional park.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="corno" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-livigno/">
     {% include ski-thumb.html id="livigno" %}
@@ -96,7 +87,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Livigno: high, cold and full of snow</h2>
     <p>Snow from November to May, two ski sides, pizzoccheri and sciatt, and duty-free evenings.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="livigno" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-cervinia/">
     {% include ski-thumb.html id="cervinia" %}
@@ -104,7 +94,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Cervinia: skiing under the Matterhorn</h2>
     <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="cervinia" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-alta-badia/">
     {% include ski-thumb.html id="altabadia" %}
@@ -112,7 +101,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Alta Badia: the Dolomites at their most refined</h2>
     <p>The Sellaronda from Corvara, grilled meat at Rifugio Scotoni and seafood at 2,000 metres.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="altabadia" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-val-di-fassa/">
     {% include ski-thumb.html id="fassa" %}
@@ -120,7 +108,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Val di Fassa: the Sellaronda and the Marmolada</h2>
     <p>The closest Dolomites, a glacier at 3,265 metres and a Michelin star above Moena.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="fassa" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-on-plan-de-corones/">
     {% include ski-thumb.html id="kronplatz" %}
@@ -128,7 +115,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Plan de Corones: one mountain, done perfectly</h2>
     <p>By train to the lifts, museums at the summit, and Norbert Niederkofler at both ends of the day.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="kronplatz" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-courmayeur/">
     {% include ski-thumb.html id="courmayeur" %}
@@ -136,7 +122,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Courmayeur: Mont Blanc, lunch and hot springs</h2>
     <p>Lunch at Maison Vieille, the Skyway to 3,466 metres and the hot pools of Pré-Saint-Didier.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="courmayeur" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-bormio/">
     {% include ski-thumb.html id="bormio" %}
@@ -144,7 +129,6 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Bormio: the Olympic downhill and the thermal baths</h2>
     <p>The Stelvio run from 3,012 metres, a medieval town and Roman hot springs.</p>
     <span class="meta">Researched November 2026</span>
-    {% include ski-thumb.html id="bormio" part="credit" %}
   </a>
 </div>
 </section>

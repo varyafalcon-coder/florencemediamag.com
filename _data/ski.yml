@@ -21,7 +21,7 @@ areas:
     guide_label: "Abetone: a day on the snow from Florence"
     photo: "/assets/photos/ski/abetone.jpg"
     photo_alt: "Snow on Monte Gomito above the Selletta hut at Abetone"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Monte_Gomito_e_rifugio_della_Selletta.JPG">Innocenti.rob</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Monte_Gomito_e_rifugio_della_Selletta.JPG">Innocenti.rob</a> via Wikimedia Commons'
 
   - id: corno
     short: "Small, wild and often empty, inside a regional park."
@@ -42,7 +42,7 @@ areas:
     guide_label: "Corno alle Scale: small, wild and quiet"
     photo: "/assets/photos/ski/corno.jpg"
     photo_alt: "Snow-covered ridge of Corno alle Scale"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Corno_alle_Scale_winter.jpg">Lapillo Primo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Corno_alle_Scale_winter.jpg">Lapillo Primo</a> via Wikimedia Commons'
 
   - id: cimone
     short: "The biggest in the Apennines, with tigelle in the huts."
@@ -63,7 +63,7 @@ areas:
     guide_label: "The Cimone: skiing with the best food in the Apennines"
     photo: "/assets/photos/ski/cimone.jpg"
     photo_alt: "A groomed run on the Cimone under a clear sky"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_innevata_Cimone.jpg">Cosmochiarabo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_innevata_Cimone.jpg">Cosmochiarabo</a> via Wikimedia Commons'
 
   - id: valgardena
     short: "Ladin villages, the Sellaronda, and you can come by train."
@@ -84,7 +84,7 @@ areas:
     guide_label: "Val Gardena: wooden villages and the Sellaronda"
     photo: "/assets/photos/ski/valgardena.jpg"
     photo_alt: "The Seceda chairlift above a sea of clouds in Val Gardena"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Lift_Seceda_Gherd%C3%ABina.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Lift_Seceda_Gherd%C3%ABina.jpg">Wolfgang Moroder</a> via Wikimedia Commons'
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -105,7 +105,7 @@ areas:
     guide_label: "Madonna di Campiglio: polished slopes under the Brenta"
     photo: "/assets/photos/ski/campiglio.jpg"
     photo_alt: "A snowy mountain hut above Madonna di Campiglio in late light"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Madonna_di_Campiglio%2C_Italy_%28Unsplash%29.jpg">Michal Průcha</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Madonna_di_Campiglio%2C_Italy_%28Unsplash%29.jpg">Michal Průcha</a> via Wikimedia Commons'
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -126,7 +126,7 @@ areas:
     guide_label: "Ponte di Legno and the Tonale: a weekend on the snow"
     photo: "/assets/photos/ski/pontedilegno.jpg"
     photo_alt: "Passo del Tonale at dusk, lights on under the snow"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Passo_del_Tonale_-_View_from_the_Top_Residence_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Passo_del_Tonale_-_View_from_the_Top_Residence_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons'
 
   - id: cortina
     short: "The glamour resort, with the most beautiful scenery."
@@ -147,7 +147,7 @@ areas:
     guide_label: "Cortina: the most beautiful skiing in the Dolomites"
     photo: "/assets/photos/ski/cortina.jpg"
     photo_alt: "The Cinque Torri ski area above Cortina in winter"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg">Wolfgang Moroder</a> via Wikimedia Commons'
 
   - id: altabadia
     short: "The most refined valley in the Dolomites, and the best lunches on any slope."
@@ -168,7 +168,7 @@ areas:
     guide_label: "Alta Badia: the Dolomites at their most refined"
     photo: "/assets/photos/ski/altabadia.jpg"
     photo_alt: "Evening light over the Alta Badia ski slopes"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Piz_Bo%C3%A9_Alta_Badia_Italy_Landscape_Photography_%28188283153%29.jpeg">Giuseppe Milo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Piz_Bo%C3%A9_Alta_Badia_Italy_Landscape_Photography_%28188283153%29.jpeg">Giuseppe Milo</a> via Wikimedia Commons'
 
   - id: fassa
     short: "Sellaronda, the Marmolada glacier, and the closest of the Dolomites."
@@ -189,7 +189,7 @@ areas:
     guide_label: "Val di Fassa: the Sellaronda and the Marmolada"
     photo: "/assets/photos/ski/fassa.jpg"
     photo_alt: "Snowy slopes of the Belvedere above Canazei"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Canazei_Belvedere_-_panoramio.jpg">Pier B.</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Canazei_Belvedere_-_panoramio.jpg">Pier B.</a> via Wikimedia Commons'
 
   - id: kronplatz
     short: "One mountain, perfect lifts, a museum and a chef at the top."
@@ -210,7 +210,7 @@ areas:
     guide_label: "Plan de Corones: one mountain, done perfectly"
     photo: "/assets/photos/ski/kronplatz.jpg"
     photo_alt: "Skiers on the Kronplatz above the clouds in the Puster valley"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Kronplatz_-_panoramio.jpg">ottori1982</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Kronplatz_-_panoramio.jpg">ottori1982</a> via Wikimedia Commons'
 
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."
@@ -231,7 +231,7 @@ areas:
     guide_label: "Cervinia: skiing under the Matterhorn"
     photo: "/assets/photos/ski/cervinia.jpg"
     photo_alt: "Skiers on the glacier slopes above Cervinia"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_and_shadows_%283213638186%29.jpg">photophilde</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_and_shadows_%283213638186%29.jpg">photophilde</a> via Wikimedia Commons'
 
   - id: livigno
     short: "Young, cold, snow-sure, with the liveliest nights."
@@ -252,7 +252,7 @@ areas:
     guide_label: "Livigno: high, cold and full of snow"
     photo: "/assets/photos/ski/livigno.jpg"
     photo_alt: "Livigno main street in the snow at night"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_%2813334716953%29.jpg">Evgeniy Isaev</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_%2813334716953%29.jpg">Evgeniy Isaev</a> via Wikimedia Commons'
 
   - id: courmayeur
     short: "Under Mont Blanc, with the smartest après-ski and hot springs below."
@@ -273,7 +273,7 @@ areas:
     guide_label: "Courmayeur: Mont Blanc, lunch and hot springs"
     photo: "/assets/photos/ski/courmayeur.jpg"
     photo_alt: "The Mont Blanc massif above Courmayeur in winter, from Val Ferret"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Amazing_Mont_Blanc_from_Val_Ferret%2C_winter%2C_Italy.jpg">Davide Tomatis</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Amazing_Mont_Blanc_from_Val_Ferret%2C_winter%2C_Italy.jpg">Davide Tomatis</a> via Wikimedia Commons'
 
   - id: bormio
     short: "The Olympic downhill, a 3,000 m top and Roman thermal baths."
@@ -294,7 +294,7 @@ areas:
     guide_label: "Bormio: the Olympic downhill and the thermal baths"
     photo: "/assets/photos/ski/bormio.jpg"
     photo_alt: "The Stelvio run coming down to Bormio"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_Stelvio_28.12.2019_panorama.jpg">Dispe</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_Stelvio_28.12.2019_panorama.jpg">Dispe</a> via Wikimedia Commons'
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }
