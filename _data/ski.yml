@@ -293,8 +293,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-bormio/"
     guide_label: "Bormio: the Olympic downhill and the thermal baths"
     photo: "/assets/photos/ski/bormio.jpg"
-    photo_alt: "The Stelvio run coming down to Bormio"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_Stelvio_28.12.2019_panorama.jpg">Dispe</a> via Wikimedia Commons'
+    photo_alt: "New Year torchlight descent on the Stelvio run at Bormio"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Fiaccolata_sulla_Pista_Stelvio_%28Bormio%29-_345679583.jpg">Luigi Rosa</a> via Wikimedia Commons'
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }
