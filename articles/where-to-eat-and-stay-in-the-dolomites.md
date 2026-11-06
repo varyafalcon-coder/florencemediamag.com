@@ -121,5 +121,5 @@ The sharp, dark Brenta Dolomites. <a href="/articles/where-to-eat-and-stay-in-ma
 </ul>
 
 <div class="callout">
-<p>See how it compares with the other ski areas: <a href="/ski-season/">our ski season page</a>.</p>
+<p>Three more Dolomites valleys have their own guides: <a href="/articles/where-to-eat-and-stay-in-alta-badia/">Alta Badia</a>, <a href="/articles/where-to-eat-and-stay-in-val-di-fassa/">Val di Fassa</a> and <a href="/articles/where-to-eat-and-stay-on-plan-de-corones/">Plan de Corones</a>. See how they all compare on <a href="/ski-season/">our ski season page</a>.</p>
 </div>

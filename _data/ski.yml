@@ -149,6 +149,60 @@ areas:
     photo_alt: "The Cinque Torri ski area above Cortina in winter"
     photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>'
 
+  - id: altabadia
+    short: "The most refined valley in the Dolomites, and the best lunches on any slope."
+    name: "Alta Badia"
+    region: "Dolomites, South Tyrol"
+    tier: alps
+    car: "4 h 45"
+    train: "train to Brunico via Fortezza, then bus to Corvara"
+    size: "About 130 km, inside the 1,200 km of Dolomiti Superski"
+    top: "2,778 m"
+    pass: "75 € to 83 € (Alta Badia), more with Dolomiti Superski"
+    season: "4 Dec 2026 to 4 Apr 2027"
+    vibe: "Ladin villages, Corvara, La Villa and San Cassiano, under the Sassongher and the Sella. Wide, perfectly groomed runs, the Sellaronda from the doorstep, and the most serious eating in the Alps, from mountain huts to Michelin stars."
+    go_if: "You want long, easy cruising, a lunch worth planning the day around, and a quiet, stylish village in the evening."
+    skip_if: "You want late nights or steep, difficult runs."
+    want: [food, big, quiet]
+    guide: "/articles/where-to-eat-and-stay-in-alta-badia/"
+    guide_label: "Alta Badia: the Dolomites at their most refined"
+
+  - id: fassa
+    short: "Sellaronda, the Marmolada glacier, and the closest of the Dolomites."
+    name: "Val di Fassa"
+    region: "Dolomites, Trentino"
+    tier: alps
+    car: "4 h"
+    train: "train to Bolzano or Trento, then bus to Canazei"
+    size: "About 210 km across the valley, inside Dolomiti Superski"
+    top: "3,265 m on the Marmolada"
+    pass: "80 €, 89 € in high season (Dolomiti Superski)"
+    season: "Late November to April"
+    vibe: "A long valley of villages from Moena to Canazei, with the Sellaronda loop at the top end and the Marmolada glacier, the highest point of the Dolomites, a lift ride away. Lively, practical and full of skiing."
+    go_if: "You want the most skiing for the drive, the Sellaronda, or the run down the Marmolada glacier."
+    skip_if: "You want a pretty, quiet village. Canazei is busy."
+    want: [big, snow, family, value]
+    guide: "/articles/where-to-eat-and-stay-in-val-di-fassa/"
+    guide_label: "Val di Fassa: the Sellaronda and the Marmolada"
+
+  - id: kronplatz
+    short: "One mountain, perfect lifts, a museum and a chef at the top."
+    name: "Plan de Corones (Kronplatz)"
+    region: "Val Pusteria, South Tyrol"
+    tier: alps
+    car: "4 h 30"
+    train: "train to Brunico via Fortezza; trains stop at the lifts"
+    size: "About 120 km and 32 lifts"
+    top: "2,275 m"
+    pass: "About 80 € (Kronplatz), more with Dolomiti Superski"
+    season: "Late November to April"
+    vibe: "A single round mountain covered in lifts, some of the most modern in the Alps, with long runs down every side. At the top: Messner's museum by Zaha Hadid, the Lumen photography museum and Norbert Niederkofler's restaurant."
+    go_if: "You want to arrive by train, ski without queues, and spend an afternoon among museums at 2,275 metres."
+    skip_if: "You want dramatic rock walls. It is greener and gentler than the Dolomites around it."
+    want: [nocar, big, family, food]
+    guide: "/articles/where-to-eat-and-stay-on-plan-de-corones/"
+    guide_label: "Plan de Corones: one mountain, done perfectly"
+
   - id: cervinia
     short: "The highest skiing in Italy, under the Matterhorn."
     name: "Breuil-Cervinia"
@@ -190,6 +244,42 @@ areas:
     photo: "/assets/photos/ski/livigno.jpg"
     photo_alt: "Snowy slopes of the Mottolino ski area above Livigno"
     photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_area_Mottolino_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
+
+  - id: courmayeur
+    short: "Under Mont Blanc, with the smartest après-ski and hot springs below."
+    name: "Courmayeur"
+    region: "Aosta Valley, under Mont Blanc"
+    tier: far
+    car: "5 h"
+    train: "train to Aosta, then bus to Courmayeur"
+    size: "About 100 km, plus the Skyway to 3,466 m"
+    top: "2,755 m on the pistes"
+    pass: "75 €, 90 € with the Skyway Monte Bianco"
+    season: "28 Nov 2026 to 11 Apr 2027"
+    vibe: "An old mountaineering town at the foot of Mont Blanc, with a car-free main street, fur and fondue, and a famous lunch scene on the slopes above. The Skyway cable car climbs to 3,466 metres, and the hot pools of Pré-Saint-Didier are ten minutes away."
+    go_if: "You want the most beautiful mountain in the Alps, a smart town in the evening, and a thermal bath after skiing."
+    skip_if: "You want a big linked ski area. The pistes are good but not huge."
+    want: [apres, food, snow]
+    guide: "/articles/where-to-eat-and-stay-in-courmayeur/"
+    guide_label: "Courmayeur: Mont Blanc, lunch and hot springs"
+
+  - id: bormio
+    short: "The Olympic downhill, a 3,000 m top and Roman thermal baths."
+    name: "Bormio"
+    region: "Valtellina, Lombardy"
+    tier: far
+    car: "5 h"
+    train: "train to Milan, the line to Tirano, then bus to Bormio"
+    size: "About 50 km"
+    top: "3,012 m"
+    pass: "40 € in early December, 59 €, 65 € at peak dates"
+    season: "Early December to April"
+    vibe: "A real medieval town with stone streets, the Stelvio piste where the men's downhill of the 2026 Olympics was raced, 1,800 metres of vertical, and thermal baths used since Roman times."
+    go_if: "You want a long, steep run from 3,000 metres to town, and hot springs at the end of the day."
+    skip_if: "You want a huge ski area. Fifty kilometres is enough for three days, not a week."
+    want: [snow, value, quiet]
+    guide: "/articles/where-to-eat-and-stay-in-bormio/"
+    guide_label: "Bormio: the Olympic downhill and the thermal baths"
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }

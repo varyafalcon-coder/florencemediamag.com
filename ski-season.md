@@ -2,15 +2,15 @@
 layout: default
 title: "Ski season from Florence"
 permalink: /ski-season/
-seo_title: "Ski season from Florence 2026/27: nine ski areas, chosen by what you want"
-seo_description: "Nine ski areas from two to five and a half hours from Florence. Après-ski or quiet, families or big terrain, snow-sure or cheap: what each one feels like, how far it is, and what a day pass costs in 2026/27."
+seo_title: "Ski season from Florence 2026/27: fourteen ski areas, chosen by what you want"
+seo_description: "Fourteen ski areas from two to five and a half hours from Florence. Après-ski or quiet, families or big terrain, snow-sure or cheap: what each one feels like, how far it is, and what a day pass costs in 2026/27."
 ---
 {%- assign ski = site.data.ski -%}
 
 <div class="wrap hero skihero">
   <p class="axis">Ski season 2026/27</p>
   <h1>Ski season from Florence.</h1>
-  <p>Nine ski areas, 2 to 6 hours away. Pick by what you want from the trip.</p>
+  <p>Fourteen ski areas, 2 to 6 hours away. Pick by what you want from the trip.</p>
 </div>
 
 <section class="wrap">
@@ -42,7 +42,7 @@ seo_description: "Nine ski areas from two to five and a half hours from Florence
 
   <a class="skimore" href="{{ '/articles/skiing-from-florence/' | relative_url }}">
     <span class="kicker">The full comparison</span>
-    <span class="skimore-title">All nine side by side, with prices and how to get there</span>
+    <span class="skimore-title">All fourteen side by side, with prices and how to get there</span>
   </a>
 
   <aside class="note skinote">

@@ -507,3 +507,123 @@
   slug: rifugio-duca-degli-abruzzi
   note: On foot or with snowshoes from the slopes. Check it is open
   area: ski
+- title: "Rifugio Scotoni"
+  place: "Armentarola, Alta Badia"
+  dist: four
+  time: 4 h 45
+  kind: eat
+  text: "A hut on the run down from the Lagazuoi, famous for meat grilled in front of you. It works with Dario Cecchini, the butcher of Panzano in Chianti."
+  maps_q: "Rifugio Scotoni, Alta Badia"
+  url: /articles/where-to-eat-and-stay-in-alta-badia/
+  slug: rifugio-scotoni
+  order: "The mixed grill"
+  note: "Arrive by 12:30, it fills fast"
+  area: ski
+- title: "Club Moritzino"
+  place: "Piz La Ila, Alta Badia"
+  dist: four
+  time: 4 h 45
+  kind: eat
+  text: "A mountain restaurant at the top of the gondola from La Villa, known for fish and seafood at more than 2,000 metres."
+  maps_q: "Club Moritzino, Piz La Ila, La Villa"
+  url: /articles/where-to-eat-and-stay-in-alta-badia/
+  slug: club-moritzino
+  order: "Fish and seafood"
+  note: "Book for lunch in high season"
+  area: ski
+- title: "Rifugio Fuciade"
+  place: "Passo San Pellegrino, Val di Fassa"
+  dist: four
+  time: 4 h
+  kind: eat
+  text: "A wooden refuge in a meadow under the peaks, 45 minutes on foot from the pass, or by snowmobile. Listed in the Michelin guide."
+  maps_q: "Rifugio Fuciade, Soraga di Fassa"
+  url: /articles/where-to-eat-and-stay-in-val-di-fassa/
+  slug: rifugio-fuciade
+  order: "Ladin mountain dishes"
+  note: "Book ahead. In winter they bring guests up by snowmobile on request"
+  area: ski
+- title: "Malga Panna"
+  place: "Moena, Val di Fassa"
+  dist: four
+  time: 4 h
+  kind: eat
+  text: "A family restaurant above Moena with a Michelin star, where Paolo Donei cooks the mountain around him."
+  maps_q: "Malga Panna, Strada de Sort 64, Moena"
+  url: /articles/where-to-eat-and-stay-in-val-di-fassa/
+  slug: malga-panna
+  order: "The tasting menu"
+  note: "One Michelin star. Book well ahead"
+  area: ski
+- title: "AlpiNN"
+  place: "Top of Plan de Corones"
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: "Norbert Niederkofler's restaurant at the summit, in the same building as the Lumen photography museum, with the Dolomites all around."
+  maps_q: "AlpiNN, Plan de Corones"
+  url: /articles/where-to-eat-and-stay-on-plan-de-corones/
+  slug: alpinn
+  order: "Mountain cooking from local producers"
+  note: "Reached only by lift. Check the hours before you go"
+  area: ski
+- title: "Atelier Moessmer Norbert Niederkofler"
+  place: "Brunico, below Plan de Corones"
+  dist: four
+  time: 4 h 30
+  kind: eat
+  text: "Three Michelin stars and a green star in a villa in Brunico. The dinner of the trip, if you are going to have one."
+  maps_q: "Atelier Moessmer Norbert Niederkofler, Brunico"
+  url: /articles/where-to-eat-and-stay-on-plan-de-corones/
+  slug: atelier-moessmer
+  order: "The tasting menu"
+  note: "Book weeks ahead"
+  area: ski
+- title: "Maison Vieille"
+  place: "Checrouit, Courmayeur"
+  dist: four
+  time: 5 h
+  kind: eat
+  text: "The hut at the top of the Maison Vieille chairlift, with long tables, music and Mont Blanc behind you. The lunch everyone in Courmayeur talks about."
+  maps_q: "Maison Vieille, Courmayeur"
+  url: /articles/where-to-eat-and-stay-in-courmayeur/
+  slug: maison-vieille
+  order: "Aosta Valley dishes, polenta, fondue"
+  note: "Busy at weekends, book a table"
+  area: ski
+- title: "Pierre Alexis 1877"
+  place: "Courmayeur"
+  dist: four
+  time: 5 h
+  kind: eat
+  text: "In an old house in the centre that was once stables, Aosta Valley cooking with an imaginative twist. Listed in the Michelin guide."
+  maps_q: "Pierre Alexis 1877, Via Marconi 50, Courmayeur"
+  url: /articles/where-to-eat-and-stay-in-courmayeur/
+  slug: pierre-alexis-1877
+  order: "Aosta Valley dishes, reworked"
+  note: "Closed Mondays and Tuesday lunch"
+  area: ski
+- title: "Baita de Mario"
+  place: "Ciuk, Bormio"
+  dist: four
+  time: 5 h
+  kind: eat
+  text: "A restaurant right on the Stelvio run, the Olympic downhill, known for its Valtellina cooking and the view."
+  maps_q: "Baita de Mario, Ciuk, Bormio"
+  url: /articles/where-to-eat-and-stay-in-bormio/
+  slug: baita-de-mario
+  order: "Pizzoccheri and sciatt"
+  note: "On the piste at Ciuk"
+  area: ski
+- title: "Heaven 3000"
+  place: "Cima Bianca, Bormio"
+  dist: four
+  time: 5 h
+  kind: eat
+  text: "The restaurant at the top station, at 3,012 metres, for lunch with the Ortles and the whole Valtellina below."
+  maps_q: "Heaven 3000, Bormio"
+  url: /articles/where-to-eat-and-stay-in-bormio/
+  slug: heaven-3000
+  order: "Valtellina and Italian dishes"
+  note: "At the top of the Cima Bianca lift"
+  area: ski

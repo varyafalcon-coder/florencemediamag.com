@@ -4,10 +4,10 @@ look: cards
 title: "Where to go skiing from Florence this winter"
 permalink: /articles/skiing-from-florence/
 seo_title: "Where to go skiing from Florence this winter (2026/27)"
-seo_description: "Nine ski areas you can reach from Florence, sorted by driving time: under two hours, four to five hours, and five or more. 2026/27 lift prices, size, altitude and season dates for each."
-answer: "Two hours for a day on the snow, four to five for a proper weekend. Nine ski areas, sorted by how far you are willing to drive."
+seo_description: "Fourteen ski areas you can reach from Florence, sorted by driving time: under two hours, four to five hours, and five or more. 2026/27 lift prices, size, altitude and season dates for each."
+answer: "Two hours for a day on the snow, four to five for a proper weekend. Fourteen ski areas, sorted by how far you are willing to drive."
 published_on: "2026-11-04"
-updated_on: "2026-11-05"
+updated_on: "2026-11-06"
 verify_label: "Researched"
 verify_note: "Lift prices, run counts and season dates come from the resorts' own 2026/27 price lists where they have been published, and from the latest available list where they have not. Sizes are the resorts' own figures, which are generous everywhere. Driving times are from central Florence without traffic. Openings depend on snow, especially in the Apennines, so check the lift status before you drive."
 toc:
@@ -19,8 +19,8 @@ toc:
     id: "four-to-five-hours"
   - label: "Five hours and more"
     id: "five-hours-and-more"
-  - label: "All nine side by side"
-    id: "all-nine-side-by-side"
+  - label: "All fourteen side by side"
+    id: "all-fourteen-side-by-side"
   - label: "Where to eat and stay"
     id: "where-to-eat-and-stay"
   - label: "Quick answers"
@@ -31,11 +31,11 @@ faq:
   - q: "Can you ski from Florence as a day trip?"
     a: "Yes, at Abetone, the Corno alle Scale or the Cimone. Leave Florence by seven and you are on the lifts before ten. All three depend on natural snow and snowmaking, so check the lift status the evening before. The Alps are too far for a day trip and work as a weekend."
   - q: "Which ski resort is best for a weekend from Florence?"
-    a: "Val Gardena is the simplest: about four hours by car, or a train to Bolzano and a bus up to Ortisei. Pontedilegno-Tonale is the cheaper alternative, with a glacier at 3,000 metres and a top day pass of 70 euro against 89 in the Dolomites."
+    a: "Val Gardena and Val di Fassa are the closest Dolomites, about four hours by car, and both work by train and bus. Alta Badia is the choice for food and style. Pontedilegno-Tonale is the cheaper alternative, with a glacier at 3,000 metres and a top day pass of 70 euro against 89 in the Dolomites."
   - q: "How much is a ski pass in Italy in 2026/27?"
-    a: "A day on Dolomiti Superski costs 80 euro, or 89 in high season. Madonna di Campiglio runs from 75 to 89. Pontedilegno-Tonale is 52 to 70. Livigno is 51.50 to 74.50. Cervinia is 64 on the Italian side and 88 with Zermatt. The Cimone is 44 on weekdays and 57 at weekends. Abetone was 51 on weekdays last season."
+    a: "A day on Dolomiti Superski costs 80 euro, or 89 in high season. Madonna di Campiglio runs from 75 to 89. Pontedilegno-Tonale is 52 to 70. Livigno is 51.50 to 74.50. Cervinia is 64 on the Italian side and 88 with Zermatt. Courmayeur is 75, or 90 with the Skyway. Bormio is 40 to 65 depending on the date. The Cimone is 44 on weekdays and 57 at weekends. Abetone was 51 on weekdays last season."
   - q: "Can you get to the ski slopes from Florence without a car?"
-    a: "For the Dolomites, yes. Trains run from Florence to Bolzano, Trento and Venice Mestre, and buses continue to Val Gardena, Madonna di Campiglio and Cortina. Pontedilegno-Tonale works by train to Brescia, the local line to Edolo and a bus. Abetone, the Corno and the Cimone are effectively car only."
+    a: "For the Dolomites, yes. Trains run from Florence to Bolzano, Trento and Venice Mestre, and buses continue to Val Gardena, Val di Fassa, Madonna di Campiglio and Cortina. Plan de Corones is the easiest of all: trains in Val Pusteria stop at the lifts. Pontedilegno-Tonale works by train to Brescia, the local line to Edolo and a bus. Abetone, the Corno and the Cimone are effectively car only."
   - q: "When does the ski season start in Italy?"
     a: "Cervinia opens first, planned for late October. Livigno, Pontedilegno-Tonale and the Dolomiti Superski areas aim for the end of November, with the Presena glacier above Tonale usually among the first runs open. Abetone, the Corno alle Scale and the Cimone usually open in early December if there is snow."
 ---
@@ -54,7 +54,9 @@ faq:
 <ul class="tips">
 <li><strong>One free day:</strong> the Apennines, two hours away. Cheap, but the snow comes and goes.</li>
 <li><strong>A long weekend:</strong> the Alps, four to five hours away. Snow you can count on and terrain for days.</li>
-<li><strong>A warm December:</strong> go high, to Cervinia or Livigno.</li>
+<li><strong>A warm December:</strong> go high, to Cervinia, Livigno or Bormio.</li>
+<li><strong>Food first:</strong> Alta Badia, then Courmayeur.</li>
+<li><strong>Hot springs after skiing:</strong> Bormio or Courmayeur.</li>
 </ul>
 
 ## Up to two hours
@@ -76,6 +78,9 @@ The Alps for a long weekend.
 {% include ski-card.html id="campiglio" %}
 {% include ski-card.html id="pontedilegno" %}
 {% include ski-card.html id="cortina" %}
+{% include ski-card.html id="fassa" %}
+{% include ski-card.html id="altabadia" %}
+{% include ski-card.html id="kronplatz" %}
 </div>
 
 ## Five hours and more
@@ -85,9 +90,11 @@ For three days or more, and for warm Decembers.
 <div class="skigrid">
 {% include ski-card.html id="cervinia" %}
 {% include ski-card.html id="livigno" %}
+{% include ski-card.html id="courmayeur" %}
+{% include ski-card.html id="bormio" %}
 </div>
 
-## All nine side by side
+## All fourteen side by side
 
 <div class="cmp">
 <div class="cmp-head"><span>Ski area</span><span>By car</span><span>Size</span><span>Day pass</span></div>
@@ -98,7 +105,12 @@ For three days or more, and for warm Decembers.
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-di-fassa/"><span class="cmp-name">Val di Fassa</span><span class="cmp-car">4 h</span><span class="cmp-size">210 km</span><span class="cmp-pass">80 to 89 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-plan-de-corones/"><span class="cmp-name">Plan de Corones</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">about 80 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-alta-badia/"><span class="cmp-name">Alta Badia</span><span class="cmp-car">4 h 45</span><span class="cmp-size">130 km</span><span class="cmp-pass">75 to 83 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-courmayeur/"><span class="cmp-name">Courmayeur</span><span class="cmp-car">5 h</span><span class="cmp-size">100 km</span><span class="cmp-pass">75 to 90 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-bormio/"><span class="cmp-name">Bormio</span><span class="cmp-car">5 h</span><span class="cmp-size">50 km</span><span class="cmp-pass">40 to 65 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">115 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
 </div>
 
@@ -115,4 +127,9 @@ For three days or more, and for warm Decembers.
 <article class="card tripcard"><span class="tripkicker">Corno alle Scale · 2 h</span><h3><a href="/articles/where-to-eat-and-stay-at-corno-alle-scale/">Corno alle Scale: small, wild and quiet</a></h3></article>
 <article class="card tripcard"><span class="tripkicker">Livigno · 5 h 30</span><h3><a href="/articles/where-to-eat-and-stay-in-livigno/">Livigno: high, cold and full of snow</a></h3></article>
 <article class="card tripcard"><span class="tripkicker">Cervinia · 5 h</span><h3><a href="/articles/where-to-eat-and-stay-in-cervinia/">Cervinia: skiing under the Matterhorn</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Alta Badia · 4 h 45</span><h3><a href="/articles/where-to-eat-and-stay-in-alta-badia/">Alta Badia: the Dolomites at their most refined</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Val di Fassa · 4 h</span><h3><a href="/articles/where-to-eat-and-stay-in-val-di-fassa/">Val di Fassa: the Sellaronda and the Marmolada</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Plan de Corones · 4 h 30</span><h3><a href="/articles/where-to-eat-and-stay-on-plan-de-corones/">Plan de Corones: one mountain, done perfectly</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Courmayeur · 5 h</span><h3><a href="/articles/where-to-eat-and-stay-in-courmayeur/">Courmayeur: Mont Blanc, lunch and hot springs</a></h3></article>
+<article class="card tripcard"><span class="tripkicker">Bormio · 5 h</span><h3><a href="/articles/where-to-eat-and-stay-in-bormio/">Bormio: the Olympic downhill and the thermal baths</a></h3></article>
 </div>

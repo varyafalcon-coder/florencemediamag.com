@@ -22,8 +22,8 @@ Some questions need more than a filter. These are written, checked on the ground
     {% include ski-thumb.html night="skiing" %}
     <span class="kicker">Day trips and weekends</span>
     <h2>Where to go skiing from Florence this winter</h2>
-    <p>Nine ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
-    <span class="meta">Researched November 2026 &middot; 9 ski areas</span>
+    <p>Fourteen ski areas sorted by driving time: two hours, four to five, and five or more. 2026/27 lift prices, size and altitude for each.</p>
+    <span class="meta">Researched November 2026 &middot; 14 ski areas</span>
     {% include ski-thumb.html night="skiing" part="credit" %}
   </a>
   <a class="artcard has-photo" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/">
@@ -105,6 +105,36 @@ Some questions need more than a filter. These are written, checked on the ground
     <p>Lunch facing the Matterhorn, a dinner worth leaving the village for, and a hotel you can ski to.</p>
     <span class="meta">Researched November 2026</span>
     {% include ski-thumb.html id="cervinia" part="credit" %}
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-alta-badia/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Alta Badia: the Dolomites at their most refined</h2>
+    <p>The Sellaronda from Corvara, grilled meat at Rifugio Scotoni and seafood at 2,000 metres.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-val-di-fassa/">
+    <span class="kicker">Ski guide</span>
+    <h2>Val di Fassa: the Sellaronda and the Marmolada</h2>
+    <p>The closest Dolomites, a glacier at 3,265 metres and a Michelin star above Moena.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-on-plan-de-corones/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Plan de Corones: one mountain, done perfectly</h2>
+    <p>By train to the lifts, museums at the summit, and Norbert Niederkofler at both ends of the day.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-courmayeur/">
+    <span class="kicker">Ski food guide</span>
+    <h2>Courmayeur: Mont Blanc, lunch and hot springs</h2>
+    <p>Lunch at Maison Vieille, the Skyway to 3,466 metres and the hot pools of Pré-Saint-Didier.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard" href="/articles/where-to-eat-and-stay-in-bormio/">
+    <span class="kicker">Ski guide</span>
+    <h2>Bormio: the Olympic downhill and the thermal baths</h2>
+    <p>The Stelvio run from 3,012 metres, a medieval town and Roman hot springs.</p>
+    <span class="meta">Researched November 2026</span>
   </a>
 </div>
 <p class="photocredits">Night photos on the first three cards, from Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_(13334716953).jpg">Livigno</a> by Evgeniy Isaev, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; <a href="https://commons.wikimedia.org/wiki/File:Tonale_-_Pista_Valena_Night_skiing_-_panoramio.jpg">Tonale</a> by Zoran Kurelić Rabko, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; <a href="https://commons.wikimedia.org/wiki/File:Cortina_belfry_a.JPG">Cortina</a> by Antonio De Lorenzo, <a href="https://creativecommons.org/licenses/by/2.5/">CC BY 2.5</a>. All cropped.</p>
