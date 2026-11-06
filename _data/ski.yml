@@ -62,8 +62,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-on-the-cimone/"
     guide_label: "The Cimone: skiing with the best food in the Apennines"
     photo: "/assets/photos/ski/cimone.jpg"
-    photo_alt: "The castle of Sestola under fresh snow"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Rocca_di_Sestola_innevata.jpg">Mirandolaspots</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, cropped'
+    photo_alt: "A groomed run on the Cimone under a clear sky"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_innevata_Cimone.jpg">Cosmochiarabo</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, cropped'
 
   - id: valgardena
     short: "Ladin villages, the Sellaronda, and you can come by train."
@@ -83,8 +83,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-val-gardena/"
     guide_label: "Val Gardena: wooden villages and the Sellaronda"
     photo: "/assets/photos/ski/valgardena.jpg"
-    photo_alt: "Dolomite peaks above Val Gardena at dusk"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Seceda_mountains_at_dusk_%28Unsplash%29.jpg">Alessandro Sacchi</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
+    photo_alt: "Groomed run on the Seceda with the Sassolungo behind"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Groomed_skirun_from_Seceda_Val_Gardena.jpg">Wolfgang Moroder</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: campiglio
     short: "Smart village, perfect red runs, aperitivo after skiing."
@@ -104,8 +104,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"
     guide_label: "Madonna di Campiglio: polished slopes under the Brenta"
     photo: "/assets/photos/ski/campiglio.jpg"
-    photo_alt: "A snowy mountain hut above Madonna di Campiglio in late light"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Madonna_di_Campiglio%2C_Italy_%28Unsplash%29.jpg">Michal Průcha</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
+    photo_alt: "The Madonna di Campiglio ski area under the Brenta Dolomites"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Skiarea_campiglio.jpg">Manuel Righi</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, cropped'
 
   - id: pontedilegno
     short: "A real village below, a glacier at 3,000 m above. Good value."
@@ -125,8 +125,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-ponte-di-legno/"
     guide_label: "Ponte di Legno and the Tonale: a weekend on the snow"
     photo: "/assets/photos/ski/pontedilegno.jpg"
-    photo_alt: "Passo del Tonale at dusk, lights on under the snow"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Passo_del_Tonale_-_View_from_the_Top_Residence_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
+    photo_alt: "The Tonale ski area seen from the Presena glacier"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Glacier_%28Ghiacciaio%29_Presena_view_from_ski_resort_Tonale_%2Cgroup_of_Cevedale_and_Bernina.jpg_-_panoramio.jpg">Zoran Kurelić Rabko</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, cropped'
 
   - id: cortina
     short: "The glamour resort, with the most beautiful scenery."
@@ -251,8 +251,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"
     photo: "/assets/photos/ski/livigno.jpg"
-    photo_alt: "Snowy slopes of the Mottolino ski area above Livigno"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_area_Mottolino_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
+    photo_alt: "The Mottolino slopes above the village of Livigno"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Ski_Area_Mottolino%2C_View_to_Livigno_-_panoramio.jpg">qwesy qwesy</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, cropped'
 
   - id: courmayeur
     short: "Under Mont Blanc, with the smartest après-ski and hot springs below."
@@ -293,8 +293,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-bormio/"
     guide_label: "Bormio: the Olympic downhill and the thermal baths"
     photo: "/assets/photos/ski/bormio.jpg"
-    photo_alt: "The floodlit night run at Bormio"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_illuminata_di_Bormio.jpg">Luigi Rosa</a> via Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, cropped'
+    photo_alt: "The Stelvio run coming down to Bormio"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Pista_Stelvio_28.12.2019_panorama.jpg">Dispe</a> via Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, cropped'
 
 wants:
   - { key: apres,  emoji: "🎉", label: "après-ski and nights out" }
@@ -310,15 +310,3 @@ tiers:
   - { key: near, title: "Up to two hours", note: "The Apennines. Good for a day, cheap, and dependent on the snow." }
   - { key: alps, title: "Four to five hours", note: "The Alps for a long weekend. Snow on almost every run." }
   - { key: far,  title: "Five hours and more", note: "The high Alps. For three days or more, and for warm Decembers." }
-
-# Night photos for the top three winter cards on /articles/ (cropped to 16:9).
-night:
-  - key: skiing
-    photo: "/assets/photos/ski/night-livigno.jpg"
-    credit: "Photo: Evgeniy Isaev via Wikimedia Commons, CC BY 2.0, cropped"
-  - key: pontedilegno
-    photo: "/assets/photos/ski/night-tonale.jpg"
-    credit: "Photo: Zoran Kurelić Rabko via Wikimedia Commons, CC BY-SA 3.0, cropped"
-  - key: dolomites
-    photo: "/assets/photos/ski/night-cortina.jpg"
-    credit: "Photo: Antonio De Lorenzo via Wikimedia Commons, CC BY 2.5, cropped"
