@@ -2,23 +2,63 @@
 layout: default
 ---
 {%- assign t = site.data.trips | where: "slug", page.trip_slug | first -%}
+{%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ page.maps_q | default: t.maps_q | url_encode }}{%- endcapture -%}
 <article class="wrap doc">
   <nav class="crumbs"><a href="{{ '/#from-florence' | relative_url }}">From Florence</a> / <span>{{ t.title }}</span></nav>
-  <p class="axis skiarea-region">{{ t.place }} &middot; {{ t.kind }}</p>
   <h1>{{ t.title }}</h1>
-  <p class="answer">{{ t.text }}</p>
+  <p class="answer">{{ page.answer | default: t.text }}</p>
 
-  <dl class="glance placeglance">
+  <dl class="facts wide">
     <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
+    {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
     <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
+    {% for f in page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
     {% if t.price %}<div><dt>Price</dt><dd>{{ t.price }}</dd></div>{% endif %}
-    {% if t.order %}<div><dt>Order</dt><dd>{{ t.order }}</dd></div>{% endif %}
+    {% if t.note %}<div><dt>Good to know</dt><dd>{{ t.note }}</dd></div>{% endif %}
   </dl>
-  {% if t.note %}<p class="placenote"><strong>Good to know.</strong> {{ t.note }}</p>{% endif %}
 
   <div class="actions">
-    <a class="btn btn-primary" href="https://www.google.com/maps/search/?api=1&amp;query={{ t.maps_q | url_encode }}" target="_blank" rel="noopener">Open in Google Maps</a>
+    {% if page.book_url %}<a class="btn btn-primary" href="{{ page.book_url }}" target="_blank" rel="noopener">{{ page.book_label | default: "Official website" }}</a>{% endif %}
+    <a class="btn {% if page.book_url %}btn-ghost{% else %}btn-primary{% endif %}" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>
   </div>
+
+  {% if page.go_for or page.skip_if %}
+  <dl class="verdict">
+    {% if page.go_for %}<div><dt>Go for</dt><dd>{{ page.go_for }}</dd></div>{% endif %}
+    {% if page.skip_if %}<div><dt>Skip if</dt><dd>{{ page.skip_if }}</dd></div>{% endif %}
+  </dl>
+  {% endif %}
+
+  {% if page.consensus %}
+  <section class="consensus">
+    <h2>What everybody agrees on</h2>
+    <p class="consensus-src">{{ page.consensus_source }}</p>
+    <ul>
+    {% for c in page.consensus %}
+      <li><span class="agree {{ c.level }}">{{ c.weight }}</span><p>{{ c.text }}</p></li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% assign order = page.order_note | default: t.order %}
+  {% if order %}
+  <div class="order">
+    <p class="order-label">{{ page.order_label | default: "What to order" }}</p>
+    <p>{{ order }}</p>
+  </div>
+  {% endif %}
+
+  {% if page.before %}
+  <section class="beforeyougo">
+    <h2>Before you go</h2>
+    <dl>
+    {% for b in page.before %}<dt>{{ b.label }}</dt><dd>{{ b.value }}</dd>{% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+  {% if content != "" %}<div class="body">{{ content }}</div>{% endif %}
 
   {% if t.url %}
   {%- assign guide = site.pages | where: "url", t.url | first -%}
@@ -37,6 +77,6 @@ layout: default
   {%- endif -%}
 
   <aside class="note">
-    <p><strong>Researched, November 2026.</strong> Chosen from the Michelin guide, local tourist boards and recent reviews. We have not been here in person yet. Hours change through the season, so check before you go. If something is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a>.</p>
+    <p><strong>{{ page.verified_label | default: "Researched" }}, {{ page.verified | default: "November 2026" }}.</strong> {{ page.verify_note | default: "Chosen from the Michelin guide, local tourist boards and recent reviews. We have not been here in person yet." }} Hours change through the season, so check before you go. If something is wrong, <a href="mailto:florencemediamag@gmail.com">tell us</a>.</p>
   </aside>
 </article>
