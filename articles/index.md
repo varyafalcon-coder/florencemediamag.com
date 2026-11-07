@@ -144,6 +144,34 @@ Some questions need more than a filter. These are written, checked on the ground
     <p>Flat covered tins, grey banana, khaki pistachio, and never blue. Four rules that take three seconds each, plus six gelaterie in Florence that pass them.</p>
     <span class="meta">Checked October 2026 &middot; 6 places</span>
   </a>
+  <a class="artcard has-photo" href="/articles/how-to-stay-cool-in-florence-in-summer/">
+    <img class="cardphoto" src="/assets/photos/articles/how-to-stay-cool-in-florence-in-summer-640.jpg" srcset="/assets/photos/articles/how-to-stay-cool-in-florence-in-summer-640.jpg 640w, /assets/photos/articles/how-to-stay-cool-in-florence-in-summer.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Summer in the city</span>
+    <h2>How to stay cool in Florence in summer</h2>
+    <p>The open-air public pools Florentines use, the cool places, and how to plan a day around the heat.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/beach-day-from-florence-by-train/">
+    <img class="cardphoto" src="/assets/photos/articles/beach-day-from-florence-by-train-640.jpg" srcset="/assets/photos/articles/beach-day-from-florence-by-train-640.jpg 640w, /assets/photos/articles/beach-day-from-florence-by-train.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Day trip</span>
+    <h2>A beach day from Florence by train</h2>
+    <p>Viareggio in an hour and a half, around ten euro, no booking. How the beaches work, and where else to go.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/summer-evenings-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/summer-evenings-in-florence-640.jpg" srcset="/assets/photos/articles/summer-evenings-in-florence-640.jpg 640w, /assets/photos/articles/summer-evenings-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Evenings</span>
+    <h2>Summer evenings in Florence</h2>
+    <p>Free films in front of the Uffizi, cinema in cloisters and villa gardens, and the Roman theatre in Fiesole.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/san-giovanni-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/san-giovanni-in-florence-640.jpg" srcset="/assets/photos/articles/san-giovanni-in-florence-640.jpg 640w, /assets/photos/articles/san-giovanni-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">24 June</span>
+    <h2>San Giovanni: Florence's own holiday</h2>
+    <p>The Calcio Storico final in Piazza Santa Croce and fireworks over the Arno. How to see both.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
 </div>
 </section>
 
@@ -192,6 +220,41 @@ Some questions need more than a filter. These are written, checked on the ground
     <h2>Can you work from a cafe in Florence?</h2>
     <p>Yes, and in most cafes nobody will stop you. The etiquette nobody explains, the hours to avoid, and five places where a laptop is already normal.</p>
     <span class="meta">Checked October 2026 &middot; 5 places</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/florence-markets/">
+    <img class="cardphoto" src="/assets/photos/articles/florence-markets-640.jpg" srcset="/assets/photos/articles/florence-markets-640.jpg 640w, /assets/photos/articles/florence-markets.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Shopping</span>
+    <h2>Florence's markets, and which one is for what</h2>
+    <p>Sant'Ambrogio for food, the Mercato Centrale, the leather stalls, and the weekly and monthly markets.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/aperitivo-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/aperitivo-in-florence-640.jpg" srcset="/assets/photos/articles/aperitivo-in-florence-640.jpg 640w, /assets/photos/articles/aperitivo-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Drinks</span>
+    <h2>Aperitivo in Florence: where and how</h2>
+    <p>Three wine bars, Santo Spirito at sunset, the Negroni, and the little wine windows in the walls.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/getting-around-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/getting-around-florence-640.jpg" srcset="/assets/photos/articles/getting-around-florence-640.jpg 640w, /assets/photos/articles/getting-around-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Practical</span>
+    <h2>Getting around Florence: tram, bus, taxi and the ZTL</h2>
+    <p>The airport tram, the new 2 euro ticket, fixed taxi fares, and why never to drive into the centre.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/free-museums-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/free-museums-in-florence-640.jpg" srcset="/assets/photos/articles/free-museums-in-florence-640.jpg 640w, /assets/photos/articles/free-museums-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Saving money</span>
+    <h2>Free museums in Florence, and the first Sunday</h2>
+    <p>The Uffizi, the Accademia and the Pitti for nothing once a month, and what is free every day.</p>
+    <span class="meta">Researched November 2026</span>
+  </a>
+  <a class="artcard has-photo" href="/articles/day-trips-from-florence-by-train/">
+    <img class="cardphoto" src="/assets/photos/articles/day-trips-from-florence-by-train-640.jpg" srcset="/assets/photos/articles/day-trips-from-florence-by-train-640.jpg 640w, /assets/photos/articles/day-trips-from-florence-by-train.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <span class="kicker">Day trips</span>
+    <h2>Day trips from Florence by train</h2>
+    <p>Pisa, Lucca, Bologna, Arezzo and Pistoia in under two hours, and when the bus beats the train to Siena.</p>
+    <span class="meta">Researched November 2026</span>
   </a>
 </div>
 </section>
