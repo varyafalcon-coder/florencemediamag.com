@@ -35,6 +35,9 @@ toc:
     id: "quick-answers"
 published_on: "2026-08-31"
 updated_on: "2026-10-02"
+photo: "/assets/photos/articles/florence-with-children.jpg"
+photo_alt: "The carousel in Piazza della Repubblica"
+photo_credit: 'Photo: <a href="https://www.flickr.com/photos/10485077@N06/49339225852">edenpictures</a> via Flickr'
 ---
 
 Florence was not laid out with children in mind, and nobody who has stood in Piazza del Duomo in July holding a hot four year old needs telling. The city's great pleasures are the ones that reward standing still and reading a label, which is not what most children have come for.

@@ -137,7 +137,8 @@ Some questions need more than a filter. These are written, checked on the ground
 <h2 class="artsec-title"><span aria-hidden="true">☀️</span> Summer</h2>
 <p class="artsec-intro">For the hot months in the city.</p>
 <div class="artgrid">
-  <a class="artcard" href="/articles/real-gelato-in-florence/">
+  <a class="artcard has-photo" href="/articles/real-gelato-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/real-gelato-in-florence-640.jpg" srcset="/assets/photos/articles/real-gelato-in-florence-640.jpg 640w, /assets/photos/articles/real-gelato-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Eating here</span>
     <h2>How to tell real gelato from the tourist stuff</h2>
     <p>Flat covered tins, grey banana, khaki pistachio, and never blue. Four rules that take three seconds each, plus six gelaterie in Florence that pass them.</p>
@@ -150,37 +151,43 @@ Some questions need more than a filter. These are written, checked on the ground
 <h2 class="artsec-title"><span aria-hidden="true">🗓️</span> All year</h2>
 <p class="artsec-intro">Planning a visit, eating, working and getting around the city.</p>
 <div class="artgrid">
-  <a class="artcard" href="/articles/are-two-days-enough-for-florence/">
+  <a class="artcard has-photo" href="/articles/are-two-days-enough-for-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/are-two-days-enough-for-florence-640.jpg" srcset="/assets/photos/articles/are-two-days-enough-for-florence-640.jpg 640w, /assets/photos/articles/are-two-days-enough-for-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Planning</span>
     <h2>Are 2 days enough for Florence?</h2>
     <p>Yes, under one hard rule: one booked museum per day. What to cut, what to book, and the three things that eat the most time.</p>
     <span class="meta">Checked October 2026</span>
   </a>
-  <a class="artcard" href="/articles/what-not-to-miss-in-florence/">
+  <a class="artcard has-photo" href="/articles/what-not-to-miss-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/what-not-to-miss-in-florence-640.jpg" srcset="/assets/photos/articles/what-not-to-miss-in-florence-640.jpg 640w, /assets/photos/articles/what-not-to-miss-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">First visit</span>
     <h2>What should you not miss in Florence?</h2>
     <p>Six things worth the time, the two you need to book, and the famous sights it is fine to walk past.</p>
     <span class="meta">Checked October 2026</span>
   </a>
-  <a class="artcard" href="/articles/what-to-avoid-in-florence/">
+  <a class="artcard has-photo" href="/articles/what-to-avoid-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/what-to-avoid-in-florence-640.jpg" srcset="/assets/photos/articles/what-to-avoid-in-florence-640.jpg 640w, /assets/photos/articles/what-to-avoid-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Tourist traps</span>
     <h2>What to avoid in Florence</h2>
     <p>Where the good version of everything sits: three streets off the main squares. Restaurants, sandwich queues, and gelato that is not really gelato.</p>
     <span class="meta">Checked October 2026</span>
   </a>
-  <a class="artcard" href="/articles/florence-off-the-tourist-track/">
+  <a class="artcard has-photo" href="/articles/florence-off-the-tourist-track/">
+    <img class="cardphoto" src="/assets/photos/articles/florence-off-the-tourist-track-640.jpg" srcset="/assets/photos/articles/florence-off-the-tourist-track-640.jpg 640w, /assets/photos/articles/florence-off-the-tourist-track.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Away from the centre</span>
     <h2>Cool things to do in Florence, away from the tourist track</h2>
     <p>A hillside boulevard nobody walks, a house full of armoured knights, a lane out of San Niccolo, and the river itself.</p>
     <span class="meta">Checked October 2026 &middot; 8 places</span>
   </a>
-  <a class="artcard" href="/articles/florence-with-children/">
+  <a class="artcard has-photo" href="/articles/florence-with-children/">
+    <img class="cardphoto" src="/assets/photos/articles/florence-with-children-640.jpg" srcset="/assets/photos/articles/florence-with-children-640.jpg 640w, /assets/photos/articles/florence-with-children.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">With children</span>
     <h2>What to do in Florence with children</h2>
     <p>The museums built for children rather than adapted for them, the parks Florentine families actually use, the antique carousel, and how to get onto the Arno.</p>
     <span class="meta">Checked October 2026 &middot; 8 places</span>
   </a>
-  <a class="artcard" href="/articles/work-from-a-cafe-in-florence/">
+  <a class="artcard has-photo" href="/articles/work-from-a-cafe-in-florence/">
+    <img class="cardphoto" src="/assets/photos/articles/work-from-a-cafe-in-florence-640.jpg" srcset="/assets/photos/articles/work-from-a-cafe-in-florence-640.jpg 640w, /assets/photos/articles/work-from-a-cafe-in-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Working here</span>
     <h2>Can you work from a cafe in Florence?</h2>
     <p>Yes, and in most cafes nobody will stop you. The etiquette nobody explains, the hours to avoid, and five places where a laptop is already normal.</p>

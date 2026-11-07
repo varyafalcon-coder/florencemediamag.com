@@ -36,6 +36,7 @@ faq:
     a: "In high season, yes, at the well known ones. Rifugio Comici in Val Gardena and Rifugio Scoiattoli at Cinque Torri both fill up. Book a day or two ahead and arrive before 12:30."
   - q: "How much is a ski pass in the Dolomites in 2026/27?"
     a: "A day on Dolomiti Superski, which covers Val Gardena and Cortina, costs 80 euro, or 89 in high season. Madonna di Campiglio has its own pass, from 75 to 89 euro."
+photo_area: "campiglio"
 ---
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 to 4 h 30 by car</dd></div>

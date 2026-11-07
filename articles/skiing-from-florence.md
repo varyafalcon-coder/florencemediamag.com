@@ -38,6 +38,7 @@ faq:
     a: "For the Dolomites, yes. Trains run from Florence to Bolzano, Trento and Venice Mestre, and buses continue to Val Gardena, Val di Fassa, Madonna di Campiglio and Cortina. Plan de Corones is the easiest of all: trains in Val Pusteria stop at the lifts. Pontedilegno-Tonale works by train to Brescia, the local line to Edolo and a bus. Abetone, the Corno and the Cimone are effectively car only."
   - q: "When does the ski season start in Italy?"
     a: "Cervinia opens first, planned for late October. Livigno, Pontedilegno-Tonale and the Dolomiti Superski areas aim for the end of November, with the Presena glacier above Tonale usually among the first runs open. Abetone, the Corno alle Scale and the Cimone usually open in early December if there is snow."
+photo_area: "valgardena"
 ---
 
 <dl class="glance">

@@ -31,6 +31,9 @@ faq:
     a: "None of the centre is unsafe in any ordinary sense. The streets right around Santa Maria Novella station are scruffy late at night, and the Cascine park is not a place to walk after dark. Otherwise the usual care about pickpockets in crowds is enough."
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
+photo: "/assets/photos/articles/what-to-avoid-in-florence.jpg"
+photo_alt: "A walker with a red umbrella in front of the Duomo on a rainy day"
+photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Italy_%28Unsplash%29.jpg">Tolga Kilinc</a> via Unsplash'
 ---
 
 Florence is an easy city to enjoy and a slightly tricky one to eat in. Almost nothing here will cheat you outright. What happens instead is quieter: you pay more and wait longer for a weaker version of something the city does extremely well two streets away.

@@ -33,6 +33,9 @@ faq:
     a: "It is the same two days, planned around the heat rather than the sights. In July and August the middle of the day is hard work outdoors, so the walking goes early and late and the indoor part goes in the afternoon."
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
+photo: "/assets/photos/articles/are-two-days-enough-for-florence.jpg"
+photo_alt: "Sunset over the Arno and Ponte Vecchio"
+photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Tuscan_sunset_over_Florence_%28Unsplash%29.jpg">Mark Tegethoff</a> via Unsplash'
 ---
 
 Florence's historic centre is about a kilometre and a half across. You can walk from the station to Ponte Vecchio in fifteen minutes and from the Duomo to Santa Croce in ten. There is no metro because nothing is far enough away to need one.

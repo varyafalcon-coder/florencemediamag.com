@@ -27,6 +27,9 @@ toc:
     id: "quick-answers"
 published_on: "2026-08-12"
 updated_on: "2026-09-01"
+photo: "/assets/photos/articles/real-gelato-in-florence.jpg"
+photo_alt: "A gelato cone in a Florence street"
+photo_credit: 'Photo: <a href="https://www.flickr.com/photos/32211216@N06/9536474645">Derek Key</a> via Flickr'
 ---
 
 ## Four rules, and they take three seconds each

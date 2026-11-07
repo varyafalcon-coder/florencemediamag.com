@@ -37,6 +37,9 @@ faq:
     a: "All of it, if you accept that the Uffizi is not on the list. Two days in Florence works well when you pick one big museum, not three."
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
+photo: "/assets/photos/articles/what-not-to-miss-in-florence.jpg"
+photo_alt: "The Duomo and Giotto's bell tower above the roofs of Florence"
+photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Italy_%28Unsplash_pRU-VnBVJMQ%29.jpg">Jonathan Körner</a> via Unsplash'
 ---
 
 Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.

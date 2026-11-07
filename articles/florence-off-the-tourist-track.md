@@ -37,6 +37,9 @@ faq:
     a: "Not far. Stibbert is fifteen minutes by bus, Villa il Ventaglio about twenty, Fiesole twenty five. Erta Canina and the Viale dei Colli start inside the city walls. Everything here is a short trip rather than a day out."
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
+photo: "/assets/photos/articles/florence-off-the-tourist-track.jpg"
+photo_alt: "The Arno embankment at dusk"
+photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Florence_sunset_%28Unsplash%29.jpg">Sebastian B</a> via Unsplash'
 ---
 
 The famous parts of Florence sit inside a square roughly a kilometre and a half across, and that is where nearly everyone stays. Cross the edge of it and the city empties out within a couple of streets.
