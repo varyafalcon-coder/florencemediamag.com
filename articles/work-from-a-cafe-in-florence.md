@@ -28,8 +28,8 @@ toc:
 published_on: "2026-08-18"
 updated_on: "2026-09-01"
 photo: "/assets/photos/articles/work-from-a-cafe-in-florence.jpg"
-photo_alt: "Caffè Le Rose on a Florence street corner"
-photo_credit: 'Photo: <a href="https://www.flickr.com/photos/87807876@N00/6283101392">Richard</a> via Flickr'
+photo_alt: "A laptop and a coffee on a wooden table"
+photo_credit: 'Photo: <a href="https://www.flickr.com/photos/147875007@N03/40640189245">Rawpixel</a> via Flickr'
 ---
 
 ## How long you can stay
