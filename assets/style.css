@@ -743,7 +743,8 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
     column-gap:72px;grid-auto-flow:row dense;align-items:start}
   .article > *{grid-column:1 / -1}
   .article > .body,.article > .qa-head,.article > .qa,.article > .note{grid-column:1}
-  .article > .toc{grid-column:2;grid-row:span 4;position:sticky;top:28px;margin-top:clamp(30px,4vw,44px)}
+  .article > .toc{grid-column:2;grid-row:span 4;position:sticky;top:calc(var(--navh,56px) + 24px);margin-top:clamp(30px,4vw,44px)}
+  .article .body > :first-child{margin-top:0}
   .article > .skiphoto{margin-top:0}
   .article > .skiphoto img{aspect-ratio:21/9;object-fit:cover;width:100%;height:auto}
   .article > h1{max-width:22ch;font-size:clamp(46px,4.4vw,62px)}
@@ -806,11 +807,130 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .placepage .placephoto{max-width:none}
   .placepage .placephoto img{aspect-ratio:21/9;object-fit:cover}
   .placegrid{display:grid;grid-template-columns:minmax(0,1fr) 340px;column-gap:72px;align-items:start}
-  .placeside{grid-column:2;grid-row:1;position:sticky;top:28px}
+  .placeside{grid-column:2;grid-row:1;position:sticky;top:calc(var(--navh,56px) + 24px)}
   .placemain{grid-column:1;grid-row:1}
   .placepage .placeside .placeglance{grid-template-columns:1fr;margin-top:clamp(26px,3.4vw,36px)}
   .placepage .placeside .actions{flex-direction:column}
   .placepage .placemain .consensus p,.placepage .placemain .order p,.placepage .placemain .body p{font-size:17px}
   .placepage .placemain .body p{max-width:none}
   .placepage > .note,.placepage > .grid{max-width:calc(100% - 412px)}
+}
+
+/* ---------- test: bolder article style (look: "cards look-bold") ---------- */
+.look-bold .body{counter-reset:sec}
+.article.look-bold .body h2{counter-increment:sec;position:relative}
+.article.look-bold .body h2::before{content:counter(sec,decimal-leading-zero);display:block;font-size:13px;font-weight:700;letter-spacing:.12em;color:var(--blue);margin-bottom:8px}
+.article.look-bold .body h2::after{content:"";display:block;width:44px;height:4px;background:var(--blue);margin-top:14px}
+.look-bold mark{background:linear-gradient(transparent 58%,rgba(27,43,184,.22) 58%);color:inherit;padding:0 2px}
+
+.boldhero{background:var(--blue);color:#fff;padding:clamp(22px,3vw,34px);margin:0}
+.article .body .boldhero-kicker{margin:0;font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.8;max-width:none}
+.boldhero-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin-top:18px}
+.boldhero-stats div{padding:4px 18px;border-left:1px solid rgba(255,255,255,.28)}
+.boldhero-stats div:first-child{padding-left:0;border-left:0}
+.boldhero-stats .bn{display:block;white-space:nowrap;font-size:clamp(24px,2.6vw,34px);font-weight:700;letter-spacing:-.03em;line-height:1.05}
+.boldhero-stats .bl{display:block;margin-top:6px;font-size:13px;line-height:1.35;opacity:.85}
+@media (max-width:640px){.boldhero-stats{grid-template-columns:1fr 1fr;row-gap:18px}.boldhero-stats div:nth-child(3){padding-left:0;border-left:0}}
+.look-bold .boldhero + .glance{margin-top:10px}
+
+.article.look-bold .body p.lede{font-style:normal;font-weight:700;font-size:clamp(22px,2.6vw,30px);line-height:1.3;letter-spacing:-.02em;border-left:0;padding-left:0;color:var(--blue);position:relative}
+.article.look-bold .body p.lede::before{content:"“";display:block;font-size:72px;line-height:.6;margin-bottom:6px}
+
+.profile{margin:24px 0 0;background:var(--card);padding:clamp(14px,2vw,22px)}
+.profile svg{display:block;width:100%;height:auto}
+.pf-grid line{stroke:var(--line);stroke-width:1}
+.pf-grid text{fill:var(--ink-soft);font-size:11px;font-family:inherit}
+.pf-top{stop-color:var(--blue);stop-opacity:.32}.pf-bot{stop-color:var(--blue);stop-opacity:.04}
+.pf-area{fill:url(#pfill)}
+.pf-line{fill:none;stroke:var(--blue);stroke-width:3;stroke-linejoin:round}
+.pf-pt circle{fill:var(--surface);stroke:var(--blue);stroke-width:3}
+.pf-name{fill:var(--ink);font-size:14px;font-weight:700;font-family:inherit}
+.pf-alt{fill:var(--blue);font-size:12px;font-weight:600;font-family:inherit}
+.profile figcaption{margin-top:10px;font-size:13px;color:var(--ink-soft)}
+.look-bold .profile + .ladder{margin-top:10px}
+
+.dayflow{list-style:none;padding:0;margin:22px 0 0;display:grid;grid-template-columns:1fr;gap:10px;counter-reset:df}
+.dayflow li{background:var(--card);padding:18px 20px 18px 74px;position:relative;counter-increment:df}
+.df-icon{position:absolute;left:18px;top:18px;width:40px;height:40px;border-radius:50%;background:var(--blue);display:flex;align-items:center;justify-content:center;font-size:19px}
+.dayflow .when{display:block;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--blue);font-weight:700}
+.dayflow .what{display:block;margin-top:5px;font-size:16px;line-height:1.5}
+.dayflow a{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--blue)}
+@media (min-width:900px){
+  .dayflow{grid-template-columns:repeat(4,minmax(0,1fr));gap:0;position:relative}
+  .dayflow li{padding:64px 18px 22px;border-left:1px solid var(--paper)}
+  .dayflow li:first-child{border-left:0}
+  .df-icon{left:18px;top:16px}
+  .dayflow::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--blue);z-index:1}
+}
+
+.look-bold .soon{border:2px solid var(--blue);background:var(--card)}
+.look-bold .bases > div{border-top:4px solid var(--blue)}
+.look-bold .dishes{counter-reset:dish}
+.look-bold .dishes div{counter-increment:dish;position:relative;padding-left:58px}
+.look-bold .dishes div::before{content:counter(dish,decimal-leading-zero);position:absolute;left:18px;top:16px;font-weight:700;color:var(--blue);font-size:15px}
+.article.look-bold .body .picklabel{color:var(--blue);font-weight:700}
+
+.pricebars{margin-top:20px;background:var(--card);padding:clamp(16px,2.4vw,24px)}
+.pb-row{display:grid;grid-template-columns:minmax(120px,170px) minmax(0,1fr) max-content;gap:14px;align-items:center;padding:9px 0}
+.pb-name{font-size:14.5px;font-weight:600}
+.pb-track{position:relative;height:12px;background:var(--paper);border-radius:6px}
+.pb-bar{position:absolute;top:0;bottom:0;border-radius:6px;background:var(--ink-soft);opacity:.55;
+  left:calc((var(--lo) - 35) / 60 * 100%);width:calc((var(--hi) - var(--lo)) / 60 * 100%)}
+.pb-me .pb-bar{background:var(--blue);opacity:1}
+.pb-me .pb-name,.pb-me .pb-val{color:var(--blue)}
+.pb-val{font-size:14px;font-weight:700;font-variant-numeric:tabular-nums}
+@media (max-width:560px){.pb-row{grid-template-columns:1fr max-content;row-gap:6px}.pb-track{grid-column:1 / -1;grid-row:2}}
+
+.howto{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:22px}
+.howto > div{background:var(--card);padding:20px 22px}
+.ht-icon{display:flex;width:44px;height:44px;border-radius:50%;background:var(--blue);align-items:center;justify-content:center;font-size:21px}
+.article .body .ht-label{margin:14px 0 0;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft)}
+.article .body .ht-big{margin:4px 0 0;font-size:26px;font-weight:700;letter-spacing:-.02em;color:var(--blue)}
+.article .body .ht-text{margin:6px 0 0;font-size:15px;line-height:1.5}
+@media (max-width:560px){.howto{grid-template-columns:1fr}}
+
+.article .body ol.numtips{list-style:none;padding:0;margin-top:20px;counter-reset:nt;max-width:none}
+.article .body ol.numtips li{counter-increment:nt;background:var(--card);padding:16px 18px 16px 64px;position:relative;margin-top:10px;font-size:16px;line-height:1.55}
+.numtips li::before{content:counter(nt);position:absolute;left:18px;top:13px;width:30px;height:30px;border-radius:50%;background:var(--blue);color:#fff;font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center}
+
+.bigcta{display:block;margin-top:clamp(34px,4vw,48px);background:var(--blue);color:#fff;padding:clamp(22px,3vw,32px);text-decoration:none}
+.article .body a.bigcta{text-decoration:none}
+.bigcta-kicker{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.8}
+.bigcta-title{display:block;margin-top:8px;font-size:clamp(20px,2.4vw,28px);font-weight:700;letter-spacing:-.02em}
+@media (hover:hover){.bigcta:hover{background:#13208f}}
+@media (min-width:900px){.article.look-bold .body .tripcards{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* ---------- place pages: fewer, larger blocks; one inner padding everywhere ---------- */
+.placepage{--pp:22px}
+/* facts: one sheet with thin rules instead of a stack of tiles */
+.placepage .placeglance{gap:0;background:var(--card);padding:4px var(--pp)}
+.placepage .placeglance div{background:transparent;padding:14px 0;border-top:1px solid var(--line)}
+.placepage .placeglance div:first-child{border-top:0}
+@media (max-width:1099px){
+  .placepage .placeglance{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:var(--pp)}
+  .placepage .placeglance div:nth-child(2){border-top:0}
+}
+/* go for / skip if */
+.placepage .verdict > div{padding:var(--pp)}
+/* consensus: one card, rows divided by thin rules */
+.placepage .consensus ul{background:var(--card);padding:0 var(--pp)}
+.placepage .consensus li,.placepage .consensus li:last-child{background:transparent;margin:0;padding:15px 0;border-top:1px solid var(--line)}
+.placepage .consensus li:first-child{border-top:0}
+/* what to order: a blue accent card, same padding as the rest */
+.placepage .order{background:var(--blue);color:#fff;border:0;padding:var(--pp);margin-top:clamp(30px,3.6vw,42px)}
+.placepage .order .order-label{color:#fff;opacity:.75;font-size:10.5px;letter-spacing:.12em;margin:0}
+.placepage .order p:not(.order-label){margin:8px 0 0;font-size:19px;line-height:1.45;font-weight:600;letter-spacing:-.01em;max-width:none}
+/* before you go: one card, rows divided by thin rules */
+.placepage .beforeyougo dl{gap:0;background:var(--card);padding:0 var(--pp)}
+.placepage .beforeyougo dt{background:transparent;padding:15px 0 0;border-top:1px solid var(--line)}
+.placepage .beforeyougo dt:first-child{border-top:0}
+.placepage .beforeyougo dd{background:transparent;padding:4px 0 15px;margin:0}
+.placepage .fromvenue ul{background:var(--card);padding:0 var(--pp)}
+.placepage .fromvenue li{background:transparent;margin:0;padding:15px 0;border-top:1px solid var(--line)}
+.placepage .fromvenue li:first-child{border-top:0}
+.placepage .note{padding:var(--pp)}
+.placepage .order p.order-label,.placepage .placemain .order p.order-label{font-size:10.5px;font-weight:400;margin:0}
+@media (max-width:640px){
+  .placepage .verdict{gap:0;background:var(--card)}
+  .placepage .verdict > div + div{border-top:1px solid var(--line)}
 }

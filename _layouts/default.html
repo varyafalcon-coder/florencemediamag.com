@@ -6,6 +6,7 @@
 <title>{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.seo_description %}{{ page.seo_description }}{% else %}{{ page.answer | default: site.description }}{% endif %}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <link rel="icon" href="/favicon.ico?v=4" sizes="any">
 <link rel="icon" type="image/png" sizes="144x144" href="/assets/icons/favicon-144.png?v=4">
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicon-96.png?v=4">
