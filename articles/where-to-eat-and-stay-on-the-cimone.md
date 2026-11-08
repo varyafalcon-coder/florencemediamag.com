@@ -67,6 +67,7 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <path class="v-mtn" d="M140,340 C233.6,68 306.4,62 400,62 C493.6,62 566.4,68 660,340 Z"/>
 <path class="v-snow" d="M316.8,71 C358.4,62 441.6,62 483.2,71 Q400,77 316.8,71 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="532" y1="189.8" x2="430" y2="71.4"/><rect class="v-cabin" x="481.6" y="137.5" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M393,64 v-12 h14 v12 Z"/><line class="v-cable" x1="400" y1="52" x2="400" y2="32"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
@@ -78,7 +79,6 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <path class="v-roof" d="M531,176.8 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M558,191.8 v-20 h22 v20 Z"/>
 <path class="v-roof" d="M555,172.8 l14,-12 l14,12 Z"/>
-<line class="v-cable" x1="560" y1="189.8" x2="430" y2="71.4"/><rect class="v-cabin" x="497" y="137.5" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M120,302 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M117,287 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M94,302 v-30 h4 v4 h4 v-4 h4 v4 h4 v-4 h4 v30 Z"/>

@@ -71,10 +71,10 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <path class="v-mtn" d="M80,340 185.6,181 256,104.8 300,62 352.8,114.4 396.8,133.4 520,340 Z"/>
 <path class="v-snow" d="M300,62 256,98 280.2,90.1 295.6,98 315.4,87.9 348.4,98.7 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="404" y1="300" x2="330" y2="196.8"/><rect class="v-cabin" x="366.2" y="254.6" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="330" y1="196.8" x2="300" y2="63.6"/><rect class="v-cabin" x="312" y="137.8" width="9" height="11" rx="2"/>
 <path class="v-museum" d="M315,198.8 l6,-10 h18 l6,10 Z"/>
 <path class="v-run" d="M300,62 L340,130.2 L330,196.8 L390,250.1 L440,300"/>
-<line class="v-cable" x1="470" y1="300" x2="330" y2="196.8"/><rect class="v-cabin" x="402.5" y="254.6" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="330" y1="196.8" x2="300" y2="63.6"/><rect class="v-cabin" x="312" y="137.8" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M408.5,302 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M405.5,287 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M432.5,302 v-20 h22 v20 Z"/>

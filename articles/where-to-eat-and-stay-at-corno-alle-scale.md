@@ -67,6 +67,7 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-mtn" d="M0,340 0,196.1 140,123.3 300,62 380,75.5 460,97.3 560,88 720,154.5 720,340 Z"/>
 <path class="v-snow" d="M300,62 278,84 290.1,79.2 297.8,84 307.7,77.8 324.2,84.4 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="258" y1="185.7" x2="300" y2="62"/><rect class="v-cabin" x="272.4" y="131" width="9" height="11" rx="2"/>
 <ellipse class="v-lake" cx="470" cy="101.3" rx="20" ry="5"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
@@ -79,7 +80,6 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-roof" d="M201,172.7 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M228,187.7 v-20 h22 v20 Z"/>
 <path class="v-roof" d="M225,168.7 l14,-12 l14,12 Z"/>
-<line class="v-cable" x1="230" y1="185.7" x2="300" y2="62"/><rect class="v-cabin" x="257" y="131" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M510,302 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M507,287 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M534,302 v-20 h22 v20 Z"/>

@@ -71,10 +71,10 @@ One round summit with long runs down every side, almost no queues, and a train s
 <path class="v-mtn" d="M60,340 C168,68 252,62 360,62 C468,62 552,68 660,340 Z"/>
 <path class="v-snow" d="M264,71 C312,62 408,62 456,71 Q360,77 264,71 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<path class="v-museum" d="M343,64 l6,-14 h22 l6,14 Z"/>
-<line class="v-cable" x1="150" y1="300" x2="330" y2="67.8"/><rect class="v-cabin" x="226.5" y="196.5" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="195" y1="300" x2="330" y2="67.8"/><rect class="v-cabin" x="251.2" y="196.5" width="9" height="11" rx="2"/>
 <line class="v-cable" x1="560" y1="300" x2="400" y2="67.8"/><rect class="v-cabin" x="483.5" y="196.5" width="9" height="11" rx="2"/>
 <line class="v-cable" x1="650" y1="300" x2="420" y2="74.4"/><rect class="v-cabin" x="542" y="199.5" width="9" height="11" rx="2"/>
+<path class="v-museum" d="M343,64 l6,-14 h22 l6,14 Z"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M230,302 l9,-22 l9,22 Z"/>

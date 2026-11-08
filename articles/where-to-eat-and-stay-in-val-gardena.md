@@ -73,6 +73,8 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-mtn" d="M460,340 C510.4,181.9 549.6,175.9 600,175.9 C650.4,175.9 689.6,181.9 740,340 Z"/>
 <path class="v-snow" d="M555.2,184.9 C577.6,175.9 622.4,175.9 644.8,184.9 Q600,190.9 555.2,184.9 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="116" y1="300" x2="120" y2="145.3"/><rect class="v-cabin" x="113.3" y="231.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="562" y1="300" x2="600" y2="175.9"/><rect class="v-cabin" x="574.6" y="245.2" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
@@ -96,8 +98,6 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-wall" d="M530,302 v-40 h9 v40 Z"/><path class="v-roof" d="M529,263 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M535,302 v-14 h16 v14 Z"/>
 <path class="v-roof" d="M532,289 l11,-12 l11,12 Z"/>
-<line class="v-cable" x1="190" y1="300" x2="120" y2="145.3"/><rect class="v-cabin" x="154" y="231.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="540" y1="300" x2="600" y2="175.9"/><rect class="v-cabin" x="562.5" y="245.2" width="9" height="11" rx="2"/>
 <g class="v-pill"><rect x="296" y="18" width="208" height="30" rx="15"/><text x="400" y="38" text-anchor="middle"><tspan class="v-pn">Sassolungo</tspan> · 3,181 m</text></g>
 <g class="v-pill"><rect x="33.4" y="101.3" width="173.2" height="30" rx="15"/><text x="120" y="121.3" text-anchor="middle"><tspan class="v-pn">Seceda</tspan> · 2,500 m</text></g>
 <g class="v-pill"><rect x="510.4" y="131.9" width="199.3" height="30" rx="15"/><text x="610" y="151.9" text-anchor="middle"><tspan class="v-pn">Ciampinoi</tspan> · 2,250 m</text></g>

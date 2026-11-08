@@ -2,7 +2,7 @@
 {%- if tc -%}
 <article class="card tripcard" data-dist="{{ tc.dist }}" data-kind="{{ tc.kind }}{% if tc.area == 'ski' %} mountain{% endif %}">
   <span class="card-em" aria-hidden="true"><span>{% case tc.kind %}{% when "eat" %}🍝{% when "stay" %}🛏️{% when "drinks" %}🍸{% when "spa" %}♨️{% else %}🏛️{% endcase %}</span>{% if tc.area == "ski" %}<span>⛷️</span>{% endif %}</span>
-  <span class="tripkicker">{{ tc.place }} &middot; {{ tc.time }} &middot; {{ tc.kind }}</span>
+  <span class="tripkicker">{{ tc.place }}<span class="tk-meta"> &middot; {{ tc.time }} &middot; {{ tc.kind }}</span></span>
   <h3><a href="{{ '/trips/' | append: tc.slug | append: '/' | relative_url }}">{{ tc.title }}</a>{% if tc.price %} <span class="pricetag">{{ tc.price }}</span>{% endif %}</h3>
   <p>{{ tc.text }}</p>
 </article>

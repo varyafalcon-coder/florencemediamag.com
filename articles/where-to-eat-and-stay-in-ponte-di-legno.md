@@ -74,13 +74,13 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <path class="v-mtn" d="M440,340 484.8,128.6 512.8,66 546.4,62 636,62 664,68 692,133.4 720,340 Z"/>
 <path class="v-snow" d="M512.8,66 546.4,62 636,62 664,68 652.8,82 608,76 568.8,84 524,78 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="462" y1="204.8" x2="570" y2="62"/><rect class="v-cabin" x="506.1" y="141.5" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M383,207.4 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M380,192.4 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M407,207.4 v-20 h22 v20 Z"/>
 <path class="v-roof" d="M404,188.4 l14,-12 l14,12 Z"/>
 <path class="v-wall" d="M435,207.4 v-14 h16 v14 Z"/>
 <path class="v-roof" d="M432,194.4 l11,-12 l11,12 Z"/>
-<line class="v-cable" x1="440" y1="204.8" x2="570" y2="62"/><rect class="v-cabin" x="494" y="141.5" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>

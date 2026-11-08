@@ -70,6 +70,8 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-mtn" d="M410,340 482,245.2 530,210.2 560,190.4 596,214.5 626,223.3 710,340 Z"/>
 <path class="v-snow" d="M560,190.4 530,218.9 546.5,212.7 557,218.9 570.5,211 593,219.5 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="300" y1="281.5" x2="260" y2="146"/><rect class="v-cabin" x="277.5" y="221.5" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="448" y1="286.2" x2="560" y2="190.4"/><rect class="v-cabin" x="493.9" y="244.1" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M318.5,288.2 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M315.5,273.2 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M342.5,288.2 v-20 h22 v20 Z"/>
@@ -81,8 +83,6 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-roof" d="M389.5,271.2 l13,-12 l13,12 Z"/>
 <path class="v-wall" d="M418.5,288.2 v-15 h17 v15 Z"/>
 <path class="v-roof" d="M415.5,274.2 l11.5,-12 l11.5,12 Z"/>
-<line class="v-cable" x1="330" y1="281.5" x2="260" y2="146"/><rect class="v-cabin" x="294" y="221.5" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="420" y1="286.2" x2="560" y2="190.4"/><rect class="v-cabin" x="478.5" y="244.1" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M50,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M470,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M640,302 l9,-22 l9,22 Z"/>

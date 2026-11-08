@@ -70,6 +70,8 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-mtn" d="M35,340 C94.4,68 140.6,62 200,62 C259.4,62 305.6,68 365,340 Z"/>
 <path class="v-mtn" d="M395,340 C454.4,77.8 500.6,71.8 560,71.8 C619.4,71.8 665.6,77.8 725,340 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="322" y1="161.9" x2="210" y2="64"/><rect class="v-cabin" x="267.1" y="118.8" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="438" y1="161.9" x2="550" y2="73.7"/><rect class="v-cabin" x="483.9" y="123.2" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M60,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M90,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M120,302 l9,-22 l9,22 Z"/>
@@ -96,8 +98,6 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-wall" d="M399,163.9 v-40 h9 v40 Z"/><path class="v-roof" d="M398,124.9 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M404,163.9 v-18 h20 v18 Z"/>
 <path class="v-roof" d="M401,146.9 l13,-12 l13,12 Z"/>
-<line class="v-cable" x1="360" y1="161.9" x2="210" y2="64"/><rect class="v-cabin" x="288" y="118.8" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="400" y1="161.9" x2="550" y2="73.7"/><rect class="v-cabin" x="463" y="123.2" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M73,302 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M70,287 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M97,302 v-20 h22 v20 Z"/>

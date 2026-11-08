@@ -72,6 +72,8 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <path class="v-snow" d="M458.4,146.3 499.2,142.3 608,142.3 642,148.3 628.4,162.3 574,156.3 526.4,164.3 472,158.3 Z"/>
 <path class="v-mtn" d="M330,340 330,285.5 420,216.7 470,213.1 540,237.2 620,285.5 620,340 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="418" y1="257.4" x2="450" y2="216.7"/><rect class="v-cabin" x="427.9" y="240.1" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="470" y1="216.7" x2="560" y2="142.3"/><rect class="v-cabin" x="506" y="184.2" width="9" height="11" rx="2"/>
 <path class="v-wall" d="M310,259.4 v-16 h18 v16 Z"/>
 <path class="v-roof" d="M307,244.4 l12,-12 l12,12 Z"/>
 <path class="v-wall" d="M334,259.4 v-20 h22 v20 Z"/>
@@ -81,8 +83,6 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <path class="v-wall" d="M379,259.4 v-40 h9 v40 Z"/><path class="v-roof" d="M378,220.4 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M384,259.4 v-18 h20 v18 Z"/>
 <path class="v-roof" d="M381,242.4 l13,-12 l13,12 Z"/>
-<line class="v-cable" x1="380" y1="257.4" x2="450" y2="216.7"/><rect class="v-cabin" x="407" y="240.1" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="470" y1="216.7" x2="560" y2="142.3"/><rect class="v-cabin" x="506" y="184.2" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M640,302 l9,-22 l9,22 Z"/>

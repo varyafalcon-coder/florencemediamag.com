@@ -771,7 +771,7 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .article .body .glance div,.article .body .bignums > div,.article .body .dishes div,
   .article .body .skiarea-fit > div,.article .body .bases > div{height:100%;box-sizing:border-box}
   .article .body .tripcards{grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch}
-  .article .body .tripcards:has(> :nth-child(3)){grid-template-columns:repeat(3,minmax(0,1fr))}
+  .article .body .tripcards,.article .body .tripcards:has(> :nth-child(3)){grid-template-columns:repeat(3,minmax(0,1fr))}
   .article .body .tripcards .card-em{right:12px}
   .article .body .dishes{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
@@ -1018,3 +1018,8 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 @media (max-width:980px){.trust-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:560px){.trust-grid{grid-template-columns:1fr}}
 body:has(.trust) footer{margin-top:0}
+
+/* trip cards inside articles: place only on top, full text, equal widths in every row */
+.article .tk-meta{display:none}
+.article .body .tripcards .tripkicker{white-space:normal}
+.article .body .tripcards p{display:block;-webkit-line-clamp:unset;overflow:visible}

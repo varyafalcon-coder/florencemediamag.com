@@ -77,6 +77,8 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <path class="v-mtn" d="M420,340 468,128.6 498,66 534,62 630,62 660,68 690,133.4 720,340 Z"/>
 <path class="v-snow" d="M498,66 534,62 630,62 660,68 648,82 600,76 558,84 510,78 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="366" y1="269" x2="330" y2="156.6"/><rect class="v-cabin" x="345.3" y="219.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="474" y1="269" x2="560" y2="70.6"/><rect class="v-cabin" x="508.2" y="180.7" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M250,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M420,302 l9,-22 l9,22 Z"/>
@@ -97,8 +99,6 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <path class="v-roof" d="M74,283 l14,-12 l14,12 Z"/>
 <path class="v-wall" d="M105,302 v-14 h16 v14 Z"/>
 <path class="v-roof" d="M102,289 l11,-12 l11,12 Z"/>
-<line class="v-cable" x1="400" y1="269" x2="330" y2="156.6"/><rect class="v-cabin" x="364" y="219.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="460" y1="269" x2="560" y2="70.6"/><rect class="v-cabin" x="500.5" y="180.7" width="9" height="11" rx="2"/>
 <g class="v-pill"><rect x="44.7" y="73.2" width="190.6" height="30" rx="15"/><text x="140" y="93.2" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
 <g class="v-pill"><rect x="221.7" y="112.6" width="216.7" height="30" rx="15"/><text x="330" y="132.6" text-anchor="middle"><tspan class="v-pn">Col Rodella</tspan> · 2,485 m</text></g>
 <g class="v-pill"><rect x="434.4" y="18" width="277.6" height="30" rx="15"/><text x="573.2" y="38" text-anchor="middle"><tspan class="v-pn">Marmolada</tspan> · lifts to 3,265 m</text></g>

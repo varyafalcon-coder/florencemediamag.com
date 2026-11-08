@@ -82,6 +82,8 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-mtn" d="M410,340 482,229.2 530,183.9 560,158.5 596,189.6 626,200.9 710,340 Z"/>
 <path class="v-snow" d="M560,158.5 530,194.5 546.5,186.5 557,194.5 570.5,184.4 593,195.2 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="300" y1="300" x2="170" y2="62"/><rect class="v-cabin" x="237" y="193.9" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="420" y1="300" x2="560" y2="158.5"/><rect class="v-cabin" x="478.5" y="237.3" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M62,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
@@ -99,8 +101,6 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-wall" d="M379,302 v-40 h9 v40 Z"/><path class="v-roof" d="M378,263 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M384,302 v-18 h20 v18 Z"/>
 <path class="v-roof" d="M381,285 l13,-12 l13,12 Z"/>
-<line class="v-cable" x1="300" y1="300" x2="170" y2="62"/><rect class="v-cabin" x="237" y="193.9" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="420" y1="300" x2="560" y2="158.5"/><rect class="v-cabin" x="478.5" y="237.3" width="9" height="11" rx="2"/>
 <path class="v-road" d="M30,322 Q360,312 690,322"/>
 <g class="v-bus"><rect x="470" y="309" width="34" height="14" rx="4"/><circle cx="478" cy="324" r="3"/><circle cx="496" cy="324" r="3"/></g>
 <g class="v-pill"><rect x="48.6" y="18" width="242.8" height="30" rx="15"/><text x="170" y="38" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>

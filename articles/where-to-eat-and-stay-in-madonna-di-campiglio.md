@@ -70,6 +70,9 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-mtn" d="M-10,340 C40.4,222.5 79.6,216.5 130,216.5 C180.4,216.5 219.6,222.5 270,340 Z"/>
 <path class="v-snow" d="M85.2,225.5 C107.6,216.5 152.4,216.5 174.8,225.5 Q130,231.5 85.2,225.5 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="228" y1="300" x2="130" y2="216.5"/><rect class="v-cabin" x="179.4" y="263.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="342" y1="300" x2="400" y2="216.5"/><rect class="v-cabin" x="363.6" y="263.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="470" y1="274.1" x2="580" y2="167.2"/><rect class="v-cabin" x="515" y="227" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M240,302 l9,-22 l9,22 Z"/>
@@ -85,9 +88,6 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-wall" d="M304,302 v-40 h9 v40 Z"/><path class="v-roof" d="M303,263 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M309,302 v-18 h20 v18 Z"/>
 <path class="v-roof" d="M306,285 l13,-12 l13,12 Z"/>
-<line class="v-cable" x1="250" y1="300" x2="130" y2="216.5"/><rect class="v-cabin" x="191.5" y="263.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="320" y1="300" x2="400" y2="216.5"/><rect class="v-cabin" x="351.5" y="263.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="470" y1="274.1" x2="580" y2="167.2"/><rect class="v-cabin" x="515" y="227" width="9" height="11" rx="2"/>
 <g class="v-pill"><rect x="390.9" y="28.5" width="321.1" height="30" rx="15"/><text x="551.5" y="48.5" text-anchor="middle"><tspan class="v-pn">Brenta Dolomites</tspan> · Grostè 2,442 m</text></g>
 <g class="v-pill"><rect x="309.1" y="172.5" width="181.9" height="30" rx="15"/><text x="400" y="192.5" text-anchor="middle"><tspan class="v-pn">Spinale</tspan> · 2,100 m</text></g>
 <g class="v-pill"><rect x="30.4" y="172.5" width="199.3" height="30" rx="15"/><text x="130" y="192.5" text-anchor="middle"><tspan class="v-pn">Pradalago</tspan> · 2,100 m</text></g>

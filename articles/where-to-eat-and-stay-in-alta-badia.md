@@ -72,6 +72,8 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-snow" d="M330,82 313,118 322.4,110 328.3,118 335.9,107.9 348.7,118.7 Z"/>
 <path class="v-mtn" d="M400,340 400,287.6 480,185.8 560,192.3 640,172.9 720,234.7 720,340 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="302" y1="275.6" x2="330" y2="102.3"/><rect class="v-cabin" x="310.1" y="198.6" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="520" y1="300" x2="480" y2="185.8"/><rect class="v-cabin" x="497.5" y="249.6" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
@@ -94,8 +96,6 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-wall" d="M570,302 v-40 h9 v40 Z"/><path class="v-roof" d="M569,263 l5.5,-18 l5.5,18 Z"/>
 <path class="v-wall" d="M575,302 v-14 h16 v14 Z"/>
 <path class="v-roof" d="M572,289 l11,-12 l11,12 Z"/>
-<line class="v-cable" x1="250" y1="275.6" x2="330" y2="102.3"/><rect class="v-cabin" x="281.5" y="198.6" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="520" y1="300" x2="480" y2="185.8"/><rect class="v-cabin" x="497.5" y="249.6" width="9" height="11" rx="2"/>
 <g class="v-pill"><rect x="34.7" y="8" width="190.6" height="30" rx="15"/><text x="130" y="28" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
 <g class="v-pill"><rect x="226" y="38" width="208" height="30" rx="15"/><text x="330" y="58" text-anchor="middle"><tspan class="v-pn">Sassongher</tspan> · 2,665 m</text></g>
 <g class="v-pill"><rect x="447.3" y="128.9" width="225.4" height="30" rx="15"/><text x="560" y="148.9" text-anchor="middle"><tspan class="v-pn">Piz La Ila</tspan> · Pralongià</text></g>

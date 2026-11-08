@@ -75,6 +75,8 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-mtn" d="M410,340 482,182.4 530,107.1 560,64.7 596,116.5 626,135.3 710,340 Z"/>
 <path class="v-snow" d="M560,64.7 530,100.7 546.5,92.8 557,100.7 570.5,90.6 593,101.4 Z"/>
 <path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<line class="v-cable" x1="322" y1="300" x2="160" y2="153.2"/><rect class="v-cabin" x="244.6" y="234.9" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="478" y1="300" x2="540" y2="173.2"/><rect class="v-cabin" x="501.4" y="244" width="9" height="11" rx="2"/>
 <path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
 <path class="v-tree" d="M80,302 l6.8,-16.5 l6.8,16.5 Z"/>
 <path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
@@ -92,8 +94,6 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-roof" d="M409.5,285 l13,-12 l13,12 Z"/>
 <path class="v-wall" d="M438.5,302 v-15 h17 v15 Z"/>
 <path class="v-roof" d="M435.5,288 l11.5,-12 l11.5,12 Z"/>
-<line class="v-cable" x1="350" y1="300" x2="160" y2="153.2"/><rect class="v-cabin" x="260" y="234.9" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="400" y1="300" x2="520" y2="194.4"/><rect class="v-cabin" x="449.5" y="253.5" width="9" height="11" rx="2"/>
 <g class="v-pill"><rect x="24.3" y="18" width="251.5" height="30" rx="15"/><text x="150" y="38" text-anchor="middle"><tspan class="v-pn">Tofane</tspan> · lifts to 2,470 m</text></g>
 <g class="v-pill"><rect x="187.3" y="118.1" width="225.4" height="30" rx="15"/><text x="300" y="138.1" text-anchor="middle"><tspan class="v-pn">Cinque Torri</tspan> · 2,255 m</text></g>
 <g class="v-pill"><rect x="408.3" y="20.7" width="303.7" height="30" rx="15"/><text x="560.1" y="40.7" text-anchor="middle"><tspan class="v-pn">Cristallo and Faloria</tspan> · 2,120 m</text></g>
