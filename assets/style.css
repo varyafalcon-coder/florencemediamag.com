@@ -773,3 +773,44 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .article .body .tripcards .card-em{right:12px}
   .article .body .dishes{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+
+/* ---------- place pages (Florence and out of town) in the card style ---------- */
+.placepage .answer{background:none;border:0;padding:0;margin-top:clamp(16px,2vw,22px);max-width:60ch;
+  font-size:clamp(18px,2vw,21px);line-height:1.5}
+.placepage .placeglance{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;background:transparent;border:0;
+  margin-top:clamp(22px,3vw,30px);max-width:none}
+.placepage .placeglance div{background:var(--card);padding:14px 16px}
+.placepage .placeglance dt{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.placepage .placeglance dd{margin:5px 0 0;font-size:15px;line-height:1.45;font-weight:600}
+.placepage .actions{margin-top:16px}
+.placepage .actions .btn{flex:1 1 auto;justify-content:center;text-align:center}
+.placepage .verdict{gap:10px;background:transparent;border:0;margin-top:clamp(26px,3.4vw,36px);max-width:none}
+.placepage .verdict > div{background:var(--card)}
+.placepage .consensus,.placepage .beforeyougo,.placepage .order,.placepage .fromvenue,.placepage .addresses{max-width:none}
+.placepage .consensus h2,.placepage .beforeyougo h2,.placepage .fromvenue h2,.placepage .addresses h2,.placepage > h2{font-size:clamp(21px,2.3vw,27px);letter-spacing:-.02em}
+.placepage .consensus li,.placepage .consensus li:last-child{border:0;background:var(--card);padding:14px 18px;margin-top:8px}
+.placepage .consensus ul{margin-top:16px}
+.placepage .order{background:var(--card);border:0;border-left:4px solid var(--blue)}
+.placepage .beforeyougo dl{display:grid;grid-template-columns:1fr;gap:8px;margin-top:16px;border:0}
+.placepage .beforeyougo dt,.placepage .beforeyougo dd{grid-column:1}
+.placepage .beforeyougo dt{background:var(--card);padding:14px 18px 0;margin:0;border:0;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.placepage .beforeyougo dd{background:var(--card);padding:4px 18px 14px;margin:-8px 0 0;border:0;font-size:15.5px;line-height:1.55}
+.placepage .fromvenue li{border:0;background:var(--card);padding:14px 18px;margin-top:8px}
+.placepage .note{background:var(--card)}
+.placepage .skimore{max-width:none}
+@media (max-width:640px){.placepage .verdict{grid-template-columns:1fr}}
+
+@media (min-width:1100px){
+  .placepage{max-width:1200px}
+  .placepage > h1{font-size:clamp(46px,4.4vw,62px)}
+  .placepage .placephoto{max-width:none}
+  .placepage .placephoto img{aspect-ratio:21/9;object-fit:cover}
+  .placegrid{display:grid;grid-template-columns:minmax(0,1fr) 340px;column-gap:72px;align-items:start}
+  .placeside{grid-column:2;grid-row:1;position:sticky;top:28px}
+  .placemain{grid-column:1;grid-row:1}
+  .placepage .placeside .placeglance{grid-template-columns:1fr;margin-top:clamp(26px,3.4vw,36px)}
+  .placepage .placeside .actions{flex-direction:column}
+  .placepage .placemain .consensus p,.placepage .placemain .order p,.placepage .placemain .body p{font-size:17px}
+  .placepage .placemain .body p{max-width:none}
+  .placepage > .note,.placepage > .grid{max-width:calc(100% - 412px)}
+}

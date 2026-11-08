@@ -3,12 +3,14 @@ layout: default
 ---
 {%- assign t = site.data.trips | where: "slug", page.trip_slug | first -%}
 {%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ page.maps_q | default: t.maps_q | url_encode }}{%- endcapture -%}
-<article class="wrap doc">
+<article class="wrap doc placepage look-cards">
   <nav class="crumbs"><a href="{{ '/#from-florence' | relative_url }}">From Florence</a> / <span>{{ t.title }}</span></nav>
   <h1>{{ t.title }}</h1>
   <p class="answer">{{ page.answer | default: t.text }}</p>
 
-  <dl class="facts wide">
+  <div class="placegrid">
+  <aside class="placeside">
+  <dl class="glance placeglance">
     <div><dt>Where</dt><dd>{{ t.place }}</dd></div>
     {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
     <div><dt>From Florence</dt><dd>{{ t.time }} by car</dd></div>
@@ -22,6 +24,8 @@ layout: default
     <a class="btn {% if page.book_url %}btn-ghost{% else %}btn-primary{% endif %}" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>
   </div>
 
+  </aside>
+  <div class="placemain">
   {% if page.go_for or page.skip_if %}
   <dl class="verdict">
     {% if page.go_for %}<div><dt>Go for</dt><dd>{{ page.go_for }}</dd></div>{% endif %}
@@ -67,6 +71,9 @@ layout: default
     <span class="skimore-title">{{ guide.title | default: "Read the full guide" }}</span>
   </a>
   {% endif %}
+
+  </div>
+  </div>
 
   {%- assign same = site.data.trips | where: "place", t.place -%}
   {%- if same.size > 1 -%}

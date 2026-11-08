@@ -10,7 +10,7 @@ layout: default
 {%- else -%}{%- assign mq = page.title | append: ', Firenze, Italy' -%}{%- endif -%}
 {%- capture mapurl -%}https://www.google.com/maps/search/?api=1&query={{ mq | url_encode }}{%- endcapture -%}
 {%- endif -%}
-<article class="wrap doc">
+<article class="wrap doc placepage look-cards">
   <nav class="crumbs"><a href="{{ '/' | relative_url }}">Florence Media</a> / <span>{{ page.title }}</span></nav>
   <h1>{{ page.title }}</h1>
   <p class="answer">{{ page.answer }}</p>
@@ -24,6 +24,8 @@ layout: default
   </figure>
   {% endif %}
 
+  <div class="placegrid">
+  <aside class="placeside">
   <dl class="glance placeglance">
     <div><dt>Area</dt><dd>{{ page.area }}</dd></div>
     {% if page.address %}<div><dt>Address</dt><dd>{{ page.address }}</dd></div>{% endif %}
@@ -37,6 +39,8 @@ layout: default
     {% unless page.addresses %}<a class="btn {% if page.book_url %}btn-ghost{% else %}btn-primary{% endif %}" href="{{ mapurl }}" target="_blank" rel="noopener">Open in Google Maps</a>{% endunless %}
   </div>
 
+  </aside>
+  <div class="placemain">
   {% if page.go_for or page.skip_if %}
   <dl class="verdict">
     <div><dt>Go for</dt><dd>{{ page.go_for }}</dd></div>
@@ -102,6 +106,9 @@ layout: default
   {% endif %}
 
   {% if content != "" %}<div class="body">{{ content }}</div>{% endif %}
+
+  </div>
+  </div>
 
   <h2>Where else this appears</h2>
   <ul class="taglist">
