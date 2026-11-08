@@ -75,38 +75,82 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 ## Two sides of the valley
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 at 2,798 metres on the left, the village of Livigno on the valley floor at 1,816 metres, Mottolino at about 2,400 metres on the right, gondolas up both sides and the free ski bus along the valley"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,194.8 90,158.5 200,182.7 330,146.3 470,170.6 600,134.2 720,163.3 720,340 Z"/>
-<path class="v-mtn" d="M5,340 84.2,181 137,104.8 170,62 209.6,114.4 242.6,133.4 335,340 Z"/>
-<path class="v-snow" d="M170,62 137,98 155.2,90.1 166.7,98 181.6,87.9 206.3,98.7 Z"/>
-<path class="v-mtn" d="M410,340 482,229.2 530,183.9 560,158.5 596,189.6 626,200.9 710,340 Z"/>
-<path class="v-snow" d="M560,158.5 530,194.5 546.5,186.5 557,194.5 570.5,184.4 593,195.2 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="300" y1="300" x2="170" y2="62"/><rect class="v-cabin" x="237" y="193.9" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="420" y1="300" x2="560" y2="158.5"/><rect class="v-cabin" x="478.5" y="237.3" width="9" height="11" rx="2"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M62,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M272,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M455,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M478,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M650,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M672,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M310,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M307,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M334,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M331,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M362,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M359,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M379,302 v-40 h9 v40 Z"/><path class="v-roof" d="M378,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M384,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M381,285 l13,-12 l13,12 Z"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 at 2,798 metres on the left, the village of Livigno on the valley floor at 1,816 metres, Mottolino at about 2,400 metres on the right, with runs on both sides and the free ski bus along the valley"><defs><linearGradient id="v14sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v14body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v14m1"><path d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/></clipPath><clipPath id="v14m2"><path d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v14sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path class="v-far" d="M0,356 L0,181.7 Q70,104.6 140,122.6 Q220,104.6 300,158 Q380,92.8 460,110.8 Q530,92.8 600,146.2 Q660,104.6 720,122.6 L720,356 Z"/>
+<path fill="url(#v14body)" d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/>
+<g clip-path="url(#v14m1)">
+<path class="v-snow" d="M-36,24 L396,24 L396,165.6 Q372,173.6 348,145.6 Q324,169.6 300,161.6 Q276,169.6 252,149.6 Q228,169.6 204,161.6 Q180,169.6 156,145.6 Q132,173.6 108,165.6 Q84,173.6 60,145.6 Q36,169.6 12,161.6 Q-12,169.6 -36,149.6 Z"/>
+<path class="v-tree" d="M14.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M36.5,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M58.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M80.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M102.7,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M124.8,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M146.9,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M213.1,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M235.2,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M257.3,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M279.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M301.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M323.5,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M345.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M128,93.2 C146,145.4 56.8,177.6 74.8,197.6 S39.6,272 21.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M128,93.2 C146,145.4 56.8,177.6 74.8,197.6 S39.6,272 21.6,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M154,99.2 C178,149.9 103.4,180.6 127.4,200.6 S124.8,272 100.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M154,99.2 C178,149.9 103.4,180.6 127.4,200.6 S124.8,272 100.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M180,93.2 C210,145.4 150,177.6 180,197.6 S210,272 180,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M180,93.2 C210,145.4 150,177.6 180,197.6 S210,272 180,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M206,99.2 C224,149.9 214.6,180.6 232.6,200.6 S277.2,272 259.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M206,99.2 C224,149.9 214.6,180.6 232.6,200.6 S277.2,272 259.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M232,93.2 C256,145.4 261.2,177.6 285.2,197.6 S362.4,272 338.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M232,93.2 C256,145.4 261.2,177.6 285.2,197.6 S362.4,272 338.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M180,24 C201.6,151.6 187.2,268.4 223.2,366 L540,366 L540,24 Z"/>
+</g>
+<path fill="url(#v14body)" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
+<g clip-path="url(#v14m2)">
+<path class="v-snow" d="M362,118 L758,118 L758,231.4 Q736,239.4 714,211.4 Q692,235.4 670,227.4 Q648,235.4 626,215.4 Q604,235.4 582,227.4 Q560,235.4 538,211.4 Q516,239.4 494,231.4 Q472,239.4 450,211.4 Q428,235.4 406,227.4 Q384,235.4 362,215.4 Z"/>
+<path class="v-tree" d="M408.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M429.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M451.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M473.3,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M494.9,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M516.6,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M603.4,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M625.1,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M646.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M668.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M690.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M711.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M521,177.8 C539,208.9 468.1,219.9 486.1,239.9 S469.1,272 451.1,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M521,177.8 C539,208.9 468.1,219.9 486.1,239.9 S469.1,272 451.1,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M547,183.8 C571,213.4 511.4,222.9 535.4,242.9 S547.7,272 523.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M547,183.8 C571,213.4 511.4,222.9 535.4,242.9 S547.7,272 523.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M573,177.8 C603,208.9 554.6,219.9 584.6,239.9 S626.3,272 596.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M573,177.8 C603,208.9 554.6,219.9 584.6,239.9 S626.3,272 596.3,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M599,183.8 C617,213.4 616,222.9 634,242.9 S686.9,272 668.9,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M599,183.8 C617,213.4 616,222.9 634,242.9 S686.9,272 668.9,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M560,118 C579.8,217.4 566.6,296.6 599.6,366 L890,366 L890,118 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="306" y1="296" x2="190" y2="73"/>
+<line class="v-pylon" x1="271.2" y1="229.1" x2="271.2" y2="241.1"/>
+<line class="v-pylon" x1="234.1" y1="157.7" x2="234.1" y2="169.7"/>
+<rect class="v-cabin" x="248.1" y="194.4" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="426" y1="296" x2="548" y2="162.8"/>
+<line class="v-pylon" x1="462.6" y1="256" x2="462.6" y2="268"/>
+<line class="v-pylon" x1="501.6" y1="213.4" x2="501.6" y2="225.4"/>
+<rect class="v-cabin" x="477.6" y="235.7" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M318.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="327" y="291" width="4" height="4"/>
+<path class="v-wall" d="M342,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M339.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="350" y="287" width="4" height="4"/>
+<path class="v-wall" d="M367,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M364.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="372" y="292" width="4" height="4"/>
+<path class="v-wall" d="M381.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M381,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M386,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M383.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="393" y="289" width="4" height="4"/>
 <path class="v-road" d="M30,322 Q360,312 690,322"/>
 <g class="v-bus"><rect x="470" y="309" width="34" height="14" rx="4"/><circle cx="478" cy="324" r="3"/><circle cx="496" cy="324" r="3"/></g>
-<g class="v-pill"><rect x="48.6" y="18" width="242.8" height="30" rx="15"/><text x="170" y="38" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
-<g class="v-pill"><rect x="434.2" y="114.5" width="251.5" height="30" rx="15"/><text x="560" y="134.5" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="269.1" y="222" width="181.9" height="30" rx="15"/><text x="360" y="242" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
-<g class="v-pill"><rect x="460.5" y="336" width="251.5" height="30" rx="15"/><text x="586.2" y="356" text-anchor="middle"><tspan class="v-pn">free ski bus between them</tspan></text></g>
+<g class="v-pill"><rect x="58.6" y="18" width="242.8" height="30" rx="15"/><text x="180" y="38" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
+<g class="v-pill"><rect x="434.2" y="112" width="251.5" height="30" rx="15"/><text x="560" y="132" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="274.1" y="340" width="181.9" height="30" rx="15"/><text x="365" y="360" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
+<g class="v-pill"><rect x="540.8" y="340" width="138.4" height="30" rx="15"/><text x="610" y="360" text-anchor="middle"><tspan class="v-pn">Free ski bus</tspan></text></g>
 </svg>
 <figcaption>Two ski areas on opposite sides of the valley, one pass for both. Gondolas go up from the village on each side, and the free bus links them.</figcaption>
 </figure>

@@ -64,40 +64,76 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 ## Under the Matterhorn
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Breuil-Cervinia: the Matterhorn at 4,478 metres, the Plateau Rosa glacier at 3,480 metres on the Swiss border, Plan Maison at 2,555 metres, the village at 2,050 metres and Valtournenche lower down at 1,520 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-mtn" d="M70,340 160,162 202,85.8 220,62 229,73.9 250,133.4 292,181 370,340 Z"/>
-<path class="v-snow" d="M220,62 202,85.8 211,90.6 220,109.6 229,73.9 Z"/>
-<path class="v-rock" d="M220,109.6 214,138.2 232,123.9 250,133.4 229,73.9 Z"/>
-<path class="v-mtn" d="M370,340 424.4,186.5 458.4,146.3 499.2,142.3 608,142.3 642,148.3 676,189.6 710,340 Z"/>
-<path class="v-snow" d="M458.4,146.3 499.2,142.3 608,142.3 642,148.3 628.4,162.3 574,156.3 526.4,164.3 472,158.3 Z"/>
-<path class="v-mtn" d="M330,340 330,285.5 420,216.7 470,213.1 540,237.2 620,285.5 620,340 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="418" y1="257.4" x2="450" y2="216.7"/><rect class="v-cabin" x="427.9" y="240.1" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="470" y1="216.7" x2="560" y2="142.3"/><rect class="v-cabin" x="506" y="184.2" width="9" height="11" rx="2"/>
-<path class="v-wall" d="M310,259.4 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M307,244.4 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M334,259.4 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M331,240.4 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M362,259.4 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M359,246.4 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M379,259.4 v-40 h9 v40 Z"/><path class="v-roof" d="M378,220.4 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M384,259.4 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M381,242.4 l13,-12 l13,12 Z"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M640,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M670,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M603,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M600,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M627,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M624,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M655,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M652,289 l11,-12 l11,12 Z"/>
-<g class="v-pill"><rect x="116" y="18" width="208" height="30" rx="15"/><text x="220" y="38" text-anchor="middle"><tspan class="v-pn">Matterhorn</tspan> · 4,478 m</text></g>
-<g class="v-pill"><rect x="447.3" y="98.3" width="225.4" height="30" rx="15"/><text x="560" y="118.3" text-anchor="middle"><tspan class="v-pn">Plateau Rosa</tspan> · 3,480 m</text></g>
-<g class="v-pill"><rect x="411.6" y="172.7" width="216.7" height="30" rx="15"/><text x="520" y="192.7" text-anchor="middle"><tspan class="v-pn">Plan Maison</tspan> · 2,555 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="74.3" y="267.4" width="251.5" height="30" rx="15"/><text x="200" y="287.4" text-anchor="middle"><tspan class="v-pn">Breuil-Cervinia</tspan> · 2,050 m</text></g>
-<g class="v-pill"><rect x="477.9" y="336" width="234.1" height="30" rx="15"/><text x="594.9" y="356" text-anchor="middle"><tspan class="v-pn">Valtournenche</tspan> · 1,520 m</text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Breuil-Cervinia: the Matterhorn at 4,478 metres, the Plateau Rosa glacier at 3,480 metres on the Swiss border with long runs down through Plan Maison at 2,555 metres to the village at 2,050 metres, and Valtournenche lower down at 1,520 metres"><defs><linearGradient id="v8sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v8body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v8m1"><path d="M60,356 C114,283 186,180.8 201,87.4 L210,64 L219,81.5 C234,169.1 300,268.4 360,356 Z"/></clipPath><clipPath id="v8m2"><path d="M320,356 C368,227.8 400,148.3 456,144.3 Q520,136.3 592,144.3 C640,148.3 672,232 720,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v8sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v8body)" d="M60,356 C114,283 186,180.8 201,87.4 L210,64 L219,81.5 C234,169.1 300,268.4 360,356 Z"/>
+<g clip-path="url(#v8m1)">
+<path class="v-snow" d="M30,24 L390,24 L390,142.2 Q370,150.2 350,122.2 Q330,146.2 310,138.2 Q290,146.2 270,126.2 Q250,146.2 230,138.2 Q210,146.2 190,122.2 Q170,150.2 150,142.2 Q130,150.2 110,122.2 Q90,146.2 70,138.2 Q50,146.2 30,126.2 Z"/>
+<path class="v-shade" d="M210,24 C228,151.6 216,268.4 246,366 L510,366 L510,24 Z"/>
+</g>
+<path fill="url(#v8body)" d="M320,356 C368,227.8 400,148.3 456,144.3 Q520,136.3 592,144.3 C640,148.3 672,232 720,356 Z"/>
+<g clip-path="url(#v8m2)">
+<path class="v-snow" d="M280,102.3 L760,102.3 L760,220.4 Q733.3,228.4 706.7,200.4 Q680,224.4 653.3,216.4 Q626.7,224.4 600,204.4 Q573.3,224.4 546.7,216.4 Q520,224.4 493.3,200.4 Q466.7,228.4 440,220.4 Q413.3,228.4 386.7,200.4 Q360,224.4 333.3,216.4 Q306.7,224.4 280,204.4 Z"/>
+<path class="v-tree" d="M336,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M357.6,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M379.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M400.9,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M422.6,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M444.2,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M465.9,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M487.5,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M552.5,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M574.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M595.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M617.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M639.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M660.7,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M682.4,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M704,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M455,163.6 C473,198.2 359.5,212.8 377.5,232.8 S318,272 300,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M455,163.6 C473,198.2 359.5,212.8 377.5,232.8 S318,272 300,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M481,169.6 C505,202.7 410.5,215.8 434.5,235.8 S412,272 388,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M481,169.6 C505,202.7 410.5,215.8 434.5,235.8 S412,272 388,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M507,163.6 C537,198.2 461.5,212.8 491.5,232.8 S506,272 476,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M507,163.6 C537,198.2 461.5,212.8 491.5,232.8 S506,272 476,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M533,169.6 C551,202.7 530.5,215.8 548.5,235.8 S582,272 564,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M533,169.6 C551,202.7 530.5,215.8 548.5,235.8 S582,272 564,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M559,163.6 C583,198.2 581.5,212.8 605.5,232.8 S676,272 652,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M559,163.6 C583,198.2 581.5,212.8 605.5,232.8 S676,272 652,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M585,169.6 C615,202.7 632.5,215.8 662.5,235.8 S770,272 740,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M585,169.6 C615,202.7 632.5,215.8 662.5,235.8 S770,272 740,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M520,102.3 C544,206.4 528,291.9 568,366 L920,366 L920,102.3 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="424" y1="254.4" x2="470" y2="214.8"/>
+<line class="v-pylon" x1="437.8" y1="242.5" x2="437.8" y2="254.5"/>
+<line class="v-pylon" x1="452.5" y1="229.9" x2="452.5" y2="241.9"/>
+<rect class="v-cabin" x="440.7" y="237.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="470" y1="214.8" x2="540" y2="143.1"/>
+<line class="v-pylon" x1="491" y1="193.3" x2="491" y2="205.3"/>
+<line class="v-pylon" x1="513.4" y1="170.3" x2="513.4" y2="182.3"/>
+<rect class="v-cabin" x="497.7" y="182.8" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="380" cy="258.4" rx="58" ry="5"/>
+<path class="v-wall" d="M336,257.4 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M333.5,245.4 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="342" y="249.4" width="4" height="4"/>
+<path class="v-wall" d="M357,257.4 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M354.5,241.4 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="365" y="245.4" width="4" height="4"/>
+<path class="v-wall" d="M382,257.4 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M379.5,246.4 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="387" y="250.4" width="4" height="4"/>
+<path class="v-wall" d="M396.5,257.4 v-34 h8 v34 Z"/><path class="v-roof" d="M396,224.4 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M401,257.4 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M398.5,243.4 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="408" y="247.4" width="4" height="4"/>
+<ellipse class="v-ground" cx="650" cy="300" rx="46.5" ry="5"/>
+<path class="v-wall" d="M617.5,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M615,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="623.5" y="291" width="4" height="4"/>
+<path class="v-wall" d="M638.5,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M636,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="646.5" y="287" width="4" height="4"/>
+<path class="v-wall" d="M663.5,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M661,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="668.5" y="292" width="4" height="4"/>
+<g class="v-pill"><rect x="106" y="18" width="208" height="30" rx="15"/><text x="210" y="38" text-anchor="middle"><tspan class="v-pn">Matterhorn</tspan> · 4,478 m</text></g>
+<g class="v-pill"><rect x="447.3" y="96.3" width="225.4" height="30" rx="15"/><text x="560" y="116.3" text-anchor="middle"><tspan class="v-pn">Plateau Rosa</tspan> · 3,480 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="214.2" y="340" width="251.5" height="30" rx="15"/><text x="340" y="360" text-anchor="middle"><tspan class="v-pn">Breuil-Cervinia</tspan> · 2,050 m</text></g>
+<g class="v-pill"><rect x="477.9" y="340" width="234.1" height="30" rx="15"/><text x="594.9" y="360" text-anchor="middle"><tspan class="v-pn">Valtournenche</tspan> · 1,520 m</text></g>
 </svg>
 <figcaption>The village sits under the Matterhorn. Lifts climb through Plan Maison to the Plateau Rosa glacier on the Swiss border, and Valtournenche is further down the valley.</figcaption>
 </figure>

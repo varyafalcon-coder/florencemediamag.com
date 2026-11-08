@@ -66,39 +66,81 @@ One round summit with long runs down every side, almost no queues, and a train s
 ## One mountain, every side
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Plan de Corones: one round mountain at 2,275 metres with the museums on the summit and gondolas up every side, Brunico below at 835 metres and the railway at its foot"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,173.6 150,124 330,157 560,107.5 720,140.5 720,340 Z"/>
-<path class="v-mtn" d="M60,340 C168,68 252,62 360,62 C468,62 552,68 660,340 Z"/>
-<path class="v-snow" d="M264,71 C312,62 408,62 456,71 Q360,77 264,71 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="195" y1="300" x2="330" y2="67.8"/><rect class="v-cabin" x="251.2" y="196.5" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="560" y1="300" x2="400" y2="67.8"/><rect class="v-cabin" x="483.5" y="196.5" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="650" y1="300" x2="420" y2="74.4"/><rect class="v-cabin" x="542" y="199.5" width="9" height="11" rx="2"/>
-<path class="v-museum" d="M343,64 l6,-14 h22 l6,14 Z"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M230,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M260,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M470,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M500,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M690,302 l9,-22 l9,22 Z"/>
-<path class="v-wall" d="M68.5,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M65.5,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M42.5,302 v-30 h4 v4 h4 v-4 h4 v4 h4 v-4 h4 v30 Z"/>
-<path class="v-wall" d="M92.5,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M89.5,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M120.5,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M117.5,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M137.5,302 v-40 h9 v40 Z"/><path class="v-roof" d="M136.5,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M142.5,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M139.5,285 l13,-12 l13,12 Z"/>
-<path class="v-wall" d="M168.5,302 v-15 h17 v15 Z"/>
-<path class="v-roof" d="M165.5,288 l11.5,-12 l11.5,12 Z"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Plan de Corones: one round mountain at 2,275 metres with the museums on the summit, runs and gondolas on every side, Brunico below at 835 metres and the railway at its foot"><defs><linearGradient id="v11sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v11body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v11m1"><path d="M60,356 C146.8,93.2 246,64 370,64 C494,64 593.2,93.2 680,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v11sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path class="v-far" d="M0,356 L0,172.8 Q75,106.4 150,124.4 Q240,106.4 330,156.6 Q445,90.3 560,108.3 Q640,90.3 720,140.5 L720,356 Z"/>
+<path fill="url(#v11body)" d="M60,356 C146.8,93.2 246,64 370,64 C494,64 593.2,93.2 680,356 Z"/>
+<g clip-path="url(#v11m1)">
+<path class="v-snow" d="M-2,24 L742,24 L742,165.6 Q700.7,173.6 659.3,145.6 Q618,169.6 576.7,161.6 Q535.3,169.6 494,149.6 Q452.7,169.6 411.3,161.6 Q370,169.6 328.7,145.6 Q287.3,173.6 246,165.6 Q204.7,173.6 163.3,145.6 Q122,169.6 80.7,161.6 Q39.3,169.6 -2,149.6 Z"/>
+<path class="v-tree" d="M84.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M105.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M127.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M148.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M169.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M190.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M211.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M232.7,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M253.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M274.9,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M296.1,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M317.2,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M422.8,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M443.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M465.1,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M486.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M507.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M528.4,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M549.6,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M570.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M591.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M612.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M634.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M655.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M292,93.2 C310,145.4 108.4,177.6 126.4,197.6 S-21.2,272 -39.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M292,93.2 C310,145.4 108.4,177.6 126.4,197.6 S-21.2,272 -39.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M318,99.2 C342,149.9 183.6,180.6 207.6,200.6 S121.2,272 97.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M318,99.2 C342,149.9 183.6,180.6 207.6,200.6 S121.2,272 97.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M344,93.2 C374,145.4 258.8,177.6 288.8,197.6 S263.6,272 233.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M344,93.2 C374,145.4 258.8,177.6 288.8,197.6 S263.6,272 233.6,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M370,99.2 C388,149.9 352,180.6 370,200.6 S388,272 370,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M370,99.2 C388,149.9 352,180.6 370,200.6 S388,272 370,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M396,93.2 C420,145.4 427.2,177.6 451.2,197.6 S530.4,272 506.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M396,93.2 C420,145.4 427.2,177.6 451.2,197.6 S530.4,272 506.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M422,99.2 C452,149.9 502.4,180.6 532.4,200.6 S672.8,272 642.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M422,99.2 C452,149.9 502.4,180.6 532.4,200.6 S672.8,272 642.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M448,93.2 C466,145.4 595.6,177.6 613.6,197.6 S797.2,272 779.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M448,93.2 C466,145.4 595.6,177.6 613.6,197.6 S797.2,272 779.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M370,24 C407.2,151.6 382.4,268.4 444.4,366 L990,366 L990,24 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="200" y1="296" x2="340" y2="69.6"/>
+<line class="v-pylon" x1="242" y1="228.1" x2="242" y2="240.1"/>
+<line class="v-pylon" x1="286.8" y1="155.7" x2="286.8" y2="167.7"/>
+<rect class="v-cabin" x="259.9" y="192.9" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="560" y1="296" x2="400" y2="69.6"/>
+<line class="v-pylon" x1="512" y1="228.1" x2="512" y2="240.1"/>
+<line class="v-pylon" x1="460.8" y1="155.7" x2="460.8" y2="167.7"/>
+<rect class="v-cabin" x="481.9" y="192.9" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="650" y1="296" x2="420" y2="74.5"/>
+<line class="v-pylon" x1="581" y1="229.5" x2="581" y2="241.5"/>
+<line class="v-pylon" x1="507.4" y1="158.7" x2="507.4" y2="170.7"/>
+<rect class="v-cabin" x="539.7" y="195.1" width="9" height="10" rx="2"/>
+<path class="v-museum" d="M353,67 l6,-14 h22 l6,14 Z"/>
+<ellipse class="v-ground" cx="120" cy="300" rx="68" ry="5"/>
+<path class="v-wall" d="M66,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M63.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="72" y="291" width="4" height="4"/>
+<path class="v-wall" d="M42,299 v-26 h3.5 v4 h3.5 v-4 h3.5 v4 h3.5 v-4 h3.5 v26 Z"/>
+<path class="v-wall" d="M87,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M84.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="95" y="287" width="4" height="4"/>
+<path class="v-wall" d="M112,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M109.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="117" y="292" width="4" height="4"/>
+<path class="v-wall" d="M126.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M126,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M131,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M128.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="138" y="289" width="4" height="4"/>
+<path class="v-wall" d="M154,299 v-13 h15 v13 Z"/>
+<path class="v-roof" d="M151.5,287 l10,-10 l10,10 Z"/>
+<rect class="v-win" x="159.5" y="291" width="4" height="4"/>
 <path class="v-road" d="M30,322 Q360,312 690,322"/>
 <g class="v-train"><rect x="420" y="330" width="80" height="13" rx="3"/><rect x="503" y="330" width="60" height="13" rx="3"/><line x1="380" y1="346" x2="620" y2="346"/></g>
-<g class="v-pill"><rect x="229.9" y="8" width="260.2" height="30" rx="15"/><text x="360" y="28" text-anchor="middle"><tspan class="v-pn">Summit</tspan> · 2,275 m · museums</text></g>
-<g class="v-pill v-pill-blue"><rect x="47.8" y="230" width="164.5" height="30" rx="15"/><text x="130" y="250" text-anchor="middle"><tspan class="v-pn">Brunico</tspan> · 835 m</text></g>
-<g class="v-pill"><rect x="438.6" y="352" width="242.8" height="30" rx="15"/><text x="560" y="372" text-anchor="middle"><tspan class="v-pn">trains stop at the lifts</tspan></text></g>
+<g class="v-pill"><rect x="239.9" y="8" width="260.2" height="30" rx="15"/><text x="370" y="28" text-anchor="middle"><tspan class="v-pn">Summit</tspan> · 2,275 m · museums</text></g>
+<g class="v-pill v-pill-blue"><rect x="37.8" y="222" width="164.5" height="30" rx="15"/><text x="120" y="242" text-anchor="middle"><tspan class="v-pn">Brunico</tspan> · 835 m</text></g>
+<g class="v-pill"><rect x="128.6" y="340" width="242.8" height="30" rx="15"/><text x="250" y="360" text-anchor="middle"><tspan class="v-pn">Trains stop at the lifts</tspan></text></g>
 </svg>
 <figcaption>Lifts go up every side of the round summit, where the museums are. Brunico lies below, and the trains stop at the bottom stations.</figcaption>
 </figure>

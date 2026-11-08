@@ -64,49 +64,100 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 ## The mountain and the pass
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes, the village on the pass at 1,388 metres with lifts in the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,140 120,91.3 260,110.8 420,81.5 560,101 720,77.6 720,340 Z"/>
-<path class="v-mtn" d="M200,340 200,140 300,155.6 380,161.9 460,155.6 560,140 560,340 Z"/>
-<path class="v-mtn" d="M35,340 C94.4,68 140.6,62 200,62 C259.4,62 305.6,68 365,340 Z"/>
-<path class="v-mtn" d="M395,340 C454.4,77.8 500.6,71.8 560,71.8 C619.4,71.8 665.6,77.8 725,340 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="322" y1="161.9" x2="210" y2="64"/><rect class="v-cabin" x="267.1" y="118.8" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="438" y1="161.9" x2="550" y2="73.7"/><rect class="v-cabin" x="483.9" y="123.2" width="9" height="11" rx="2"/>
-<path class="v-tree" d="M60,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M90,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M120,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M150,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M330,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M360,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M400,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M430,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M600,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M630,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M660,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M690,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M200,149.8 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M225,149.8 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M250,149.8 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M470,149.8 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M500,149.8 l9,-22 l9,22 Z"/>
-<path class="v-wall" d="M330,163.9 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M327,148.9 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M354,163.9 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M351,144.9 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M382,163.9 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M379,150.9 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M399,163.9 v-40 h9 v40 Z"/><path class="v-roof" d="M398,124.9 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M404,163.9 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M401,146.9 l13,-12 l13,12 Z"/>
-<path class="v-wall" d="M73,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M70,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M97,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M94,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M125,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M122,289 l11,-12 l11,12 Z"/>
-<g class="v-pill"><rect x="56.9" y="18" width="286.3" height="30" rx="15"/><text x="200" y="38" text-anchor="middle"><tspan class="v-pn">The top lifts</tspan> · about 1,900 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="289.1" y="79.9" width="181.9" height="30" rx="15"/><text x="380" y="99.9" text-anchor="middle"><tspan class="v-pn">Abetone</tspan> · 1,388 m</text></g>
-<g class="v-pill"><rect x="14.7" y="336" width="190.6" height="30" rx="15"/><text x="110" y="356" text-anchor="middle"><tspan class="v-pn">Cutigliano</tspan> · 680 m</text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes on both sides of the pass, the village on the pass at 1,388 metres with lifts from the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="v1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v1body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v1m1"><path d="M230,356 C272,180.8 320,161.4 380,161.4 C440,161.4 488,180.8 530,356 Z"/></clipPath><clipPath id="v1m2"><path d="M20,356 C67.6,93.2 122,64 190,64 C258,64 312.4,93.2 360,356 Z"/></clipPath><clipPath id="v1m3"><path d="M410,356 C454.8,101.8 506,73.5 570,73.5 C634,73.5 685.2,101.8 730,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v1sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path class="v-far" d="M0,356 L0,159.1 Q80,93.5 160,111.5 Q260,93.5 360,140.1 Q450,84 540,102 Q630,84 720,130.6 L720,356 Z"/>
+<path fill="url(#v1body)" d="M230,356 C272,180.8 320,161.4 380,161.4 C440,161.4 488,180.8 530,356 Z"/>
+<g clip-path="url(#v1m1)">
+<path class="v-snow" d="M200,121.4 L560,121.4 L560,214.3 Q540,222.3 520,194.3 Q500,218.3 480,210.3 Q460,218.3 440,198.3 Q420,218.3 400,210.3 Q380,218.3 360,194.3 Q340,222.3 320,214.3 Q300,222.3 280,194.3 Q260,218.3 240,210.3 Q220,218.3 200,198.3 Z"/>
+<path class="v-tree" d="M242,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M265,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M288,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M311,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M334,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M426,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M449,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M472,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M495,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M518,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-shade" d="M380,121.4 C398,219.8 386,297.6 416,366 L680,366 L680,121.4 Z"/>
+</g>
+<path fill="url(#v1body)" d="M20,356 C67.6,93.2 122,64 190,64 C258,64 312.4,93.2 360,356 Z"/>
+<g clip-path="url(#v1m2)">
+<path class="v-snow" d="M-14,24 L394,24 L394,142.2 Q371.3,150.2 348.7,122.2 Q326,146.2 303.3,138.2 Q280.7,146.2 258,126.2 Q235.3,146.2 212.7,138.2 Q190,146.2 167.3,122.2 Q144.7,150.2 122,142.2 Q99.3,150.2 76.7,122.2 Q54,146.2 31.3,138.2 Q8.7,146.2 -14,126.2 Z"/>
+<path class="v-tree" d="M33.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M55.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M78.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M100.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M123,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M145.3,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M234.7,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M257,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M279.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M301.7,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M324.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M346.4,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M151,93.2 C169,145.4 96.4,177.6 114.4,197.6 S95.8,272 77.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M151,93.2 C169,145.4 96.4,177.6 114.4,197.6 S95.8,272 77.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M177,99.2 C201,149.9 140.8,180.6 164.8,200.6 S176.6,272 152.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M177,99.2 C201,149.9 140.8,180.6 164.8,200.6 S176.6,272 152.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M203,93.2 C233,145.4 185.2,177.6 215.2,197.6 S257.4,272 227.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M203,93.2 C233,145.4 185.2,177.6 215.2,197.6 S257.4,272 227.4,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M229,99.2 C247,149.9 247.6,180.6 265.6,200.6 S320.2,272 302.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M229,99.2 C247,149.9 247.6,180.6 265.6,200.6 S320.2,272 302.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M190,24 C210.4,151.6 196.8,268.4 230.8,366 L530,366 L530,24 Z"/>
+</g>
+<path fill="url(#v1body)" d="M410,356 C454.8,101.8 506,73.5 570,73.5 C634,73.5 685.2,101.8 730,356 Z"/>
+<g clip-path="url(#v1m3)">
+<path class="v-snow" d="M378,33.5 L762,33.5 L762,149.7 Q740.7,157.7 719.3,129.7 Q698,153.7 676.7,145.7 Q655.3,153.7 634,133.7 Q612.7,153.7 591.3,145.7 Q570,153.7 548.7,129.7 Q527.3,157.7 506,149.7 Q484.7,157.7 463.3,129.7 Q442,153.7 420.7,145.7 Q399.3,153.7 378,133.7 Z"/>
+<path class="v-tree" d="M422.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M445.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M468.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M490.7,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M513.4,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M536,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M604,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M626.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M649.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M671.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M694.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M717.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path d="M544,101.8 C562,151.8 503.8,181.9 521.8,201.9 S517.6,272 499.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M544,101.8 C562,151.8 503.8,181.9 521.8,201.9 S517.6,272 499.6,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M570,107.8 C594,156.3 546,184.9 570,204.9 S594,272 570,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M570,107.8 C594,156.3 546,184.9 570,204.9 S594,272 570,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M596,101.8 C626,151.8 588.2,181.9 618.2,201.9 S670.4,272 640.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M596,101.8 C626,151.8 588.2,181.9 618.2,201.9 S670.4,272 640.4,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M570,33.5 C589.2,158.3 576.4,271.3 608.4,366 L890,366 L890,33.5 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="328" y1="161.4" x2="200" y2="67.8"/>
+<line class="v-pylon" x1="289.6" y1="133.3" x2="289.6" y2="145.3"/>
+<line class="v-pylon" x1="248.6" y1="103.4" x2="248.6" y2="115.4"/>
+<rect class="v-cabin" x="264.6" y="119.3" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="432" y1="161.4" x2="560" y2="77.3"/>
+<line class="v-pylon" x1="470.4" y1="136.1" x2="470.4" y2="148.1"/>
+<line class="v-pylon" x1="511.4" y1="109.3" x2="511.4" y2="121.3"/>
+<rect class="v-cabin" x="486.4" y="123.7" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="380" cy="165.4" rx="58" ry="5"/>
+<path class="v-wall" d="M336,164.4 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M333.5,152.4 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="342" y="156.4" width="4" height="4"/>
+<path class="v-wall" d="M357,164.4 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M354.5,148.4 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="365" y="152.4" width="4" height="4"/>
+<path class="v-wall" d="M382,164.4 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M379.5,153.4 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="387" y="157.4" width="4" height="4"/>
+<path class="v-wall" d="M396.5,164.4 v-34 h8 v34 Z"/><path class="v-roof" d="M396,131.4 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M401,164.4 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M398.5,150.4 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="408" y="154.4" width="4" height="4"/>
+<ellipse class="v-ground" cx="110" cy="300" rx="46.5" ry="5"/>
+<path class="v-wall" d="M77.5,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M75,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="83.5" y="291" width="4" height="4"/>
+<path class="v-wall" d="M98.5,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M96,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="106.5" y="287" width="4" height="4"/>
+<path class="v-wall" d="M123.5,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M121,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="128.5" y="292" width="4" height="4"/>
+<g class="v-pill"><rect x="46.9" y="18" width="286.3" height="30" rx="15"/><text x="190" y="38" text-anchor="middle"><tspan class="v-pn">The top lifts</tspan> · about 1,900 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="289.1" y="77.4" width="181.9" height="30" rx="15"/><text x="380" y="97.4" text-anchor="middle"><tspan class="v-pn">Abetone</tspan> · 1,388 m</text></g>
+<g class="v-pill"><rect x="14.7" y="340" width="190.6" height="30" rx="15"/><text x="110" y="360" text-anchor="middle"><tspan class="v-pn">Cutigliano</tspan> · 680 m</text></g>
 </svg>
 <figcaption>The village sits on the pass, with lifts up both sides from the square. Cutigliano and the best dinners are fifteen minutes below.</figcaption>
 </figure>

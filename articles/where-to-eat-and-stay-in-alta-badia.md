@@ -66,41 +66,102 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 ## Under the Sassongher and the Sella
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Alta Badia: the Sassongher above Corvara, the Sella massif on the left, the rolling slopes of Piz La Ila and Pralongià, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-mtn" d="M0,340 41.6,113.1 67.6,44.5 98.8,40.5 182,40.5 208,46.5 234,118.3 260,340 Z"/>
-<path class="v-mtn" d="M245,340 285.8,191 313,121.2 330,82 350.4,129.9 367.4,147.4 415,340 Z"/>
-<path class="v-snow" d="M330,82 313,118 322.4,110 328.3,118 335.9,107.9 348.7,118.7 Z"/>
-<path class="v-mtn" d="M400,340 400,287.6 480,185.8 560,192.3 640,172.9 720,234.7 720,340 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="302" y1="275.6" x2="330" y2="102.3"/><rect class="v-cabin" x="310.1" y="198.6" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="520" y1="300" x2="480" y2="185.8"/><rect class="v-cabin" x="497.5" y="249.6" width="9" height="11" rx="2"/>
-<path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M440,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M600,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M690,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M200,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M197,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M224,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M221,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M252,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M249,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M269,302 v-40 h9 v40 Z"/><path class="v-roof" d="M268,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M274,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M271,285 l13,-12 l13,12 Z"/>
-<path class="v-wall" d="M523,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M520,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M547,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M544,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M570,302 v-40 h9 v40 Z"/><path class="v-roof" d="M569,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M575,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M572,289 l11,-12 l11,12 Z"/>
-<g class="v-pill"><rect x="34.7" y="8" width="190.6" height="30" rx="15"/><text x="130" y="28" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
-<g class="v-pill"><rect x="226" y="38" width="208" height="30" rx="15"/><text x="330" y="58" text-anchor="middle"><tspan class="v-pn">Sassongher</tspan> · 2,665 m</text></g>
-<g class="v-pill"><rect x="447.3" y="128.9" width="225.4" height="30" rx="15"/><text x="560" y="148.9" text-anchor="middle"><tspan class="v-pn">Piz La Ila</tspan> · Pralongià</text></g>
-<g class="v-pill v-pill-blue"><rect x="159.1" y="336" width="181.9" height="30" rx="15"/><text x="250" y="356" text-anchor="middle"><tspan class="v-pn">Corvara</tspan> · 1,568 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="442.9" y="336" width="234.1" height="30" rx="15"/><text x="560" y="356" text-anchor="middle"><tspan class="v-pn">La Villa · San Cassiano</tspan></text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Alta Badia: the Sella massif on the left, the Sassongher above Corvara, the rolling slopes of Piz La Ila and Pralongià with many runs, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="v9sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v9body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v9m1"><path d="M-10,356 C21.2,180.8 42,70 78.4,66 Q120,58 166.8,66 C198,70 218.8,186.6 250,356 Z"/></clipPath><clipPath id="v9m2"><path d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/></clipPath><clipPath id="v9m3"><path d="M380,356 C430.4,214.7 488,199 560,199 C632,199 689.6,214.7 740,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v9sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v9body)" d="M-10,356 C21.2,180.8 42,70 78.4,66 Q120,58 166.8,66 C198,70 218.8,186.6 250,356 Z"/>
+<g clip-path="url(#v9m1)">
+<path class="v-snow" d="M-36,24 L276,24 L276,118.9 Q258.7,126.9 241.3,98.9 Q224,122.9 206.7,114.9 Q189.3,122.9 172,102.9 Q154.7,122.9 137.3,114.9 Q120,122.9 102.7,98.9 Q85.3,126.9 68,118.9 Q50.7,126.9 33.3,98.9 Q16,122.9 -1.3,114.9 Q-18.7,122.9 -36,102.9 Z"/>
+<path class="v-rock" d="M39.4,124 L45.2,70 Q55.5,60 65.8,72 L71.6,124 Z"/>
+<path class="v-snow" d="M45.8,74 Q55.5,64 65.2,74 Q55.5,71 45.8,74 Z"/>
+<path class="v-rock" d="M71.6,144 L77.4,77 Q87.8,67 98.1,79 L103.9,144 Z"/>
+<path class="v-snow" d="M78.1,81 Q87.8,71 97.4,81 Q87.8,78 78.1,81 Z"/>
+<path class="v-rock" d="M103.9,124 L109.7,70 Q120,60 130.3,72 L136.1,124 Z"/>
+<path class="v-snow" d="M110.3,74 Q120,64 129.7,74 Q120,71 110.3,74 Z"/>
+<path class="v-rock" d="M136.1,140 L141.9,73 Q152.2,63 162.6,75 L168.4,140 Z"/>
+<path class="v-snow" d="M142.6,77 Q152.2,67 161.9,77 Q152.2,74 142.6,77 Z"/>
+<path class="v-rock" d="M168.4,134 L174.2,80 Q184.5,70 194.8,82 L200.6,134 Z"/>
+<path class="v-snow" d="M174.8,84 Q184.5,74 194.2,84 Q184.5,81 174.8,84 Z"/>
+<path class="v-shade" d="M120,24 C135.6,151.6 125.2,268.4 151.2,366 L380,366 L380,24 Z"/>
+</g>
+<path fill="url(#v9body)" d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/>
+<g clip-path="url(#v9m2)">
+<path class="v-snow" d="M204,89.6 L456,89.6 L456,211.5 Q442,219.5 428,191.5 Q414,215.5 400,207.5 Q386,215.5 372,195.5 Q358,215.5 344,207.5 Q330,215.5 316,191.5 Q302,219.5 288,211.5 Q274,219.5 260,191.5 Q246,215.5 232,207.5 Q218,215.5 204,195.5 Z"/>
+<path class="v-tree" d="M233.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M257.5,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M281.7,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M305.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M354.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M378.3,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M402.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M426.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M309,152.3 C327,189.7 278.4,207.1 296.4,227.1 S301.8,272 283.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M309,152.3 C327,189.7 278.4,207.1 296.4,227.1 S301.8,272 283.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M330,158.3 C354,194.2 306,210.1 330,230.1 S354,272 330,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M330,158.3 C354,194.2 306,210.1 330,230.1 S354,272 330,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M351,152.3 C381,189.7 333.6,207.1 363.6,227.1 S406.2,272 376.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M351,152.3 C381,189.7 333.6,207.1 363.6,227.1 S406.2,272 376.2,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M330,89.6 C342.6,197.5 334.2,288.1 355.2,366 L540,366 L540,89.6 Z"/>
+</g>
+<path fill="url(#v9body)" d="M380,356 C430.4,214.7 488,199 560,199 C632,199 689.6,214.7 740,356 Z"/>
+<g clip-path="url(#v9m3)">
+<path class="v-snow" d="M344,159 L776,159 L776,263.2 Q752,271.2 728,243.2 Q704,267.2 680,259.2 Q656,267.2 632,247.2 Q608,267.2 584,259.2 Q560,267.2 536,243.2 Q512,271.2 488,263.2 Q464,271.2 440,243.2 Q416,267.2 392,259.2 Q368,267.2 344,247.2 Z"/>
+<path class="v-tree" d="M394.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M416.5,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M438.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M460.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M482.7,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M504.8,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M526.9,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M593.1,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M615.2,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M637.3,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M659.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M681.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M703.5,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M725.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M495,214.7 C513,236.5 410.5,238.3 428.5,258.3 S380,272 362,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M495,214.7 C513,236.5 410.5,238.3 428.5,258.3 S380,272 362,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M521,220.7 C545,241 457.1,241.3 481.1,261.3 S465.2,272 441.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M521,220.7 C545,241 457.1,241.3 481.1,261.3 S465.2,272 441.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M547,214.7 C577,236.5 503.7,238.3 533.7,258.3 S550.4,272 520.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M547,214.7 C577,236.5 503.7,238.3 533.7,258.3 S550.4,272 520.4,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M573,220.7 C591,241 568.3,241.3 586.3,261.3 S617.6,272 599.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M573,220.7 C591,241 568.3,241.3 586.3,261.3 S617.6,272 599.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M599,214.7 C623,236.5 614.9,238.3 638.9,258.3 S702.8,272 678.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M599,214.7 C623,236.5 614.9,238.3 638.9,258.3 S702.8,272 678.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M625,220.7 C655,241 661.5,241.3 691.5,261.3 S788,272 758,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M625,220.7 C655,241 661.5,241.3 691.5,261.3 S788,272 758,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M560,159 C581.6,246.1 567.2,308.9 603.2,366 L920,366 L920,159 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="302" y1="277.4" x2="330" y2="138.4"/>
+<line class="v-pylon" x1="310.4" y1="235.7" x2="310.4" y2="247.7"/>
+<line class="v-pylon" x1="319.4" y1="191.2" x2="319.4" y2="203.2"/>
+<rect class="v-cabin" x="310.4" y="214.5" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="600" y1="296" x2="560" y2="201.7"/>
+<line class="v-pylon" x1="588" y1="267.7" x2="588" y2="279.7"/>
+<line class="v-pylon" x1="575.2" y1="237.5" x2="575.2" y2="249.5"/>
+<rect class="v-cabin" x="577.1" y="253.6" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="250" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M206,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M203.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="212" y="291" width="4" height="4"/>
+<path class="v-wall" d="M227,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M224.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="235" y="287" width="4" height="4"/>
+<path class="v-wall" d="M252,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M249.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="257" y="292" width="4" height="4"/>
+<path class="v-wall" d="M266.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M266,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M271,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M268.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="278" y="289" width="4" height="4"/>
+<ellipse class="v-ground" cx="560" cy="300" rx="46.5" ry="5"/>
+<path class="v-wall" d="M527.5,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M525,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="533.5" y="291" width="4" height="4"/>
+<path class="v-wall" d="M548.5,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M546,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="556.5" y="287" width="4" height="4"/>
+<path class="v-wall" d="M569,299 v-34 h8 v34 Z"/><path class="v-roof" d="M568.5,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M573.5,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M571,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="578.5" y="292" width="4" height="4"/>
+<g class="v-pill"><rect x="24.7" y="18" width="190.6" height="30" rx="15"/><text x="120" y="38" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
+<g class="v-pill"><rect x="226" y="83.6" width="208" height="30" rx="15"/><text x="330" y="103.6" text-anchor="middle"><tspan class="v-pn">Sassongher</tspan> · 2,665 m</text></g>
+<g class="v-pill"><rect x="447.3" y="153" width="225.4" height="30" rx="15"/><text x="560" y="173" text-anchor="middle"><tspan class="v-pn">Piz La Ila</tspan> · Pralongià</text></g>
+<g class="v-pill v-pill-blue"><rect x="159.1" y="340" width="181.9" height="30" rx="15"/><text x="250" y="360" text-anchor="middle"><tspan class="v-pn">Corvara</tspan> · 1,568 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="442.9" y="340" width="234.1" height="30" rx="15"/><text x="560" y="360" text-anchor="middle"><tspan class="v-pn">La Villa · San Cassiano</tspan></text></g>
 </svg>
 <figcaption>Corvara lies under the Sassongher with the Sella beside it; La Villa and San Cassiano are lower down, under the rolling slopes of Piz La Ila and Pralongià.</figcaption>
 </figure>

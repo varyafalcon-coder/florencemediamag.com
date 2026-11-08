@@ -68,39 +68,75 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 ## From the glacier to the village
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale at 1,880 metres below it, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,164.9 150,126.3 330,145.6 520,100.6 720,113.5 720,340 Z"/>
-<path class="v-mtn" d="M230,340 230,285.8 320,229.2 400,206.1 470,203.5 540,152.1 540,340 Z"/>
-<path class="v-mtn" d="M440,340 484.8,128.6 512.8,66 546.4,62 636,62 664,68 692,133.4 720,340 Z"/>
-<path class="v-snow" d="M512.8,66 546.4,62 636,62 664,68 652.8,82 608,76 568.8,84 524,78 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="462" y1="204.8" x2="570" y2="62"/><rect class="v-cabin" x="506.1" y="141.5" width="9" height="11" rx="2"/>
-<path class="v-wall" d="M383,207.4 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M380,192.4 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M407,207.4 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M404,188.4 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M435,207.4 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M432,194.4 l11,-12 l11,12 Z"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M230,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M650,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M680,302 l9,-22 l9,22 Z"/>
-<path class="v-wall" d="M100,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M97,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M124,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M121,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M152,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M149,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M169,302 v-40 h9 v40 Z"/><path class="v-roof" d="M168,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M174,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M171,285 l13,-12 l13,12 Z"/>
-<path class="v-run" d="M560,68.4 L500,152.1 L400,203.5 L300,242.1 L200,284.6"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale below it at 1,880 metres with its runs, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="v6sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v6body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v6m1"><path d="M430,356 C466,180.8 490,70 532,66 Q580,58 634,66 C670,70 694,186.6 730,356 Z"/></clipPath><clipPath id="v6m2"><path d="M205,356 C251.2,219.6 304,204.5 370,204.5 C436,204.5 488.8,219.6 535,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v6sky)"/>
+<path class="v-far" d="M0,356 L0,164.3 Q80,108.7 160,126.7 Q245,108.7 330,145.5 Q415,83.6 500,101.6 Q610,83.6 720,114.2 L720,356 Z"/>
+<path fill="url(#v6body)" d="M430,356 C466,180.8 490,70 532,66 Q580,58 634,66 C670,70 694,186.6 730,356 Z"/>
+<g clip-path="url(#v6m1)">
+<path class="v-snow" d="M400,24 L760,24 L760,189 Q740,197 720,169 Q700,193 680,185 Q660,193 640,173 Q620,193 600,185 Q580,193 560,169 Q540,197 520,189 Q500,197 480,169 Q460,193 440,185 Q420,193 400,173 Z"/>
+<path d="M541,93.2 C559,145.4 493,177.6 511,197.6 S499,272 481,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M541,93.2 C559,145.4 493,177.6 511,197.6 S499,272 481,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M567,99.2 C591,149.9 533,180.6 557,200.6 S571,272 547,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M567,99.2 C591,149.9 533,180.6 557,200.6 S571,272 547,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M593,93.2 C623,145.4 573,177.6 603,197.6 S643,272 613,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M593,93.2 C623,145.4 573,177.6 603,197.6 S643,272 613,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M619,99.2 C637,149.9 631,180.6 649,200.6 S697,272 679,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M619,99.2 C637,149.9 631,180.6 649,200.6 S697,272 679,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M580,24 C598,151.6 586,268.4 616,366 L880,366 L880,24 Z"/>
+</g>
+<path fill="url(#v6body)" d="M205,356 C251.2,219.6 304,204.5 370,204.5 C436,204.5 488.8,219.6 535,356 Z"/>
+<g clip-path="url(#v6m2)">
+<path class="v-snow" d="M172,164.5 L568,164.5 L568,263.9 Q546,271.9 524,243.9 Q502,267.9 480,259.9 Q458,267.9 436,247.9 Q414,267.9 392,259.9 Q370,267.9 348,243.9 Q326,271.9 304,263.9 Q282,271.9 260,243.9 Q238,267.9 216,259.9 Q194,267.9 172,247.9 Z"/>
+<path class="v-tree" d="M218.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M239.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M261.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M283.3,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M304.9,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M326.6,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M413.4,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M435.1,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M456.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M478.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M500.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M521.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M318,219.6 C336,240.2 253.4,240.8 271.4,260.8 S242.8,272 224.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M318,219.6 C336,240.2 253.4,240.8 271.4,260.8 S242.8,272 224.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M344,225.6 C368,244.7 296.7,243.8 320.7,263.8 S321.4,272 297.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M344,225.6 C368,244.7 296.7,243.8 320.7,263.8 S321.4,272 297.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M370,219.6 C400,240.2 340,240.8 370,260.8 S400,272 370,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M370,219.6 C400,240.2 340,240.8 370,260.8 S400,272 370,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M396,225.6 C414,244.7 401.3,243.8 419.3,263.8 S460.6,272 442.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M396,225.6 C414,244.7 401.3,243.8 419.3,263.8 S460.6,272 442.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M422,219.6 C446,240.2 444.6,240.8 468.6,260.8 S539.2,272 515.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M422,219.6 C446,240.2 444.6,240.8 468.6,260.8 S539.2,272 515.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M370,164.5 C389.8,249.9 376.6,310.5 409.6,366 L700,366 L700,164.5 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="406" y1="203.8" x2="560" y2="65.3"/>
+<line class="v-pylon" x1="452.2" y1="162.3" x2="452.2" y2="174.3"/>
+<line class="v-pylon" x1="501.5" y1="117.9" x2="501.5" y2="129.9"/>
+<rect class="v-cabin" x="472.3" y="141.1" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="178" y1="282.2" x2="300" y2="214.5"/>
+<line class="v-pylon" x1="214.6" y1="261.9" x2="214.6" y2="273.9"/>
+<line class="v-pylon" x1="253.6" y1="240.2" x2="253.6" y2="252.2"/>
+<rect class="v-cabin" x="229.6" y="252.1" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="370" cy="208.5" rx="46.5" ry="5"/>
+<path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="343.5" y="199.5" width="4" height="4"/>
+<path class="v-wall" d="M358.5,207.5 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M356,191.5 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="366.5" y="195.5" width="4" height="4"/>
+<path class="v-wall" d="M383.5,207.5 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M381,196.5 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="388.5" y="200.5" width="4" height="4"/>
+<ellipse class="v-ground" cx="130" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M86,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M83.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="92" y="291" width="4" height="4"/>
+<path class="v-wall" d="M107,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M104.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="115" y="287" width="4" height="4"/>
+<path class="v-wall" d="M132,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M129.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="137" y="292" width="4" height="4"/>
+<path class="v-wall" d="M146.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M146,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M151,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M148.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="158" y="289" width="4" height="4"/>
 <g class="v-pill"><rect x="454.2" y="18" width="251.5" height="30" rx="15"/><text x="580" y="38" text-anchor="middle"><tspan class="v-pn">Presena glacier</tspan> · 3,000 m</text></g>
-<g class="v-pill"><rect x="269.9" y="142.1" width="260.2" height="30" rx="15"/><text x="400" y="162.1" text-anchor="middle"><tspan class="v-pn">Passo del Tonale</tspan> · 1,880 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="28.6" y="336" width="242.8" height="30" rx="15"/><text x="150" y="356" text-anchor="middle"><tspan class="v-pn">Ponte di Legno</tspan> · 1,260 m</text></g>
+<g class="v-pill"><rect x="199.9" y="140.5" width="260.2" height="30" rx="15"/><text x="330" y="160.5" text-anchor="middle"><tspan class="v-pn">Passo del Tonale</tspan> · 1,880 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="8.6" y="340" width="242.8" height="30" rx="15"/><text x="130" y="360" text-anchor="middle"><tspan class="v-pn">Ponte di Legno</tspan> · 1,260 m</text></g>
 </svg>
 <figcaption>The long run comes down from the Presena glacier past Passo del Tonale all the way to Ponte di Legno.</figcaption>
 </figure>

@@ -1023,3 +1023,17 @@ body:has(.trust) footer{margin-top:0}
 .article .tk-meta{display:none}
 .article .body .tripcards .tripkicker{white-space:normal}
 .article .body .tripcards p{display:block;-webkit-line-clamp:unset;overflow:visible}
+
+/* illustration v2 */
+.v-b1{stop-color:#3846d6}.v-b2{stop-color:#1b2bb8}
+.v-far{fill:#c3caf6}
+.v-mid{fill:#a3adef}
+.v-midsnow{fill:#eef0fd}
+.v-shade{fill:#0a1270;opacity:.28}
+.v-rock{fill:#6c76d8}
+.v-tree{fill:#0f1a86}
+.v-floorline{fill:none;stroke:#dfe3f8;stroke-width:10;stroke-linecap:round}
+.v-ground{fill:#e9ecf9}
+.v-win{fill:#f3c74b}
+.v-pylon{stroke:#0b0b0b;stroke-width:1.4;opacity:.5}
+@media (prefers-color-scheme:dark){.v-far{fill:#323b85}.v-mid{fill:#3d4799}.v-midsnow{fill:#c9cff4}.v-floor{fill:#cdd2ee}.v-floorline{stroke:#b9c0e6}.v-ground{fill:#b9c0e6}}

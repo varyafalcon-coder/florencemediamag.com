@@ -62,35 +62,69 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 ## Monte Cimone and its slopes
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Cimone: Monte Cimone at 2,165 metres with its weather station on top, the ski area on its slopes, and Sestola with its castle below at 1,020 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,200.2 160,158.7 330,169 500,137.9 720,169 720,340 Z"/>
-<path class="v-mtn" d="M140,340 C233.6,68 306.4,62 400,62 C493.6,62 566.4,68 660,340 Z"/>
-<path class="v-snow" d="M316.8,71 C358.4,62 441.6,62 483.2,71 Q400,77 316.8,71 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="532" y1="189.8" x2="430" y2="71.4"/><rect class="v-cabin" x="481.6" y="137.5" width="9" height="11" rx="2"/>
-<path class="v-wall" d="M393,64 v-12 h14 v12 Z"/><line class="v-cable" x1="400" y1="52" x2="400" y2="32"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M130,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M650,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M680,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M534,191.8 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M531,176.8 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M558,191.8 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M555,172.8 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M120,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M117,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M94,302 v-30 h4 v4 h4 v-4 h4 v4 h4 v-4 h4 v30 Z"/>
-<path class="v-wall" d="M144,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M141,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M172,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M169,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M194,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M191,285 l13,-12 l13,12 Z"/>
-<g class="v-pill"><rect x="287.3" y="8" width="225.4" height="30" rx="15"/><text x="400" y="28" text-anchor="middle"><tspan class="v-pn">Monte Cimone</tspan> · 2,165 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="451.8" y="123.8" width="260.2" height="30" rx="15"/><text x="581.9" y="143.8" text-anchor="middle"><tspan class="v-pn">Passo del Lupo</tspan> · the lifts</text></g>
-<g class="v-pill"><rect x="79.1" y="336" width="181.9" height="30" rx="15"/><text x="170" y="356" text-anchor="middle"><tspan class="v-pn">Sestola</tspan> · 1,020 m</text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Cimone: Monte Cimone at 2,165 metres with its weather station on top, runs on several sides, Passo del Lupo, and Sestola with its fortress below at 1,020 metres"><defs><linearGradient id="v3sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v3body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v3m1"><path d="M140,356 C215.6,93.2 302,64 410,64 C518,64 604.4,93.2 680,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v3sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path class="v-far" d="M0,356 L0,208.9 Q80,150.3 160,168.3 Q260,150.3 360,188.6 Q460,130.1 560,148.1 Q640,130.1 720,178.5 L720,356 Z"/>
+<path fill="url(#v3body)" d="M140,356 C215.6,93.2 302,64 410,64 C518,64 604.4,93.2 680,356 Z"/>
+<g clip-path="url(#v3m1)">
+<path class="v-snow" d="M86,24 L734,24 L734,171.4 Q698,179.4 662,151.4 Q626,175.4 590,167.4 Q554,175.4 518,155.4 Q482,175.4 446,167.4 Q410,175.4 374,151.4 Q338,179.4 302,171.4 Q266,179.4 230,151.4 Q194,175.4 158,167.4 Q122,175.4 86,155.4 Z"/>
+<path class="v-tree" d="M161.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M183.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M204.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M226.4,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M248,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M269.6,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M291.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M312.8,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M334.4,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M356,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M464,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M485.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M507.2,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M528.8,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M550.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M572,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M593.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M615.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M636.8,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M658.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path d="M345,93.2 C363,145.4 211,177.6 229,197.6 S131,272 113,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M345,93.2 C363,145.4 211,177.6 229,197.6 S131,272 113,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M371,99.2 C395,149.9 277.4,180.6 301.4,200.6 S255.8,272 231.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M371,99.2 C395,149.9 277.4,180.6 301.4,200.6 S255.8,272 231.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M397,93.2 C427,145.4 343.8,177.6 373.8,197.6 S380.6,272 350.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M397,93.2 C427,145.4 343.8,177.6 373.8,197.6 S380.6,272 350.6,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M423,99.2 C441,149.9 428.2,180.6 446.2,200.6 S487.4,272 469.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M423,99.2 C441,149.9 428.2,180.6 446.2,200.6 S487.4,272 469.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M449,93.2 C473,145.4 494.6,177.6 518.6,197.6 S612.2,272 588.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M449,93.2 C473,145.4 494.6,177.6 518.6,197.6 S612.2,272 588.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M475,99.2 C505,149.9 561,180.6 591,200.6 S737,272 707,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M475,99.2 C505,149.9 561,180.6 591,200.6 S737,272 707,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M410,24 C442.4,151.6 420.8,268.4 474.8,366 L950,366 L950,24 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="565" y1="188.6" x2="450" y2="73.1"/>
+<line class="v-pylon" x1="530.5" y1="154" x2="530.5" y2="166"/>
+<line class="v-pylon" x1="493.7" y1="117" x2="493.7" y2="129"/>
+<rect class="v-cabin" x="507.6" y="136.5" width="9" height="10" rx="2"/>
+<path class="v-wall" d="M403,67 v-12 h14 v12 Z"/><line class="v-cable" x1="410" y1="55" x2="410" y2="34"/>
+<ellipse class="v-ground" cx="590" cy="192.6" rx="37" ry="5"/>
+<path class="v-wall" d="M567,191.6 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M564.5,179.6 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="573" y="183.6" width="4" height="4"/>
+<path class="v-wall" d="M588,191.6 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M585.5,175.6 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="596" y="179.6" width="4" height="4"/>
+<ellipse class="v-ground" cx="150" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M106,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M103.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="112" y="291" width="4" height="4"/>
+<path class="v-wall" d="M82,299 v-26 h3.5 v4 h3.5 v-4 h3.5 v4 h3.5 v-4 h3.5 v26 Z"/>
+<path class="v-wall" d="M127,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M124.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="135" y="287" width="4" height="4"/>
+<path class="v-wall" d="M152,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M149.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="157" y="292" width="4" height="4"/>
+<path class="v-wall" d="M171,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M168.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="178" y="289" width="4" height="4"/>
+<g class="v-pill"><rect x="297.3" y="8" width="225.4" height="30" rx="15"/><text x="410" y="28" text-anchor="middle"><tspan class="v-pn">Monte Cimone</tspan> · 2,165 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="532.1" y="128.6" width="155.8" height="30" rx="15"/><text x="610" y="148.6" text-anchor="middle"><tspan class="v-pn">Passo del Lupo</tspan></text></g>
+<g class="v-pill"><rect x="59.1" y="340" width="181.9" height="30" rx="15"/><text x="150" y="360" text-anchor="middle"><tspan class="v-pn">Sestola</tspan> · 1,020 m</text></g>
 </svg>
 <figcaption>The weather station on the summit is visible from all five bases. Sestola, with its fortress, is the village below.</figcaption>
 </figure>

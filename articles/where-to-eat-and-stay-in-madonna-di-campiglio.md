@@ -64,34 +64,93 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 ## Between the Brenta and the Spinale
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts at 2,442 metres, the Spinale plateau at 2,100 metres, Pradalago at 2,100 metres on the left, and the village between them at 1,520 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-rockm" d="M460,340 486,152.1 489.9,82.5 499,78.5 520.2,96.5 529.3,83.5 550.6,110.5 559.7,88.5 580.9,82.5 590,72.5 611.2,96.5 620.3,83.5 641.6,110.5 650.7,88.5 671.9,82.5 681,78.5 694,152.1 720,340 Z"/>
-<path class="v-mtn" d="M300,340 332,239.9 352,220.5 376,216.5 440,216.5 460,222.5 480,241.5 500,340 Z"/>
-<path class="v-mtn" d="M-10,340 C40.4,222.5 79.6,216.5 130,216.5 C180.4,216.5 219.6,222.5 270,340 Z"/>
-<path class="v-snow" d="M85.2,225.5 C107.6,216.5 152.4,216.5 174.8,225.5 Q130,231.5 85.2,225.5 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="228" y1="300" x2="130" y2="216.5"/><rect class="v-cabin" x="179.4" y="263.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="342" y1="300" x2="400" y2="216.5"/><rect class="v-cabin" x="363.6" y="263.4" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="470" y1="274.1" x2="580" y2="167.2"/><rect class="v-cabin" x="515" y="227" width="9" height="11" rx="2"/>
-<path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M240,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M260,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M520,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M690,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M235,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M232,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M259,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M256,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M287,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M284,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M304,302 v-40 h9 v40 Z"/><path class="v-roof" d="M303,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M309,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M306,285 l13,-12 l13,12 Z"/>
-<g class="v-pill"><rect x="390.9" y="28.5" width="321.1" height="30" rx="15"/><text x="551.5" y="48.5" text-anchor="middle"><tspan class="v-pn">Brenta Dolomites</tspan> · Grostè 2,442 m</text></g>
-<g class="v-pill"><rect x="309.1" y="172.5" width="181.9" height="30" rx="15"/><text x="400" y="192.5" text-anchor="middle"><tspan class="v-pn">Spinale</tspan> · 2,100 m</text></g>
-<g class="v-pill"><rect x="30.4" y="172.5" width="199.3" height="30" rx="15"/><text x="130" y="192.5" text-anchor="middle"><tspan class="v-pn">Pradalago</tspan> · 2,100 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="137.5" y="336" width="295" height="30" rx="15"/><text x="285" y="356" text-anchor="middle"><tspan class="v-pn">Madonna di Campiglio</tspan> · 1,520 m</text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M450,356 C483.6,186.9 506,80.2 545.2,76.2 Q590,68.2 640.4,76.2 C674,80.2 696.4,192.6 730,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C337.2,228.7 374,214.6 420,214.6 C466,214.6 502.8,228.7 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C32,228.7 80,214.6 140,214.6 C200,214.6 248,228.7 290,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v5sky)"/>
+<path fill="url(#v5body)" d="M450,356 C483.6,186.9 506,80.2 545.2,76.2 Q590,68.2 640.4,76.2 C674,80.2 696.4,192.6 730,356 Z"/>
+<g clip-path="url(#v5m1)">
+<path class="v-snow" d="M422,34.2 L758,34.2 L758,122.1 Q739.3,130.1 720.7,102.1 Q702,126.1 683.3,118.1 Q664.7,126.1 646,106.1 Q627.3,126.1 608.7,118.1 Q590,126.1 571.3,102.1 Q552.7,130.1 534,122.1 Q515.3,130.1 496.7,102.1 Q478,126.1 459.3,118.1 Q440.7,126.1 422,106.1 Z"/>
+<path class="v-rock" d="M503.2,134.2 L507.7,80.2 Q515.6,70.2 523.5,82.2 L528,134.2 Z"/>
+<path class="v-snow" d="M508.2,84.2 Q515.6,74.2 523,84.2 Q515.6,81.2 508.2,84.2 Z"/>
+<path class="v-rock" d="M528,154.2 L532.5,87.2 Q540.4,77.2 548.3,89.2 L552.8,154.2 Z"/>
+<path class="v-snow" d="M533,91.2 Q540.4,81.2 547.8,91.2 Q540.4,88.2 533,91.2 Z"/>
+<path class="v-rock" d="M552.8,148.2 L557.3,94.2 Q565.2,84.2 573.1,96.2 L577.6,148.2 Z"/>
+<path class="v-snow" d="M557.8,98.2 Q565.2,88.2 572.6,98.2 Q565.2,95.2 557.8,98.2 Z"/>
+<path class="v-rock" d="M577.6,147.2 L582.1,80.2 Q590,70.2 597.9,82.2 L602.4,147.2 Z"/>
+<path class="v-snow" d="M582.6,84.2 Q590,74.2 597.4,84.2 Q590,81.2 582.6,84.2 Z"/>
+<path class="v-rock" d="M602.4,144.2 L606.9,90.2 Q614.8,80.2 622.7,92.2 L627.2,144.2 Z"/>
+<path class="v-snow" d="M607.4,94.2 Q614.8,84.2 622.2,94.2 Q614.8,91.2 607.4,94.2 Z"/>
+<path class="v-rock" d="M627.2,164.2 L631.7,97.2 Q639.6,87.2 647.5,99.2 L652,164.2 Z"/>
+<path class="v-snow" d="M632.2,101.2 Q639.6,91.2 647,101.2 Q639.6,98.2 632.2,101.2 Z"/>
+<path class="v-rock" d="M652,140.2 L656.5,86.2 Q664.4,76.2 672.3,88.2 L676.8,140.2 Z"/>
+<path class="v-snow" d="M657,90.2 Q664.4,80.2 671.8,90.2 Q664.4,87.2 657,90.2 Z"/>
+<path class="v-shade" d="M590,34.2 C606.8,158.8 595.6,271.5 623.6,366 L870,366 L870,34.2 Z"/>
+</g>
+<path fill="url(#v5body)" d="M305,356 C337.2,228.7 374,214.6 420,214.6 C466,214.6 502.8,228.7 535,356 Z"/>
+<g clip-path="url(#v5m2)">
+<path class="v-snow" d="M282,174.6 L558,174.6 L558,278.1 Q542.7,286.1 527.3,258.1 Q512,282.1 496.7,274.1 Q481.3,282.1 466,262.1 Q450.7,282.1 435.3,274.1 Q420,282.1 404.7,258.1 Q389.3,286.1 374,278.1 Q358.7,286.1 343.3,258.1 Q328,282.1 312.7,274.1 Q297.3,282.1 282,262.1 Z"/>
+<path class="v-tree" d="M314.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M337.7,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M361.2,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M384.7,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M455.3,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M478.8,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M502.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M525.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M385.5,228.7 C403.5,247.1 346.8,245.4 364.8,265.4 S362.1,272 344.1,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M385.5,228.7 C403.5,247.1 346.8,245.4 364.8,265.4 S362.1,272 344.1,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M408.5,234.7 C432.5,251.6 377.6,248.4 401.6,268.4 S418.7,272 394.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M408.5,234.7 C432.5,251.6 377.6,248.4 401.6,268.4 S418.7,272 394.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M431.5,228.7 C461.5,247.1 408.4,245.4 438.4,265.4 S475.3,272 445.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M431.5,228.7 C461.5,247.1 408.4,245.4 438.4,265.4 S475.3,272 445.3,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M454.5,234.7 C472.5,251.6 457.2,248.4 475.2,268.4 S513.9,272 495.9,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M454.5,234.7 C472.5,251.6 457.2,248.4 475.2,268.4 S513.9,272 495.9,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M420,174.6 C433.8,257 424.6,313.6 447.6,366 L650,366 L650,174.6 Z"/>
+</g>
+<path fill="url(#v5body)" d="M-10,356 C32,228.7 80,214.6 140,214.6 C200,214.6 248,228.7 290,356 Z"/>
+<g clip-path="url(#v5m3)">
+<path class="v-snow" d="M-40,174.6 L320,174.6 L320,278.1 Q300,286.1 280,258.1 Q260,282.1 240,274.1 Q220,282.1 200,262.1 Q180,282.1 160,274.1 Q140,282.1 120,258.1 Q100,286.1 80,278.1 Q60,286.1 40,258.1 Q20,282.1 0,274.1 Q-20,282.1 -40,262.1 Z"/>
+<path class="v-tree" d="M2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M25,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M48,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M71,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M94,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M186,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M209,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M232,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M255,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M278,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M101,228.7 C119,247.1 53,245.4 71,265.4 S59,272 41,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M101,228.7 C119,247.1 53,245.4 71,265.4 S59,272 41,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M127,234.7 C151,251.6 93,248.4 117,268.4 S131,272 107,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M127,234.7 C151,251.6 93,248.4 117,268.4 S131,272 107,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M153,228.7 C183,247.1 133,245.4 163,265.4 S203,272 173,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M153,228.7 C183,247.1 133,245.4 163,265.4 S203,272 173,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M179,234.7 C197,251.6 191,248.4 209,268.4 S257,272 239,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M179,234.7 C197,251.6 191,248.4 209,268.4 S257,272 239,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M140,174.6 C158,257 146,313.6 176,366 L440,366 L440,174.6 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="230" y1="296" x2="150" y2="216"/>
+<line class="v-pylon" x1="206" y1="272" x2="206" y2="284"/>
+<line class="v-pylon" x1="180.4" y1="246.4" x2="180.4" y2="258.4"/>
+<rect class="v-cabin" x="188.7" y="260.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="340" y1="296" x2="420" y2="216"/>
+<line class="v-pylon" x1="364" y1="272" x2="364" y2="284"/>
+<line class="v-pylon" x1="389.6" y1="246.4" x2="389.6" y2="258.4"/>
+<rect class="v-cabin" x="372.3" y="260.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="500" y1="262.3" x2="560" y2="166.6"/>
+<line class="v-pylon" x1="518" y1="233.6" x2="518" y2="245.6"/>
+<line class="v-pylon" x1="537.2" y1="203" x2="537.2" y2="215"/>
+<rect class="v-cabin" x="523.1" y="219.3" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="285" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M241,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M238.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="247" y="291" width="4" height="4"/>
+<path class="v-wall" d="M262,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M259.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="270" y="287" width="4" height="4"/>
+<path class="v-wall" d="M287,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M284.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="292" y="292" width="4" height="4"/>
+<path class="v-wall" d="M301.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M301,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M306,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M303.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="313" y="289" width="4" height="4"/>
+<g class="v-pill"><rect x="390.9" y="28.2" width="321.1" height="30" rx="15"/><text x="551.5" y="48.2" text-anchor="middle"><tspan class="v-pn">Brenta Dolomites</tspan> · Grostè 2,442 m</text></g>
+<g class="v-pill"><rect x="329.1" y="168.6" width="181.9" height="30" rx="15"/><text x="420" y="188.6" text-anchor="middle"><tspan class="v-pn">Spinale</tspan> · 2,100 m</text></g>
+<g class="v-pill"><rect x="40.4" y="168.6" width="199.3" height="30" rx="15"/><text x="140" y="188.6" text-anchor="middle"><tspan class="v-pn">Pradalago</tspan> · 2,100 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="137.5" y="340" width="295" height="30" rx="15"/><text x="285" y="360" text-anchor="middle"><tspan class="v-pn">Madonna di Campiglio</tspan> · 1,520 m</text></g>
 </svg>
 <figcaption>The village lies between Pradalago and the Spinale, with the jagged Brenta Dolomites and the Grostè lifts on the other side.</figcaption>
 </figure>

@@ -64,40 +64,107 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 ## The town and the mountains around it
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Cortina d'Ampezzo: the Tofane on the left, the Cinque Torri and Lagazuoi beyond, Faloria and Cristallo on the right, and the town with its bell tower in the bowl at 1,224 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-rockm" d="M0,340 30,145.3 30.3,72 45,68 82.8,86 97.5,73 135.3,100 150,62 187.8,72 202.5,68 240.3,86 255,73 270,145.3 300,340 Z"/>
-<path class="v-mtn" d="M245,340 267,182.1 333,182.1 355,340 Z"/>
-<path class="v-rock" d="M272.5,184.1 273.6,138.1 280.8,134.1 282.4,184.1 Z"/>
-<path class="v-rock" d="M283.5,184.1 284.6,150.1 291.8,146.1 293.4,184.1 Z"/>
-<path class="v-rock" d="M294.5,184.1 295.6,138.1 302.8,134.1 304.4,184.1 Z"/>
-<path class="v-rock" d="M305.5,184.1 306.6,150.1 313.8,146.1 315.4,184.1 Z"/>
-<path class="v-rock" d="M316.5,184.1 317.6,146.1 324.8,142.1 326.4,184.1 Z"/>
-<path class="v-mtn" d="M410,340 482,182.4 530,107.1 560,64.7 596,116.5 626,135.3 710,340 Z"/>
-<path class="v-snow" d="M560,64.7 530,100.7 546.5,92.8 557,100.7 570.5,90.6 593,101.4 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="322" y1="300" x2="160" y2="153.2"/><rect class="v-cabin" x="244.6" y="234.9" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="478" y1="300" x2="540" y2="173.2"/><rect class="v-cabin" x="501.4" y="244" width="9" height="11" rx="2"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M80,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M430,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M470,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M680,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-wall" d="M338.5,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M335.5,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M362.5,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M359.5,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M390.5,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M387.5,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M407.5,302 v-40 h9 v40 Z"/><path class="v-roof" d="M406.5,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M412.5,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M409.5,285 l13,-12 l13,12 Z"/>
-<path class="v-wall" d="M438.5,302 v-15 h17 v15 Z"/>
-<path class="v-roof" d="M435.5,288 l11.5,-12 l11.5,12 Z"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Cortina d'Ampezzo: the Tofane on the left, the Cinque Torri in the middle, Faloria and Cristallo on the right, runs on every side and the town with its bell tower in the bowl at 1,224 metres"><defs><linearGradient id="v7sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v7body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v7m1"><path d="M0,356 C36,180.8 60,70 102,66 Q150,58 204,66 C240,70 264,186.6 300,356 Z"/></clipPath><clipPath id="v7m2"><path d="M245,356 C268.8,184.5 296,165.4 330,165.4 C364,165.4 391.2,184.5 415,356 Z"/></clipPath><clipPath id="v7m3"><path d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v7sky)"/>
+<path fill="url(#v7body)" d="M0,356 C36,180.8 60,70 102,66 Q150,58 204,66 C240,70 264,186.6 300,356 Z"/>
+<g clip-path="url(#v7m1)">
+<path class="v-snow" d="M-30,24 L330,24 L330,130.6 Q310,138.6 290,110.6 Q270,134.6 250,126.6 Q230,134.6 210,114.6 Q190,134.6 170,126.6 Q150,134.6 130,110.6 Q110,138.6 90,130.6 Q70,138.6 50,110.6 Q30,134.6 10,126.6 Q-10,134.6 -30,114.6 Z"/>
+<path class="v-rock" d="M57,124 L63.7,70 Q75.6,60 87.5,72 L94.2,124 Z"/>
+<path class="v-snow" d="M64.4,74 Q75.6,64 86.8,74 Q75.6,71 64.4,74 Z"/>
+<path class="v-rock" d="M94.2,144 L100.9,77 Q112.8,67 124.7,79 L131.4,144 Z"/>
+<path class="v-snow" d="M101.6,81 Q112.8,71 124,81 Q112.8,78 101.6,81 Z"/>
+<path class="v-rock" d="M131.4,124 L138.1,70 Q150,60 161.9,72 L168.6,124 Z"/>
+<path class="v-snow" d="M138.8,74 Q150,64 161.2,74 Q150,71 138.8,74 Z"/>
+<path class="v-rock" d="M168.6,140 L175.3,73 Q187.2,63 199.1,75 L205.8,140 Z"/>
+<path class="v-snow" d="M176,77 Q187.2,67 198.4,77 Q187.2,74 176,77 Z"/>
+<path class="v-rock" d="M205.8,134 L212.5,80 Q224.4,70 236.3,82 L243,134 Z"/>
+<path class="v-snow" d="M213.2,84 Q224.4,74 235.6,84 Q224.4,81 213.2,84 Z"/>
+<path class="v-tree" d="M12,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M35,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M58,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M81,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M104,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M196,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M219,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M242,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M265,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M288,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M124,93.2 C142,145.4 86,177.6 104,197.6 S102,272 84,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M124,93.2 C142,145.4 86,177.6 104,197.6 S102,272 84,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M150,99.2 C174,149.9 126,180.6 150,200.6 S174,272 150,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M150,99.2 C174,149.9 126,180.6 150,200.6 S174,272 150,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M176,93.2 C206,145.4 166,177.6 196,197.6 S246,272 216,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M176,93.2 C206,145.4 166,177.6 196,197.6 S246,272 216,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M150,24 C168,151.6 156,268.4 186,366 L450,366 L450,24 Z"/>
+</g>
+<path fill="url(#v7body)" d="M245,356 C268.8,184.5 296,165.4 330,165.4 C364,165.4 391.2,184.5 415,356 Z"/>
+<g clip-path="url(#v7m2)">
+<path class="v-snow" d="M228,125.4 L432,125.4 L432,208 Q420.7,216 409.3,188 Q398,212 386.7,204 Q375.3,212 364,192 Q352.7,212 341.3,204 Q330,212 318.7,188 Q307.3,216 296,208 Q284.7,216 273.3,188 Q262,212 250.7,204 Q239.3,212 228,192 Z"/>
+<path class="v-rock" d="M277.3,225.4 L281.1,171.4 Q287.8,161.4 294.6,173.4 L298.4,225.4 Z"/>
+<path class="v-snow" d="M281.5,175.4 Q287.8,165.4 294.2,175.4 Q287.8,172.4 281.5,175.4 Z"/>
+<path class="v-rock" d="M298.4,245.4 L302.2,178.4 Q308.9,168.4 315.7,180.4 L319.5,245.4 Z"/>
+<path class="v-snow" d="M302.6,182.4 Q308.9,172.4 315.2,182.4 Q308.9,179.4 302.6,182.4 Z"/>
+<path class="v-rock" d="M319.5,225.4 L323.3,171.4 Q330,161.4 336.7,173.4 L340.5,225.4 Z"/>
+<path class="v-snow" d="M323.7,175.4 Q330,165.4 336.3,175.4 Q330,172.4 323.7,175.4 Z"/>
+<path class="v-rock" d="M340.5,241.4 L344.3,174.4 Q351.1,164.4 357.8,176.4 L361.6,241.4 Z"/>
+<path class="v-snow" d="M344.8,178.4 Q351.1,168.4 357.4,178.4 Q351.1,175.4 344.8,178.4 Z"/>
+<path class="v-rock" d="M361.6,235.4 L365.4,181.4 Q372.2,171.4 378.9,183.4 L382.7,235.4 Z"/>
+<path class="v-snow" d="M365.8,185.4 Q372.2,175.4 378.5,185.4 Q372.2,182.4 365.8,185.4 Z"/>
+<path class="v-tree" d="M251.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M277.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M303.9,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M356.1,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M382.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M408.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M321.5,184.5 C339.5,213.9 298.4,223.2 316.4,243.2 S329.3,272 311.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M321.5,184.5 C339.5,213.9 298.4,223.2 316.4,243.2 S329.3,272 311.3,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M338.5,190.5 C362.5,218.4 319.6,226.2 343.6,246.2 S372.7,272 348.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M338.5,190.5 C362.5,218.4 319.6,226.2 343.6,246.2 S372.7,272 348.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M330,125.4 C340.2,222.6 333.4,298.8 350.4,366 L500,366 L500,125.4 Z"/>
+</g>
+<path fill="url(#v7body)" d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/>
+<g clip-path="url(#v7m3)">
+<path class="v-snow" d="M390,26.6 L750,26.6 L750,167.4 Q730,175.4 710,147.4 Q690,171.4 670,163.4 Q650,171.4 630,151.4 Q610,171.4 590,163.4 Q570,171.4 550,147.4 Q530,175.4 510,167.4 Q490,175.4 470,147.4 Q450,171.4 430,163.4 Q410,171.4 390,151.4 Z"/>
+<path class="v-tree" d="M432,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M455,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M478,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M501,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M524,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M616,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M639,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M662,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M685,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M708,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M531,95.6 C549,147.2 483,178.8 501,198.8 S489,272 471,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M531,95.6 C549,147.2 483,178.8 501,198.8 S489,272 471,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M557,101.6 C581,151.7 523,181.8 547,201.8 S561,272 537,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M557,101.6 C581,151.7 523,181.8 547,201.8 S561,272 537,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M583,95.6 C613,147.2 563,178.8 593,198.8 S633,272 603,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M583,95.6 C613,147.2 563,178.8 593,198.8 S633,272 603,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M609,101.6 C627,151.7 621,181.8 639,201.8 S687,272 669,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M609,101.6 C627,151.7 621,181.8 639,201.8 S687,272 669,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M570,26.6 C588,153.4 576,269.2 606,366 L870,366 L870,26.6 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="355" y1="296" x2="160" y2="152.9"/>
+<line class="v-pylon" x1="296.5" y1="253.1" x2="296.5" y2="265.1"/>
+<line class="v-pylon" x1="234.1" y1="207.3" x2="234.1" y2="219.3"/>
+<rect class="v-cabin" x="260.8" y="231.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="485" y1="296" x2="545" y2="172.4"/>
+<line class="v-pylon" x1="503" y1="258.9" x2="503" y2="270.9"/>
+<line class="v-pylon" x1="522.2" y1="219.4" x2="522.2" y2="231.4"/>
+<rect class="v-cabin" x="508.1" y="240.2" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="420" cy="300" rx="68" ry="5"/>
+<path class="v-wall" d="M366,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M363.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="372" y="291" width="4" height="4"/>
+<path class="v-wall" d="M387,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M384.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="395" y="287" width="4" height="4"/>
+<path class="v-wall" d="M412,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M409.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="417" y="292" width="4" height="4"/>
+<path class="v-wall" d="M426.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M426,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M431,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M428.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="438" y="289" width="4" height="4"/>
+<path class="v-wall" d="M454,299 v-13 h15 v13 Z"/>
+<path class="v-roof" d="M451.5,287 l10,-10 l10,10 Z"/>
+<rect class="v-win" x="459.5" y="291" width="4" height="4"/>
 <g class="v-pill"><rect x="24.3" y="18" width="251.5" height="30" rx="15"/><text x="150" y="38" text-anchor="middle"><tspan class="v-pn">Tofane</tspan> · lifts to 2,470 m</text></g>
-<g class="v-pill"><rect x="187.3" y="118.1" width="225.4" height="30" rx="15"/><text x="300" y="138.1" text-anchor="middle"><tspan class="v-pn">Cinque Torri</tspan> · 2,255 m</text></g>
-<g class="v-pill"><rect x="408.3" y="20.7" width="303.7" height="30" rx="15"/><text x="560.1" y="40.7" text-anchor="middle"><tspan class="v-pn">Cristallo and Faloria</tspan> · 2,120 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="309.1" y="336" width="181.9" height="30" rx="15"/><text x="400" y="356" text-anchor="middle"><tspan class="v-pn">Cortina</tspan> · 1,224 m</text></g>
+<g class="v-pill"><rect x="287.3" y="119.4" width="225.4" height="30" rx="15"/><text x="400" y="139.4" text-anchor="middle"><tspan class="v-pn">Cinque Torri</tspan> · 2,255 m</text></g>
+<g class="v-pill"><rect x="408.3" y="20.6" width="303.7" height="30" rx="15"/><text x="560.1" y="40.6" text-anchor="middle"><tspan class="v-pn">Cristallo and Faloria</tspan> · 2,120 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="329.1" y="340" width="181.9" height="30" rx="15"/><text x="420" y="360" text-anchor="middle"><tspan class="v-pn">Cortina</tspan> · 1,224 m</text></g>
 </svg>
 <figcaption>The ski areas surround the town on every side: the Tofane on one, Faloria and Cristallo on the other, the Cinque Torri beyond.</figcaption>
 </figure>

@@ -64,38 +64,83 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 ## Under Mont Blanc
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Courmayeur: the Mont Blanc massif at 4,808 metres with the Skyway cable car to Punta Helbronner at 3,466 metres, the ski area on the other side of the valley, the town at 1,224 metres and the hot springs of Pré-Saint-Didier"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-mtn" d="M10,340 70.8,128.6 108.8,66 154.4,62 276,62 314,68 352,133.4 390,340 Z"/>
-<path class="v-snow" d="M108.8,66 154.4,62 276,62 314,68 298.8,82 238,76 184.8,84 124,78 Z"/>
-<path class="v-mtn" d="M410,340 482,245.2 530,210.2 560,190.4 596,214.5 626,223.3 710,340 Z"/>
-<path class="v-snow" d="M560,190.4 530,218.9 546.5,212.7 557,218.9 570.5,211 593,219.5 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="300" y1="281.5" x2="260" y2="146"/><rect class="v-cabin" x="277.5" y="221.5" width="9" height="11" rx="2"/>
-<line class="v-cable" x1="448" y1="286.2" x2="560" y2="190.4"/><rect class="v-cabin" x="493.9" y="244.1" width="9" height="11" rx="2"/>
-<path class="v-wall" d="M318.5,288.2 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M315.5,273.2 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M342.5,288.2 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M339.5,269.2 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M370.5,288.2 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M367.5,275.2 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M387.5,288.2 v-40 h9 v40 Z"/><path class="v-roof" d="M386.5,249.2 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M392.5,288.2 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M389.5,271.2 l13,-12 l13,12 Z"/>
-<path class="v-wall" d="M418.5,288.2 v-15 h17 v15 Z"/>
-<path class="v-roof" d="M415.5,274.2 l11.5,-12 l11.5,12 Z"/>
-<path class="v-tree" d="M50,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M470,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M640,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M680,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<rect class="v-pool" x="618" y="296" width="44" height="8" rx="3"/>
-<path class="v-steam" d="M630,292 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M640,292 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M650,292 q5,-7 0,-14 q-5,-7 0,-14"/>
-<g class="v-pill"><rect x="96" y="18" width="208" height="30" rx="15"/><text x="200" y="38" text-anchor="middle"><tspan class="v-pn">Mont Blanc</tspan> · 4,808 m</text></g>
-<g class="v-pill"><rect x="163.4" y="112" width="173.2" height="30" rx="15"/><text x="250" y="132" text-anchor="middle"><tspan class="v-pn">Skyway</tspan> · 3,466 m</text></g>
-<g class="v-pill"><rect x="417" y="146.4" width="295" height="30" rx="15"/><text x="564.5" y="166.4" text-anchor="middle"><tspan class="v-pn">Ski area</tspan> · Checrouit · 2,755 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="276" y="210.2" width="208" height="30" rx="15"/><text x="380" y="230.2" text-anchor="middle"><tspan class="v-pn">Courmayeur</tspan> · 1,224 m</text></g>
-<g class="v-pill"><rect x="469.2" y="336" width="242.8" height="30" rx="15"/><text x="590.6" y="356" text-anchor="middle"><tspan class="v-pn">Pré-Saint-Didier springs</tspan></text></g>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Courmayeur: the Mont Blanc massif at 4,808 metres with the Skyway cable car to Punta Helbronner at 3,466 metres, the ski area with its runs on the other side of the valley, the town at 1,224 metres and the hot springs of Pré-Saint-Didier"><defs><linearGradient id="v12sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v12body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v12m1"><path d="M0,356 C45.6,180.8 76,70 129.2,66 Q190,58 258.4,66 C304,70 334.4,186.6 380,356 Z"/></clipPath><clipPath id="v12m2"><path d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v12sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v12body)" d="M0,356 C45.6,180.8 76,70 129.2,66 Q190,58 258.4,66 C304,70 334.4,186.6 380,356 Z"/>
+<g clip-path="url(#v12m1)">
+<path class="v-snow" d="M-38,24 L418,24 L418,200.6 Q392.7,208.6 367.3,180.6 Q342,204.6 316.7,196.6 Q291.3,204.6 266,184.6 Q240.7,204.6 215.3,196.6 Q190,204.6 164.7,180.6 Q139.3,208.6 114,200.6 Q88.7,208.6 63.3,180.6 Q38,204.6 12.7,196.6 Q-12.7,204.6 -38,184.6 Z"/>
+<path class="v-tree" d="M15.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M37,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M58.9,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M80.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M102.6,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M124.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M146.3,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M233.7,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M255.6,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M277.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M299.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M321.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M342.9,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M364.8,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-shade" d="M190,24 C212.8,151.6 197.6,268.4 235.6,366 L570,366 L570,24 Z"/>
+</g>
+<path fill="url(#v12body)" d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/>
+<g clip-path="url(#v12m2)">
+<path class="v-snow" d="M368,149.2 L752,149.2 L752,253.2 Q730.7,261.2 709.3,233.2 Q688,257.2 666.7,249.2 Q645.3,257.2 624,237.2 Q602.7,257.2 581.3,249.2 Q560,257.2 538.7,233.2 Q517.3,261.2 496,253.2 Q474.7,261.2 453.3,233.2 Q432,257.2 410.7,249.2 Q389.3,257.2 368,237.2 Z"/>
+<path class="v-tree" d="M412.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M435.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M458.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M480.7,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M503.4,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M526,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M594,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M616.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M639.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M661.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M684.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M707.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path d="M508,205.9 C526,229.9 445.6,233.9 463.6,253.9 S437.2,272 419.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M508,205.9 C526,229.9 445.6,233.9 463.6,253.9 S437.2,272 419.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M534,211.9 C558,234.4 487.8,236.9 511.8,256.9 S513.6,272 489.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M534,211.9 C558,234.4 487.8,236.9 511.8,256.9 S513.6,272 489.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M560,205.9 C590,229.9 530,233.9 560,253.9 S590,272 560,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M560,205.9 C590,229.9 530,233.9 560,253.9 S590,272 560,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M586,211.9 C604,234.4 590.2,236.9 608.2,256.9 S648.4,272 630.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M586,211.9 C604,234.4 590.2,236.9 608.2,256.9 S648.4,272 630.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M612,205.9 C636,229.9 632.4,233.9 656.4,253.9 S724.8,272 700.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M612,205.9 C636,229.9 632.4,233.9 656.4,253.9 S724.8,272 700.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M560,149.2 C579.2,239.2 566.4,306 598.4,366 L880,366 L880,149.2 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="320" y1="277.9" x2="250" y2="145.8"/>
+<line class="v-pylon" x1="299" y1="238.3" x2="299" y2="250.3"/>
+<line class="v-pylon" x1="276.6" y1="196" x2="276.6" y2="208"/>
+<rect class="v-cabin" x="283.3" y="218.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="452" y1="282.6" x2="560" y2="190.1"/>
+<line class="v-pylon" x1="484.4" y1="254.8" x2="484.4" y2="266.8"/>
+<line class="v-pylon" x1="519" y1="225.3" x2="519" y2="237.3"/>
+<rect class="v-cabin" x="497.2" y="241.1" width="9" height="10" rx="2"/>
+<ellipse class="v-ground" cx="390" cy="286.6" rx="68" ry="5"/>
+<path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="342" y="277.6" width="4" height="4"/>
+<path class="v-wall" d="M357,285.6 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M354.5,269.6 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="365" y="273.6" width="4" height="4"/>
+<path class="v-wall" d="M382,285.6 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M379.5,274.6 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="387" y="278.6" width="4" height="4"/>
+<path class="v-wall" d="M396.5,285.6 v-34 h8 v34 Z"/><path class="v-roof" d="M396,252.6 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M401,285.6 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M398.5,271.6 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="408" y="275.6" width="4" height="4"/>
+<path class="v-wall" d="M424,285.6 v-13 h15 v13 Z"/>
+<path class="v-roof" d="M421.5,273.6 l10,-10 l10,10 Z"/>
+<rect class="v-win" x="429.5" y="277.6" width="4" height="4"/>
+<rect class="v-pool" x="638" y="293" width="44" height="8" rx="3"/>
+<path class="v-steam" d="M650,289 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M660,289 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M670,289 q5,-7 0,-14 q-5,-7 0,-14"/>
+<g class="v-pill"><rect x="86" y="18" width="208" height="30" rx="15"/><text x="190" y="38" text-anchor="middle"><tspan class="v-pn">Mont Blanc</tspan> · 4,808 m</text></g>
+<g class="v-pill"><rect x="163.4" y="105.8" width="173.2" height="30" rx="15"/><text x="250" y="125.8" text-anchor="middle"><tspan class="v-pn">Skyway</tspan> · 3,466 m</text></g>
+<g class="v-pill"><rect x="412.5" y="143.2" width="295" height="30" rx="15"/><text x="560" y="163.2" text-anchor="middle"><tspan class="v-pn">Ski area</tspan> · Checrouit · 2,755 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="196" y="340" width="208" height="30" rx="15"/><text x="300" y="360" text-anchor="middle"><tspan class="v-pn">Courmayeur</tspan> · 1,224 m</text></g>
+<g class="v-pill"><rect x="469.2" y="340" width="242.8" height="30" rx="15"/><text x="590.6" y="360" text-anchor="middle"><tspan class="v-pn">Pré-Saint-Didier springs</tspan></text></g>
 </svg>
 <figcaption>The Skyway climbs the Mont Blanc side from the edge of town. The ski area is on the opposite side of the valley, and the hot springs of Pré-Saint-Didier are ten minutes away.</figcaption>
 </figure>

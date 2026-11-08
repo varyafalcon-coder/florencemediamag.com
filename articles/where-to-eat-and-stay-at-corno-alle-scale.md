@@ -62,37 +62,85 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 ## The ridge and the lake
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Corno alle Scale: the summit ridge at 1,945 metres, Lago Scaffaiolo at 1,775 metres under the ridge, the lifts at Cavone, and the villages of Vidiciatico and Lizzano below"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
-<path class="v-back" d="M0,340 0,154.5 150,112.9 330,133.7 520,102.5 720,133.7 720,340 Z"/>
-<path class="v-mtn" d="M0,340 0,196.1 140,123.3 300,62 380,75.5 460,97.3 560,88 720,154.5 720,340 Z"/>
-<path class="v-snow" d="M300,62 278,84 290.1,79.2 297.8,84 307.7,77.8 324.2,84.4 Z"/>
-<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
-<line class="v-cable" x1="258" y1="185.7" x2="300" y2="62"/><rect class="v-cabin" x="272.4" y="131" width="9" height="11" rx="2"/>
-<ellipse class="v-lake" cx="470" cy="101.3" rx="20" ry="5"/>
-<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M560,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M600,302 l9,-22 l9,22 Z"/>
-<path class="v-tree" d="M640,302 l6.8,-16.5 l6.8,16.5 Z"/>
-<path class="v-tree" d="M680,302 l9,-22 l9,22 Z"/>
-<path class="v-wall" d="M204,187.7 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M201,172.7 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M228,187.7 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M225,168.7 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M510,302 v-16 h18 v16 Z"/>
-<path class="v-roof" d="M507,287 l12,-12 l12,12 Z"/>
-<path class="v-wall" d="M534,302 v-20 h22 v20 Z"/>
-<path class="v-roof" d="M531,283 l14,-12 l14,12 Z"/>
-<path class="v-wall" d="M562,302 v-14 h16 v14 Z"/>
-<path class="v-roof" d="M559,289 l11,-12 l11,12 Z"/>
-<path class="v-wall" d="M579,302 v-40 h9 v40 Z"/><path class="v-roof" d="M578,263 l5.5,-18 l5.5,18 Z"/>
-<path class="v-wall" d="M584,302 v-18 h20 v18 Z"/>
-<path class="v-roof" d="M581,285 l13,-12 l13,12 Z"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Corno alle Scale: the summit ridge at 1,945 metres, Lago Scaffaiolo at 1,775 metres under the ridge, the runs above Cavone, and the villages of Vidiciatico and Lizzano below"><defs><linearGradient id="v2sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v2body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v2m1"><path d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/></clipPath><clipPath id="v2m2"><path d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v2sky)"/>
+<path class="v-far" d="M0,356 L0,164.3 Q90,105.8 180,123.8 Q280,105.8 380,144 Q470,95.6 560,113.6 Q640,95.6 720,154.2 L720,356 Z"/>
+<path fill="url(#v2body)" d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/>
+<g clip-path="url(#v2m1)">
+<path class="v-snow" d="M218,58.4 L722,58.4 L722,176.8 Q694,184.8 666,156.8 Q638,180.8 610,172.8 Q582,180.8 554,160.8 Q526,180.8 498,172.8 Q470,180.8 442,156.8 Q414,184.8 386,176.8 Q358,184.8 330,156.8 Q302,180.8 274,172.8 Q246,180.8 218,160.8 Z"/>
+<path class="v-tree" d="M276.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M298.3,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M319.7,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M341.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M362.7,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M384.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M405.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M427.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M512.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M534.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M555.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M577.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M598.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M620.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M641.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M663.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-shade" d="M470,58.4 C495.2,175.7 478.4,278.7 520.4,366 L890,366 L890,58.4 Z"/>
+</g>
+<path fill="url(#v2body)" d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/>
+<g clip-path="url(#v2m2)">
+<path class="v-snow" d="M48,24 L552,24 L552,151 Q524,159 496,131 Q468,155 440,147 Q412,155 384,135 Q356,155 328,147 Q300,155 272,131 Q244,159 216,151 Q188,159 160,131 Q132,155 104,147 Q76,155 48,135 Z"/>
+<path class="v-tree" d="M106.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M128.3,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M149.7,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M171.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M192.7,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M214.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M235.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M257.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M342.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M364.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M385.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M407.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M428.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
+<path class="v-tree" d="M450.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
+<path class="v-tree" d="M471.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
+<path class="v-tree" d="M493.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
+<path d="M261,93.2 C279,145.4 193.2,177.6 211.2,197.6 S179.4,272 161.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M261,93.2 C279,145.4 193.2,177.6 211.2,197.6 S179.4,272 161.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M287,99.2 C311,149.9 246.4,180.6 270.4,200.6 S277.8,272 253.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M287,99.2 C311,149.9 246.4,180.6 270.4,200.6 S277.8,272 253.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M313,93.2 C343,145.4 299.6,177.6 329.6,197.6 S376.2,272 346.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M313,93.2 C343,145.4 299.6,177.6 329.6,197.6 S376.2,272 346.2,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M339,99.2 C357,149.9 370.8,180.6 388.8,200.6 S456.6,272 438.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M339,99.2 C357,149.9 370.8,180.6 388.8,200.6 S456.6,272 438.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
+<path class="v-shade" d="M300,24 C325.2,151.6 308.4,268.4 350.4,366 L720,366 L720,24 Z"/>
+</g>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<line class="v-cable" x1="236" y1="225.1" x2="300" y2="67"/>
+<line class="v-pylon" x1="255.2" y1="177.7" x2="255.2" y2="189.7"/>
+<line class="v-pylon" x1="275.7" y1="127.1" x2="275.7" y2="139.1"/>
+<rect class="v-cabin" x="260.9" y="153.4" width="9" height="10" rx="2"/>
+<ellipse class="v-lake" cx="432" cy="154.1" rx="17" ry="5"/>
+<ellipse class="v-ground" cx="210" cy="229.1" rx="37" ry="5"/>
+<path class="v-wall" d="M187,228.1 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M184.5,216.1 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="193" y="220.1" width="4" height="4"/>
+<path class="v-wall" d="M208,228.1 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M205.5,212.1 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="216" y="216.1" width="4" height="4"/>
+<ellipse class="v-ground" cx="590" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M546,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M543.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="552" y="291" width="4" height="4"/>
+<path class="v-wall" d="M567,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M564.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="575" y="287" width="4" height="4"/>
+<path class="v-wall" d="M592,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M589.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="597" y="292" width="4" height="4"/>
+<path class="v-wall" d="M606.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M606,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M611,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M608.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="618" y="289" width="4" height="4"/>
 <g class="v-pill"><rect x="169.9" y="18" width="260.2" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Corno alle Scale</tspan> · 1,945 m</text></g>
-<g class="v-pill"><rect x="374.2" y="55.3" width="251.5" height="30" rx="15"/><text x="500" y="75.3" text-anchor="middle"><tspan class="v-pn">Lago Scaffaiolo</tspan> · 1,775 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="104.7" y="115.7" width="190.6" height="30" rx="15"/><text x="200" y="135.7" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
-<g class="v-pill"><rect x="442.9" y="336" width="234.1" height="30" rx="15"/><text x="560" y="356" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
+<g class="v-pill"><rect x="434.2" y="52.4" width="251.5" height="30" rx="15"/><text x="560" y="72.4" text-anchor="middle"><tspan class="v-pn">Lago Scaffaiolo</tspan> · 1,775 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="54.7" y="173.1" width="190.6" height="30" rx="15"/><text x="150" y="193.1" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
+<g class="v-pill"><rect x="472.9" y="340" width="234.1" height="30" rx="15"/><text x="590" y="360" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
 </svg>
 <figcaption>The lifts climb from Cavone towards the summit ridge. Lago Scaffaiolo sits just below it, and the villages are further down the valley.</figcaption>
 </figure>
