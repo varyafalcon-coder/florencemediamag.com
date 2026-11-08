@@ -225,7 +225,7 @@ areas:
     season: "Planned from 24 Oct 2026, one of the first in Europe"
     vibe: "The highest skiing in Italy, under the Matterhorn. Long, wide, gentle runs, and you can ski over to Switzerland for lunch. The village is no beauty and lively in the evening."
     go_if: "It is December and nothing else is white, or you want long cruising runs at altitude."
-    skip_if: "You want a pretty village."
+    skip_if: "You want steep, varied terrain, or you cannot spare a day: wind closes the top lifts and the Zermatt link more often than snow does, most of all in January."
     want: [snow, big, apres, family, nocar]
     guide: "/articles/where-to-eat-and-stay-in-cervinia/"
     guide_label: "Cervinia: skiing under the Matterhorn"

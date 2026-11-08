@@ -75,33 +75,38 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 ## Two sides of the valley
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 on the left at 2,798 metres, the village of Livigno on the valley floor at 1,816 metres, Mottolino on the right at about 2,400 metres, with gondolas up both sides and the free ski bus along the valley">
-<defs>
-<linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient>
-<linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient>
-</defs>
-<rect width="720" height="380" fill="url(#vsky)"/>
-<circle class="v-sun" cx="610" cy="70" r="28"/>
-<path class="v-far" d="M0,210 L60,150 L110,180 L170,120 L240,175 L300,140 L360,190 L430,130 L500,170 L560,120 L630,165 L720,140 L720,380 L0,380 Z"/>
-<path class="v-mtn" d="M-10,330 L60,190 L150,62 L215,140 L250,120 L330,300 Z"/>
-<path class="v-snow" d="M150,62 L118,110 L135,104 L150,118 L166,100 L184,112 Z"/>
-<path class="v-mtn" d="M380,300 L470,190 L540,128 L590,160 L650,150 L730,260 L730,330 Z"/>
-<path class="v-snow" d="M540,128 L518,150 L532,148 L545,158 L560,146 L572,150 Z"/>
-<path class="v-floor" d="M0,300 Q180,286 360,300 T720,300 L720,380 L0,380 Z"/>
-<g class="v-trees"><path d="M40,300 l9,-22 l9,22 Z"/><path d="M62,302 l7,-17 l7,17 Z"/><path d="M250,296 l8,-19 l8,19 Z"/><path d="M272,298 l6,-15 l6,15 Z"/><path d="M455,298 l8,-20 l8,20 Z"/><path d="M478,300 l7,-16 l7,16 Z"/><path d="M640,300 l9,-22 l9,22 Z"/><path d="M664,302 l7,-17 l7,17 Z"/></g>
-<g class="v-lift"><line x1="315" y1="300" x2="150" y2="70"/><rect x="226" y="176" width="9" height="11" rx="2"/><line x1="410" y1="300" x2="540" y2="136"/><rect x="471" y="216" width="9" height="11" rx="2"/></g>
-<g class="v-houses">
-<path class="v-wall" d="M318,300 v-16 h18 v16 Z"/><path class="v-roof" d="M315,285 l12,-11 l12,11 Z"/>
-<path class="v-wall" d="M342,300 v-20 h22 v20 Z"/><path class="v-roof" d="M339,281 l14,-13 l14,13 Z"/>
-<path class="v-wall" d="M370,300 v-14 h16 v14 Z"/><path class="v-roof" d="M367,287 l11,-10 l11,10 Z"/>
-<path class="v-wall" d="M392,300 v-18 h20 v18 Z"/><path class="v-roof" d="M389,283 l13,-12 l13,12 Z"/>
-</g>
-<path class="v-road" d="M40,322 Q360,312 680,322"/>
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 at 2,798 metres on the left, the village of Livigno on the valley floor at 1,816 metres, Mottolino at about 2,400 metres on the right, gondolas up both sides and the free ski bus along the valley"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-back" d="M0,340 0,194.8 90,158.5 200,182.7 330,146.3 470,170.6 600,134.2 720,163.3 720,340 Z"/>
+<path class="v-mtn" d="M5,340 84.2,181 137,104.8 170,62 209.6,114.4 242.6,133.4 335,340 Z"/>
+<path class="v-snow" d="M170,62 137,98 155.2,90.1 166.7,98 181.6,87.9 206.3,98.7 Z"/>
+<path class="v-mtn" d="M410,340 482,229.2 530,183.9 560,158.5 596,189.6 626,200.9 710,340 Z"/>
+<path class="v-snow" d="M560,158.5 530,194.5 546.5,186.5 557,194.5 570.5,184.4 593,195.2 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M62,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M250,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M272,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M455,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M478,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M650,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M672,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-wall" d="M310,302 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M307,287 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M334,302 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M331,283 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M362,302 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M359,289 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M379,302 v-40 h9 v40 Z"/><path class="v-roof" d="M378,263 l5.5,-18 l5.5,18 Z"/>
+<path class="v-wall" d="M384,302 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M381,285 l13,-12 l13,12 Z"/>
+<line class="v-cable" x1="300" y1="300" x2="170" y2="62"/><rect class="v-cabin" x="237" y="193.9" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="420" y1="300" x2="560" y2="158.5"/><rect class="v-cabin" x="478.5" y="237.3" width="9" height="11" rx="2"/>
+<path class="v-road" d="M30,322 Q360,312 690,322"/>
 <g class="v-bus"><rect x="470" y="309" width="34" height="14" rx="4"/><circle cx="478" cy="324" r="3"/><circle cx="496" cy="324" r="3"/></g>
-<g class="v-pill"><rect x="70" y="22" width="190" height="30" rx="15"/><text x="165" y="42" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
-<g class="v-pill"><rect x="482" y="88" width="196" height="30" rx="15"/><text x="580" y="108" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="282" y="226" width="156" height="30" rx="15"/><text x="360" y="246" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
-<g class="v-pill"><rect x="512" y="336" width="160" height="28" rx="14"/><text x="592" y="355" text-anchor="middle">free ski bus between them</text></g>
+<g class="v-pill"><rect x="48.6" y="18" width="242.8" height="30" rx="15"/><text x="170" y="38" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
+<g class="v-pill"><rect x="434.2" y="114.5" width="251.5" height="30" rx="15"/><text x="560" y="134.5" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="269.1" y="222" width="181.9" height="30" rx="15"/><text x="360" y="242" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
+<g class="v-pill"><rect x="460.5" y="336" width="251.5" height="30" rx="15"/><text x="586.2" y="356" text-anchor="middle"><tspan class="v-pn">free ski bus between them</tspan></text></g>
 </svg>
 <figcaption>Two ski areas on opposite sides of the valley, one pass for both. Gondolas go up from the village on each side, and the free bus links them.</figcaption>
 </figure>

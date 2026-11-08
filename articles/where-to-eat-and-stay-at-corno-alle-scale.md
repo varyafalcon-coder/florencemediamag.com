@@ -7,14 +7,14 @@ seo_title: "Corno alle Scale from Florence: where to eat, ski and sleep"
 seo_description: "Two hours from Florence, inside a regional park. The quietest snow within reach, the huts near the top, Lago Scaffaiolo and where to stay."
 answer: "The quietest snow within two hours of Florence, inside a regional park on the Bologna side of the ridge."
 published_on: "2026-11-05"
-updated_on: "2026-11-05"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the Michelin guide, Gambero Rosso, the tourist boards and recent reviews. Not all of them have been visited by us yet. Mountain huts follow the lifts and the weather, so check before you go."
+verify_note: "Places were chosen from the Michelin guide, Gambero Rosso, the tourist boards and recent reviews. Not all of them have been visited by us yet. Mountain huts follow the lifts and the weather, so check before you go. Skier reviews and the official event calendars were read in November 2026."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "The ridge and the lake"
+    id: "the-ridge-and-the-lake"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to stay"
@@ -53,13 +53,49 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">The emptiest mountain within reach of Florence.</p>
+<p class="lede">The lifts at Cavone climb inside a regional park to just under the Corno alle Scale, 1,945 metres, the highest point of the Bologna Apennines.</p>
 
 Small and wild, inside a regional park on the Bologna side of the ridge. The lifts are old and the runs short, but on a Tuscan weekend it is often the quietest snow you can reach in two hours, and the view from the top takes in the whole Apennine ridge.
 
 {% include ski-fit.html id="corno" %}
 
-## The mountain, top to bottom
+## The ridge and the lake
+
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Corno alle Scale: the summit ridge at 1,945 metres, Lago Scaffaiolo at 1,775 metres under the ridge, the lifts at Cavone, and the villages of Vidiciatico and Lizzano below"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-back" d="M0,340 0,154.5 150,112.9 330,133.7 520,102.5 720,133.7 720,340 Z"/>
+<path class="v-mtn" d="M0,340 0,196.1 140,123.3 300,62 380,75.5 460,97.3 560,88 720,154.5 720,340 Z"/>
+<path class="v-snow" d="M300,62 278,84 290.1,79.2 297.8,84 307.7,77.8 324.2,84.4 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<ellipse class="v-lake" cx="470" cy="101.3" rx="20" ry="5"/>
+<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M560,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M600,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M640,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M680,302 l9,-22 l9,22 Z"/>
+<path class="v-wall" d="M204,187.7 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M201,172.7 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M228,187.7 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M225,168.7 l14,-12 l14,12 Z"/>
+<line class="v-cable" x1="230" y1="185.7" x2="300" y2="62"/><rect class="v-cabin" x="257" y="131" width="9" height="11" rx="2"/>
+<path class="v-wall" d="M510,302 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M507,287 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M534,302 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M531,283 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M562,302 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M559,289 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M579,302 v-40 h9 v40 Z"/><path class="v-roof" d="M578,263 l5.5,-18 l5.5,18 Z"/>
+<path class="v-wall" d="M584,302 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M581,285 l13,-12 l13,12 Z"/>
+<g class="v-pill"><rect x="169.9" y="18" width="260.2" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Corno alle Scale</tspan> · 1,945 m</text></g>
+<g class="v-pill"><rect x="374.2" y="55.3" width="251.5" height="30" rx="15"/><text x="500" y="75.3" text-anchor="middle"><tspan class="v-pn">Lago Scaffaiolo</tspan> · 1,775 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="104.7" y="115.7" width="190.6" height="30" rx="15"/><text x="200" y="135.7" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
+<g class="v-pill"><rect x="442.9" y="336" width="234.1" height="30" rx="15"/><text x="560" y="356" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
+</svg>
+<figcaption>The lifts climb from Cavone towards the summit ridge. Lago Scaffaiolo sits just below it, and the villages are further down the valley.</figcaption>
+</figure>
 
 <ol class="ladder">
 <li><span class="alt">1,945 m</span><span class="lname">Corno alle Scale</span><span class="ldesc">The summit, with the whole ridge between Emilia and Tuscany around you.</span></li>

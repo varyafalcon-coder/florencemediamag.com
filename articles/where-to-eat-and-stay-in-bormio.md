@@ -7,22 +7,26 @@ seo_title: "Bormio from Florence: where to eat, ski and sleep"
 seo_description: "Five hours from Florence. The Stelvio run where the 2026 Olympic downhill was raced, 1,800 metres of vertical from 3,012 m, a medieval town and thermal baths used since Roman times."
 answer: "A medieval town with the 2026 Olympic downhill above it and hot springs below. Five hours from Florence, and the best value high skiing on this page."
 published_on: "2026-11-06"
-updated_on: "2026-11-06"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the Bormio tourist board, the ski area's own guide and recent reviews. Not all of them have been visited by us yet. Lift prices change by date, so check before you buy."
+verify_note: "Places were chosen from the Bormio tourist board, the ski area's own guide and recent reviews. Not all of them have been visited by us yet. Lift prices change by date, so check before you buy. Skier reviews and the official event calendars were read in November 2026."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "From Cima Bianca to the town"
+    id: "from-cima-bianca-to-the-town"
   - label: "A perfect day"
     id: "a-perfect-day"
+  - label: "What is on"
+    id: "what-is-on"
   - label: "Where to stay"
     id: "where-to-stay"
   - label: "Where to eat"
     id: "where-to-eat"
   - label: "What to order"
     id: "what-to-order"
+  - label: "After skiing"
+    id: "after-skiing"
   - label: "Getting there"
     id: "getting-there"
   - label: "Before you go"
@@ -53,13 +57,50 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">Ski the Olympic downhill in the morning, sit in a Roman hot spring in the afternoon.</p>
+<p class="lede">The Stelvio piste drops more than 1,000 metres to the town, and the men's World Cup downhill is raced on it every December.</p>
 
 A real medieval town with stone streets and towers, one of the longest runs in Italy from 3,000 metres to the houses, and the thermal baths at the end of the day. Good value for this altitude.
 
 {% include ski-fit.html id="bormio" %}
 
-## The mountain, top to bottom
+## From Cima Bianca to the town
+
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Bormio: Cima Bianca at 3,012 metres, the Bormio 2000 station, the Stelvio piste running down to the medieval town at 1,225 metres, and the thermal baths above the town"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-back" d="M0,340 0,156.8 200,130.2 400,143.5 600,103.6 720,130.2 720,340 Z"/>
+<path class="v-mtn" d="M80,340 185.6,181 256,104.8 300,62 352.8,114.4 396.8,133.4 520,340 Z"/>
+<path class="v-snow" d="M300,62 256,98 280.2,90.1 295.6,98 315.4,87.9 348.4,98.7 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<path class="v-museum" d="M315,198.8 l6,-10 h18 l6,10 Z"/>
+<path class="v-run" d="M300,62 L340,130.2 L330,196.8 L390,250.1 L440,300"/>
+<line class="v-cable" x1="470" y1="300" x2="330" y2="196.8"/><rect class="v-cabin" x="402.5" y="254.6" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="330" y1="196.8" x2="300" y2="63.6"/><rect class="v-cabin" x="312" y="137.8" width="9" height="11" rx="2"/>
+<path class="v-wall" d="M408.5,302 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M405.5,287 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M432.5,302 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M429.5,283 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M460.5,302 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M457.5,289 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M477.5,302 v-40 h9 v40 Z"/><path class="v-roof" d="M476.5,263 l5.5,-18 l5.5,18 Z"/>
+<path class="v-wall" d="M482.5,302 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M479.5,285 l13,-12 l13,12 Z"/>
+<path class="v-wall" d="M508.5,302 v-15 h17 v15 Z"/>
+<path class="v-roof" d="M505.5,288 l11.5,-12 l11.5,12 Z"/>
+<path class="v-tree" d="M60,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M100,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M560,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M600,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<rect class="v-pool" x="618" y="296" width="44" height="8" rx="3"/>
+<path class="v-steam" d="M630,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M640,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M650,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<g class="v-pill"><rect x="191.7" y="18" width="216.7" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Cima Bianca</tspan> · 3,012 m</text></g>
+<g class="v-pill"><rect x="135.2" y="181.8" width="129.7" height="30" rx="15"/><text x="200" y="201.8" text-anchor="middle"><tspan class="v-pn">Bormio 2000</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="383.4" y="336" width="173.2" height="30" rx="15"/><text x="470" y="356" text-anchor="middle"><tspan class="v-pn">Bormio</tspan> · 1,225 m</text></g>
+<g class="v-pill"><rect x="564.9" y="270" width="147.1" height="30" rx="15"/><text x="638.4" y="290" text-anchor="middle"><tspan class="v-pn">Thermal baths</tspan></text></g>
+</svg>
+<figcaption>The lifts climb from the town through Bormio 2000 to Cima Bianca, and the Stelvio piste comes all the way back down. The thermal baths are just outside town.</figcaption>
+</figure>
 
 <ol class="ladder">
 <li><span class="alt">3,012 m</span><span class="lname">Cima Bianca</span><span class="ldesc">The top station, with the Ortles across the valley.</span></li>
@@ -77,6 +118,14 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <li><span class="when">Afternoon</span><span class="what">The Stelvio all the way down to town, if your legs agree.</span></li>
 <li><span class="when">Evening</span><span class="what">The hot pools of the Bagni Vecchi at dusk, then dinner in the old town.</span></li>
 </ol>
+
+## What is on
+
+Some events come back every winter. Dates change each year, so check them before you book.
+
+<div class="events">
+<div class="ev"><span class="ev-date">26–29 December 2026</span><p class="ev-name">Stelvio World Cup</p><p class="ev-text">The men's World Cup downhill on 28 December and super-G on 29 December, on the Stelvio. The super-G is free to watch. Details at <a href="https://skiworldcup.bormio.eu/en/" target="_blank" rel="noopener">skiworldcup.bormio.eu</a>.</p></div>
+</div>
 
 ## Where to stay
 
@@ -108,6 +157,12 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <div><dt>Bresaola</dt><dd>Cured beef from the Valtellina.</dd></div>
 <div><dt>Bitto</dt><dd>The long-aged local mountain cheese.</dd></div>
 </dl>
+
+## After skiing
+
+<div class="grid tripcards">
+{% include trip-card.html slug="qc-terme-bagni-vecchi" %}
+</div>
 
 ## Getting there
 

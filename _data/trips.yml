@@ -660,3 +660,124 @@
   slug: aquagranda
   note: "Alpine Wellness, 2.5 hours, from about 46 € for adults. Check prices on the official site"
   area: ski
+- title: "Luislkeller"
+  place: "Selva, Val Gardena"
+  dist: four
+  time: 4 h
+  kind: drinks
+  text: "The best-known bar in Selva for a late night, with live music and a long-standing reputation for the valley's nightlife."
+  maps_q: "Luislkeller, Selva di Val Gardena"
+  url: /articles/where-to-eat-and-stay-in-val-gardena/
+  slug: luislkeller
+  note: "Busiest late in the evening"
+  area: ski
+- title: "Chalet Tofane"
+  place: "Socrepes, Cortina"
+  dist: four
+  time: 4 h 30
+  kind: drinks
+  text: "The best-known après-ski in Cortina, at the bottom of the Socrepes slopes, with DJs and live bands at weekends."
+  maps_q: "Chalet Tofane, Socrepes, Cortina d'Ampezzo"
+  url: /articles/where-to-eat-and-stay-in-cortina/
+  slug: chalet-tofane
+  note: "Liveliest at weekends"
+  area: ski
+- title: "Bar Sport"
+  place: "Cortina"
+  dist: four
+  time: 4 h 30
+  kind: drinks
+  text: "A bar on the main street in the centre of town, for the drink before dinner after the lifts close."
+  maps_q: "Bar Sport, Corso Italia, Cortina d'Ampezzo"
+  url: /articles/where-to-eat-and-stay-in-cortina/
+  slug: bar-sport-cortina
+  note: "In the centre, on foot from everywhere"
+  area: ski
+- title: "Yeti"
+  place: "Breuil-Cervinia"
+  dist: four
+  time: 5 h
+  kind: drinks
+  text: "The sports bar near the Cretaz chairlift, with ski films on big screens and a happy hour, a fixture since the eighties."
+  maps_q: "Yeti Bar, Breuil-Cervinia"
+  url: /articles/where-to-eat-and-stay-in-cervinia/
+  slug: yeti-cervinia
+  note: "Next to the Cretaz chairlift"
+  area: ski
+- title: "Ymeletrob"
+  place: "Breuil-Cervinia"
+  dist: four
+  time: 5 h
+  kind: drinks
+  text: "A popular bar in the village next door to the Hotel Maquignaz, for a drink after the lifts close."
+  maps_q: "Ymeletrob, Breuil-Cervinia"
+  url: /articles/where-to-eat-and-stay-in-cervinia/
+  slug: ymeletrob
+  note: "In the centre of the village"
+  area: ski
+- title: "L'Murin"
+  place: "Corvara, Alta Badia"
+  dist: four
+  time: 4 h 45
+  kind: drinks
+  text: "A converted barn in Corvara with wooden beams and well poured beer, the liveliest small bar in the village after skiing."
+  maps_q: "L'Murin, Corvara"
+  url: /articles/where-to-eat-and-stay-in-alta-badia/
+  slug: lmurin
+  note: "Small, so it fills quickly"
+  area: ski
+- title: "K1"
+  place: "Riscone, Plan de Corones"
+  dist: four
+  time: 4 h 30
+  kind: drinks
+  text: "The après-ski bar at the bottom station in Riscone, which turns into a club with DJs later in the evening."
+  maps_q: "K1 Kronplatz, Reischach"
+  url: /articles/where-to-eat-and-stay-on-plan-de-corones/
+  slug: k1-kronplatz
+  note: "At the Riscone valley station"
+  area: ski
+- title: "Gassl"
+  place: "Valdaora, Plan de Corones"
+  dist: four
+  time: 4 h 30
+  kind: drinks
+  text: "A two-floor après-ski bar, restaurant and pizzeria at the Valdaora valley station."
+  maps_q: "Gassl, Olang, Kronplatz"
+  url: /articles/where-to-eat-and-stay-on-plan-de-corones/
+  slug: gassl
+  note: "At the Valdaora valley station"
+  area: ski
+- title: "Super G"
+  place: "Courmayeur"
+  dist: four
+  time: 5 h
+  kind: drinks
+  text: "An upscale après-ski venue on the mountain, with DJ sets through the season and a New Year party."
+  maps_q: "Super G Courmayeur"
+  url: /articles/where-to-eat-and-stay-in-courmayeur/
+  slug: super-g-courmayeur
+  note: "Programme at lovesuperg.com"
+  area: ski
+- title: "Bar Roma"
+  place: "Courmayeur"
+  dist: four
+  time: 5 h
+  kind: drinks
+  text: "The liveliest bar in the centre for the hour after the lifts close."
+  maps_q: "Bar Roma, Courmayeur"
+  url: /articles/where-to-eat-and-stay-in-courmayeur/
+  slug: bar-roma-courmayeur
+  note: "In the centre of town"
+  area: ski
+- title: "QC Terme Bagni Vecchi"
+  place: "Bormio"
+  dist: four
+  time: 5 h
+  kind: spa
+  text: "Thermal baths used since Roman times, with outdoor hot pools cut into the rock above the valley."
+  maps_q: "QC Terme Bagni Vecchi, Bormio"
+  url: /articles/where-to-eat-and-stay-in-bormio/
+  slug: qc-terme-bagni-vecchi
+  note: "Book at weekends"
+  area: ski

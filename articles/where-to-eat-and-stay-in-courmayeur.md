@@ -7,14 +7,14 @@ seo_title: "Courmayeur from Florence: where to eat, ski and sleep under Mont Bla
 seo_description: "Five hours from Florence, at the foot of Mont Blanc. A perfect day with lunch at Maison Vieille, the Skyway to 3,466 metres, the hot pools of Pré-Saint-Didier and dinner in an old stable."
 answer: "Under Mont Blanc, five hours from Florence. A smart town, the most famous lunch on Italian slopes, the Skyway cable car, and hot springs ten minutes away."
 published_on: "2026-11-06"
-updated_on: "2026-11-06"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the Michelin guide, the Aosta Valley tourist board and recent reviews. Not all of them have been visited by us yet. The Skyway and the top lifts close in wind, so check before you go up."
+verify_note: "Places were chosen from the Michelin guide, the Aosta Valley tourist board and recent reviews. Not all of them have been visited by us yet. The Skyway and the top lifts close in wind, so check before you go up. Skier reviews and the official event calendars were read in November 2026."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "Under Mont Blanc"
+    id: "under-mont-blanc"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to stay"
@@ -23,6 +23,8 @@ toc:
     id: "where-to-eat"
   - label: "What to order"
     id: "what-to-order"
+  - label: "After skiing"
+    id: "after-skiing"
   - label: "Getting there"
     id: "getting-there"
   - label: "Before you go"
@@ -53,13 +55,50 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">The most beautiful mountain in the Alps, and a town that knows how to live under it.</p>
+<p class="lede">Courmayeur sits at the foot of Mont Blanc, 4,808 metres, and the Skyway cable car climbs to 3,466 metres from the edge of town.</p>
 
 A car-free main street of old stone houses, the most famous lunch scene on Italian slopes, and outdoor hot pools facing Mont Blanc for the end of the day.
 
 {% include ski-fit.html id="courmayeur" %}
 
-## The mountain, top to bottom
+## Under Mont Blanc
+
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Courmayeur: the Mont Blanc massif at 4,808 metres with the Skyway cable car to Punta Helbronner at 3,466 metres, the ski area on the other side of the valley, the town at 1,224 metres and the hot springs of Pré-Saint-Didier"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-mtn" d="M10,340 70.8,128.6 108.8,66 154.4,62 276,62 314,68 352,133.4 390,340 Z"/>
+<path class="v-snow" d="M108.8,66 154.4,62 276,62 314,68 298.8,82 238,76 184.8,84 124,78 Z"/>
+<path class="v-mtn" d="M410,340 482,245.2 530,210.2 560,190.4 596,214.5 626,223.3 710,340 Z"/>
+<path class="v-snow" d="M560,190.4 530,218.9 546.5,212.7 557,218.9 570.5,211 593,219.5 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<path class="v-wall" d="M318.5,288.2 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M315.5,273.2 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M342.5,288.2 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M339.5,269.2 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M370.5,288.2 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M367.5,275.2 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M387.5,288.2 v-40 h9 v40 Z"/><path class="v-roof" d="M386.5,249.2 l5.5,-18 l5.5,18 Z"/>
+<path class="v-wall" d="M392.5,288.2 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M389.5,271.2 l13,-12 l13,12 Z"/>
+<path class="v-wall" d="M418.5,288.2 v-15 h17 v15 Z"/>
+<path class="v-roof" d="M415.5,274.2 l11.5,-12 l11.5,12 Z"/>
+<line class="v-cable" x1="330" y1="281.5" x2="260" y2="146"/><rect class="v-cabin" x="294" y="221.5" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="420" y1="286.2" x2="560" y2="190.4"/><rect class="v-cabin" x="478.5" y="244.1" width="9" height="11" rx="2"/>
+<path class="v-tree" d="M50,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M470,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M640,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M680,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<rect class="v-pool" x="618" y="296" width="44" height="8" rx="3"/>
+<path class="v-steam" d="M630,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M640,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-steam" d="M650,292 q5,-7 0,-14 q-5,-7 0,-14"/>
+<g class="v-pill"><rect x="96" y="18" width="208" height="30" rx="15"/><text x="200" y="38" text-anchor="middle"><tspan class="v-pn">Mont Blanc</tspan> · 4,808 m</text></g>
+<g class="v-pill"><rect x="163.4" y="112" width="173.2" height="30" rx="15"/><text x="250" y="132" text-anchor="middle"><tspan class="v-pn">Skyway</tspan> · 3,466 m</text></g>
+<g class="v-pill"><rect x="417" y="146.4" width="295" height="30" rx="15"/><text x="564.5" y="166.4" text-anchor="middle"><tspan class="v-pn">Ski area</tspan> · Checrouit · 2,755 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="276" y="210.2" width="208" height="30" rx="15"/><text x="380" y="230.2" text-anchor="middle"><tspan class="v-pn">Courmayeur</tspan> · 1,224 m</text></g>
+<g class="v-pill"><rect x="469.2" y="336" width="242.8" height="30" rx="15"/><text x="590.6" y="356" text-anchor="middle"><tspan class="v-pn">Pré-Saint-Didier springs</tspan></text></g>
+</svg>
+<figcaption>The Skyway climbs the Mont Blanc side from the edge of town. The ski area is on the opposite side of the valley, and the hot springs of Pré-Saint-Didier are ten minutes away.</figcaption>
+</figure>
 
 <ol class="ladder">
 <li><span class="alt">3,466 m</span><span class="lname">Punta Helbronner</span><span class="ldesc">The top of the Skyway, face to face with Mont Blanc.</span></li>
@@ -108,6 +147,13 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <div><dt>Carbonade</dt><dd>Beef stewed in red wine.</dd></div>
 <div><dt>Coffee in a grolla</dt><dd>Spiced coffee and grappa, passed around.</dd></div>
 </dl>
+
+## After skiing
+
+<div class="grid tripcards">
+{% include trip-card.html slug="super-g-courmayeur" %}
+{% include trip-card.html slug="bar-roma-courmayeur" %}
+</div>
 
 ## Getting there
 

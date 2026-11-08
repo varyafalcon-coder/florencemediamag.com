@@ -7,14 +7,14 @@ seo_title: "The Cimone from Florence: where to eat, ski and sleep"
 seo_description: "The biggest ski area in the Apennines, two hours fifteen from Florence, where lunch is half the reason to go. A perfect day, a medieval inn near Sestola, tigelle in Fanano and a refuge hotel at the lifts."
 answer: "The biggest ski area in the Apennines, two hours from Florence, in the land of tigelle and tortelloni. Lunch is half the reason to go."
 published_on: "2026-11-05"
-updated_on: "2026-11-05"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the tourist boards of the Modena Apennines and recent reviews. Not all of them have been visited by us yet. Several close on weekdays outside the holidays, so phone first."
+verify_note: "Places were chosen from the tourist boards of the Modena Apennines and recent reviews. Not all of them have been visited by us yet. Several close on weekdays outside the holidays, so phone first. Skier reviews and the official event calendars were read in November 2026."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "Monte Cimone and its slopes"
+    id: "monte-cimone-and-its-slopes"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "Where to stay"
@@ -53,13 +53,47 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">Cross into Emilia and two things change: the mountains get bigger and the food gets better.</p>
+<p class="lede">Monte Cimone, 2,165 metres, is the highest peak of the northern Apennines, and the ski area spreads over five bases around it.</p>
 
 The largest ski area in the Apennines, with five base areas, so a full day never feels like the same three runs. The cheapest full day of skiing within reach of Florence, and tigelle in the huts.
 
 {% include ski-fit.html id="cimone" %}
 
-## The mountain, top to bottom
+## Monte Cimone and its slopes
+
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Cimone: Monte Cimone at 2,165 metres with its weather station on top, the ski area on its slopes, and Sestola with its castle below at 1,020 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-back" d="M0,340 0,200.2 160,158.7 330,169 500,137.9 720,169 720,340 Z"/>
+<path class="v-mtn" d="M140,340 C233.6,68 306.4,62 400,62 C493.6,62 566.4,68 660,340 Z"/>
+<path class="v-snow" d="M316.8,71 C358.4,62 441.6,62 483.2,71 Q400,77 316.8,71 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<path class="v-wall" d="M393,64 v-12 h14 v12 Z"/><line class="v-cable" x1="400" y1="52" x2="400" y2="32"/>
+<path class="v-tree" d="M40,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M70,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M100,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M130,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M650,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M680,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-wall" d="M534,191.8 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M531,176.8 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M558,191.8 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M555,172.8 l14,-12 l14,12 Z"/>
+<line class="v-cable" x1="560" y1="189.8" x2="430" y2="71.4"/><rect class="v-cabin" x="497" y="137.5" width="9" height="11" rx="2"/>
+<path class="v-wall" d="M120,302 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M117,287 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M94,302 v-30 h4 v4 h4 v-4 h4 v4 h4 v-4 h4 v30 Z"/>
+<path class="v-wall" d="M144,302 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M141,283 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M172,302 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M169,289 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M194,302 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M191,285 l13,-12 l13,12 Z"/>
+<g class="v-pill"><rect x="287.3" y="8" width="225.4" height="30" rx="15"/><text x="400" y="28" text-anchor="middle"><tspan class="v-pn">Monte Cimone</tspan> · 2,165 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="451.8" y="123.8" width="260.2" height="30" rx="15"/><text x="581.9" y="143.8" text-anchor="middle"><tspan class="v-pn">Passo del Lupo</tspan> · the lifts</text></g>
+<g class="v-pill"><rect x="79.1" y="336" width="181.9" height="30" rx="15"/><text x="170" y="356" text-anchor="middle"><tspan class="v-pn">Sestola</tspan> · 1,020 m</text></g>
+</svg>
+<figcaption>The weather station on the summit is visible from all five bases. Sestola, with its fortress, is the village below.</figcaption>
+</figure>
 
 <ol class="ladder">
 <li><span class="alt">2,165 m</span><span class="lname">Monte Cimone</span><span class="ldesc">The highest peak of the northern Apennines, above the top lifts.</span></li>

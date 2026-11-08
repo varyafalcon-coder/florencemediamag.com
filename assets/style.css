@@ -991,3 +991,16 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 }
 /* bases: centred */
 .bases > div{text-align:center}
+.v-back{fill:#aab3ef;opacity:.55}
+.v-rockm{fill:#4a55c4}
+.v-rock{fill:#5b65cc}
+.v-tree{fill:#13208f}
+.v-cable{stroke:#0b0b0b;stroke-width:1.2;opacity:.55}
+.v-cabin{fill:#e3483a}
+.v-run{fill:none;stroke:#e3483a;stroke-width:3;stroke-dasharray:1 7;stroke-linecap:round}
+.v-lake{fill:#8ec5ff}
+.v-pool{fill:#8ed8ff}
+.v-steam{fill:none;stroke:#fff;stroke-width:2.2;stroke-linecap:round;opacity:.9}
+.v-museum{fill:#0b0b0b;opacity:.7}
+.v-train rect{fill:#e3483a}.v-train line{stroke:#0b0b0b;stroke-width:1.5}
+@media (prefers-color-scheme:dark){.v-back{fill:#3a4390;opacity:.7}}

@@ -7,16 +7,18 @@ seo_title: "Madonna di Campiglio from Florence: where to eat, ski and sleep"
 seo_description: "Four and a quarter hours from Florence. Groomed runs under the Brenta Dolomites, huts at the Spinale and Grost\u00e8, a walkable village, and where to eat and sleep."
 answer: "Long groomed runs under the Brenta Dolomites and a smart village you can walk around. Four and a quarter hours from Florence."
 published_on: "2026-11-05"
-updated_on: "2026-11-05"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the Michelin guide, Gambero Rosso, the tourist boards and recent reviews. Not all of them have been visited by us yet. Mountain huts follow the lifts and the weather, so check before you go."
+verify_note: "Places were chosen from the Michelin guide, Gambero Rosso, the tourist boards and recent reviews. Not all of them have been visited by us yet. Mountain huts follow the lifts and the weather, so check before you go. Skier reviews and the official event calendars were read in November 2026."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "Between the Brenta and the Spinale"
+    id: "between-the-brenta-and-the-spinale"
   - label: "A perfect day"
     id: "a-perfect-day"
+  - label: "What is on"
+    id: "what-is-on"
   - label: "Where to stay"
     id: "where-to-stay"
   - label: "Where to eat"
@@ -53,13 +55,46 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">Polished, elegant and easy: the lifts start a few minutes' walk from the centre.</p>
+<p class="lede">The village sits at 1,520 metres between the Brenta Dolomites and the Presanella, with gondolas a few minutes' walk from the centre.</p>
 
 Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Cortina. The runs are long and perfectly groomed, the village is compact and smart, and you can leave the car parked all weekend.
 
 {% include ski-fit.html id="campiglio" %}
 
-## The mountain, top to bottom
+## Between the Brenta and the Spinale
+
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts at 2,442 metres, the Spinale plateau at 2,100 metres, Pradalago at 2,100 metres on the left, and the village between them at 1,520 metres"><defs><linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient></defs><rect width="720" height="380" fill="url(#vsky)"/><circle class="v-sun" cx="640" cy="58" r="24"/>
+<path class="v-rockm" d="M460,340 486,152.1 489.9,82.5 499,78.5 520.2,96.5 529.3,83.5 550.6,110.5 559.7,88.5 580.9,82.5 590,72.5 611.2,96.5 620.3,83.5 641.6,110.5 650.7,88.5 671.9,82.5 681,78.5 694,152.1 720,340 Z"/>
+<path class="v-mtn" d="M300,340 332,239.9 352,220.5 376,216.5 440,216.5 460,222.5 480,241.5 500,340 Z"/>
+<path class="v-mtn" d="M-10,340 C40.4,222.5 79.6,216.5 130,216.5 C180.4,216.5 219.6,222.5 270,340 Z"/>
+<path class="v-snow" d="M85.2,225.5 C107.6,216.5 152.4,216.5 174.8,225.5 Q130,231.5 85.2,225.5 Z"/>
+<path class="v-floor" d="M0,300 Q180,288 360,300 T720,300 L720,380 L0,380 Z"/>
+<path class="v-tree" d="M30,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M60,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M240,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M260,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-tree" d="M520,302 l9,-22 l9,22 Z"/>
+<path class="v-tree" d="M690,302 l6.8,-16.5 l6.8,16.5 Z"/>
+<path class="v-wall" d="M235,302 v-16 h18 v16 Z"/>
+<path class="v-roof" d="M232,287 l12,-12 l12,12 Z"/>
+<path class="v-wall" d="M259,302 v-20 h22 v20 Z"/>
+<path class="v-roof" d="M256,283 l14,-12 l14,12 Z"/>
+<path class="v-wall" d="M287,302 v-14 h16 v14 Z"/>
+<path class="v-roof" d="M284,289 l11,-12 l11,12 Z"/>
+<path class="v-wall" d="M304,302 v-40 h9 v40 Z"/><path class="v-roof" d="M303,263 l5.5,-18 l5.5,18 Z"/>
+<path class="v-wall" d="M309,302 v-18 h20 v18 Z"/>
+<path class="v-roof" d="M306,285 l13,-12 l13,12 Z"/>
+<line class="v-cable" x1="250" y1="300" x2="130" y2="216.5"/><rect class="v-cabin" x="191.5" y="263.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="320" y1="300" x2="400" y2="216.5"/><rect class="v-cabin" x="351.5" y="263.4" width="9" height="11" rx="2"/>
+<line class="v-cable" x1="470" y1="274.1" x2="580" y2="167.2"/><rect class="v-cabin" x="515" y="227" width="9" height="11" rx="2"/>
+<g class="v-pill"><rect x="390.9" y="28.5" width="321.1" height="30" rx="15"/><text x="551.5" y="48.5" text-anchor="middle"><tspan class="v-pn">Brenta Dolomites</tspan> · Grostè 2,442 m</text></g>
+<g class="v-pill"><rect x="309.1" y="172.5" width="181.9" height="30" rx="15"/><text x="400" y="192.5" text-anchor="middle"><tspan class="v-pn">Spinale</tspan> · 2,100 m</text></g>
+<g class="v-pill"><rect x="30.4" y="172.5" width="199.3" height="30" rx="15"/><text x="130" y="192.5" text-anchor="middle"><tspan class="v-pn">Pradalago</tspan> · 2,100 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="137.5" y="336" width="295" height="30" rx="15"/><text x="285" y="356" text-anchor="middle"><tspan class="v-pn">Madonna di Campiglio</tspan> · 1,520 m</text></g>
+</svg>
+<figcaption>The village lies between Pradalago and the Spinale, with the jagged Brenta Dolomites and the Grostè lifts on the other side.</figcaption>
+</figure>
 
 <ol class="ladder">
 <li><span class="alt">2,442 m</span><span class="lname">Grostè</span><span class="ldesc">The highest lifts and the Stoppani hut facing the Brenta.</span></li>
@@ -76,6 +111,15 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <li><span class="when">Afternoon</span><span class="what">Across to Pradalago and the runs towards Folgarida.</span></li>
 <li><span class="when">Evening</span><span class="what">Dinner at <a href="/trips/ristorante-artini/">Artini</a> or <a href="/trips/ristorante-antico-focolare/">Antico Focolare</a>.</span></li>
 </ol>
+
+## What is on
+
+Some events come back every winter. Dates change each year, so check them before you book.
+
+<div class="events">
+<div class="ev"><span class="ev-date">23 December 2026</span><p class="ev-name">3Tre night slalom</p><p class="ev-text">The men's World Cup slalom on the Canalone Miramonti, under floodlights, in front of 15,000 to 20,000 people. Tickets at <a href="https://www.3trecampiglio.it/en/" target="_blank" rel="noopener">3trecampiglio.it</a>.</p></div>
+<div class="ev"><span class="ev-date">February</span><p class="ev-name">Habsburg Carnival</p><p class="ev-text">Every February the village celebrates the years when Empress Sissi and Franz Joseph stayed here, with a grand ball, processions and fireworks.</p></div>
+</div>
 
 ## Where to stay
 
