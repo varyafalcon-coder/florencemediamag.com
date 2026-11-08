@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "What should you not miss in Florence?"
 permalink: /articles/what-not-to-miss-in-florence/
 seo_title: "What should you not miss in Florence? An honest short list"
@@ -42,6 +43,19 @@ photo_alt: "The Duomo and Palazzo Vecchio above the roofs of Florence"
 photo_credit: 'Photo: <a href="https://unsplash.com/@joaohfrodrigues?utm_source=florence_media&utm_medium=referral">João Rodrigues</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
+<dl class="glance">
+<div><dt>The list</dt><dd>Six things</dd></div>
+<div><dt>Must see</dt><dd>David and the Duomo</dd></div>
+<div><dt>Sunset</dt><dd>Not Piazzale Michelangelo</dd></div>
+<div><dt>Dinner</dt><dd>One meal under 15&nbsp;€</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">6</span><span class="bl">things not to miss</span></div>
+<div><span class="bn">1</span><span class="bl">Oltrarno evening</span></div>
+<div><span class="bn">15&nbsp;€</span><span class="bl">for a real meal</span></div>
+</div>
+
 Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.
 
 ## The Duomo, and which climb to pick
@@ -75,13 +89,16 @@ Florence has enough art to fill a month. On a short visit, one gallery with prop
 <div><dt>Getting there</dt><dd>Four minutes on foot from Piazza della Signoria</dd></div>
 <div><dt>Time</dt><dd>An hour, rarely any queue</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A medieval fortress and prison turned sculpture museum, holding Donatello's bronze David, work by Michelangelo and Cellini, and the two competition panels by Ghiberti and Brunelleschi that effectively started the Renaissance. It is a fraction of the Uffizi's crowd for a comparable density of important objects.
 
 The alternative, if you prefer painting, is the Brancacci Chapel across the river, where Masaccio worked out how to paint space and every painter in Florence came to study afterwards. Small, quiet, ticketed, and one of the genuinely important rooms in European art.
 
 Either will give you more in an hour than a long gallery on tired legs. If galleries are the reason you came, go to the Uffizi instead, with a booking and a plan.
+
+</div>
+</div>
 
 ## Where to be at sunset
 
@@ -94,11 +111,14 @@ Piazzale Michelangelo has the postcard view and, at sunset, most of the people w
 <div><dt>Getting there</dt><dd>Five minutes uphill from Piazzale Michelangelo, or twenty five minutes on foot from Ponte Vecchio</dd></div>
 <div><dt>Why</dt><dd>Same view, a fraction of the people, and Gregorian chant in the evening</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 An eleventh century church with a marble facade, a crypt, and monks who still sing vespers in the evening. Five minutes above the Piazzale and far quieter.
 
 The Giardino delle Rose sits just below, free, with the same panorama through roses and Folon sculptures, and closes at dusk. Down at river level, Ponte Santa Trinita gives you Ponte Vecchio lit gold over the water.
+
+</div>
+</div>
 
 ## The Oltrarno after dark
 

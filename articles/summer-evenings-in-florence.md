@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Summer evenings in Florence"
 permalink: /articles/summer-evenings-in-florence/
 seo_title: "Summer evenings in Florence: open-air cinema, concerts and Estate Fiorentina"
@@ -21,6 +22,18 @@ photo_alt: "Florence lit up at night from Piazzale Michelangelo"
 photo_credit: 'Photo: <a href="https://unsplash.com/@yileijerrybao?utm_source=florence_media&utm_medium=referral">Yilei (Jerry) Bao</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
+<dl class="glance">
+<div><dt>Season</dt><dd>June to September</dd></div>
+<div><dt>Programme</dt><dd>Estate Fiorentina</dd></div>
+<div><dt>Cinema</dt><dd>Free films at the Uffizi</dd></div>
+<div><dt>Theatre</dt><dd>The Roman theatre in Fiesole</dd></div>
+</dl>
+
+<div class="bignums bn2">
+<div><span class="bn">1,000+</span><span class="bl">events every summer</span></div>
+<div><span class="bn">4</span><span class="bl">open-air cinemas we pick</span></div>
+</div>
+
 Florence in July is a city that comes out after dark. Once the stone cools, the squares, cloisters and gardens fill with screens, stages and folding chairs.
 
 <div class="callout">
@@ -29,21 +42,33 @@ Florence in July is a city that comes out after dark. Once the stone cools, the 
 
 ## Cinema under the stars
 
+<div class="pick" markdown="1">
 <p class="picklabel">Apriti Cinema, at the Uffizi</p>
 
 Films in the long courtyard of the Uffizi, free, from mid-June through the summer. Bring something to sit on in case the chairs are taken.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Cinema nel Chiostro, Sant'Orsola</p>
 
 A screen in the cloister of the old convent of Sant'Orsola, near the San Lorenzo market, from the end of June to early September.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Cinema in Villa, Villa Bardini</p>
 
 Films in the garden of Villa Bardini, above the Oltrarno, in July and August. The setting is half the reason to go.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Chiardiluna</p>
 
 The historic open-air arena of the Oltrarno, hidden behind the walls near Porta Romana.
+
+</div>
 
 ## Music and theatre
 

@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Cool things to do in Florence, away from the tourist track"
 permalink: /articles/florence-off-the-tourist-track/
 seo_title: "Cool things to do in Florence away from the tourist track"
@@ -42,6 +43,19 @@ photo_alt: "Ponte Vecchio framed by blue flowers on the riverbank"
 photo_credit: 'Photo: <a href="https://unsplash.com/@rafaelpeier?utm_source=florence_media&utm_medium=referral">Rafael Peier</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
+<dl class="glance">
+<div><dt>The centre</dt><dd>About 1.5 km across</dd></div>
+<div><dt>The trick</dt><dd>Two streets outside it</dd></div>
+<div><dt>Extra time</dt><dd>About twenty minutes</dd></div>
+<div><dt>Best for</dt><dd>A second visit</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">1.5 km</span><span class="bl">the centre, end to end</span></div>
+<div><span class="bn">20 min</span><span class="bl">to leave the crowds behind</span></div>
+<div><span class="bn">8</span><span class="bl">ideas in this guide</span></div>
+</div>
+
 The famous parts of Florence sit inside a square roughly a kilometre and a half across, and that is where nearly everyone stays. Cross the edge of it and the city empties out within a couple of streets.
 
 Nothing below is remote or difficult. Most of it is inside the old walls, and the furthest thing here is twenty five minutes on a bus from Piazza San Marco.
@@ -57,11 +71,14 @@ When Florence was briefly the capital of Italy in the 1860s, Giuseppe Poggi laid
 <div><dt>Finish</dt><dd><a href="https://www.google.com/maps/search/?api=1&query=Piazza%20Ferrucci%2C%20Firenze" target="_blank" rel="noopener">Piazza Ferrucci</a>, back down on the river</dd></div>
 <div><dt>Time</dt><dd>About an hour, mostly downhill in that direction</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Piazzale Michelangelo sits in the middle of this walk. The two ends are the quiet part: shaded, close to empty even in August, garden walls on one side and the city appearing and disappearing on the other.
 
 Bus 12 covers the same route from Porta Romana if you would rather ride up and walk down. Going the other way, from Piazza Ferrucci, means climbing the whole thing, which is fine in April and a bad idea in July.
+
+</div>
+</div>
 
 ## Go up Erta Canina instead
 
@@ -72,13 +89,16 @@ Bus 12 covers the same route from Porta Romana if you would rather ride up and w
 <div><dt>Time</dt><dd>Twenty minutes up, longer if you stop</dd></div>
 <div><dt>Note</dt><dd>Steep and uneven, so shoes rather than sandals</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A narrow paved lane between high garden walls that leaves the city almost at once. Ten minutes up and you are among olive terraces, hearing birds instead of scooters, still technically inside the walls.
 
 Partway up there is a gap in the stonework that frames the dome and the campanile exactly. Locals call it lo scorcio, the glimpse. No railing, no platform, no queue.
 
 From the top you are a few minutes from the Giardino delle Rose and from San Miniato al Monte, which means this connects to the Viale dei Colli walk if you want to make an afternoon of it.
+
+</div>
+</div>
 
 ## Fiesole, but walk back down
 
@@ -91,11 +111,14 @@ Fiesole is a small hill town twenty five minutes above Florence, with a Roman th
 <div><dt>Coming back</dt><dd>On foot down Via Vecchia Fiesolana, roughly an hour and a half</dd></div>
 <div><dt>Best time</dt><dd>Late afternoon, so the descent is in soft light</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Look at the theatre, eat something in the square, then walk back down through San Domenico. The old road drops through cypress and villa gardens with Florence spread out below and getting slowly closer. It is one of the best walks in Tuscany and it starts twenty five minutes from the Duomo.
 
 Downhill. Uphill in summer is another kind of afternoon.
+
+</div>
+</div>
 
 ## A house full of armoured knights
 
@@ -106,13 +129,16 @@ Downhill. Uphill in summer is another kind of afternoon.
 <div><dt>Getting there</dt><dd>Bus 4 from Santa Maria Novella station, about fifteen minutes</dd></div>
 <div><dt>Time</dt><dd>An hour and a half, plus the park</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Frederick Stibbert was born in Florence to a British family, inherited a fortune and spent it on roughly fifty thousand objects. Arms and armour, European, Islamic and Japanese, plus costume, tapestries and furniture. When he died in 1906 he left the lot to the city, and it has been kept the way he arranged it rather than rearranged into something modern.
 
 The room people remember is the Sala della Cavalcata: a procession of life sized figures in real armour, mounted, European and Ottoman, drawn up in formation down one long hall. There are samurai suits from the 1600s and a Bronzino self portrait too.
 
 The park outside is free, laid out by the same Poggi who built the Viale dei Colli, and contains a lake, grottoes and a small Egyptian temple. It is usually empty.
+
+</div>
+</div>
 
 ## A hillside park with a lake
 
@@ -123,11 +149,14 @@ The park outside is free, laid out by the same Poggi who built the Viale dei Col
 <div><dt>Getting there</dt><dd>Bus 10 from Piazza San Marco, or thirty five minutes on foot from Piazza Beccaria</dd></div>
 <div><dt>Note</dt><dd>Seasonal hours and the gates do close</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A hillside park with a lake, an island, a neoclassical villa and long meadows that open onto the city. Poggi again, planting lime and horse chestnut across what had been olive groves so that the view keeps appearing between the trees.
 
 The upper slopes give one of the best free views in Florence, and you will often have it to yourself.
+
+</div>
+</div>
 
 ## Get on the river
 
@@ -140,11 +169,14 @@ The Arno runs through the middle of Florence and hardly anybody is on it. From t
 <div><dt>Getting there</dt><dd>Twelve minutes on foot east of Ponte Vecchio along the south bank</dd></div>
 <div><dt>Season</dt><dd>Every day, March to November, two hours</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Rafting means everyone in one boat with a guide who paddles, so nobody needs any skill, and it takes children from about four. Kayaking is one small inflatable each and suits people who would rather do the work themselves. The stretch through the centre is flat with no rapids either way, and you pass directly under the arches of Ponte Vecchio.
 
 Departure times shift with the season.
+
+</div>
+</div>
 
 <dl class="venue-meta schedule">
 <div><dt>March to May</dt><dd>10:00 and 15:00</dd></div>
@@ -162,11 +194,14 @@ Departure times shift with the season.
 <div><dt>Getting there</dt><dd>Five minutes on foot from Piazza della Repubblica or the Duomo</dd></div>
 <div><dt>Best for</dt><dd>Rain, heat, or an hour with nothing to do</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 The Odeon opened as a cinema in 1922 inside Palazzo dello Strozzino, under a dome of coloured glass with gilded stucco and three carved Muses. It ran for nearly a century. In November 2023 it reopened as a bookshop and cinema together, after the regular audience objected to a plan that would have dropped the films.
 
 Around twenty five thousand books including English originals, a cafe with a wine window, and the old hall still screening films in their original language. During the day the upper gallery is open with seating and a screen, and nobody rushes you out. The best indoor hour in central Florence when it rains.
+
+</div>
+</div>
 
 ## Spend one day with no plan at all
 

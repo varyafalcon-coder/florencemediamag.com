@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Are 2 days enough for Florence?"
 permalink: /articles/are-two-days-enough-for-florence/
 seo_title: "Are 2 days enough for Florence? Yes, with one rule"
@@ -37,6 +38,19 @@ photo: "/assets/photos/articles/are-two-days-enough-for-florence.jpg"
 photo_alt: "Florence from Piazzale Michelangelo, with the Duomo and the Arno"
 photo_credit: 'Photo: <a href="https://unsplash.com/@lovgretphoto?utm_source=florence_media&utm_medium=referral">Henrik Mee Løvgret</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
+
+<dl class="glance">
+<div><dt>Short answer</dt><dd>Yes</dd></div>
+<div><dt>The centre</dt><dd>About 1.5 km across</dd></div>
+<div><dt>The rule</dt><dd>One booked museum a day</dd></div>
+<div><dt>Watch out</dt><dd>Many museums close on Mondays</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">2 days</span><span class="bl">enough for the centre</span></div>
+<div><span class="bn">1.5 km</span><span class="bl">across the historic centre</span></div>
+<div><span class="bn">1</span><span class="bl">booked museum per day</span></div>
+</div>
 
 Florence's historic centre is about a kilometre and a half across. You can walk from the station to Ponte Vecchio in fifteen minutes and from the Duomo to Santa Croce in ten. There is no metro because nothing is far enough away to need one.
 

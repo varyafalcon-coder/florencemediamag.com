@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Can you work from a cafe in Florence? What's actually acceptable here"
 permalink: /articles/work-from-a-cafe-in-florence/
 seo_title: "Can you work from a cafe in Florence? The etiquette and five places"
@@ -32,6 +33,17 @@ photo_alt: "A laptop and a coffee on a wooden table"
 photo_credit: 'Photo: <a href="https://www.flickr.com/photos/147875007@N03/40640189245">Rawpixel</a> via Flickr'
 ---
 
+<dl class="glance">
+<div><dt>Allowed</dt><dd>Yes, almost everywhere</dd></div>
+<div><dt>What matters</dt><dd>How long you stay</dd></div>
+<div><dt>Avoid</dt><dd>The lunch rush</dd></div>
+<div><dt>Where</dt><dd>Five places that work</dd></div>
+</dl>
+
+<div class="bignums bn1">
+<div><span class="bn">5</span><span class="bl">cafes where it feels normal</span></div>
+</div>
+
 ## How long you can stay
 
 Most Italian bars are designed for a coffee at the counter that takes ninety seconds. There is no sign saying laptops are welcome and no sign saying they are not. So you sit down, open your computer, and spend the next hour reading the barista's face.
@@ -53,11 +65,14 @@ The anxiety is usually unnecessary. Florence has a large student population and 
 <div><dt>Hours</dt><dd>Tue to Fri 9:00–19:00, Wed to Fri until 23:00, Sat 10:00–23:00, Mon 14:00–19:00, closed Sunday</dd></div>
 <div><dt>Laptops</dt><dd>The building is for it</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A public library in a former fourteenth century convent two minutes from the Duomo. Free to enter, quiet by design, full of students working through long days. The reading rooms are the serious option. The rooftop cafe has a view straight onto Brunelleschi's dome and a much looser atmosphere.
 
 This is the only place on the list where nobody could think a laptop is odd. It fills up: weekday afternoons in term time are the worst, mornings are reliable.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Ditta Artigianale, Via dello Sprone</h3>
@@ -66,11 +81,14 @@ This is the only place on the list where nobody could think a laptop is odd. It 
 <div><dt>Hours</dt><dd>Daily 7:30–19:00</dd></div>
 <div><dt>Laptops</dt><dd>Upstairs, yes</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 The Oltrarno branch of the roaster that brought specialty coffee to Florence. The ground floor is a busy bar. The upstairs room is the reason it is here: armchairs, tables, a calmer atmosphere that people already use for work.
 
 Full at brunch, so this is a morning or late afternoon place. There is a small charge for table service, standard in Italy and worth knowing before the bill arrives.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Ditta Artigianale, Piazza Ferrucci</h3>
@@ -79,11 +97,14 @@ Full at brunch, so this is a morning or late afternoon place. There is a small c
 <div><dt>Hours</dt><dd>Daily 8:00–21:30</dd></div>
 <div><dt>Laptops</dt><dd>Yes, and late</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Everyone calls this one Piazza Ferrucci, but the registered address is on Lungarno Cellini, so search for that if your map argues with you. About twenty minutes east along the river from the centre, which is exactly why it works: fewer visitors, more locals, a garden terrace set back from the road and a lot of indoor seating.
 
 Open until 21:30, so it is the one option here for people who work in the evening.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Todo Modo</h3>
@@ -92,11 +113,14 @@ Open until 21:30, so it is the one option here for people who work in the evenin
 <div><dt>Hours</dt><dd>Mon to Sat 10:00–19:30, closed Sunday</dd></div>
 <div><dt>Laptops</dt><dd>Yes, if you travel light</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A bookshop with a cafe and small bistro at the back, between Santa Maria Novella and the river. Independent, calm, staffed by people entirely used to customers sitting for a while.
 
 It is small. Tables are close together, and if you need to spread out or take a call this is not the place. For quiet solo work with a coffee, in the morning, it is one of the nicest rooms in central Florence.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Shake Cafe, Manifattura Tabacchi</h3>
@@ -105,11 +129,14 @@ It is small. Tables are close together, and if you need to spread out or take a 
 <div><dt>Hours</dt><dd>Mon to Fri 9:00–17:00, weekends 10:00–17:00</dd></div>
 <div><dt>Laptops</dt><dd>Obviously yes</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Manifattura Tabacchi is a former tobacco factory northwest of the centre, redeveloped into a campus of studios and workspaces. The cafe inside is large, bright, air conditioned and full of people who work in the buildings around it.
 
 The most obviously laptop-friendly place on the list and the least central: roughly twenty five minutes on foot or a short tram ride from Santa Maria Novella. Closes at 17:00, so daytime only.
+
+</div>
+</div>
 
 ## Where not to open a laptop
 

@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Getting around Florence: tram, bus, taxi and the ZTL"
 permalink: /articles/getting-around-florence/
 seo_title: "Getting around Florence 2026: tram to the airport, bus tickets, taxis and the ZTL"
@@ -20,6 +21,19 @@ photo: "/assets/photos/articles/getting-around-florence.jpg"
 photo_alt: "People walking through a lit street near Ponte Vecchio at night"
 photo_credit: 'Photo: <a href="https://unsplash.com/@miraxh?utm_source=florence_media&utm_medium=referral">Miraxh Tereziu</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
+
+<dl class="glance">
+<div><dt>Best way</dt><dd>Walk</dd></div>
+<div><dt>Airport</dt><dd>T2 tram, about 20 min</dd></div>
+<div><dt>Ticket</dt><dd>2&nbsp;€ for 90 minutes</dd></div>
+<div><dt>Driving</dt><dd>Avoid the ZTL</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">1.5 km</span><span class="bl">across the centre</span></div>
+<div><span class="bn">2&nbsp;€</span><span class="bl">bus and tram, 90 minutes</span></div>
+<div><span class="bn">20 min</span><span class="bl">tram to the airport</span></div>
+</div>
 
 Florence is a walking city. From the station to Ponte Vecchio is fifteen minutes on foot, and from the Duomo to Santa Croce ten. Most visitors never need a ticket except to and from the airport.
 

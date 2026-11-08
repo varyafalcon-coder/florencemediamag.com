@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "How to tell real gelato from the tourist stuff"
 permalink: /articles/real-gelato-in-florence/
 seo_title: "How to tell real gelato in Florence from the tourist stuff"
@@ -32,6 +33,19 @@ photo_alt: "A gelato cone held up against a red wall with wooden shutters"
 photo_credit: 'Photo: <a href="https://unsplash.com/@mmmanford?utm_source=florence_media&utm_medium=referral">Moriah Manford</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
+<dl class="glance">
+<div><dt>Look for</dt><dd>Flat, covered tins</dd></div>
+<div><dt>Banana</dt><dd>Grey, not yellow</dd></div>
+<div><dt>Pistachio</dt><dd>Dull khaki</dd></div>
+<div><dt>Never</dt><dd>Blue</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">4</span><span class="bl">rules</span></div>
+<div><span class="bn">3 sec</span><span class="bl">each</span></div>
+<div><span class="bn">6</span><span class="bl">places in Florence that pass</span></div>
+</div>
+
 ## Four rules, and they take three seconds each
 
 Start with the containers. Real gelato is stored in covered metal tins, called pozzetti, or in flat trays under a lid. Gelato piled into peaks in an open display has been stabilised with vegetable fat and emulsifiers so it holds that shape under lights. The peaks are marketing, and you pay for them in texture.
@@ -61,9 +75,12 @@ Price is a weak signal in the centre, where rent decides more than skill. Distan
 <div><dt>Area</dt><dd>Santo Spirito</dd></div>
 <div><dt>Order</dt><dd>Whatever is on the short list</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 A counter the size of a cupboard on the quietest small square in the Oltrarno. The flavour list is short and changes with the season, which is always the good sign. Two people at the counter counts as a queue. Take it outside and sit on the square.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Gelateria La Carraia</h3>
@@ -72,9 +89,12 @@ A counter the size of a cupboard on the quietest small square in the Oltrarno. T
 <div><dt>Area</dt><dd>San Frediano</dd></div>
 <div><dt>Order</dt><dd>The house flavours, not the classics</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Open since 1990 at the foot of Ponte alla Carraia, and the reference point for gelato on this side of the river. Generous portions at prices that have somehow stayed low: the small cone costs roughly what a bottle of water does near the Duomo. There is a second counter on Via dei Benci.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Gelateria dei Neri</h3>
@@ -83,9 +103,12 @@ Open since 1990 at the foot of Ponte alla Carraia, and the reference point for g
 <div><dt>Area</dt><dd>Santa Croce</dd></div>
 <div><dt>Order</dt><dd>Ricotta and fig, if it is there</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 On a street that is now mostly sandwich queues, which makes it easy to walk past. Wide range without tipping into industrial territory, strong on the cream flavours, and it keeps unusually long hours for the centre.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Carapina</h3>
@@ -94,9 +117,12 @@ On a street that is now mostly sandwich queues, which makes it easy to walk past
 <div><dt>Area</dt><dd>Santa Croce</dd></div>
 <div><dt>Order</dt><dd>Seasonal fruit</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Simone Bonini opened in 2008 and is credited by other gelato makers with pulling the city's standards up: fresh seasonal fruit, whole milk, good chocolate, no semi-finished bases. The covered pozzetti counter he brought back is now the thing you look for anywhere to tell real from decoration.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Sbrino Gelatificio Contadino</h3>
@@ -105,9 +131,12 @@ Simone Bonini opened in 2008 and is credited by other gelato makers with pulling
 <div><dt>Area</dt><dd>Santo Spirito</dd></div>
 <div><dt>Order</dt><dd>Ask which farm the milk came from</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Built on short supply chains: named farms for the milk, seasonal fruit, nothing bought in as a ready made base. Around eighteen cream flavours and eight sorbets, changing with what is available. The vegan and gluten free options are properly made rather than an afterthought.
+
+</div>
+</div>
 
 <div class="venue">
 <h3>Badiani</h3>
@@ -116,9 +145,12 @@ Built on short supply chains: named farms for the milk, seasonal fruit, nothing 
 <div><dt>Area</dt><dd>Campo di Marte</dd></div>
 <div><dt>Order</dt><dd>Buontalenti</dd></div>
 </dl>
-</div>
+<div class="venue-text" markdown="1">
 
 Far enough from the centre that going is a decision rather than an accident, which is exactly why the room is full of Florentines. Buontalenti, an egg and cream flavour invented in Florence, is the house order and the thing most visitors never hear about.
+
+</div>
+</div>
 
 ## One last thing
 

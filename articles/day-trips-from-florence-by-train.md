@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Day trips from Florence by train"
 permalink: /articles/day-trips-from-florence-by-train/
 seo_title: "Day trips from Florence by train: Pisa, Lucca, Bologna, Siena and more"
@@ -20,6 +21,19 @@ photo: "/assets/photos/articles/day-trips-from-florence-by-train.jpg"
 photo_alt: "Piazza del Campo in Siena"
 photo_credit: 'Photo: <a href="https://www.flickr.com/photos/154650255@N03/37733245095">liakada-web</a> via Flickr'
 ---
+
+<dl class="glance">
+<div><dt>Bologna</dt><dd>35 to 40 min</dd></div>
+<div><dt>Pisa</dt><dd>About 1 h</dd></div>
+<div><dt>Lucca</dt><dd>1 h 15 to 1 h 30</dd></div>
+<div><dt>Siena</dt><dd>Take the bus</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">35 min</span><span class="bl">to Bologna</span></div>
+<div><span class="bn">5–9&nbsp;€</span><span class="bl">a regional ticket</span></div>
+<div><span class="bn">1 h</span><span class="bl">to Pisa</span></div>
+</div>
 
 Florence is the centre of a web of railway lines, and half of Tuscany is within an hour or so. You do not need a car for any of these.
 

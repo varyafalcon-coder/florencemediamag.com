@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Free museums in Florence, and the first Sunday"
 permalink: /articles/free-museums-in-florence/
 seo_title: "Free museums in Florence: first Sunday of the month and what is always free"
@@ -20,6 +21,19 @@ photo: "/assets/photos/articles/free-museums-in-florence.jpg"
 photo_alt: "The Fountain of Neptune lit at night in front of Palazzo Vecchio"
 photo_credit: 'Photo: <a href="https://unsplash.com/@mic222?utm_source=florence_media&utm_medium=referral">Michael Shtern</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
+
+<dl class="glance">
+<div><dt>When</dt><dd>First Sunday of every month</dd></div>
+<div><dt>Which</dt><dd>The state museums</dd></div>
+<div><dt>Booking</dt><dd>Not possible, you queue</dd></div>
+<div><dt>Price</dt><dd>Free for everyone</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">1st</span><span class="bl">Sunday of the month</span></div>
+<div><span class="bn">0&nbsp;€</span><span class="bl">for everyone</span></div>
+<div><span class="bn">6</span><span class="bl">state museums included</span></div>
+</div>
 
 Florence's big museums cost real money, and two or three of them in a short trip add up. Once a month they cost nothing.
 

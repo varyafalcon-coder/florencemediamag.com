@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "A beach day from Florence by train"
 permalink: /articles/beach-day-from-florence-by-train/
 seo_title: "Beach day from Florence by train: Viareggio and the Tuscan coast"
@@ -20,6 +21,19 @@ photo: "/assets/photos/articles/beach-day-from-florence-by-train.jpg"
 photo_alt: "Striped deckchairs and umbrellas on the rocks above the sea"
 photo_credit: 'Photo: <a href="https://unsplash.com/photos/OPbsDy95hFw?utm_source=florence_media&utm_medium=referral">Will Truettner</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
+
+<dl class="glance">
+<div><dt>Go to</dt><dd>Viareggio</dd></div>
+<div><dt>Train</dt><dd>1 h 15 to 1 h 30</dd></div>
+<div><dt>Ticket</dt><dd>About 10&nbsp;€ each way</dd></div>
+<div><dt>Booking</dt><dd>Not needed</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">1 h 15</span><span class="bl">by regional train</span></div>
+<div><span class="bn">10&nbsp;€</span><span class="bl">each way</span></div>
+<div><span class="bn">10 min</span><span class="bl">walk from station to sea</span></div>
+</div>
 
 Florence is an hour and a bit from the sea, and in summer the regional trains to the coast are full of Florentines with beach bags. You do not need a car.
 

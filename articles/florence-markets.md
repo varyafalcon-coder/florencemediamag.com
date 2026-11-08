@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Florence's markets, and which one is for what"
 permalink: /articles/florence-markets/
 seo_title: "Florence markets: Sant'Ambrogio, Mercato Centrale, San Lorenzo and the flea markets"
@@ -20,6 +21,13 @@ photo: "/assets/photos/articles/florence-markets.jpg"
 photo_alt: "Fruit and vegetables on a Florence market stall"
 photo_credit: 'Photo: <a href="https://www.flickr.com/photos/30567804@N00/530352360">echiner1</a> via Flickr'
 ---
+
+<dl class="glance">
+<div><dt>For food</dt><dd>Sant'Ambrogio</dd></div>
+<div><dt>Open</dt><dd>Monday to Saturday mornings</dd></div>
+<div><dt>Biggest</dt><dd>Mercato Centrale</dd></div>
+<div><dt>Antiques</dt><dd>Santo Spirito, monthly</dd></div>
+</dl>
 
 Florence has a market for every purpose, and they are easy to confuse. The food markets are where the city shops; the stalls in between are mostly for visitors.
 

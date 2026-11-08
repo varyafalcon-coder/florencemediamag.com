@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "What to avoid in Florence"
 permalink: /articles/what-to-avoid-in-florence/
 seo_title: "What to avoid in Florence, and what to do instead"
@@ -35,6 +36,19 @@ photo: "/assets/photos/articles/what-to-avoid-in-florence.jpg"
 photo_alt: "Ponte Vecchio at night, reflected in the Arno"
 photo_credit: 'Photo: <a href="https://unsplash.com/@bune?utm_source=florence_media&utm_medium=referral">Pedro Bune</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
+
+<dl class="glance">
+<div><dt>Scams</dt><dd>Very few</dd></div>
+<div><dt>The rule</dt><dd>Walk three streets away</dd></div>
+<div><dt>Skip</dt><dd>Lunch on the main squares</dd></div>
+<div><dt>Gelato</dt><dd>Skip the glowing mounds</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">3</span><span class="bl">streets from the famous one</span></div>
+<div><span class="bn">40&nbsp;€</span><span class="bl">for lunch on a main square</span></div>
+<div><span class="bn">90 min</span><span class="bl">gone with it</span></div>
+</div>
 
 Florence is an easy city to enjoy and a slightly tricky one to eat in. Almost nothing here will cheat you outright. What happens instead is quieter: you pay more and wait longer for a weaker version of something the city does extremely well two streets away.
 

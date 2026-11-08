@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "San Giovanni: Florence's own holiday on 24 June"
 permalink: /articles/san-giovanni-in-florence/
 seo_title: "San Giovanni in Florence: Calcio Storico and the fireworks on 24 June"
@@ -20,6 +21,19 @@ photo: "/assets/photos/articles/san-giovanni-in-florence.jpg"
 photo_alt: "San Giovanni fireworks over the Arno and Torre San Niccolo, seen from rafts on the river"
 photo_credit: 'Photo: <a href="https://www.firenzerafting.it/">Firenze Rafting</a>'
 ---
+
+<dl class="glance">
+<div><dt>Date</dt><dd>24 June</dd></div>
+<div><dt>Afternoon</dt><dd>Calcio Storico final, Santa Croce</dd></div>
+<div><dt>Night</dt><dd>Fireworks over the Arno</dd></div>
+<div><dt>Tickets</dt><dd>Fireworks free, Calcio sells out</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">24 June</span><span class="bl">the city's holiday</span></div>
+<div><span class="bn">10 pm</span><span class="bl">the fireworks, about</span></div>
+<div><span class="bn">0&nbsp;€</span><span class="bl">to watch them</span></div>
+</div>
 
 Every city in Italy has its saint's day, and Florence's is 24 June, the feast of San Giovanni, John the Baptist. Offices close, Florentines stay in town, and the day ends with fireworks over the river.
 

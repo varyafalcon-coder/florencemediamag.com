@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "How to stay cool in Florence in summer"
 permalink: /articles/how-to-stay-cool-in-florence-in-summer/
 seo_title: "Florence in summer: public pools, cool places and how to plan a hot day"
@@ -21,6 +22,17 @@ photo_alt: "The Arno and Ponte Vecchio at golden hour"
 photo_credit: 'Photo: <a href="https://unsplash.com/@masinutoscana?utm_source=florence_media&utm_medium=referral">Giuseppe Mondì</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
+<dl class="glance">
+<div><dt>Morning</dt><dd>Walk early</dd></div>
+<div><dt>Afternoon</dt><dd>Go indoors</dd></div>
+<div><dt>Evening</dt><dd>An open-air pool</dd></div>
+<div><dt>The pools</dt><dd>Pavoniere, Bellariva, Costoli</dd></div>
+</dl>
+
+<div class="bignums bn1">
+<div><span class="bn">3</span><span class="bl">public pools where Florentines swim</span></div>
+</div>
+
 Florence sits in a bowl of hills, and in July and August the heat collects there. Afternoons over 35 degrees are normal. The city does not stop, it just moves its day: out early, indoors in the middle, back out after six.
 
 <div class="callout">
@@ -31,19 +43,28 @@ Florence sits in a bowl of hills, and in July and August the heat collects there
 
 Florentines who stay in the city in August swim at the public pools. They are cheap, open air and full of local families.
 
+<div class="pick" markdown="1">
 <p class="picklabel">Le Pavoniere, in the Cascine</p>
 
 The one with the most atmosphere: a pool among the trees of the Cascine park, with a bar and lawns, a short walk from the centre along the river. Entry has been around 10 to 11 euro in recent seasons, and it usually runs from June to about mid-September.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Bellariva, on the Arno</p>
 
 An Olympic-size open-air pool on Lungarno Aldo Moro, east of the centre. Popular, practical, and less of a scene than the Cascine.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Costoli, at Campo di Marte</p>
 
 The largest public complex in the city, near the football stadium: an Olympic pool, a diving pool and a children's pool. The one to choose with children.
 
 All Italian pools ask for a swim cap and flip-flops on the deck. Bring both, or buy them at the desk.
+
+</div>
 
 ## Where it stays cool
 

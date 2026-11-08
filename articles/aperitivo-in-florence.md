@@ -1,5 +1,6 @@
 ---
 layout: article
+look: cards
 title: "Aperitivo in Florence: where and how"
 permalink: /articles/aperitivo-in-florence/
 seo_title: "Aperitivo in Florence: wine bars and squares where locals drink"
@@ -21,6 +22,19 @@ photo_alt: "A Negroni on a bar counter"
 photo_credit: 'Photo: <a href="https://www.flickr.com/photos/31027007@N08/35207643860">Wine Dharma</a> via Flickr'
 ---
 
+<dl class="glance">
+<div><dt>When</dt><dd>About 6.30 to 8.30 pm</dd></div>
+<div><dt>Drink</dt><dd>Tuscan red, a spritz or a Negroni</dd></div>
+<div><dt>Eat</dt><dd>Crostini, cheese, salumi</dd></div>
+<div><dt>A glass</dt><dd>About 5 to 10&nbsp;€</dd></div>
+</dl>
+
+<div class="bignums bn3">
+<div><span class="bn">1920s</span><span class="bl">the Negroni was invented here</span></div>
+<div><span class="bn">3</span><span class="bl">wine bars we pick</span></div>
+<div><span class="bn">7 pm</span><span class="bl">Santo Spirito fills up</span></div>
+</div>
+
 Aperitivo is the hour before dinner when Italians have a drink and a bite. In Milan it means a cocktail and a buffet. In Florence it is mostly wine, standing up, with something on bread.
 
 <div class="callout">
@@ -29,17 +43,26 @@ Aperitivo is the hour before dinner when Italians have a drink and a bite. In Mi
 
 ## Three wine bars
 
+<div class="pick" markdown="1">
 <p class="picklabel">Le Volpi e l'Uva, near Ponte Vecchio</p>
 
 A small wine bar on a quiet square just across the bridge. Glasses of Tuscan wine at around five to ten euro and boards of cheese and salumi. Bar stools cannot be reserved; the outside tables can, by phone or in person.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Il Santino, Oltrarno</p>
 
 A tiny wine bar next to the restaurant Il Santo Bevitore, on Via Santo Spirito. Excellent wines by the glass and crostoni. Expect to stand.
 
+</div>
+
+<div class="pick" markdown="1">
 <p class="picklabel">Fiaschetteria Nuvoli, near the Duomo</p>
 
 An old-fashioned wine shop and bar from the 1950s, a few streets from the cathedral. One of the few places that serves food at any hour.
+
+</div>
 
 ## Santo Spirito at sunset
 
