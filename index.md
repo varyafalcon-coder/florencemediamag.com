@@ -11,34 +11,17 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 {%- assign incount = all_places.size | minus: outplaces.size -%}
 {%- assign order = "nice cute places to eat at|places with an old soul|pizza worth crossing town for|aperitivo|night heart of the city|enjoy the view|do some outdoor activities|hide from the crowd|eat like a local for under 10 euro|real gelato, not the coloured stuff|drink wine somewhere real|see art without queueing|by the river|pools in the city|modern cafes to work at|to do with kids" | split: "|" -%}
 
-{%- assign heroslugs = "what-not-to-miss-in-florence|aperitivo-in-florence|skiing-from-florence" | split: "|" -%}
 <div class="wrap hero hero-split">
   <div class="hero-text">
     <p class="hero-kicker">Independent guide &middot; {{ site.time | date: "%B %Y" }}</p>
     <h1>Florence, and everything within reach.</h1>
-    <p>Sorted by what you actually want to do.</p>
-
+  </div>
+  <div class="hero-side">
+    <p class="hero-lede">Where to eat, what to see and where to go from Florence, sorted by what you actually want to do. Every place in the city visited by us and dated.</p>
     <div class="switch" role="tablist" aria-label="In or out of Florence">
       <button class="switch-btn" type="button" role="tab" id="tab-in" data-pane="in" aria-selected="true" aria-controls="in-florence">In Florence</button>
       <button class="switch-btn" type="button" role="tab" id="tab-out" data-pane="out" aria-selected="false" aria-controls="from-florence">From Florence</button>
     </div>
-  </div>
-  <div class="hero-mosaic">
-    <div class="hm-grid">
-    {%- assign credits = "" -%}
-    {%- for slug in heroslugs -%}
-    {%- assign u = "/articles/" | append: slug | append: "/" -%}
-    {%- assign ap = site.pages | where: "url", u | first -%}
-    {%- assign ph = ap.photo -%}{%- assign cr = ap.photo_credit -%}
-    {%- if ph == nil and ap.photo_area -%}{%- assign sa = site.data.ski.areas | where: "id", ap.photo_area | first -%}{%- assign ph = sa.photo -%}{%- assign cr = sa.photo_credit -%}{%- endif -%}
-    {%- assign credits = credits | append: "|" | append: cr -%}
-    <a class="hm hm{{ forloop.index }}" href="{{ ap.url | relative_url }}">
-      <img src="{% if forloop.first %}{{ ph | relative_url }}{% else %}{{ ph | replace: '.jpg', '-640.jpg' | relative_url }}{% endif %}" alt="{{ ap.photo_alt | default: '' }}" width="640" height="360" decoding="async"{% if forloop.first %} fetchpriority="high"{% else %} loading="lazy"{% endif %}>
-      <span class="hm-label"><span class="hm-kicker">{% if forloop.index == 3 %}Ski season{% else %}From the magazine{% endif %}</span>{{ ap.title }}</span>
-    </a>
-    {%- endfor %}
-    </div>
-    <p class="hm-credits">{% assign cl = credits | split: "|" %}{% for c in cl %}{% if c != "" %}{{ c | strip_html | remove: "Photo: " }}{% unless forloop.last %} &middot; {% endunless %}{% endif %}{% endfor %}</p>
   </div>
 </div>
 
@@ -133,7 +116,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   <p class="tripnote">Places outside the city are chosen from the Michelin guide, local tourist boards and recent reviews, and not all of them have been visited by us yet. The places marked 🌳 a bit out of the city have.</p>
 </section>
 
-{%- assign magslugs = "are-two-days-enough-for-florence|florence-off-the-tourist-track|real-gelato-in-florence|where-to-eat-and-stay-in-cortina" | split: "|" -%}
+{%- assign magslugs = "what-not-to-miss-in-florence|skiing-from-florence|where-to-eat-and-stay-in-livigno|aperitivo-in-florence" | split: "|" -%}
 <section class="wrap magazine">
   <div class="mag-head">
     <h2>From the magazine</h2>

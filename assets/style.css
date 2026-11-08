@@ -772,7 +772,7 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .article .body .skiarea-fit > div,.article .body .bases > div{height:100%;box-sizing:border-box}
   .article .body .tripcards{grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch}
   .article .body .tripcards,.article .body .tripcards:has(> :nth-child(3)){grid-template-columns:repeat(3,minmax(0,1fr))}
-  .article .body .tripcards .card-em{right:12px}
+  .article .body .tripcards .card-em{right:-8px}
   .article .body .dishes{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
@@ -1072,21 +1072,12 @@ body:has(.trust) footer{margin-top:0}
 
 /* ---------- home: editorial hero, magazine row, trust words ---------- */
 .hero .hero-kicker{margin:0 0 14px;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft)}
-.hero-mosaic{display:none}
+.hero-lede{color:var(--ink-soft)}
 @media (min-width:1000px){
-  .hero-split{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:clamp(32px,4vw,64px);align-items:center}
-  .hero-split h1{font-size:clamp(46px,4.6vw,68px);line-height:1.02}
-  .hero-mosaic{display:block}
-  .hm-grid{display:grid;grid-template-columns:1.25fr 1fr;grid-template-rows:1fr 1fr;gap:10px;height:clamp(360px,30vw,440px)}
-  .hm{position:relative;display:block;overflow:hidden;text-decoration:none;color:#fff;background:var(--card)}
-  .hm1{grid-row:1 / span 2}
-  .hm img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s ease}
-  .hm:hover img{transform:scale(1.04)}
-  .hm::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,14,60,0) 45%,rgba(10,14,60,.72))}
-  .hm-label{position:absolute;left:16px;right:16px;bottom:14px;z-index:1;font-weight:700;font-size:16px;line-height:1.25;letter-spacing:-.01em}
-  .hm1 .hm-label{font-size:22px;left:20px;bottom:18px}
-  .hm-kicker{display:block;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;opacity:.85;margin-bottom:6px}
-  .hero .hm-credits{margin:8px 0 0;font-size:11px;color:var(--ink-soft);line-height:1.4;max-width:none}
+  .hero-split{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:clamp(40px,5vw,88px);align-items:end;padding-block:clamp(56px,6vw,88px) 24px}
+  .hero-split h1{font-size:clamp(54px,5.4vw,82px);line-height:.98;letter-spacing:-.045em;margin:0}
+  .hero-side{padding-bottom:6px}
+  .hero .hero-lede{margin:0 0 26px;font-size:18px;line-height:1.55;max-width:38ch}
 }
 .magazine{margin-top:clamp(56px,7vw,96px)}
 .mag-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap}
@@ -1102,3 +1093,10 @@ body:has(.trust) footer{margin-top:0}
 .v-edge{fill:none;stroke:#aab2ea;stroke-width:1.3;stroke-linejoin:round}
 .v-station{fill:#0b0b0b;opacity:.75}
 @media (prefers-color-scheme:dark){.v-edge{stroke:#7a84d6}}
+
+/* card emojis sit on the corner in articles too; distance is the same for the whole article */
+.article .card-em .em-dist{display:none}
+/* group labels inside articles (Dinner in the valley, Lunch on the slopes) */
+.article .body p.picklabel{margin:clamp(36px,4.4vw,48px) 0 0;font-size:19px;font-weight:700;letter-spacing:-.02em;line-height:1.3;text-transform:none;color:var(--ink)}
+.article .body p.picklabel::before{content:"";display:inline-block;width:8px;height:8px;background:var(--blue);margin-right:10px;vertical-align:2px}
+.article .body p.picklabel + .grid{margin-top:22px}
