@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "Fares and rules from the transport operator's announcements, the City of Florence and recent guides, read November 2026. Check the City of Florence site for current ZTL hours before driving."
 photo: "/assets/photos/articles/getting-around-florence.jpg"
-photo_alt: "A bicycle in a Florence street at dusk"
-photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:My_focus_bike._%28Unsplash%29.jpg">Matteo Vistocco</a> via Unsplash'
+photo_alt: "People walking through a lit street near Ponte Vecchio at night"
+photo_credit: 'Photo: <a href="https://unsplash.com/@miraxh?utm_source=florence_media&utm_medium=referral">Miraxh Tereziu</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence is a walking city. From the station to Ponte Vecchio is fifteen minutes on foot, and from the Duomo to Santa Croce ten. Most visitors never need a ticket except to and from the airport.

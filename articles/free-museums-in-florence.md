@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "From the museums' announcements and Florence city news, read November 2026. Check the museum before you go: free days can change."
 photo: "/assets/photos/articles/free-museums-in-florence.jpg"
-photo_alt: "A visitor looking up at a painted gold ceiling"
-photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Man_gazes_at_gold_ceiling_%28Unsplash%29.jpg">Joshua Earle</a> via Unsplash'
+photo_alt: "The Fountain of Neptune lit at night in front of Palazzo Vecchio"
+photo_credit: 'Photo: <a href="https://unsplash.com/@mic222?utm_source=florence_media&utm_medium=referral">Michael Shtern</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence's big museums cost real money, and two or three of them in a short trip add up. Once a month they cost nothing.

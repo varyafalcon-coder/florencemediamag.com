@@ -36,8 +36,8 @@ toc:
 published_on: "2026-08-31"
 updated_on: "2026-10-02"
 photo: "/assets/photos/articles/florence-with-children.jpg"
-photo_alt: "Florence and the Duomo seen from the Boboli Gardens"
-photo_credit: 'Photo: <a href="https://www.flickr.com/photos/155043415@N04/52469979612">114RC3L</a> via Flickr'
+photo_alt: "The antique carousel in Piazza della Repubblica"
+photo_credit: 'Photo: <a href="https://unsplash.com/@kyelnats?utm_source=florence_media&utm_medium=referral">Stanley Kustamin</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence was not laid out with children in mind, and nobody who has stood in Piazza del Duomo in July holding a hot four year old needs telling. The city's great pleasures are the ones that reward standing still and reading a label, which is not what most children have come for.

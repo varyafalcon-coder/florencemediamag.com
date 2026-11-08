@@ -32,8 +32,8 @@ faq:
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
 photo: "/assets/photos/articles/what-to-avoid-in-florence.jpg"
-photo_alt: "The Duomo seen from a narrow street"
-photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cathedral_domes_%28Unsplash%29.jpg">Karlye Wolff</a> via Unsplash'
+photo_alt: "Ponte Vecchio at night, reflected in the Arno"
+photo_credit: 'Photo: <a href="https://unsplash.com/@bune?utm_source=florence_media&utm_medium=referral">Pedro Bune</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence is an easy city to enjoy and a slightly tricky one to eat in. Almost nothing here will cheat you outright. What happens instead is quieter: you pay more and wait longer for a weaker version of something the city does extremely well two streets away.
