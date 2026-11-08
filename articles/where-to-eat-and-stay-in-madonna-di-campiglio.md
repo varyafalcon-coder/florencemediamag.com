@@ -47,11 +47,13 @@ faq:
 </dl>
 
 <div class="bignums">
-<div><span class="bn">150 km</span><span class="bl">linked to Pinzolo and Folgarida</span></div>
+<div><span class="bn">155 km</span><span class="bl">linked to Pinzolo and Folgarida</span></div>
 <div><span class="bn">2,442 m</span><span class="bl">Passo del Grostè</span></div>
 <div><span class="bn">6 min</span><span class="bl">village to the Spinale top</span></div>
 <div><span class="bn">Train + bus</span><span class="bl">via Trento</span></div>
 </div>
+
+{% include pistes.html id="campiglio" %}
 
 ## Why is it worth going?
 
@@ -64,8 +66,8 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 ## Between the Brenta and the Spinale
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M450,356 C483.6,186.9 506,80.2 545.2,76.2 Q590,68.2 640.4,76.2 C674,80.2 696.4,192.6 730,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C337.2,228.7 374,214.6 420,214.6 C466,214.6 502.8,228.7 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C32,228.7 80,214.6 140,214.6 C200,214.6 248,228.7 290,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v5sky)"/>
-<path fill="url(#v5body)" d="M450,356 C483.6,186.9 506,80.2 545.2,76.2 Q590,68.2 640.4,76.2 C674,80.2 696.4,192.6 730,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M450,356 C472.4,243.3 506,150.3 522.8,110.9 L553.6,136.2 L590,74.2 L620.8,130.6 L651.6,99.6 C668.4,139 707.6,243.3 730,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v5sky)"/>
+<path fill="url(#v5body)" d="M450,356 C472.4,243.3 506,150.3 522.8,110.9 L553.6,136.2 L590,74.2 L620.8,130.6 L651.6,99.6 C668.4,139 707.6,243.3 730,356 Z"/>
 <g clip-path="url(#v5m1)">
 <path class="v-snow" d="M422,34.2 L758,34.2 L758,122.1 Q739.3,130.1 720.7,102.1 Q702,126.1 683.3,118.1 Q664.7,126.1 646,106.1 Q627.3,126.1 608.7,118.1 Q590,126.1 571.3,102.1 Q552.7,130.1 534,122.1 Q515.3,130.1 496.7,102.1 Q478,126.1 459.3,118.1 Q440.7,126.1 422,106.1 Z"/>
 <path class="v-rock" d="M503.2,134.2 L507.7,80.2 Q515.6,70.2 523.5,82.2 L528,134.2 Z"/>
@@ -84,7 +86,7 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-snow" d="M657,90.2 Q664.4,80.2 671.8,90.2 Q664.4,87.2 657,90.2 Z"/>
 <path class="v-shade" d="M590,34.2 C606.8,158.8 595.6,271.5 623.6,366 L870,366 L870,34.2 Z"/>
 </g>
-<path fill="url(#v5body)" d="M305,356 C337.2,228.7 374,214.6 420,214.6 C466,214.6 502.8,228.7 535,356 Z"/>
+<path fill="url(#v5body)" d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/>
 <g clip-path="url(#v5m2)">
 <path class="v-snow" d="M282,174.6 L558,174.6 L558,278.1 Q542.7,286.1 527.3,258.1 Q512,282.1 496.7,274.1 Q481.3,282.1 466,262.1 Q450.7,282.1 435.3,274.1 Q420,282.1 404.7,258.1 Q389.3,286.1 374,278.1 Q358.7,286.1 343.3,258.1 Q328,282.1 312.7,274.1 Q297.3,282.1 282,262.1 Z"/>
 <path class="v-tree" d="M314.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -95,13 +97,9 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-tree" d="M478.8,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M502.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M525.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M385.5,228.7 C403.5,247.1 346.8,245.4 364.8,265.4 S362.1,272 344.1,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M385.5,228.7 C403.5,247.1 346.8,245.4 364.8,265.4 S362.1,272 344.1,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M408.5,234.7 C432.5,251.6 377.6,248.4 401.6,268.4 S418.7,272 394.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M408.5,234.7 C432.5,251.6 377.6,248.4 401.6,268.4 S418.7,272 394.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M431.5,228.7 C461.5,247.1 408.4,245.4 438.4,265.4 S475.3,272 445.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M431.5,228.7 C461.5,247.1 408.4,245.4 438.4,265.4 S475.3,272 445.3,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M454.5,234.7 C472.5,251.6 457.2,248.4 475.2,268.4 S513.9,272 495.9,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M454.5,234.7 C472.5,251.6 457.2,248.4 475.2,268.4 S513.9,272 495.9,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M420,174.6 C433.8,257 424.6,313.6 447.6,366 L650,366 L650,174.6 Z"/>
 </g>
-<path fill="url(#v5body)" d="M-10,356 C32,228.7 80,214.6 140,214.6 C200,214.6 248,228.7 290,356 Z"/>
+<path fill="url(#v5body)" d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/>
 <g clip-path="url(#v5m3)">
 <path class="v-snow" d="M-40,174.6 L320,174.6 L320,278.1 Q300,286.1 280,258.1 Q260,282.1 240,274.1 Q220,282.1 200,262.1 Q180,282.1 160,274.1 Q140,282.1 120,258.1 Q100,286.1 80,278.1 Q60,286.1 40,258.1 Q20,282.1 0,274.1 Q-20,282.1 -40,262.1 Z"/>
 <path class="v-tree" d="M2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -114,13 +112,9 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-tree" d="M232,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M255,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M278,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M101,228.7 C119,247.1 53,245.4 71,265.4 S59,272 41,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M101,228.7 C119,247.1 53,245.4 71,265.4 S59,272 41,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M127,234.7 C151,251.6 93,248.4 117,268.4 S131,272 107,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M127,234.7 C151,251.6 93,248.4 117,268.4 S131,272 107,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M153,228.7 C183,247.1 133,245.4 163,265.4 S203,272 173,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M153,228.7 C183,247.1 133,245.4 163,265.4 S203,272 173,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M179,234.7 C197,251.6 191,248.4 209,268.4 S257,272 239,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M179,234.7 C197,251.6 191,248.4 209,268.4 S257,272 239,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M140,174.6 C158,257 146,313.6 176,366 L440,366 L440,174.6 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="230" y1="296" x2="150" y2="216"/>
 <line class="v-pylon" x1="206" y1="272" x2="206" y2="284"/>
 <line class="v-pylon" x1="180.4" y1="246.4" x2="180.4" y2="258.4"/>
@@ -150,7 +144,7 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <g class="v-pill"><rect x="390.9" y="28.2" width="321.1" height="30" rx="15"/><text x="551.5" y="48.2" text-anchor="middle"><tspan class="v-pn">Brenta Dolomites</tspan> · Grostè 2,442 m</text></g>
 <g class="v-pill"><rect x="329.1" y="168.6" width="181.9" height="30" rx="15"/><text x="420" y="188.6" text-anchor="middle"><tspan class="v-pn">Spinale</tspan> · 2,100 m</text></g>
 <g class="v-pill"><rect x="40.4" y="168.6" width="199.3" height="30" rx="15"/><text x="140" y="188.6" text-anchor="middle"><tspan class="v-pn">Pradalago</tspan> · 2,100 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="137.5" y="340" width="295" height="30" rx="15"/><text x="285" y="360" text-anchor="middle"><tspan class="v-pn">Madonna di Campiglio</tspan> · 1,520 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="137.5" y="308" width="295" height="30" rx="15"/><text x="285" y="328" text-anchor="middle"><tspan class="v-pn">Madonna di Campiglio</tspan> · 1,520 m</text></g>
 </svg>
 <figcaption>The village lies between Pradalago and the Spinale, with the jagged Brenta Dolomites and the Grostè lifts on the other side.</figcaption>
 </figure>

@@ -53,6 +53,8 @@ faq:
 <div><span class="bn">1,900 m</span><span class="bl">the highest lifts</span></div>
 </div>
 
+{% include pistes.html id="abetone" %}
+
 ## Why is it worth going?
 
 <p class="lede">Abetone sits on a pass at 1,388 metres, with the lifts starting in the village square, an hour and fifty minutes from Florence.</p>
@@ -64,9 +66,9 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 ## The mountain and the pass
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes on both sides of the pass, the village on the pass at 1,388 metres with lifts from the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="v1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v1body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v1m1"><path d="M230,356 C272,180.8 320,161.4 380,161.4 C440,161.4 488,180.8 530,356 Z"/></clipPath><clipPath id="v1m2"><path d="M20,356 C67.6,93.2 122,64 190,64 C258,64 312.4,93.2 360,356 Z"/></clipPath><clipPath id="v1m3"><path d="M410,356 C454.8,101.8 506,73.5 570,73.5 C634,73.5 685.2,101.8 730,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v1sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes on both sides of the pass, the village on the pass at 1,388 metres with lifts from the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="v1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v1body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v1m1"><path d="M230,356 C278,258.7 350,200.3 380,161.4 C410,204.2 482,262.6 530,356 Z"/></clipPath><clipPath id="v1m2"><path d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/></clipPath><clipPath id="v1m3"><path d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v1sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,159.1 Q80,93.5 160,111.5 Q260,93.5 360,140.1 Q450,84 540,102 Q630,84 720,130.6 L720,356 Z"/>
-<path fill="url(#v1body)" d="M230,356 C272,180.8 320,161.4 380,161.4 C440,161.4 488,180.8 530,356 Z"/>
+<path fill="url(#v1body)" d="M230,356 C278,258.7 350,200.3 380,161.4 C410,204.2 482,262.6 530,356 Z"/>
 <g clip-path="url(#v1m1)">
 <path class="v-snow" d="M200,121.4 L560,121.4 L560,214.3 Q540,222.3 520,194.3 Q500,218.3 480,210.3 Q460,218.3 440,198.3 Q420,218.3 400,210.3 Q380,218.3 360,194.3 Q340,222.3 320,214.3 Q300,222.3 280,194.3 Q260,218.3 240,210.3 Q220,218.3 200,198.3 Z"/>
 <path class="v-tree" d="M242,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -81,7 +83,7 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M518,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M380,121.4 C398,219.8 386,297.6 416,366 L680,366 L680,121.4 Z"/>
 </g>
-<path fill="url(#v1body)" d="M20,356 C67.6,93.2 122,64 190,64 C258,64 312.4,93.2 360,356 Z"/>
+<path fill="url(#v1body)" d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/>
 <g clip-path="url(#v1m2)">
 <path class="v-snow" d="M-14,24 L394,24 L394,142.2 Q371.3,150.2 348.7,122.2 Q326,146.2 303.3,138.2 Q280.7,146.2 258,126.2 Q235.3,146.2 212.7,138.2 Q190,146.2 167.3,122.2 Q144.7,150.2 122,142.2 Q99.3,150.2 76.7,122.2 Q54,146.2 31.3,138.2 Q8.7,146.2 -14,126.2 Z"/>
 <path class="v-tree" d="M33.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -96,13 +98,9 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M301.7,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M324.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M346.4,298 l7.4,-19.9 l7.4,19.9 Z"/>
-<path d="M151,93.2 C169,145.4 96.4,177.6 114.4,197.6 S95.8,272 77.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M151,93.2 C169,145.4 96.4,177.6 114.4,197.6 S95.8,272 77.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M177,99.2 C201,149.9 140.8,180.6 164.8,200.6 S176.6,272 152.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M177,99.2 C201,149.9 140.8,180.6 164.8,200.6 S176.6,272 152.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M203,93.2 C233,145.4 185.2,177.6 215.2,197.6 S257.4,272 227.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M203,93.2 C233,145.4 185.2,177.6 215.2,197.6 S257.4,272 227.4,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M229,99.2 C247,149.9 247.6,180.6 265.6,200.6 S320.2,272 302.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M229,99.2 C247,149.9 247.6,180.6 265.6,200.6 S320.2,272 302.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M190,24 C210.4,151.6 196.8,268.4 230.8,366 L530,366 L530,24 Z"/>
 </g>
-<path fill="url(#v1body)" d="M410,356 C454.8,101.8 506,73.5 570,73.5 C634,73.5 685.2,101.8 730,356 Z"/>
+<path fill="url(#v1body)" d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/>
 <g clip-path="url(#v1m3)">
 <path class="v-snow" d="M378,33.5 L762,33.5 L762,149.7 Q740.7,157.7 719.3,129.7 Q698,153.7 676.7,145.7 Q655.3,153.7 634,133.7 Q612.7,153.7 591.3,145.7 Q570,153.7 548.7,129.7 Q527.3,157.7 506,149.7 Q484.7,157.7 463.3,129.7 Q442,153.7 420.7,145.7 Q399.3,153.7 378,133.7 Z"/>
 <path class="v-tree" d="M422.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -117,12 +115,9 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M671.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M694.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M717.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
-<path d="M544,101.8 C562,151.8 503.8,181.9 521.8,201.9 S517.6,272 499.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M544,101.8 C562,151.8 503.8,181.9 521.8,201.9 S517.6,272 499.6,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M570,107.8 C594,156.3 546,184.9 570,204.9 S594,272 570,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M570,107.8 C594,156.3 546,184.9 570,204.9 S594,272 570,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M596,101.8 C626,151.8 588.2,181.9 618.2,201.9 S670.4,272 640.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M596,101.8 C626,151.8 588.2,181.9 618.2,201.9 S670.4,272 640.4,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M570,33.5 C589.2,158.3 576.4,271.3 608.4,366 L890,366 L890,33.5 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="328" y1="161.4" x2="200" y2="67.8"/>
 <line class="v-pylon" x1="289.6" y1="133.3" x2="289.6" y2="145.3"/>
 <line class="v-pylon" x1="248.6" y1="103.4" x2="248.6" y2="115.4"/>
@@ -157,7 +152,7 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <rect class="v-win" x="128.5" y="292" width="4" height="4"/>
 <g class="v-pill"><rect x="46.9" y="18" width="286.3" height="30" rx="15"/><text x="190" y="38" text-anchor="middle"><tspan class="v-pn">The top lifts</tspan> · about 1,900 m</text></g>
 <g class="v-pill v-pill-blue"><rect x="289.1" y="77.4" width="181.9" height="30" rx="15"/><text x="380" y="97.4" text-anchor="middle"><tspan class="v-pn">Abetone</tspan> · 1,388 m</text></g>
-<g class="v-pill"><rect x="14.7" y="340" width="190.6" height="30" rx="15"/><text x="110" y="360" text-anchor="middle"><tspan class="v-pn">Cutigliano</tspan> · 680 m</text></g>
+<g class="v-pill"><rect x="14.7" y="308" width="190.6" height="30" rx="15"/><text x="110" y="328" text-anchor="middle"><tspan class="v-pn">Cutigliano</tspan> · 680 m</text></g>
 </svg>
 <figcaption>The village sits on the pass, with lifts up both sides from the square. Cutigliano and the best dinners are fifteen minutes below.</figcaption>
 </figure>

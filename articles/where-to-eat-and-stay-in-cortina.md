@@ -53,6 +53,8 @@ faq:
 <div><span class="bn">4</span><span class="bl">areas: Tofana, Faloria, Cinque Torri, Lagazuoi</span></div>
 </div>
 
+{% include pistes.html id="cortina" %}
+
 ## Why is it worth going?
 
 <p class="lede">Cortina is a town rather than a ski station: the ski areas surround it on every side, and the evening walk along Corso Italia is part of the day.</p>
@@ -64,8 +66,8 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 ## The town and the mountains around it
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Cortina d'Ampezzo: the Tofane on the left, the Cinque Torri in the middle, Faloria and Cristallo on the right, runs on every side and the town with its bell tower in the bowl at 1,224 metres"><defs><linearGradient id="v7sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v7body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v7m1"><path d="M0,356 C36,180.8 60,70 102,66 Q150,58 204,66 C240,70 264,186.6 300,356 Z"/></clipPath><clipPath id="v7m2"><path d="M245,356 C268.8,184.5 296,165.4 330,165.4 C364,165.4 391.2,184.5 415,356 Z"/></clipPath><clipPath id="v7m3"><path d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v7sky)"/>
-<path fill="url(#v7body)" d="M0,356 C36,180.8 60,70 102,66 Q150,58 204,66 C240,70 264,186.6 300,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Cortina d'Ampezzo: the Tofane on the left, the Cinque Torri in the middle, Faloria and Cristallo on the right, runs on every side and the town with its bell tower in the bowl at 1,224 metres"><defs><linearGradient id="v7sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v7body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v7m1"><path d="M0,356 C24,239.2 60,142.8 78,102 L111,128.2 L150,64 L183,122.4 L216,90.3 C234,131.2 276,239.2 300,356 Z"/></clipPath><clipPath id="v7m2"><path d="M245,356 C272.2,260.7 313,203.5 330,165.4 C347,207.3 387.8,264.5 415,356 Z"/></clipPath><clipPath id="v7m3"><path d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v7sky)"/>
+<path fill="url(#v7body)" d="M0,356 C24,239.2 60,142.8 78,102 L111,128.2 L150,64 L183,122.4 L216,90.3 C234,131.2 276,239.2 300,356 Z"/>
 <g clip-path="url(#v7m1)">
 <path class="v-snow" d="M-30,24 L330,24 L330,130.6 Q310,138.6 290,110.6 Q270,134.6 250,126.6 Q230,134.6 210,114.6 Q190,134.6 170,126.6 Q150,134.6 130,110.6 Q110,138.6 90,130.6 Q70,138.6 50,110.6 Q30,134.6 10,126.6 Q-10,134.6 -30,114.6 Z"/>
 <path class="v-rock" d="M57,124 L63.7,70 Q75.6,60 87.5,72 L94.2,124 Z"/>
@@ -88,12 +90,9 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M242,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M265,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M288,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M124,93.2 C142,145.4 86,177.6 104,197.6 S102,272 84,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M124,93.2 C142,145.4 86,177.6 104,197.6 S102,272 84,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M150,99.2 C174,149.9 126,180.6 150,200.6 S174,272 150,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M150,99.2 C174,149.9 126,180.6 150,200.6 S174,272 150,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M176,93.2 C206,145.4 166,177.6 196,197.6 S246,272 216,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M176,93.2 C206,145.4 166,177.6 196,197.6 S246,272 216,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M150,24 C168,151.6 156,268.4 186,366 L450,366 L450,24 Z"/>
 </g>
-<path fill="url(#v7body)" d="M245,356 C268.8,184.5 296,165.4 330,165.4 C364,165.4 391.2,184.5 415,356 Z"/>
+<path fill="url(#v7body)" d="M245,356 C272.2,260.7 313,203.5 330,165.4 C347,207.3 387.8,264.5 415,356 Z"/>
 <g clip-path="url(#v7m2)">
 <path class="v-snow" d="M228,125.4 L432,125.4 L432,208 Q420.7,216 409.3,188 Q398,212 386.7,204 Q375.3,212 364,192 Q352.7,212 341.3,204 Q330,212 318.7,188 Q307.3,216 296,208 Q284.7,216 273.3,188 Q262,212 250.7,204 Q239.3,212 228,192 Z"/>
 <path class="v-rock" d="M277.3,225.4 L281.1,171.4 Q287.8,161.4 294.6,173.4 L298.4,225.4 Z"/>
@@ -112,8 +111,6 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M356.1,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M382.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M408.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M321.5,184.5 C339.5,213.9 298.4,223.2 316.4,243.2 S329.3,272 311.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M321.5,184.5 C339.5,213.9 298.4,223.2 316.4,243.2 S329.3,272 311.3,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M338.5,190.5 C362.5,218.4 319.6,226.2 343.6,246.2 S372.7,272 348.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M338.5,190.5 C362.5,218.4 319.6,226.2 343.6,246.2 S372.7,272 348.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M330,125.4 C340.2,222.6 333.4,298.8 350.4,366 L500,366 L500,125.4 Z"/>
 </g>
 <path fill="url(#v7body)" d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/>
@@ -129,13 +126,9 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M662,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M685,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M708,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M531,95.6 C549,147.2 483,178.8 501,198.8 S489,272 471,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M531,95.6 C549,147.2 483,178.8 501,198.8 S489,272 471,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M557,101.6 C581,151.7 523,181.8 547,201.8 S561,272 537,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M557,101.6 C581,151.7 523,181.8 547,201.8 S561,272 537,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M583,95.6 C613,147.2 563,178.8 593,198.8 S633,272 603,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M583,95.6 C613,147.2 563,178.8 593,198.8 S633,272 603,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M609,101.6 C627,151.7 621,181.8 639,201.8 S687,272 669,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M609,101.6 C627,151.7 621,181.8 639,201.8 S687,272 669,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M570,26.6 C588,153.4 576,269.2 606,366 L870,366 L870,26.6 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="355" y1="296" x2="160" y2="152.9"/>
 <line class="v-pylon" x1="296.5" y1="253.1" x2="296.5" y2="265.1"/>
 <line class="v-pylon" x1="234.1" y1="207.3" x2="234.1" y2="219.3"/>
@@ -164,7 +157,7 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <g class="v-pill"><rect x="24.3" y="18" width="251.5" height="30" rx="15"/><text x="150" y="38" text-anchor="middle"><tspan class="v-pn">Tofane</tspan> · lifts to 2,470 m</text></g>
 <g class="v-pill"><rect x="287.3" y="119.4" width="225.4" height="30" rx="15"/><text x="400" y="139.4" text-anchor="middle"><tspan class="v-pn">Cinque Torri</tspan> · 2,255 m</text></g>
 <g class="v-pill"><rect x="408.3" y="20.6" width="303.7" height="30" rx="15"/><text x="560.1" y="40.6" text-anchor="middle"><tspan class="v-pn">Cristallo and Faloria</tspan> · 2,120 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="329.1" y="340" width="181.9" height="30" rx="15"/><text x="420" y="360" text-anchor="middle"><tspan class="v-pn">Cortina</tspan> · 1,224 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="329.1" y="308" width="181.9" height="30" rx="15"/><text x="420" y="328" text-anchor="middle"><tspan class="v-pn">Cortina</tspan> · 1,224 m</text></g>
 </svg>
 <figcaption>The ski areas surround the town on every side: the Tofane on one, Faloria and Cristallo on the other, the Cinque Torri beyond.</figcaption>
 </figure>

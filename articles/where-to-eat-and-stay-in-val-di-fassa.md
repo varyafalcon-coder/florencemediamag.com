@@ -48,10 +48,12 @@ faq:
 
 <div class="bignums">
 <div><span class="bn">3,265 m</span><span class="bl">the Marmolada, top of the Dolomites</span></div>
-<div><span class="bn">210 km</span><span class="bl">of runs in the valley</span></div>
+<div><span class="bn">110 km</span><span class="bl">of runs with Carezza</span></div>
 <div><span class="bn">4 h</span><span class="bl">the closest Dolomites to Florence</span></div>
 <div><span class="bn">1,200 km</span><span class="bl">on Dolomiti Superski</span></div>
 </div>
+
+{% include pistes.html id="fassa" %}
 
 ## Why is it worth going?
 
@@ -64,8 +66,8 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 ## From Moena to the Marmolada
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Val di Fassa: the Sella towers on the left, Col Rodella with its runs, the Marmolada glacier on the right, Canazei in the valley at 1,465 metres and Moena further down"><defs><linearGradient id="v10sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v10body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v10m1"><path d="M20,356 C48.8,193.2 68,90.6 101.6,86.6 Q140,78.6 183.2,86.6 C212,90.6 231.2,198.6 260,356 Z"/></clipPath><clipPath id="v10m2"><path d="M215,356 C247.2,176.2 284,156.2 330,156.2 C376,156.2 412.8,176.2 445,356 Z"/></clipPath><clipPath id="v10m3"><path d="M410,356 C448.4,180.8 474,70 518.8,66 Q570,58 627.6,66 C666,70 691.6,186.6 730,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v10sky)"/>
-<path fill="url(#v10body)" d="M20,356 C48.8,193.2 68,90.6 101.6,86.6 Q140,78.6 183.2,86.6 C212,90.6 231.2,198.6 260,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val di Fassa: the Sella towers on the left, Col Rodella with its runs, the Marmolada glacier on the right, Canazei in the valley at 1,465 metres and Moena further down"><defs><linearGradient id="v10sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v10body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v10m1"><path d="M20,356 C39.2,247.5 68,157.9 82.4,119.9 L108.8,144.3 L140,84.6 L166.4,138.9 L192.8,109.1 C207.2,147 240.8,247.5 260,356 Z"/></clipPath><clipPath id="v10m2"><path d="M215,356 C251.8,256.1 307,196.2 330,156.2 C353,200.2 408.2,260.1 445,356 Z"/></clipPath><clipPath id="v10m3"><path d="M410,356 C435.6,239.2 474,142.8 493.2,102 L528.4,128.2 L570,64 L605.2,122.4 L640.4,90.3 C659.6,131.2 704.4,239.2 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v10sky)"/>
+<path fill="url(#v10body)" d="M20,356 C39.2,247.5 68,157.9 82.4,119.9 L108.8,144.3 L140,84.6 L166.4,138.9 L192.8,109.1 C207.2,147 240.8,247.5 260,356 Z"/>
 <g clip-path="url(#v10m1)">
 <path class="v-snow" d="M-4,44.6 L284,44.6 L284,136.6 Q268,144.6 252,116.6 Q236,140.6 220,132.6 Q204,140.6 188,120.6 Q172,140.6 156,132.6 Q140,140.6 124,116.6 Q108,144.6 92,136.6 Q76,144.6 60,116.6 Q44,140.6 28,132.6 Q12,140.6 -4,120.6 Z"/>
 <path class="v-rock" d="M65.6,144.6 L70.1,90.6 Q78,80.6 85.9,92.6 L90.4,144.6 Z"/>
@@ -82,7 +84,7 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <path class="v-snow" d="M194.6,111.6 Q202,101.6 209.4,111.6 Q202,108.6 194.6,111.6 Z"/>
 <path class="v-shade" d="M140,44.6 C154.4,166 144.8,274.6 168.8,366 L380,366 L380,44.6 Z"/>
 </g>
-<path fill="url(#v10body)" d="M215,356 C247.2,176.2 284,156.2 330,156.2 C376,156.2 412.8,176.2 445,356 Z"/>
+<path fill="url(#v10body)" d="M215,356 C251.8,256.1 307,196.2 330,156.2 C353,200.2 408.2,260.1 445,356 Z"/>
 <g clip-path="url(#v10m2)">
 <path class="v-snow" d="M192,116.2 L468,116.2 L468,230.1 Q452.7,238.1 437.3,210.1 Q422,234.1 406.7,226.1 Q391.3,234.1 376,214.1 Q360.7,234.1 345.3,226.1 Q330,234.1 314.7,210.1 Q299.3,238.1 284,230.1 Q268.7,238.1 253.3,210.1 Q238,234.1 222.7,226.1 Q207.3,234.1 192,214.1 Z"/>
 <path class="v-tree" d="M224.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -93,13 +95,9 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <path class="v-tree" d="M388.8,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M412.3,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M435.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M295.5,176.2 C313.5,207.6 256.8,219.1 274.8,239.1 S272.1,272 254.1,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M295.5,176.2 C313.5,207.6 256.8,219.1 274.8,239.1 S272.1,272 254.1,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M318.5,182.2 C342.5,212.1 287.6,222.1 311.6,242.1 S328.7,272 304.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M318.5,182.2 C342.5,212.1 287.6,222.1 311.6,242.1 S328.7,272 304.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M341.5,176.2 C371.5,207.6 318.4,219.1 348.4,239.1 S385.3,272 355.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M341.5,176.2 C371.5,207.6 318.4,219.1 348.4,239.1 S385.3,272 355.3,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M364.5,182.2 C382.5,212.1 367.2,222.1 385.2,242.1 S423.9,272 405.9,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M364.5,182.2 C382.5,212.1 367.2,222.1 385.2,242.1 S423.9,272 405.9,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M330,116.2 C343.8,216.1 334.6,296.1 357.6,366 L560,366 L560,116.2 Z"/>
 </g>
-<path fill="url(#v10body)" d="M410,356 C448.4,180.8 474,70 518.8,66 Q570,58 627.6,66 C666,70 691.6,186.6 730,356 Z"/>
+<path fill="url(#v10body)" d="M410,356 C435.6,239.2 474,142.8 493.2,102 L528.4,128.2 L570,64 L605.2,122.4 L640.4,90.3 C659.6,131.2 704.4,239.2 730,356 Z"/>
 <g clip-path="url(#v10m3)">
 <path class="v-snow" d="M378,24 L762,24 L762,183.1 Q740.7,191.1 719.3,163.1 Q698,187.1 676.7,179.1 Q655.3,187.1 634,167.1 Q612.7,187.1 591.3,179.1 Q570,187.1 548.7,163.1 Q527.3,191.1 506,183.1 Q484.7,191.1 463.3,163.1 Q442,187.1 420.7,179.1 Q399.3,187.1 378,167.1 Z"/>
 <path class="v-tree" d="M422.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -114,13 +112,9 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <path class="v-tree" d="M671.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M694.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M717.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
-<path d="M531,93.2 C549,145.4 479.7,177.6 497.7,197.6 S482.4,272 464.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M531,93.2 C549,145.4 479.7,177.6 497.7,197.6 S482.4,272 464.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M557,99.2 C581,149.9 521.9,180.6 545.9,200.6 S558.8,272 534.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M557,99.2 C581,149.9 521.9,180.6 545.9,200.6 S558.8,272 534.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M583,93.2 C613,145.4 564.1,177.6 594.1,197.6 S635.2,272 605.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M583,93.2 C613,145.4 564.1,177.6 594.1,197.6 S635.2,272 605.2,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M609,99.2 C627,149.9 624.3,180.6 642.3,200.6 S693.6,272 675.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M609,99.2 C627,149.9 624.3,180.6 642.3,200.6 S693.6,272 675.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M570,24 C589.2,151.6 576.4,268.4 608.4,366 L890,366 L890,24 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="370" y1="265.8" x2="330" y2="157.8"/>
 <line class="v-pylon" x1="358" y1="233.4" x2="358" y2="245.4"/>
 <line class="v-pylon" x1="345.2" y1="198.8" x2="345.2" y2="210.8"/>
@@ -156,8 +150,8 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <g class="v-pill"><rect x="44.7" y="38.6" width="190.6" height="30" rx="15"/><text x="140" y="58.6" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
 <g class="v-pill"><rect x="221.7" y="110.2" width="216.7" height="30" rx="15"/><text x="330" y="130.2" text-anchor="middle"><tspan class="v-pn">Col Rodella</tspan> · 2,485 m</text></g>
 <g class="v-pill"><rect x="434.4" y="18" width="277.6" height="30" rx="15"/><text x="573.2" y="38" text-anchor="middle"><tspan class="v-pn">Marmolada</tspan> · lifts to 3,265 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="334.1" y="340" width="181.9" height="30" rx="15"/><text x="425" y="360" text-anchor="middle"><tspan class="v-pn">Canazei</tspan> · 1,465 m</text></g>
-<g class="v-pill"><rect x="41.2" y="340" width="77.5" height="30" rx="15"/><text x="80" y="360" text-anchor="middle"><tspan class="v-pn">Moena</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="334.1" y="308" width="181.9" height="30" rx="15"/><text x="425" y="328" text-anchor="middle"><tspan class="v-pn">Canazei</tspan> · 1,465 m</text></g>
+<g class="v-pill"><rect x="41.2" y="308" width="77.5" height="30" rx="15"/><text x="80" y="328" text-anchor="middle"><tspan class="v-pn">Moena</tspan></text></g>
 </svg>
 <figcaption>Canazei sits at the head of the valley, between the Sella towers, Col Rodella and the Marmolada glacier. Moena is further down.</figcaption>
 </figure>

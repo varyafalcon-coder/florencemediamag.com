@@ -55,6 +55,8 @@ faq:
 <div><span class="bn">2,000</span><span class="bl">years of thermal baths</span></div>
 </div>
 
+{% include pistes.html id="bormio" %}
+
 ## Why is it worth going?
 
 <p class="lede">The Stelvio piste drops more than 1,000 metres to the town, and the men's World Cup downhill is raced on it every December.</p>
@@ -66,7 +68,7 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 ## From Cima Bianca to the town
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Bormio: Cima Bianca at 3,012 metres, the Bormio 2000 station, several runs including the Stelvio piste down to the medieval town at 1,225 metres, and the thermal baths just outside town"><defs><linearGradient id="v13sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v13body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v13m1"><path d="M70,356 C162,224.6 254,104.9 300,64 C346,110.7 438,227.5 530,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v13sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Bormio: Cima Bianca at 3,012 metres, the Bormio 2000 station, several runs including the Stelvio piste down to the medieval town at 1,225 metres, and the thermal baths just outside town"><defs><linearGradient id="v13sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v13body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v13m1"><path d="M70,356 C162,224.6 254,104.9 300,64 C346,110.7 438,227.5 530,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v13sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,156.4 Q100,106 200,124 Q310,106 420,143.5 Q510,86.5 600,104.5 Q660,86.5 720,130.5 L720,356 Z"/>
 <path fill="url(#v13body)" d="M70,356 C162,224.6 254,104.9 300,64 C346,110.7 438,227.5 530,356 Z"/>
 <g clip-path="url(#v13m1)">
@@ -87,14 +89,9 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <path class="v-tree" d="M467.1,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M489.3,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M511.6,292 l6.5,-17.6 l6.5,17.6 Z"/>
-<path d="M248,93.2 C266,145.4 154.8,177.6 172.8,197.6 S115.6,272 97.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M248,93.2 C266,145.4 154.8,177.6 172.8,197.6 S115.6,272 97.6,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M274,99.2 C298,149.9 212.4,180.6 236.4,200.6 S222.8,272 198.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M274,99.2 C298,149.9 212.4,180.6 236.4,200.6 S222.8,272 198.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M300,93.2 C330,145.4 270,177.6 300,197.6 S330,272 300,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M300,93.2 C330,145.4 270,177.6 300,197.6 S330,272 300,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M326,99.2 C344,149.9 345.6,180.6 363.6,200.6 S419.2,272 401.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M326,99.2 C344,149.9 345.6,180.6 363.6,200.6 S419.2,272 401.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M352,93.2 C376,145.4 403.2,177.6 427.2,197.6 S526.4,272 502.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M352,93.2 C376,145.4 403.2,177.6 427.2,197.6 S526.4,272 502.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M300,24 C327.6,151.6 309.2,268.4 355.2,366 L760,366 L760,24 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="410" y1="296" x2="330" y2="195.4"/>
 <line class="v-pylon" x1="386" y1="265.8" x2="386" y2="277.8"/>
 <line class="v-pylon" x1="360.4" y1="233.6" x2="360.4" y2="245.6"/>
@@ -104,7 +101,6 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <line class="v-pylon" x1="312.6" y1="115.7" x2="312.6" y2="127.7"/>
 <rect class="v-cabin" x="312.6" y="137.3" width="9" height="10" rx="2"/>
 <path class="v-museum" d="M315,198.4 l6,-10 h18 l6,10 Z"/>
-<path d="M305,68.2 L345,130.5 L335,195.4 L390,247.3 L452,294.7" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path class="v-run" d="M305,68.2 L345,130.5 L335,195.4 L390,247.3 L452,294.7"/>
 <ellipse class="v-ground" cx="480" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M426,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M423.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -122,14 +118,22 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <path class="v-wall" d="M514,299 v-13 h15 v13 Z"/>
 <path class="v-roof" d="M511.5,287 l10,-10 l10,10 Z"/>
 <rect class="v-win" x="519.5" y="291" width="4" height="4"/>
-<rect class="v-pool" x="628" y="293" width="44" height="8" rx="3"/>
-<path class="v-steam" d="M640,289 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M650,289 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M660,289 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-wall" d="M620,295 v-24 h40 v24 Z"/>
+<path class="v-roof" d="M617,272 h46 l-4,-7 h-38 Z"/>
+<path class="v-snow" d="M617,265 h46 l-1.5,-2.5 h-43 Z"/>
+<path class="v-arch" d="M627,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<path class="v-arch" d="M637,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<path class="v-arch" d="M647,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<rect class="v-poolrim" x="634" y="292" width="60" height="12" rx="6"/>
+<rect class="v-pool" x="639" y="294.5" width="50" height="7" rx="3.5"/>
+<path class="v-ripple" d="M648,298 q4,-2 8,0 M668,298 q4,-2 8,0"/>
+<path class="v-steam" d="M650,289 c-6,-4.8 6,-9.6 0,-16 c-5,-4.8 4,-8 1,-12.8"/>
+<path class="v-steam" d="M664,289 c-6,-6.6 6,-13.2 0,-22 c-5,-6.6 4,-11 1,-17.6"/>
+<path class="v-steam" d="M678,289 c-6,-4.8 6,-9.6 0,-16 c-5,-4.8 4,-8 1,-12.8"/>
 <g class="v-pill"><rect x="191.7" y="18" width="216.7" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Cima Bianca</tspan> · 3,012 m</text></g>
 <g class="v-pill"><rect x="125.2" y="180.4" width="129.7" height="30" rx="15"/><text x="190" y="200.4" text-anchor="middle"><tspan class="v-pn">Bormio 2000</tspan></text></g>
-<g class="v-pill v-pill-blue"><rect x="393.4" y="340" width="173.2" height="30" rx="15"/><text x="480" y="360" text-anchor="middle"><tspan class="v-pn">Bormio</tspan> · 1,225 m</text></g>
-<g class="v-pill"><rect x="564.9" y="260" width="147.1" height="30" rx="15"/><text x="638.4" y="280" text-anchor="middle"><tspan class="v-pn">Thermal baths</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="368.4" y="308" width="173.2" height="30" rx="15"/><text x="455" y="328" text-anchor="middle"><tspan class="v-pn">Bormio</tspan> · 1,225 m</text></g>
+<g class="v-pill"><rect x="564.9" y="308" width="147.1" height="30" rx="15"/><text x="638.4" y="328" text-anchor="middle"><tspan class="v-pn">Thermal baths</tspan></text></g>
 </svg>
 <figcaption>The lifts climb from the town through Bormio 2000 to Cima Bianca, and the Stelvio piste comes all the way back down. The thermal baths are just outside town.</figcaption>
 </figure>

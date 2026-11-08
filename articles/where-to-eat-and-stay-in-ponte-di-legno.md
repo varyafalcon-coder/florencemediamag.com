@@ -57,6 +57,8 @@ faq:
 <div><span class="bn">6 months</span><span class="bl">of snow, Nov to May</span></div>
 </div>
 
+{% include pistes.html id="pontedilegno" %}
+
 ## Why is it worth going?
 
 <p class="lede">Ponte di Legno is the village, Passo del Tonale the ski station, and the Presena glacier above them reaches 3,000 metres. One lift pass covers all three.</p>
@@ -68,18 +70,14 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 ## From the glacier to the village
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale below it at 1,880 metres with its runs, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="v6sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v6body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v6m1"><path d="M430,356 C466,180.8 490,70 532,66 Q580,58 634,66 C670,70 694,186.6 730,356 Z"/></clipPath><clipPath id="v6m2"><path d="M205,356 C251.2,219.6 304,204.5 370,204.5 C436,204.5 488.8,219.6 535,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v6sky)"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale below it at 1,880 metres with its runs, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="v6sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v6body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v6m1"><path d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/></clipPath><clipPath id="v6m2"><path d="M205,356 C257.8,280.2 337,234.8 370,204.5 C403,237.8 482.2,283.3 535,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v6sky)"/>
 <path class="v-far" d="M0,356 L0,164.3 Q80,108.7 160,126.7 Q245,108.7 330,145.5 Q415,83.6 500,101.6 Q610,83.6 720,114.2 L720,356 Z"/>
-<path fill="url(#v6body)" d="M430,356 C466,180.8 490,70 532,66 Q580,58 634,66 C670,70 694,186.6 730,356 Z"/>
+<path fill="url(#v6body)" d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/>
 <g clip-path="url(#v6m1)">
 <path class="v-snow" d="M400,24 L760,24 L760,189 Q740,197 720,169 Q700,193 680,185 Q660,193 640,173 Q620,193 600,185 Q580,193 560,169 Q540,197 520,189 Q500,197 480,169 Q460,193 440,185 Q420,193 400,173 Z"/>
-<path d="M541,93.2 C559,145.4 493,177.6 511,197.6 S499,272 481,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M541,93.2 C559,145.4 493,177.6 511,197.6 S499,272 481,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M567,99.2 C591,149.9 533,180.6 557,200.6 S571,272 547,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M567,99.2 C591,149.9 533,180.6 557,200.6 S571,272 547,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M593,93.2 C623,145.4 573,177.6 603,197.6 S643,272 613,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M593,93.2 C623,145.4 573,177.6 603,197.6 S643,272 613,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M619,99.2 C637,149.9 631,180.6 649,200.6 S697,272 679,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M619,99.2 C637,149.9 631,180.6 649,200.6 S697,272 679,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M580,24 C598,151.6 586,268.4 616,366 L880,366 L880,24 Z"/>
 </g>
-<path fill="url(#v6body)" d="M205,356 C251.2,219.6 304,204.5 370,204.5 C436,204.5 488.8,219.6 535,356 Z"/>
+<path fill="url(#v6body)" d="M205,356 C257.8,280.2 337,234.8 370,204.5 C403,237.8 482.2,283.3 535,356 Z"/>
 <g clip-path="url(#v6m2)">
 <path class="v-snow" d="M172,164.5 L568,164.5 L568,263.9 Q546,271.9 524,243.9 Q502,267.9 480,259.9 Q458,267.9 436,247.9 Q414,267.9 392,259.9 Q370,267.9 348,243.9 Q326,271.9 304,263.9 Q282,271.9 260,243.9 Q238,267.9 216,259.9 Q194,267.9 172,247.9 Z"/>
 <path class="v-tree" d="M218.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -94,14 +92,9 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <path class="v-tree" d="M478.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M500.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M521.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
-<path d="M318,219.6 C336,240.2 253.4,240.8 271.4,260.8 S242.8,272 224.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M318,219.6 C336,240.2 253.4,240.8 271.4,260.8 S242.8,272 224.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M344,225.6 C368,244.7 296.7,243.8 320.7,263.8 S321.4,272 297.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M344,225.6 C368,244.7 296.7,243.8 320.7,263.8 S321.4,272 297.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M370,219.6 C400,240.2 340,240.8 370,260.8 S400,272 370,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M370,219.6 C400,240.2 340,240.8 370,260.8 S400,272 370,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M396,225.6 C414,244.7 401.3,243.8 419.3,263.8 S460.6,272 442.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M396,225.6 C414,244.7 401.3,243.8 419.3,263.8 S460.6,272 442.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M422,219.6 C446,240.2 444.6,240.8 468.6,260.8 S539.2,272 515.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M422,219.6 C446,240.2 444.6,240.8 468.6,260.8 S539.2,272 515.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M370,164.5 C389.8,249.9 376.6,310.5 409.6,366 L700,366 L700,164.5 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="406" y1="203.8" x2="560" y2="65.3"/>
 <line class="v-pylon" x1="452.2" y1="162.3" x2="452.2" y2="174.3"/>
 <line class="v-pylon" x1="501.5" y1="117.9" x2="501.5" y2="129.9"/>
@@ -136,7 +129,7 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <rect class="v-win" x="158" y="289" width="4" height="4"/>
 <g class="v-pill"><rect x="454.2" y="18" width="251.5" height="30" rx="15"/><text x="580" y="38" text-anchor="middle"><tspan class="v-pn">Presena glacier</tspan> · 3,000 m</text></g>
 <g class="v-pill"><rect x="199.9" y="140.5" width="260.2" height="30" rx="15"/><text x="330" y="160.5" text-anchor="middle"><tspan class="v-pn">Passo del Tonale</tspan> · 1,880 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="8.6" y="340" width="242.8" height="30" rx="15"/><text x="130" y="360" text-anchor="middle"><tspan class="v-pn">Ponte di Legno</tspan> · 1,260 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="8.6" y="308" width="242.8" height="30" rx="15"/><text x="130" y="328" text-anchor="middle"><tspan class="v-pn">Ponte di Legno</tspan> · 1,260 m</text></g>
 </svg>
 <figcaption>The long run comes down from the Presena glacier past Passo del Tonale all the way to Ponte di Legno.</figcaption>
 </figure>

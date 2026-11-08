@@ -1,0 +1,14 @@
+{%- assign a = site.data.ski.areas | where: "id", include.id | first -%}
+{%- if a.pistes -%}
+{%- assign b = a.pistes[0] -%}{%- assign r = a.pistes[1] -%}{%- assign k = a.pistes[2] -%}
+{%- assign t = b | plus: r | plus: k -%}
+<div class="pistes">
+<p class="pistes-head"><span class="pistes-label">The runs · {{ t }} km</span><span class="pistes-area">{{ a.pistes_area }}</span></p>
+<div class="pbar" role="img" aria-label="{{ b }} km blue, {{ r }} km red, {{ k }} km black"><span class="pb-blue" style="flex:{{ b }}"></span><span class="pb-red" style="flex:{{ r }}"></span><span class="pb-black" style="flex:{{ k }}"></span></div>
+<ul class="pkey">
+<li><i class="pb-blue"></i><b>{{ b }} km</b> blue, easy</li>
+<li><i class="pb-red"></i><b>{{ r }} km</b> red, intermediate</li>
+<li><i class="pb-black"></i><b>{{ k }} km</b> black, difficult</li>
+</ul>
+</div>
+{%- endif -%}

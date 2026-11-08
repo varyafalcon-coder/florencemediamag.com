@@ -49,11 +49,13 @@ faq:
 </dl>
 
 <div class="bignums">
-<div><span class="bn">120 km</span><span class="bl">of runs on one mountain</span></div>
+<div><span class="bn">125 km</span><span class="bl">of runs on one mountain</span></div>
 <div><span class="bn">32</span><span class="bl">lifts, among the most modern in the Alps</span></div>
 <div><span class="bn">2,275 m</span><span class="bl">the summit</span></div>
 <div><span class="bn">1,300 m</span><span class="bl">of vertical to the valley</span></div>
 </div>
+
+{% include pistes.html id="kronplatz" %}
 
 ## Why is it worth going?
 
@@ -66,9 +68,9 @@ One round summit with long runs down every side, almost no queues, and a train s
 ## One mountain, every side
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Plan de Corones: one round mountain at 2,275 metres with the museums on the summit, runs and gondolas on every side, Brunico below at 835 metres and the railway at its foot"><defs><linearGradient id="v11sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v11body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v11m1"><path d="M60,356 C146.8,93.2 246,64 370,64 C494,64 593.2,93.2 680,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v11sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Plan de Corones: one round mountain at 2,275 metres with the museums on the summit, runs and gondolas on every side, Brunico below at 835 metres and the railway at its foot"><defs><linearGradient id="v11sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v11body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v11m1"><path d="M60,356 C159.2,210 308,122.4 370,64 C432,128.2 580.8,215.8 680,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v11sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,172.8 Q75,106.4 150,124.4 Q240,106.4 330,156.6 Q445,90.3 560,108.3 Q640,90.3 720,140.5 L720,356 Z"/>
-<path fill="url(#v11body)" d="M60,356 C146.8,93.2 246,64 370,64 C494,64 593.2,93.2 680,356 Z"/>
+<path fill="url(#v11body)" d="M60,356 C159.2,210 308,122.4 370,64 C432,128.2 580.8,215.8 680,356 Z"/>
 <g clip-path="url(#v11m1)">
 <path class="v-snow" d="M-2,24 L742,24 L742,165.6 Q700.7,173.6 659.3,145.6 Q618,169.6 576.7,161.6 Q535.3,169.6 494,149.6 Q452.7,169.6 411.3,161.6 Q370,169.6 328.7,145.6 Q287.3,173.6 246,165.6 Q204.7,173.6 163.3,145.6 Q122,169.6 80.7,161.6 Q39.3,169.6 -2,149.6 Z"/>
 <path class="v-tree" d="M84.8,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -95,16 +97,9 @@ One round summit with long runs down every side, almost no queues, and a train s
 <path class="v-tree" d="M612.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M634.1,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M655.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M292,93.2 C310,145.4 108.4,177.6 126.4,197.6 S-21.2,272 -39.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M292,93.2 C310,145.4 108.4,177.6 126.4,197.6 S-21.2,272 -39.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M318,99.2 C342,149.9 183.6,180.6 207.6,200.6 S121.2,272 97.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M318,99.2 C342,149.9 183.6,180.6 207.6,200.6 S121.2,272 97.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M344,93.2 C374,145.4 258.8,177.6 288.8,197.6 S263.6,272 233.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M344,93.2 C374,145.4 258.8,177.6 288.8,197.6 S263.6,272 233.6,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M370,99.2 C388,149.9 352,180.6 370,200.6 S388,272 370,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M370,99.2 C388,149.9 352,180.6 370,200.6 S388,272 370,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M396,93.2 C420,145.4 427.2,177.6 451.2,197.6 S530.4,272 506.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M396,93.2 C420,145.4 427.2,177.6 451.2,197.6 S530.4,272 506.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M422,99.2 C452,149.9 502.4,180.6 532.4,200.6 S672.8,272 642.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M422,99.2 C452,149.9 502.4,180.6 532.4,200.6 S672.8,272 642.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M448,93.2 C466,145.4 595.6,177.6 613.6,197.6 S797.2,272 779.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M448,93.2 C466,145.4 595.6,177.6 613.6,197.6 S797.2,272 779.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M370,24 C407.2,151.6 382.4,268.4 444.4,366 L990,366 L990,24 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="200" y1="296" x2="340" y2="69.6"/>
 <line class="v-pylon" x1="242" y1="228.1" x2="242" y2="240.1"/>
 <line class="v-pylon" x1="286.8" y1="155.7" x2="286.8" y2="167.7"/>
@@ -140,7 +135,7 @@ One round summit with long runs down every side, almost no queues, and a train s
 <g class="v-train"><rect x="420" y="330" width="80" height="13" rx="3"/><rect x="503" y="330" width="60" height="13" rx="3"/><line x1="380" y1="346" x2="620" y2="346"/></g>
 <g class="v-pill"><rect x="239.9" y="8" width="260.2" height="30" rx="15"/><text x="370" y="28" text-anchor="middle"><tspan class="v-pn">Summit</tspan> · 2,275 m · museums</text></g>
 <g class="v-pill v-pill-blue"><rect x="37.8" y="222" width="164.5" height="30" rx="15"/><text x="120" y="242" text-anchor="middle"><tspan class="v-pn">Brunico</tspan> · 835 m</text></g>
-<g class="v-pill"><rect x="128.6" y="340" width="242.8" height="30" rx="15"/><text x="250" y="360" text-anchor="middle"><tspan class="v-pn">Trains stop at the lifts</tspan></text></g>
+<g class="v-pill"><rect x="128.6" y="308" width="242.8" height="30" rx="15"/><text x="250" y="328" text-anchor="middle"><tspan class="v-pn">Trains stop at the lifts</tspan></text></g>
 </svg>
 <figcaption>Lifts go up every side of the round summit, where the museums are. Brunico lies below, and the trains stop at the bottom stations.</figcaption>
 </figure>

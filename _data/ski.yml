@@ -10,6 +10,8 @@ areas:
     car: "1 h 50"
     train: "No practical option"
     size: "About 25 runs"
+    pistes: [14, 29, 1]
+    pistes_area: "Abetone, Val di Luce and Cutigliano"
     top: "1,900 m"
     pass: "51 € on weekdays (last season)"
     season: "4 Dec 2026 to 11 Apr 2027, snow permitting"
@@ -31,6 +33,8 @@ areas:
     car: "2 h"
     train: "No practical option"
     size: "About 15 runs"
+    pistes: [5, 7, 2]
+    pistes_area: "The marked runs above Cavone"
     top: "1,950 m"
     pass: "28 € weekdays, 38 € weekends (latest published list)"
     season: "Planned 5 Dec 2026 to 29 Mar 2027"
@@ -52,6 +56,8 @@ areas:
     car: "2 h 15"
     train: "No practical option"
     size: "About 50 km"
+    pistes: [15, 25, 10]
+    pistes_area: "Sestola, Passo del Lupo, Montecreto and Le Polle"
     top: "2,100 m"
     pass: "44 € weekdays, 57 € weekends"
     season: "Usually early December, snow permitting"
@@ -72,7 +78,9 @@ areas:
     tier: alps
     car: "4 h"
     train: "train to Bolzano, then bus 350 to Ortisei"
-    size: "About 175 km, inside the 1,200 km of Dolomiti Superski"
+    size: "About 180 km, inside the 1,200 km of Dolomiti Superski"
+    pistes: [52, 110, 19]
+    pistes_area: "Val Gardena and Alpe di Siusi"
     top: "2,500 m"
     pass: "80 €, 89 € in high season"
     season: "Late November to April"
@@ -93,7 +101,9 @@ areas:
     tier: alps
     car: "4 h 15"
     train: "train to Trento, then bus"
-    size: "About 150 km, linked to Pinzolo and Folgarida-Marilleva"
+    size: "About 155 km, linked to Pinzolo and Folgarida-Marilleva"
+    pistes: [50, 72, 33]
+    pistes_area: "Campiglio, Pinzolo, Folgarida and Marilleva"
     top: "2,500 m"
     pass: "75 € to 89 €"
     season: "Late November to April"
@@ -115,6 +125,8 @@ areas:
     car: "4 h 30"
     train: "train to Brescia, local line to Edolo, then bus"
     size: "About 100 km, up to the Presena glacier"
+    pistes: [24, 60, 16]
+    pistes_area: "Ponte di Legno, Tonale, Presena and Temù"
     top: "3,000 m"
     pass: "From 52 €, 70 € at peak dates"
     season: "Late November to early May, the glacier among the first runs to open"
@@ -136,6 +148,8 @@ areas:
     car: "4 h 30"
     train: "train to Venice Mestre or Calalzo, then bus"
     size: "About 120 km in separate areas"
+    pistes: [45, 59, 16]
+    pistes_area: "Tofane, Cinque Torri, Faloria and Cristallo"
     top: "2,930 m"
     pass: "80 €, 89 € in high season"
     season: "Late November to April"
@@ -157,6 +171,8 @@ areas:
     car: "4 h 45"
     train: "train to Brunico via Fortezza, then bus to Corvara"
     size: "About 130 km, inside the 1,200 km of Dolomiti Superski"
+    pistes: [74, 47, 9]
+    pistes_area: "Corvara, La Villa, San Cassiano and around"
     top: "2,778 m"
     pass: "75 € to 83 € (Alta Badia), more with Dolomiti Superski"
     season: "4 Dec 2026 to 4 Apr 2027"
@@ -177,7 +193,9 @@ areas:
     tier: alps
     car: "4 h"
     train: "train to Bolzano or Trento, then bus to Canazei"
-    size: "About 210 km across the valley, inside Dolomiti Superski"
+    size: "About 110 km with Carezza, inside Dolomiti Superski"
+    pistes: [38, 56, 13]
+    pistes_area: "Val di Fassa and Carezza"
     top: "3,265 m on the Marmolada"
     pass: "80 €, 89 € in high season (Dolomiti Superski)"
     season: "Late November to April"
@@ -198,7 +216,9 @@ areas:
     tier: alps
     car: "4 h 30"
     train: "train to Brunico via Fortezza; trains stop at the lifts"
-    size: "About 120 km and 32 lifts"
+    size: "About 125 km and 32 lifts"
+    pistes: [60, 36, 29]
+    pistes_area: "Every side of the mountain"
     top: "2,275 m"
     pass: "About 80 € (Kronplatz), more with Dolomiti Superski"
     season: "Late November to April"
@@ -219,7 +239,9 @@ areas:
     tier: far
     car: "5 h"
     train: "train to Châtillon-Saint-Vincent, then bus"
-    size: "About 150 km, 360 km with Zermatt"
+    size: "About 160 km, 360 km with Zermatt"
+    pistes: [39, 107, 12]
+    pistes_area: "Breuil-Cervinia and Valtournenche, without Zermatt"
     top: "3,480 m"
     pass: "64 €, 88 € with Zermatt"
     season: "Planned from 24 Oct 2026, one of the first in Europe"
@@ -240,7 +262,9 @@ areas:
     tier: far
     car: "5 h 30, over a high pass"
     train: "train to Milan, the line to Tirano, then a bus up to Livigno"
-    size: "About 120 km and 30 lifts"
+    size: "About 115 km and 30 lifts"
+    pistes: [30, 65, 20]
+    pistes_area: "Carosello 3000 and Mottolino"
     top: "2,798 m"
     pass: "51.50 € early and late season, 66 €, 74.50 € in high season"
     season: "From 28 Nov 2026 to early May"
@@ -262,6 +286,8 @@ areas:
     car: "5 h"
     train: "train to Aosta, then bus to Courmayeur"
     size: "About 100 km, plus the Skyway to 3,466 m"
+    pistes: [16, 21, 4]
+    pistes_area: "Marked runs only, off-piste not counted"
     top: "2,755 m on the pistes"
     pass: "75 €, 90 € with the Skyway Monte Bianco"
     season: "28 Nov 2026 to 11 Apr 2027"
@@ -283,6 +309,8 @@ areas:
     car: "5 h"
     train: "train to Milan, the line to Tirano, then bus to Bormio"
     size: "About 50 km"
+    pistes: [16, 22, 12]
+    pistes_area: "Bormio 2000 and Bormio 3000"
     top: "3,012 m"
     pass: "40 € in early December, 59 €, 65 € at peak dates"
     season: "Early December to April"

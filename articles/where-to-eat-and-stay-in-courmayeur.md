@@ -49,9 +49,11 @@ faq:
 <div class="bignums">
 <div><span class="bn">4,808 m</span><span class="bl">Mont Blanc, right above the town</span></div>
 <div><span class="bn">3,466 m</span><span class="bl">the top of the Skyway</span></div>
-<div><span class="bn">100 km</span><span class="bl">of runs</span></div>
+<div><span class="bn">100 km</span><span class="bl">of skiing, off-piste included</span></div>
 <div><span class="bn">10 min</span><span class="bl">to the hot springs</span></div>
 </div>
+
+{% include pistes.html id="courmayeur" %}
 
 ## Why is it worth going?
 
@@ -64,8 +66,8 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 ## Under Mont Blanc
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Courmayeur: the Mont Blanc massif at 4,808 metres with the Skyway cable car to Punta Helbronner at 3,466 metres, the ski area with its runs on the other side of the valley, the town at 1,224 metres and the hot springs of Pré-Saint-Didier"><defs><linearGradient id="v12sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v12body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v12m1"><path d="M0,356 C45.6,180.8 76,70 129.2,66 Q190,58 258.4,66 C304,70 334.4,186.6 380,356 Z"/></clipPath><clipPath id="v12m2"><path d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v12sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v12body)" d="M0,356 C45.6,180.8 76,70 129.2,66 Q190,58 258.4,66 C304,70 334.4,186.6 380,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Courmayeur: the Mont Blanc massif at 4,808 metres with the Skyway cable car to Punta Helbronner at 3,466 metres, the ski area with its runs on the other side of the valley, the town at 1,224 metres and the hot springs of Pré-Saint-Didier"><defs><linearGradient id="v12sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v12body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v12m1"><path d="M0,356 C30.4,239.2 76,142.8 98.8,102 L140.6,128.2 L190,64 L231.8,122.4 L273.6,90.3 C296.4,131.2 349.6,239.2 380,356 Z"/></clipPath><clipPath id="v12m2"><path d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v12sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v12body)" d="M0,356 C30.4,239.2 76,142.8 98.8,102 L140.6,128.2 L190,64 L231.8,122.4 L273.6,90.3 C296.4,131.2 349.6,239.2 380,356 Z"/>
 <g clip-path="url(#v12m1)">
 <path class="v-snow" d="M-38,24 L418,24 L418,200.6 Q392.7,208.6 367.3,180.6 Q342,204.6 316.7,196.6 Q291.3,204.6 266,184.6 Q240.7,204.6 215.3,196.6 Q190,204.6 164.7,180.6 Q139.3,208.6 114,200.6 Q88.7,208.6 63.3,180.6 Q38,204.6 12.7,196.6 Q-12.7,204.6 -38,184.6 Z"/>
 <path class="v-tree" d="M15.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -99,14 +101,9 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-tree" d="M661.9,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M684.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M707.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
-<path d="M508,205.9 C526,229.9 445.6,233.9 463.6,253.9 S437.2,272 419.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M508,205.9 C526,229.9 445.6,233.9 463.6,253.9 S437.2,272 419.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M534,211.9 C558,234.4 487.8,236.9 511.8,256.9 S513.6,272 489.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M534,211.9 C558,234.4 487.8,236.9 511.8,256.9 S513.6,272 489.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M560,205.9 C590,229.9 530,233.9 560,253.9 S590,272 560,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M560,205.9 C590,229.9 530,233.9 560,253.9 S590,272 560,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M586,211.9 C604,234.4 590.2,236.9 608.2,256.9 S648.4,272 630.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M586,211.9 C604,234.4 590.2,236.9 608.2,256.9 S648.4,272 630.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M612,205.9 C636,229.9 632.4,233.9 656.4,253.9 S724.8,272 700.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M612,205.9 C636,229.9 632.4,233.9 656.4,253.9 S724.8,272 700.8,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M560,149.2 C579.2,239.2 566.4,306 598.4,366 L880,366 L880,149.2 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="320" y1="277.9" x2="250" y2="145.8"/>
 <line class="v-pylon" x1="299" y1="238.3" x2="299" y2="250.3"/>
 <line class="v-pylon" x1="276.6" y1="196" x2="276.6" y2="208"/>
@@ -132,15 +129,23 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-wall" d="M424,285.6 v-13 h15 v13 Z"/>
 <path class="v-roof" d="M421.5,273.6 l10,-10 l10,10 Z"/>
 <rect class="v-win" x="429.5" y="277.6" width="4" height="4"/>
-<rect class="v-pool" x="638" y="293" width="44" height="8" rx="3"/>
-<path class="v-steam" d="M650,289 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M660,289 q5,-7 0,-14 q-5,-7 0,-14"/>
-<path class="v-steam" d="M670,289 q5,-7 0,-14 q-5,-7 0,-14"/>
+<path class="v-wall" d="M630,295 v-24 h40 v24 Z"/>
+<path class="v-roof" d="M627,272 h46 l-4,-7 h-38 Z"/>
+<path class="v-snow" d="M627,265 h46 l-1.5,-2.5 h-43 Z"/>
+<path class="v-arch" d="M637,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<path class="v-arch" d="M647,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<path class="v-arch" d="M657,291 v-9 a3.5,3.5 0 0 1 7,0 v9 Z"/>
+<rect class="v-poolrim" x="644" y="292" width="60" height="12" rx="6"/>
+<rect class="v-pool" x="649" y="294.5" width="50" height="7" rx="3.5"/>
+<path class="v-ripple" d="M658,298 q4,-2 8,0 M678,298 q4,-2 8,0"/>
+<path class="v-steam" d="M660,289 c-6,-4.8 6,-9.6 0,-16 c-5,-4.8 4,-8 1,-12.8"/>
+<path class="v-steam" d="M674,289 c-6,-6.6 6,-13.2 0,-22 c-5,-6.6 4,-11 1,-17.6"/>
+<path class="v-steam" d="M688,289 c-6,-4.8 6,-9.6 0,-16 c-5,-4.8 4,-8 1,-12.8"/>
 <g class="v-pill"><rect x="86" y="18" width="208" height="30" rx="15"/><text x="190" y="38" text-anchor="middle"><tspan class="v-pn">Mont Blanc</tspan> · 4,808 m</text></g>
 <g class="v-pill"><rect x="163.4" y="105.8" width="173.2" height="30" rx="15"/><text x="250" y="125.8" text-anchor="middle"><tspan class="v-pn">Skyway</tspan> · 3,466 m</text></g>
 <g class="v-pill"><rect x="412.5" y="143.2" width="295" height="30" rx="15"/><text x="560" y="163.2" text-anchor="middle"><tspan class="v-pn">Ski area</tspan> · Checrouit · 2,755 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="196" y="340" width="208" height="30" rx="15"/><text x="300" y="360" text-anchor="middle"><tspan class="v-pn">Courmayeur</tspan> · 1,224 m</text></g>
-<g class="v-pill"><rect x="469.2" y="340" width="242.8" height="30" rx="15"/><text x="590.6" y="360" text-anchor="middle"><tspan class="v-pn">Pré-Saint-Didier springs</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="196" y="308" width="208" height="30" rx="15"/><text x="300" y="328" text-anchor="middle"><tspan class="v-pn">Courmayeur</tspan> · 1,224 m</text></g>
+<g class="v-pill"><rect x="469.2" y="308" width="242.8" height="30" rx="15"/><text x="590.6" y="328" text-anchor="middle"><tspan class="v-pn">Pré-Saint-Didier springs</tspan></text></g>
 </svg>
 <figcaption>The Skyway climbs the Mont Blanc side from the edge of town. The ski area is on the opposite side of the valley, and the hot springs of Pré-Saint-Didier are ten minutes away.</figcaption>
 </figure>

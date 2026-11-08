@@ -56,11 +56,13 @@ faq:
 </dl>
 
 <div class="bignums">
-<div><span class="bn">120 km</span><span class="bl">of runs, 30 lifts</span></div>
+<div><span class="bn">115 km</span><span class="bl">of runs, 30 lifts</span></div>
 <div><span class="bn">2,798 m</span><span class="bl">the top of Carosello 3000</span></div>
 <div><span class="bn">1,816 m</span><span class="bl">the village itself</span></div>
 <div><span class="bn">2026</span><span class="bl">Olympic freestyle and snowboard</span></div>
 </div>
+
+{% include pistes.html id="livigno" %}
 
 ## Why is it worth going?
 
@@ -75,7 +77,7 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 ## Two sides of the valley
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 at 2,798 metres on the left, the village of Livigno on the valley floor at 1,816 metres, Mottolino at about 2,400 metres on the right, with runs on both sides and the free ski bus along the valley"><defs><linearGradient id="v14sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v14body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v14m1"><path d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/></clipPath><clipPath id="v14m2"><path d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v14sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 at 2,798 metres on the left, the village of Livigno on the valley floor at 1,816 metres, Mottolino at about 2,400 metres on the right, with runs on both sides and the free ski bus along the valley"><defs><linearGradient id="v14sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v14body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v14m1"><path d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/></clipPath><clipPath id="v14m2"><path d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v14sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,181.7 Q70,104.6 140,122.6 Q220,104.6 300,158 Q380,92.8 460,110.8 Q530,92.8 600,146.2 Q660,104.6 720,122.6 L720,356 Z"/>
 <path fill="url(#v14body)" d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/>
 <g clip-path="url(#v14m1)">
@@ -94,11 +96,6 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-tree" d="M301.4,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M323.5,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M345.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M128,93.2 C146,145.4 56.8,177.6 74.8,197.6 S39.6,272 21.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M128,93.2 C146,145.4 56.8,177.6 74.8,197.6 S39.6,272 21.6,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M154,99.2 C178,149.9 103.4,180.6 127.4,200.6 S124.8,272 100.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M154,99.2 C178,149.9 103.4,180.6 127.4,200.6 S124.8,272 100.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M180,93.2 C210,145.4 150,177.6 180,197.6 S210,272 180,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M180,93.2 C210,145.4 150,177.6 180,197.6 S210,272 180,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M206,99.2 C224,149.9 214.6,180.6 232.6,200.6 S277.2,272 259.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M206,99.2 C224,149.9 214.6,180.6 232.6,200.6 S277.2,272 259.2,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M232,93.2 C256,145.4 261.2,177.6 285.2,197.6 S362.4,272 338.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M232,93.2 C256,145.4 261.2,177.6 285.2,197.6 S362.4,272 338.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M180,24 C201.6,151.6 187.2,268.4 223.2,366 L540,366 L540,24 Z"/>
 </g>
 <path fill="url(#v14body)" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
@@ -116,13 +113,9 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-tree" d="M668.4,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M690.1,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M711.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
-<path d="M521,177.8 C539,208.9 468.1,219.9 486.1,239.9 S469.1,272 451.1,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M521,177.8 C539,208.9 468.1,219.9 486.1,239.9 S469.1,272 451.1,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M547,183.8 C571,213.4 511.4,222.9 535.4,242.9 S547.7,272 523.7,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M547,183.8 C571,213.4 511.4,222.9 535.4,242.9 S547.7,272 523.7,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M573,177.8 C603,208.9 554.6,219.9 584.6,239.9 S626.3,272 596.3,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M573,177.8 C603,208.9 554.6,219.9 584.6,239.9 S626.3,272 596.3,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M599,183.8 C617,213.4 616,222.9 634,242.9 S686.9,272 668.9,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M599,183.8 C617,213.4 616,222.9 634,242.9 S686.9,272 668.9,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M560,118 C579.8,217.4 566.6,296.6 599.6,366 L890,366 L890,118 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="306" y1="296" x2="190" y2="73"/>
 <line class="v-pylon" x1="271.2" y1="229.1" x2="271.2" y2="241.1"/>
 <line class="v-pylon" x1="234.1" y1="157.7" x2="234.1" y2="169.7"/>
@@ -149,8 +142,8 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <g class="v-bus"><rect x="470" y="309" width="34" height="14" rx="4"/><circle cx="478" cy="324" r="3"/><circle cx="496" cy="324" r="3"/></g>
 <g class="v-pill"><rect x="58.6" y="18" width="242.8" height="30" rx="15"/><text x="180" y="38" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
 <g class="v-pill"><rect x="434.2" y="112" width="251.5" height="30" rx="15"/><text x="560" y="132" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="274.1" y="340" width="181.9" height="30" rx="15"/><text x="365" y="360" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
-<g class="v-pill"><rect x="540.8" y="340" width="138.4" height="30" rx="15"/><text x="610" y="360" text-anchor="middle"><tspan class="v-pn">Free ski bus</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="274.1" y="308" width="181.9" height="30" rx="15"/><text x="365" y="328" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
+<g class="v-pill"><rect x="540.8" y="308" width="138.4" height="30" rx="15"/><text x="610" y="328" text-anchor="middle"><tspan class="v-pn">Free ski bus</tspan></text></g>
 </svg>
 <figcaption>Two ski areas on opposite sides of the valley, one pass for both. Gondolas go up from the village on each side, and the free bus links them.</figcaption>
 </figure>

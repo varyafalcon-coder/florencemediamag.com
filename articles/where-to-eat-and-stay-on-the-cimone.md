@@ -51,6 +51,8 @@ faq:
 <div><span class="bn">44&nbsp;€</span><span class="bl">a weekday pass</span></div>
 </div>
 
+{% include pistes.html id="cimone" %}
+
 ## Why is it worth going?
 
 <p class="lede">Monte Cimone, 2,165 metres, is the highest peak of the northern Apennines, and the ski area spreads over five bases around it.</p>
@@ -62,9 +64,9 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 ## Monte Cimone and its slopes
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Cimone: Monte Cimone at 2,165 metres with its weather station on top, runs on several sides, Passo del Lupo, and Sestola with its fortress below at 1,020 metres"><defs><linearGradient id="v3sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v3body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v3m1"><path d="M140,356 C215.6,93.2 302,64 410,64 C518,64 604.4,93.2 680,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v3sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of the Cimone: Monte Cimone at 2,165 metres with its weather station on top, runs on several sides, Passo del Lupo, and Sestola with its fortress below at 1,020 metres"><defs><linearGradient id="v3sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v3body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v3m1"><path d="M140,356 C226.4,210 356,122.4 410,64 C464,128.2 593.6,215.8 680,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v3sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,208.9 Q80,150.3 160,168.3 Q260,150.3 360,188.6 Q460,130.1 560,148.1 Q640,130.1 720,178.5 L720,356 Z"/>
-<path fill="url(#v3body)" d="M140,356 C215.6,93.2 302,64 410,64 C518,64 604.4,93.2 680,356 Z"/>
+<path fill="url(#v3body)" d="M140,356 C226.4,210 356,122.4 410,64 C464,128.2 593.6,215.8 680,356 Z"/>
 <g clip-path="url(#v3m1)">
 <path class="v-snow" d="M86,24 L734,24 L734,171.4 Q698,179.4 662,151.4 Q626,175.4 590,167.4 Q554,175.4 518,155.4 Q482,175.4 446,167.4 Q410,175.4 374,151.4 Q338,179.4 302,171.4 Q266,179.4 230,151.4 Q194,175.4 158,167.4 Q122,175.4 86,155.4 Z"/>
 <path class="v-tree" d="M161.6,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -87,15 +89,9 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <path class="v-tree" d="M615.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M636.8,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M658.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
-<path d="M345,93.2 C363,145.4 211,177.6 229,197.6 S131,272 113,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M345,93.2 C363,145.4 211,177.6 229,197.6 S131,272 113,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M371,99.2 C395,149.9 277.4,180.6 301.4,200.6 S255.8,272 231.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M371,99.2 C395,149.9 277.4,180.6 301.4,200.6 S255.8,272 231.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M397,93.2 C427,145.4 343.8,177.6 373.8,197.6 S380.6,272 350.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M397,93.2 C427,145.4 343.8,177.6 373.8,197.6 S380.6,272 350.6,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M423,99.2 C441,149.9 428.2,180.6 446.2,200.6 S487.4,272 469.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M423,99.2 C441,149.9 428.2,180.6 446.2,200.6 S487.4,272 469.4,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M449,93.2 C473,145.4 494.6,177.6 518.6,197.6 S612.2,272 588.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M449,93.2 C473,145.4 494.6,177.6 518.6,197.6 S612.2,272 588.2,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M475,99.2 C505,149.9 561,180.6 591,200.6 S737,272 707,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M475,99.2 C505,149.9 561,180.6 591,200.6 S737,272 707,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M410,24 C442.4,151.6 420.8,268.4 474.8,366 L950,366 L950,24 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="565" y1="188.6" x2="450" y2="73.1"/>
 <line class="v-pylon" x1="530.5" y1="154" x2="530.5" y2="166"/>
 <line class="v-pylon" x1="493.7" y1="117" x2="493.7" y2="129"/>
@@ -124,7 +120,7 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <rect class="v-win" x="178" y="289" width="4" height="4"/>
 <g class="v-pill"><rect x="297.3" y="8" width="225.4" height="30" rx="15"/><text x="410" y="28" text-anchor="middle"><tspan class="v-pn">Monte Cimone</tspan> · 2,165 m</text></g>
 <g class="v-pill v-pill-blue"><rect x="532.1" y="128.6" width="155.8" height="30" rx="15"/><text x="610" y="148.6" text-anchor="middle"><tspan class="v-pn">Passo del Lupo</tspan></text></g>
-<g class="v-pill"><rect x="59.1" y="340" width="181.9" height="30" rx="15"/><text x="150" y="360" text-anchor="middle"><tspan class="v-pn">Sestola</tspan> · 1,020 m</text></g>
+<g class="v-pill"><rect x="59.1" y="308" width="181.9" height="30" rx="15"/><text x="150" y="328" text-anchor="middle"><tspan class="v-pn">Sestola</tspan> · 1,020 m</text></g>
 </svg>
 <figcaption>The weather station on the summit is visible from all five bases. Sestola, with its fortress, is the village below.</figcaption>
 </figure>

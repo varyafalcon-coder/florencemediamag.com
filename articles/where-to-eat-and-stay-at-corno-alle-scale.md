@@ -51,6 +51,8 @@ faq:
 <div><span class="bn">28&nbsp;€</span><span class="bl">a weekday pass</span></div>
 </div>
 
+{% include pistes.html id="corno" %}
+
 ## Why is it worth going?
 
 <p class="lede">The lifts at Cavone climb inside a regional park to just under the Corno alle Scale, 1,945 metres, the highest point of the Bologna Apennines.</p>
@@ -62,7 +64,7 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 ## The ridge and the lake
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Corno alle Scale: the summit ridge at 1,945 metres, Lago Scaffaiolo at 1,775 metres under the ridge, the runs above Cavone, and the villages of Vidiciatico and Lizzano below"><defs><linearGradient id="v2sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v2body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v2m1"><path d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/></clipPath><clipPath id="v2m2"><path d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v2sky)"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Corno alle Scale: the summit ridge at 1,945 metres, Lago Scaffaiolo at 1,775 metres under the ridge, the runs above Cavone, and the villages of Vidiciatico and Lizzano below"><defs><linearGradient id="v2sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v2body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v2m1"><path d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/></clipPath><clipPath id="v2m2"><path d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v2sky)"/>
 <path class="v-far" d="M0,356 L0,164.3 Q90,105.8 180,123.8 Q280,105.8 380,144 Q470,95.6 560,113.6 Q640,95.6 720,154.2 L720,356 Z"/>
 <path fill="url(#v2body)" d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/>
 <g clip-path="url(#v2m1)">
@@ -104,18 +106,13 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-tree" d="M450.3,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M471.7,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M493.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M261,93.2 C279,145.4 193.2,177.6 211.2,197.6 S179.4,272 161.4,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M261,93.2 C279,145.4 193.2,177.6 211.2,197.6 S179.4,272 161.4,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M287,99.2 C311,149.9 246.4,180.6 270.4,200.6 S277.8,272 253.8,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M287,99.2 C311,149.9 246.4,180.6 270.4,200.6 S277.8,272 253.8,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M313,93.2 C343,145.4 299.6,177.6 329.6,197.6 S376.2,272 346.2,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M313,93.2 C343,145.4 299.6,177.6 329.6,197.6 S376.2,272 346.2,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M339,99.2 C357,149.9 370.8,180.6 388.8,200.6 S456.6,272 438.6,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M339,99.2 C357,149.9 370.8,180.6 388.8,200.6 S456.6,272 438.6,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M300,24 C325.2,151.6 308.4,268.4 350.4,366 L720,366 L720,24 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="236" y1="225.1" x2="300" y2="67"/>
 <line class="v-pylon" x1="255.2" y1="177.7" x2="255.2" y2="189.7"/>
 <line class="v-pylon" x1="275.7" y1="127.1" x2="275.7" y2="139.1"/>
 <rect class="v-cabin" x="260.9" y="153.4" width="9" height="10" rx="2"/>
-<ellipse class="v-lake" cx="432" cy="154.1" rx="17" ry="5"/>
 <ellipse class="v-ground" cx="210" cy="229.1" rx="37" ry="5"/>
 <path class="v-wall" d="M187,228.1 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M184.5,216.1 l10.5,-10 l10.5,10 Z"/>
@@ -140,7 +137,7 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <g class="v-pill"><rect x="169.9" y="18" width="260.2" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Corno alle Scale</tspan> · 1,945 m</text></g>
 <g class="v-pill"><rect x="434.2" y="52.4" width="251.5" height="30" rx="15"/><text x="560" y="72.4" text-anchor="middle"><tspan class="v-pn">Lago Scaffaiolo</tspan> · 1,775 m</text></g>
 <g class="v-pill v-pill-blue"><rect x="54.7" y="173.1" width="190.6" height="30" rx="15"/><text x="150" y="193.1" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
-<g class="v-pill"><rect x="472.9" y="340" width="234.1" height="30" rx="15"/><text x="590" y="360" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
+<g class="v-pill"><rect x="472.9" y="308" width="234.1" height="30" rx="15"/><text x="590" y="328" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
 </svg>
 <figcaption>The lifts climb from Cavone towards the summit ridge. Lago Scaffaiolo sits just below it, and the villages are further down the valley.</figcaption>
 </figure>

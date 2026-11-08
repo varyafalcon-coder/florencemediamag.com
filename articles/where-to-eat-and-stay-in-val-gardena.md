@@ -49,11 +49,13 @@ faq:
 </dl>
 
 <div class="bignums">
-<div><span class="bn">175 km</span><span class="bl">in the valley and Alpe di Siusi</span></div>
+<div><span class="bn">180 km</span><span class="bl">in the valley and Alpe di Siusi</span></div>
 <div><span class="bn">1,200 km</span><span class="bl">on the same Superski pass</span></div>
 <div><span class="bn">2,500 m</span><span class="bl">the top lifts at Seceda</span></div>
 <div><span class="bn">Train + bus</span><span class="bl">from Florence</span></div>
 </div>
+
+{% include pistes.html id="valgardena" %}
 
 ## Why is it worth going?
 
@@ -66,8 +68,8 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 ## The valley under the Sassolungo
 
 <figure class="valley">
-<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M250,356 C286,180.8 310,70 352,66 Q400,58 454,66 C490,70 514,186.6 550,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C492,193.1 540,175 600,175 C660,175 708,193.1 750,356 Z"/></clipPath></defs><rect width="720" height="380" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v4body)" d="M250,356 C286,180.8 310,70 352,66 Q400,58 454,66 C490,70 514,186.6 550,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M250,356 C274,239.2 310,142.8 328,102 L361,128.2 L400,64 L433,122.4 L466,90.3 C484,131.2 526,239.2 550,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v4body)" d="M250,356 C274,239.2 310,142.8 328,102 L361,128.2 L400,64 L433,122.4 L466,90.3 C484,131.2 526,239.2 550,356 Z"/>
 <g clip-path="url(#v4m1)">
 <path class="v-snow" d="M220,24 L580,24 L580,113 Q560,121 540,93 Q520,117 500,109 Q480,117 460,97 Q440,117 420,109 Q400,117 380,93 Q360,121 340,113 Q320,121 300,93 Q280,117 260,109 Q240,117 220,97 Z"/>
 <path class="v-rock" d="M307,124 L312.6,70 Q322.5,60 332.4,72 L338,124 Z"/>
@@ -97,13 +99,9 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-tree" d="M232,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M255,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M278,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M101,166.3 C119,200.2 53,214.2 71,234.2 S59,272 41,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M101,166.3 C119,200.2 53,214.2 71,234.2 S59,272 41,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M127,172.3 C151,204.7 93,217.2 117,237.2 S131,272 107,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M127,172.3 C151,204.7 93,217.2 117,237.2 S131,272 107,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M153,166.3 C183,200.2 133,214.2 163,234.2 S203,272 173,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M153,166.3 C183,200.2 133,214.2 163,234.2 S203,272 173,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M179,172.3 C197,204.7 191,217.2 209,237.2 S257,272 239,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M179,172.3 C197,204.7 191,217.2 209,237.2 S257,272 239,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M140,105.2 C158,208.5 146,292.8 176,366 L440,366 L440,105.2 Z"/>
 </g>
-<path fill="url(#v4body)" d="M450,356 C492,193.1 540,175 600,175 C660,175 708,193.1 750,356 Z"/>
+<path fill="url(#v4body)" d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/>
 <g clip-path="url(#v4m3)">
 <path class="v-snow" d="M420,135 L780,135 L780,243.3 Q760,251.3 740,223.3 Q720,247.3 700,239.3 Q680,247.3 660,227.3 Q640,247.3 620,239.3 Q600,247.3 580,223.3 Q560,251.3 540,243.3 Q520,251.3 500,223.3 Q480,247.3 460,239.3 Q440,247.3 420,227.3 Z"/>
 <path class="v-tree" d="M462,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -116,13 +114,9 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-tree" d="M692,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M715,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-tree" d="M738,290 l5.6,-15.2 l5.6,15.2 Z"/>
-<path d="M561,193.1 C579,220.4 513,227.6 531,247.6 S519,272 501,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M561,193.1 C579,220.4 513,227.6 531,247.6 S519,272 501,302" fill="none" stroke="#4aa0ff" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M587,199.1 C611,224.9 553,230.6 577,250.6 S591,272 567,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M587,199.1 C611,224.9 553,230.6 577,250.6 S591,272 567,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M613,193.1 C643,220.4 593,227.6 623,247.6 S663,272 633,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M613,193.1 C643,220.4 593,227.6 623,247.6 S663,272 633,302" fill="none" stroke="#14161f" stroke-width="1.8" stroke-linecap="round"/>
-<path d="M639,199.1 C657,224.9 651,230.6 669,250.6 S717,272 699,302" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="5.5" stroke-linecap="round"/><path d="M639,199.1 C657,224.9 651,230.6 669,250.6 S717,272 699,302" fill="none" stroke="#e8483b" stroke-width="1.8" stroke-linecap="round"/>
 <path class="v-shade" d="M600,135 C618,229.3 606,301.7 636,366 L900,366 L900,135 Z"/>
 </g>
-<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,380 L0,380 Z"/><path class="v-floorline" d="M0,318 C200,310 520,326 720,316"/>
+<path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="124" y1="296" x2="135" y2="148.8"/>
 <line class="v-pylon" x1="127.3" y1="251.8" x2="127.3" y2="263.8"/>
 <line class="v-pylon" x1="130.8" y1="204.7" x2="130.8" y2="216.7"/>
@@ -159,8 +153,8 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <g class="v-pill"><rect x="296" y="18" width="208" height="30" rx="15"/><text x="400" y="38" text-anchor="middle"><tspan class="v-pn">Sassolungo</tspan> · 3,181 m</text></g>
 <g class="v-pill"><rect x="53.4" y="99.2" width="173.2" height="30" rx="15"/><text x="140" y="119.2" text-anchor="middle"><tspan class="v-pn">Seceda</tspan> · 2,500 m</text></g>
 <g class="v-pill"><rect x="500.4" y="129" width="199.3" height="30" rx="15"/><text x="600" y="149" text-anchor="middle"><tspan class="v-pn">Ciampinoi</tspan> · 2,250 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="89.1" y="340" width="181.9" height="30" rx="15"/><text x="180" y="360" text-anchor="middle"><tspan class="v-pn">Ortisei</tspan> · 1,236 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="457.8" y="340" width="164.5" height="30" rx="15"/><text x="540" y="360" text-anchor="middle"><tspan class="v-pn">Selva</tspan> · 1,563 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="89.1" y="308" width="181.9" height="30" rx="15"/><text x="180" y="328" text-anchor="middle"><tspan class="v-pn">Ortisei</tspan> · 1,236 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="457.8" y="308" width="164.5" height="30" rx="15"/><text x="540" y="328" text-anchor="middle"><tspan class="v-pn">Selva</tspan> · 1,563 m</text></g>
 </svg>
 <figcaption>Ortisei lies lower down the valley under Seceda, Selva higher up under Ciampinoi, and the Sassolungo stands over both.</figcaption>
 </figure>

@@ -999,8 +999,11 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 .v-cabin{fill:#e3483a}
 .v-run{fill:none;stroke:#e3483a;stroke-width:3;stroke-dasharray:1 7;stroke-linecap:round}
 .v-lake{fill:#8ec5ff}
-.v-pool{fill:#8ed8ff}
-.v-steam{fill:none;stroke:#fff;stroke-width:2.2;stroke-linecap:round;opacity:.9}
+.v-pool{fill:#5fb8ff}
+.v-poolrim{fill:#e3e6f6;stroke:#b9c0e6;stroke-width:1}
+.v-ripple{fill:none;stroke:#fff;stroke-width:1.3;stroke-linecap:round;opacity:.8}
+.v-arch{fill:#f3c74b}
+.v-steam{fill:none;stroke:#a9b3ec;stroke-width:3;stroke-linecap:round;opacity:.9}
 .v-museum{fill:#0b0b0b;opacity:.7}
 .v-train rect{fill:#e3483a}.v-train line{stroke:#0b0b0b;stroke-width:1.5}
 @media (prefers-color-scheme:dark){.v-back{fill:#3a4390;opacity:.7}}
@@ -1037,3 +1040,21 @@ body:has(.trust) footer{margin-top:0}
 .v-win{fill:#f3c74b}
 .v-pylon{stroke:#0b0b0b;stroke-width:1.4;opacity:.5}
 @media (prefers-color-scheme:dark){.v-far{fill:#323b85}.v-mid{fill:#3d4799}.v-midsnow{fill:#c9cff4}.v-floor{fill:#cdd2ee}.v-floorline{stroke:#b9c0e6}.v-ground{fill:#b9c0e6}}
+
+/* at a glance + big numbers + pistes: one grid, one gap */
+.look-cards .glance{gap:12px}
+.look-cards .glance div,.look-cards .bignums > div{padding:18px 20px}
+.look-cards .glance + .bignums{margin-top:12px}
+.pistes{background:var(--card);padding:18px 20px 20px;margin-top:12px}
+.pistes-head{margin:0;display:flex;align-items:baseline;gap:4px 12px;flex-wrap:wrap}
+.pistes-label{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.pistes-area{font-size:13px;color:var(--ink-soft)}
+.pbar{display:flex;gap:3px;height:12px;margin:12px 0 14px;border-radius:6px;overflow:hidden}
+.pbar span{min-width:6px}
+.pb-blue{background:#3d8bff}.pb-red{background:#e3483a}.pb-black{background:#14161f}
+.pkey{list-style:none;margin:0 !important;padding:0 !important;display:flex;flex-wrap:wrap;gap:6px 22px;font-size:15px !important;line-height:1.5 !important}
+.pkey li{display:flex;align-items:center;gap:8px;margin:0}
+.pkey i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.pkey b{font-weight:700}
+@media (prefers-color-scheme:dark){.pb-black{background:#e9ecf9}}
+.article .body .pistes + h2{margin-top:clamp(40px,5vw,56px)}
