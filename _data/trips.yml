@@ -627,3 +627,36 @@
   order: "Valtellina and Italian dishes"
   note: "At the top of the Cima Bianca lift"
   area: ski
+- title: "Stalet"
+  place: "Livigno, Carosello 3000"
+  dist: four
+  time: 5 h 30
+  kind: drinks
+  text: "The big après-ski bar at the bottom of the Carosello 3000 gondola. Full from mid afternoon until it closes at about eight."
+  maps_q: "Stalet, Carosello 3000, Livigno"
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: stalet
+  note: "Busiest straight after the lifts close"
+  area: ski
+- title: "Miky's"
+  place: "Livigno"
+  dist: four
+  time: 5 h 30
+  kind: drinks
+  text: "An après-ski bar on the slopes that leads into Miky's Disco Club, the best-known late-night spot in the village."
+  maps_q: "Miky's Livigno"
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: mikys-livigno
+  note: "The club opens later in the evening"
+  area: ski
+- title: "Aquagranda"
+  place: "Livigno"
+  dist: four
+  time: 5 h 30
+  kind: spa
+  text: "Pools, slides, saunas and an Alpine wellness area in the village. The place to go on a day without skiing, or after one."
+  maps_q: "Aquagranda Active You, Livigno"
+  url: /articles/where-to-eat-and-stay-in-livigno/
+  slug: aquagranda
+  note: "Alpine Wellness, 2.5 hours, from about 46 € for adults. Check prices on the official site"
+  area: ski

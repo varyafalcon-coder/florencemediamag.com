@@ -955,3 +955,39 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
 /* valley cross-section extras */
 .pf-houses rect{fill:var(--ink-soft);opacity:.55}
 .pf-bus{stroke:var(--blue);stroke-width:2;stroke-dasharray:6 5;fill:none}
+
+/* ---------- valley illustration ---------- */
+.valley{margin:24px 0 0;background:var(--card);padding:0;overflow:hidden}
+.valley svg{display:block;width:100%;height:auto}
+.v-sky1{stop-color:#cfd6ff}.v-sky2{stop-color:#f4f5fb}
+.v-sun{fill:#fff;opacity:.9}
+.v-far{fill:#aab3ef;opacity:.55}
+.v-m1{stop-color:#1b2bb8}.v-m2{stop-color:#3d4bd0}
+.v-mtn{fill:url(#vmtn)}
+.v-snow{fill:#fff}
+.v-floor{fill:#fff}
+.v-trees path{fill:#13208f}
+.v-lift line{stroke:#0b0b0b;stroke-width:1.2;opacity:.55}
+.v-lift rect{fill:#e3483a}
+.v-wall{fill:#f2efe8;stroke:#c9c4b8;stroke-width:1}
+.v-roof{fill:#13208f}
+.v-road{fill:none;stroke:#1b2bb8;stroke-width:2;stroke-dasharray:7 6}
+.v-bus rect{fill:#e3483a}.v-bus circle{fill:#0b0b0b}
+.v-pill rect{fill:#fff;stroke:rgba(11,11,11,.08)}
+.v-pill text{font-family:inherit;font-size:13px;fill:#1b2bb8;font-weight:600}
+.v-pill .v-pn{fill:#0b0b0b;font-weight:700}
+.v-pill-blue rect{fill:#1b2bb8;stroke:none}
+.v-pill-blue text,.v-pill-blue .v-pn{fill:#fff}
+@media (prefers-color-scheme:dark){
+  .v-sky1{stop-color:#1c2259}.v-sky2{stop-color:#2a2f52}
+  .v-sun{fill:#e9ecff;opacity:.85}.v-far{fill:#3a4390;opacity:.7}
+}
+.valley figcaption{padding:12px 20px 16px;font-size:13px;color:var(--ink-soft)}
+
+/* even inner padding and full width for lists and callouts */
+.article.look-cards .body .callout{padding:20px 24px}
+@media (min-width:1100px){
+  .article .body ul.tips{max-width:none}
+}
+/* bases: centred */
+.bases > div{text-align:center}

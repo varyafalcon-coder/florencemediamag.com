@@ -13,8 +13,8 @@ verify_note: "Researched from the official Livigno, Carosello 3000 and Mottolino
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
-  - label: "The mountain, top to bottom"
-    id: "the-mountain-top-to-bottom"
+  - label: "Two sides of the valley"
+    id: "two-sides-of-the-valley"
   - label: "A perfect day"
     id: "a-perfect-day"
   - label: "What is on"
@@ -64,7 +64,7 @@ faq:
 
 ## Why is it worth going?
 
-<p class="lede">The village itself sits at 1,816 metres, almost as high as the top lifts at Abetone. That is why the season runs from late November to early May.</p>
+<p class="lede">The village itself sits at 1,816 metres, and the lifts climb to almost 2,800. That height is why the season runs from late November to early May.</p>
 
 Two ski areas face each other across a long, flat valley close to the Swiss border: Carosello 3000 on one side, Mottolino on the other. In February 2026 the park at Mottolino hosted the Olympic freestyle skiing and snowboard events, and it is still one of the parks riders travel across Europe for.
 
@@ -72,26 +72,38 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 
 {% include ski-fit.html id="livigno" %}
 
-## The mountain, top to bottom
+## Two sides of the valley
 
-<figure class="profile">
-<svg viewBox="0 0 720 330" role="img" aria-label="Cross-section of the Livigno valley: Carosello 3000 at 2,798 metres on one side, the village at 1,816 metres on the valley floor, Mottolino at about 2,400 metres on the other side">
-<defs><linearGradient id="pfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="pf-top"/><stop offset="1" class="pf-bot"/></linearGradient></defs>
-<g class="pf-grid">
-<line x1="20" y1="70" x2="700" y2="70"/><text x="700" y="64" text-anchor="end">2,800 m</text>
-<line x1="20" y1="158" x2="700" y2="158"/>
-<line x1="20" y1="246" x2="700" y2="246"/><text x="700" y="240" text-anchor="end">2,000 m</text>
+<figure class="valley">
+<svg viewBox="0 0 720 380" role="img" aria-label="Illustration of the Livigno valley: Carosello 3000 on the left at 2,798 metres, the village of Livigno on the valley floor at 1,816 metres, Mottolino on the right at about 2,400 metres, with gondolas up both sides and the free ski bus along the valley">
+<defs>
+<linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient>
+<linearGradient id="vmtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-m1"/><stop offset="1" class="v-m2"/></linearGradient>
+</defs>
+<rect width="720" height="380" fill="url(#vsky)"/>
+<circle class="v-sun" cx="610" cy="70" r="28"/>
+<path class="v-far" d="M0,210 L60,150 L110,180 L170,120 L240,175 L300,140 L360,190 L430,130 L500,170 L560,120 L630,165 L720,140 L720,380 L0,380 Z"/>
+<path class="v-mtn" d="M-10,330 L60,190 L150,62 L215,140 L250,120 L330,300 Z"/>
+<path class="v-snow" d="M150,62 L118,110 L135,104 L150,118 L166,100 L184,112 Z"/>
+<path class="v-mtn" d="M380,300 L470,190 L540,128 L590,160 L650,150 L730,260 L730,330 Z"/>
+<path class="v-snow" d="M540,128 L518,150 L532,148 L545,158 L560,146 L572,150 Z"/>
+<path class="v-floor" d="M0,300 Q180,286 360,300 T720,300 L720,380 L0,380 Z"/>
+<g class="v-trees"><path d="M40,300 l9,-22 l9,22 Z"/><path d="M62,302 l7,-17 l7,17 Z"/><path d="M250,296 l8,-19 l8,19 Z"/><path d="M272,298 l6,-15 l6,15 Z"/><path d="M455,298 l8,-20 l8,20 Z"/><path d="M478,300 l7,-16 l7,16 Z"/><path d="M640,300 l9,-22 l9,22 Z"/><path d="M664,302 l7,-17 l7,17 Z"/></g>
+<g class="v-lift"><line x1="315" y1="300" x2="150" y2="70"/><rect x="226" y="176" width="9" height="11" rx="2"/><line x1="410" y1="300" x2="540" y2="136"/><rect x="471" y="216" width="9" height="11" rx="2"/></g>
+<g class="v-houses">
+<path class="v-wall" d="M318,300 v-16 h18 v16 Z"/><path class="v-roof" d="M315,285 l12,-11 l12,11 Z"/>
+<path class="v-wall" d="M342,300 v-20 h22 v20 Z"/><path class="v-roof" d="M339,281 l14,-13 l14,13 Z"/>
+<path class="v-wall" d="M370,300 v-14 h16 v14 Z"/><path class="v-roof" d="M367,287 l11,-10 l11,10 Z"/>
+<path class="v-wall" d="M392,300 v-18 h20 v18 Z"/><path class="v-roof" d="M389,283 l13,-12 l13,12 Z"/>
 </g>
-<path class="pf-area" d="M20,330 L20,150 L70,108 L130,70 L190,112 L250,190 L300,260 L330,286 L420,286 L450,262 L500,205 L560,158 L620,176 L680,214 L700,226 L700,330 Z"/>
-<path class="pf-line" d="M20,150 L70,108 L130,70 L190,112 L250,190 L300,260 L330,286 L420,286 L450,262 L500,205 L560,158 L620,176 L680,214 L700,226"/>
-<g class="pf-houses"><rect x="342" y="274" width="10" height="12"/><rect x="358" y="270" width="12" height="16"/><rect x="376" y="276" width="9" height="10"/><rect x="391" y="272" width="11" height="14"/></g>
-<path class="pf-bus" d="M300,300 L450,300"/>
-<text x="375" y="320" class="pf-alt" text-anchor="middle">free ski bus across the valley</text>
-<g class="pf-pt"><circle cx="130" cy="70" r="7"/><text x="144" y="44" class="pf-name">Carosello 3000</text><text x="144" y="60" class="pf-alt">2,798 m · longer runs</text></g>
-<g class="pf-pt"><circle cx="375" cy="286" r="7"/><text x="375" y="246" class="pf-name" text-anchor="middle">Livigno</text><text x="375" y="262" class="pf-alt" text-anchor="middle">1,816 m · village</text></g>
-<g class="pf-pt"><circle cx="560" cy="158" r="7"/><text x="574" y="132" class="pf-name">Mottolino</text><text x="574" y="148" class="pf-alt">about 2,400 m · the park</text></g>
+<path class="v-road" d="M40,322 Q360,312 680,322"/>
+<g class="v-bus"><rect x="470" y="309" width="34" height="14" rx="4"/><circle cx="478" cy="324" r="3"/><circle cx="496" cy="324" r="3"/></g>
+<g class="v-pill"><rect x="70" y="22" width="190" height="30" rx="15"/><text x="165" y="42" text-anchor="middle"><tspan class="v-pn">Carosello 3000</tspan> · 2,798 m</text></g>
+<g class="v-pill"><rect x="482" y="88" width="196" height="30" rx="15"/><text x="580" y="108" text-anchor="middle"><tspan class="v-pn">Mottolino</tspan> · about 2,400 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="282" y="226" width="156" height="30" rx="15"/><text x="360" y="246" text-anchor="middle"><tspan class="v-pn">Livigno</tspan> · 1,816 m</text></g>
+<g class="v-pill"><rect x="512" y="336" width="160" height="28" rx="14"/><text x="592" y="355" text-anchor="middle">free ski bus between them</text></g>
 </svg>
-<figcaption>Two ski areas on opposite sides of the valley, one pass for both. You cross between them by the free bus.</figcaption>
+<figcaption>Two ski areas on opposite sides of the valley, one pass for both. Gondolas go up from the village on each side, and the free bus links them.</figcaption>
 </figure>
 
 <ol class="ladder">
@@ -111,12 +123,12 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 
 ## What is on
 
-Some events come back every winter, and a trip timed around one of them is a different trip. Dates change each year, so check the official calendar at **livigno.eu/en/events** before you book.
+Some events come back every winter, and a trip timed around one of them is a different trip. Dates change each year, so check the official calendar at <a href="https://www.livigno.eu/en/events" target="_blank" rel="noopener">livigno.eu/en/events</a> before you book.
 
 <div class="events">
 <div class="ev"><span class="ev-date">Late November</span><p class="ev-name">Season opening</p><p class="ev-text">The lifts open on 28 November 2026, with opening events on the slopes and in the village.</p></div>
 <div class="ev"><span class="ev-date">27 Nov – 6 Jan</span><p class="ev-name">Christmas in the Village</p><p class="ev-text">The centre is decorated and full of stalls and events until Epiphany.</p></div>
-<div class="ev"><span class="ev-date">Early to mid December</span><p class="ev-name">La Sgambeda</p><p class="ev-text">An amateur cross-country ski race held every year for more than thirty years, with a children's race the day before. Dates at lasgambeda.it.</p></div>
+<div class="ev"><span class="ev-date">Early to mid December</span><p class="ev-name">La Sgambeda</p><p class="ev-text">An amateur cross-country ski race held every year for more than thirty years, with a children's race the day before. Dates at <a href="https://www.lasgambeda.it" target="_blank" rel="noopener">lasgambeda.it</a>.</p></div>
 <div class="ev"><span class="ev-date">2–5 February 2027</span><p class="ev-name">Snow Polo Trophy</p><p class="ev-text">Polo on snow, new for this season. The programme is still to be announced.</p></div>
 </div>
 
@@ -129,7 +141,7 @@ Some events come back every winter, and a trip timed around one of them is a dif
 </div>
 
 <div class="bases">
-<div><p class="base-name">Centre</p><p class="base-text">Shops and evenings on foot, and the bus to both sides.</p></div>
+<div><p class="base-name">Center</p><p class="base-text">Shops and evenings on foot, and the bus to both sides.</p></div>
 <div><p class="base-name">Carosello side</p><p class="base-text">Near the higher lifts and the longer runs.</p></div>
 <div><p class="base-name">Mottolino side</p><p class="base-text">For riders and the park.</p></div>
 </div>
@@ -163,12 +175,11 @@ Some events come back every winter, and a trip timed around one of them is a dif
 
 ## After skiing
 
-<dl class="dishes">
-<div><dt>Stalet</dt><dd>The big après bar under the Carosello 3000 gondola, full from mid afternoon until about eight.</dd></div>
-<div><dt>Miky's</dt><dd>Après bar on the slopes that turns into the village's best-known club later.</dd></div>
-<div><dt>Aquagranda</dt><dd>Pools, saunas and an Alpine wellness area in the village. A 2.5 hour wellness ticket starts at about 46&nbsp;€.</dd></div>
-<div><dt>Duty-free</dt><dd>No Italian VAT on fuel, perfume, alcohol and electronics. Shops stay open into the evening.</dd></div>
-</dl>
+<div class="grid tripcards">
+{% include trip-card.html slug="stalet" %}
+{% include trip-card.html slug="mikys-livigno" %}
+{% include trip-card.html slug="aquagranda" %}
+</div>
 
 ## Getting there
 
@@ -183,7 +194,7 @@ Some events come back every winter, and a trip timed around one of them is a dif
 <li>Winter tyres or chains are required on the roads to Livigno from 15 October to 30 April. If the Foscagno is closed by snow, the alternative is through Switzerland and the Munt la Schera toll tunnel, which runs one way at a time.</li>
 <li>High season, 74.50&nbsp;€ a day: 26 Dec to 8 Jan and 30 Jan to 29 Mar. The cheapest weeks, 51.50&nbsp;€, are at the very start and end of the season.</li>
 <li>Going off-piste in Italy means carrying an avalanche transceiver, shovel and probe by law. Hire a guide if you do not know the terrain.</li>
-<li>Duty-free means fuel is cheaper too. Fill up before you leave.</li>
+<li>Livigno is duty-free: no Italian VAT on fuel, perfume, alcohol and electronics. Fill up before you leave.</li>
 </ul>
 
 <div class="callout">

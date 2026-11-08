@@ -246,7 +246,7 @@ areas:
     season: "From 28 Nov 2026 to early May"
     vibe: "A long, high, cold valley with snow from November to May, snowparks that draw riders from all over Europe, duty-free shopping and the liveliest nights on this page."
     go_if: "You ride the park, you want snow in early December or late April, or you want a lively town after skiing."
-    skip_if: "You want a linked ski circuit like the Sellaronda. The two sides are not joined by lift, so you cross the valley by bus."
+    skip_if: "You want quiet slopes over Christmas and New Year, when Livigno is at its busiest, or a linked circuit like the Sellaronda. The two sides are not joined by lift."
     want: [apres, snow, big]
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"
