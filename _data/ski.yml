@@ -126,6 +126,7 @@ areas:
     train: "train to Brescia, local line to Edolo, then bus"
     size: "About 100 km, up to the Presena glacier"
     pistes: [24, 60, 16]
+    runs: [13, 25, 8]
     pistes_area: "Ponte di Legno, Tonale, Presena and Temù"
     top: "3,000 m"
     pass: "From 52 €, 70 € at peak dates"
@@ -264,6 +265,7 @@ areas:
     train: "train to Milan, the line to Tirano, then a bus up to Livigno"
     size: "About 115 km and 30 lifts"
     pistes: [30, 65, 20]
+    runs: [29, 37, 12]
     pistes_area: "Carosello 3000 and Mottolino"
     top: "2,798 m"
     pass: "51.50 € early and late season, 66 €, 74.50 € in high season"
@@ -287,6 +289,7 @@ areas:
     train: "train to Aosta, then bus to Courmayeur"
     size: "About 100 km, plus the Skyway to 3,466 m"
     pistes: [16, 21, 4]
+    runs: [11, 17, 5]
     pistes_area: "Marked runs only, off-piste not counted"
     top: "2,755 m on the pistes"
     pass: "75 €, 90 € with the Skyway Monte Bianco"
@@ -310,6 +313,7 @@ areas:
     train: "train to Milan, the line to Tirano, then bus to Bormio"
     size: "About 50 km"
     pistes: [16, 22, 12]
+    runs: [10, 13, 7]
     pistes_area: "Bormio 2000 and Bormio 3000"
     top: "3,012 m"
     pass: "40 € in early December, 59 €, 65 € at peak dates"
