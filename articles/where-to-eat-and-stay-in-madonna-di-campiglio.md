@@ -76,6 +76,7 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-snow" d="M380,190.6 Q406.2,190.6 432.5,191.6 Q458.8,185.6 485,191.6 Q511.2,190.6 537.5,191.6 Q563.8,185.6 590,191.6 Q616.2,190.6 642.5,191.6 Q668.8,185.6 695,191.6 Q721.2,190.6 747.5,191.6 Q773.8,185.6 800,191.6 L800,202.6 Q773.8,206.6 747.5,204.6 Q721.2,216.6 695,204.6 Q668.8,206.6 642.5,204.6 Q616.2,216.6 590,204.6 Q563.8,206.6 537.5,204.6 Q511.2,216.6 485,204.6 Q458.8,206.6 432.5,204.6 Q406.2,216.6 380,204.6 Z"/>
 <path class="v-shade" d="M584,34.2 L584,74.2 L617,122.1 L608,192.6 C620,232.6 632,316 638,366 L890,366 L890,34.2 Z"/>
 </g>
+<path class="v-edge" d="M380,356 C434,282.5 464,206.6 491,192.6 L530,102.4 L557,130.6 L584,74.2 L617,122.1 L647,91.2 L689,192.6 C716,206.6 746,282.5 800,356 Z"/>
 <path fill="url(#v5body)" d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/>
 <g clip-path="url(#v5m2)">
 <path class="v-snow" d="M282,174.6 L558,174.6 L558,278.1 Q542.7,286.1 527.3,258.1 Q512,282.1 496.7,274.1 Q481.3,282.1 466,262.1 Q450.7,282.1 435.3,274.1 Q420,282.1 404.7,258.1 Q389.3,286.1 374,278.1 Q358.7,286.1 343.3,258.1 Q328,282.1 312.7,274.1 Q297.3,282.1 282,262.1 Z"/>
@@ -89,6 +90,7 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-tree" d="M525.8,284 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M420,174.6 C433.8,257 424.6,313.6 447.6,366 L650,366 L650,174.6 Z"/>
 </g>
+<path class="v-edge" d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/>
 <path fill="url(#v5body)" d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/>
 <g clip-path="url(#v5m3)">
 <path class="v-snow" d="M-40,174.6 L320,174.6 L320,278.1 Q300,286.1 280,258.1 Q260,282.1 240,274.1 Q220,282.1 200,262.1 Q180,282.1 160,274.1 Q140,282.1 120,258.1 Q100,286.1 80,278.1 Q60,286.1 40,258.1 Q20,282.1 0,274.1 Q-20,282.1 -40,262.1 Z"/>
@@ -104,19 +106,26 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <path class="v-tree" d="M278,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M140,174.6 C158,257 146,313.6 176,366 L440,366 L440,174.6 Z"/>
 </g>
+<path class="v-edge" d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="230" y1="296" x2="150" y2="216"/>
-<line class="v-pylon" x1="206" y1="272" x2="206" y2="284"/>
-<line class="v-pylon" x1="180.4" y1="246.4" x2="180.4" y2="258.4"/>
-<rect class="v-cabin" x="188.7" y="260.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="340" y1="296" x2="420" y2="216"/>
-<line class="v-pylon" x1="364" y1="272" x2="364" y2="284"/>
-<line class="v-pylon" x1="389.6" y1="246.4" x2="389.6" y2="258.4"/>
-<rect class="v-cabin" x="372.3" y="260.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="230" y1="296" x2="150" y2="225.1"/>
+<line class="v-pylon" x1="206" y1="274.7" x2="206" y2="286.7"/>
+<line class="v-pylon" x1="180.4" y1="252" x2="180.4" y2="264"/>
+<rect class="v-cabin" x="188.7" y="264.4" width="9" height="10" rx="2"/>
+<rect class="v-station" x="226" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="146" y="219.1" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="343" y1="298" x2="420" y2="216"/>
+<line class="v-pylon" x1="366.1" y1="273.4" x2="366.1" y2="285.4"/>
+<line class="v-pylon" x1="390.7" y1="247.2" x2="390.7" y2="259.2"/>
+<rect class="v-cabin" x="373.9" y="261.3" width="9" height="10" rx="2"/>
+<rect class="v-station" x="339" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="416" y="210" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="500" y1="262.3" x2="560" y2="166.6"/>
 <line class="v-pylon" x1="518" y1="233.6" x2="518" y2="245.6"/>
 <line class="v-pylon" x1="537.2" y1="203" x2="537.2" y2="215"/>
 <rect class="v-cabin" x="523.1" y="219.3" width="9" height="10" rx="2"/>
+<rect class="v-station" x="496" y="255.3" width="8" height="7" rx="1"/>
+<rect class="v-station" x="556" y="160.6" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="285" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M241,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M238.5,287 l10.5,-10 l10.5,10 Z"/>

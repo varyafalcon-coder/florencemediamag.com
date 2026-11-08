@@ -72,6 +72,7 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <path class="v-snow" d="M30,24 L390,24 L390,142.2 Q370,150.2 350,122.2 Q330,146.2 310,138.2 Q290,146.2 270,126.2 Q250,146.2 230,138.2 Q210,146.2 190,122.2 Q170,150.2 150,142.2 Q130,150.2 110,122.2 Q90,146.2 70,138.2 Q50,146.2 30,126.2 Z"/>
 <path class="v-shade" d="M210,24 C228,151.6 216,268.4 246,366 L510,366 L510,24 Z"/>
 </g>
+<path class="v-edge" d="M60,356 C114,283 186,180.8 201,87.4 L210,64 L219,81.5 C234,169.1 300,268.4 360,356 Z"/>
 <path fill="url(#v8body)" d="M320,356 C352,270.5 400,200 424,170.1 L468,189.3 L520,142.3 L564,185 L608,161.5 C632,191.4 688,270.5 720,356 Z"/>
 <g clip-path="url(#v8m2)">
 <path class="v-snow" d="M280,102.3 L760,102.3 L760,220.4 Q733.3,228.4 706.7,200.4 Q680,224.4 653.3,216.4 Q626.7,224.4 600,204.4 Q573.3,224.4 546.7,216.4 Q520,224.4 493.3,200.4 Q466.7,228.4 440,220.4 Q413.3,228.4 386.7,200.4 Q360,224.4 333.3,216.4 Q306.7,224.4 280,204.4 Z"/>
@@ -93,15 +94,20 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <path class="v-tree" d="M704,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M520,102.3 C544,206.4 528,291.9 568,366 L920,366 L920,102.3 Z"/>
 </g>
+<path class="v-edge" d="M320,356 C352,270.5 400,200 424,170.1 L468,189.3 L520,142.3 L564,185 L608,161.5 C632,191.4 688,270.5 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="470" y1="254.4" x2="500" y2="214.8"/>
-<line class="v-pylon" x1="479" y1="242.5" x2="479" y2="254.5"/>
-<line class="v-pylon" x1="488.6" y1="229.9" x2="488.6" y2="241.9"/>
-<rect class="v-cabin" x="479.3" y="237.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="500" y1="214.8" x2="540" y2="143.1"/>
-<line class="v-pylon" x1="512" y1="193.3" x2="512" y2="205.3"/>
-<line class="v-pylon" x1="524.8" y1="170.3" x2="524.8" y2="182.3"/>
-<rect class="v-cabin" x="513.9" y="182.8" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="483" y1="256.4" x2="500" y2="214.8"/>
+<line class="v-pylon" x1="488.1" y1="243.9" x2="488.1" y2="255.9"/>
+<line class="v-pylon" x1="493.5" y1="230.6" x2="493.5" y2="242.6"/>
+<rect class="v-cabin" x="486.3" y="238.3" width="9" height="10" rx="2"/>
+<rect class="v-station" x="479" y="249.4" width="8" height="7" rx="1"/>
+<rect class="v-station" x="496" y="208.8" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="500" y1="214.8" x2="540" y2="162.7"/>
+<line class="v-pylon" x1="512" y1="199.2" x2="512" y2="211.2"/>
+<line class="v-pylon" x1="524.8" y1="182.5" x2="524.8" y2="194.5"/>
+<rect class="v-cabin" x="513.9" y="191.9" width="9" height="10" rx="2"/>
+<rect class="v-station" x="496" y="207.8" width="8" height="7" rx="1"/>
+<rect class="v-station" x="536" y="156.7" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M381,257.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M378.5,245.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="387" y="249.4" width="4" height="4"/>

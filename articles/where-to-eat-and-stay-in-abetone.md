@@ -70,7 +70,6 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-far" d="M0,356 L0,159.1 Q80,93.5 160,111.5 Q260,93.5 360,140.1 Q450,84 540,102 Q630,84 720,130.6 L720,356 Z"/>
 <path fill="url(#v1body)" d="M230,356 C266,243.1 278,165.4 314,162.4 Q380,158.4 446,162.4 C482,165.4 494,243.1 530,356 Z"/>
 <g clip-path="url(#v1m1)">
-<path class="v-snow" d="M200,121.4 L560,121.4 L560,214.3 Q540,222.3 520,194.3 Q500,218.3 480,210.3 Q460,218.3 440,198.3 Q420,218.3 400,210.3 Q380,218.3 360,194.3 Q340,222.3 320,214.3 Q300,222.3 280,194.3 Q260,218.3 240,210.3 Q220,218.3 200,198.3 Z"/>
 <path class="v-tree" d="M242,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M265,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M288,298 l7.4,-19.9 l7.4,19.9 Z"/>
@@ -83,6 +82,7 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M518,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M380,121.4 C398,219.8 386,297.6 416,366 L680,366 L680,121.4 Z"/>
 </g>
+<path class="v-edge" d="M230,356 C266,243.1 278,165.4 314,162.4 Q380,158.4 446,162.4 C482,165.4 494,243.1 530,356 Z"/>
 <path fill="url(#v1body)" d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/>
 <g clip-path="url(#v1m2)">
 <path class="v-snow" d="M-14,24 L394,24 L394,142.2 Q371.3,150.2 348.7,122.2 Q326,146.2 303.3,138.2 Q280.7,146.2 258,126.2 Q235.3,146.2 212.7,138.2 Q190,146.2 167.3,122.2 Q144.7,150.2 122,142.2 Q99.3,150.2 76.7,122.2 Q54,146.2 31.3,138.2 Q8.7,146.2 -14,126.2 Z"/>
@@ -100,6 +100,7 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M346.4,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M190,24 C210.4,151.6 196.8,268.4 230.8,366 L530,366 L530,24 Z"/>
 </g>
+<path class="v-edge" d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/>
 <path fill="url(#v1body)" d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/>
 <g clip-path="url(#v1m3)">
 <path class="v-snow" d="M378,33.5 L762,33.5 L762,149.7 Q740.7,157.7 719.3,129.7 Q698,153.7 676.7,145.7 Q655.3,153.7 634,133.7 Q612.7,153.7 591.3,145.7 Q570,153.7 548.7,129.7 Q527.3,157.7 506,149.7 Q484.7,157.7 463.3,129.7 Q442,153.7 420.7,145.7 Q399.3,153.7 378,133.7 Z"/>
@@ -117,15 +118,20 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <path class="v-tree" d="M717.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M570,33.5 C589.2,158.3 576.4,271.3 608.4,366 L890,366 L890,33.5 Z"/>
 </g>
+<path class="v-edge" d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="328" y1="161.4" x2="200" y2="67.8"/>
-<line class="v-pylon" x1="289.6" y1="133.3" x2="289.6" y2="145.3"/>
-<line class="v-pylon" x1="248.6" y1="103.4" x2="248.6" y2="115.4"/>
-<rect class="v-cabin" x="264.6" y="119.3" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="432" y1="161.4" x2="560" y2="77.3"/>
-<line class="v-pylon" x1="470.4" y1="136.1" x2="470.4" y2="148.1"/>
-<line class="v-pylon" x1="511.4" y1="109.3" x2="511.4" y2="121.3"/>
-<rect class="v-cabin" x="486.4" y="123.7" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="328" y1="163.4" x2="200" y2="82.4"/>
+<line class="v-pylon" x1="289.6" y1="139.1" x2="289.6" y2="151.1"/>
+<line class="v-pylon" x1="248.6" y1="113.2" x2="248.6" y2="125.2"/>
+<rect class="v-cabin" x="264.6" y="127.1" width="9" height="10" rx="2"/>
+<rect class="v-station" x="324" y="156.4" width="8" height="7" rx="1"/>
+<rect class="v-station" x="196" y="76.4" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="438" y1="163.4" x2="560" y2="90.9"/>
+<line class="v-pylon" x1="474.6" y1="141.6" x2="474.6" y2="153.6"/>
+<line class="v-pylon" x1="513.6" y1="118.5" x2="513.6" y2="130.5"/>
+<rect class="v-cabin" x="489.6" y="131.1" width="9" height="10" rx="2"/>
+<rect class="v-station" x="434" y="156.4" width="8" height="7" rx="1"/>
+<rect class="v-station" x="556" y="84.9" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M336,164.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,152.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="156.4" width="4" height="4"/>

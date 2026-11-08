@@ -98,6 +98,7 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-tree" d="M345.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M180,24 C201.6,151.6 187.2,268.4 223.2,366 L540,366 L540,24 Z"/>
 </g>
+<path class="v-edge" d="M0,356 C72,224.6 144,104.9 180,64 C216,110.7 288,227.5 360,356 Z"/>
 <path fill="url(#v14body)" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
 <g clip-path="url(#v14m2)">
 <path class="v-snow" d="M362,118 L758,118 L758,231.4 Q736,239.4 714,211.4 Q692,235.4 670,227.4 Q648,235.4 626,215.4 Q604,235.4 582,227.4 Q560,235.4 538,211.4 Q516,239.4 494,231.4 Q472,239.4 450,211.4 Q428,235.4 406,227.4 Q384,235.4 362,215.4 Z"/>
@@ -115,15 +116,20 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <path class="v-tree" d="M711.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M560,118 C579.8,217.4 566.6,296.6 599.6,366 L890,366 L890,118 Z"/>
 </g>
+<path class="v-edge" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="306" y1="296" x2="190" y2="73"/>
-<line class="v-pylon" x1="271.2" y1="229.1" x2="271.2" y2="241.1"/>
-<line class="v-pylon" x1="234.1" y1="157.7" x2="234.1" y2="169.7"/>
-<rect class="v-cabin" x="248.1" y="194.4" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="426" y1="296" x2="548" y2="162.8"/>
-<line class="v-pylon" x1="462.6" y1="256" x2="462.6" y2="268"/>
-<line class="v-pylon" x1="501.6" y1="213.4" x2="501.6" y2="225.4"/>
-<rect class="v-cabin" x="477.6" y="235.7" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="306" y1="296" x2="190" y2="78.5"/>
+<line class="v-pylon" x1="271.2" y1="230.7" x2="271.2" y2="242.7"/>
+<line class="v-pylon" x1="234.1" y1="161.1" x2="234.1" y2="173.1"/>
+<rect class="v-cabin" x="248.1" y="196.9" width="9" height="10" rx="2"/>
+<rect class="v-station" x="302" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="186" y="72.5" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="426" y1="296" x2="548" y2="170"/>
+<line class="v-pylon" x1="462.6" y1="258.2" x2="462.6" y2="270.2"/>
+<line class="v-pylon" x1="501.6" y1="217.9" x2="501.6" y2="229.9"/>
+<rect class="v-cabin" x="477.6" y="239" width="9" height="10" rx="2"/>
+<rect class="v-station" x="422" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="544" y="164" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M318.5,287 l10.5,-10 l10.5,10 Z"/>

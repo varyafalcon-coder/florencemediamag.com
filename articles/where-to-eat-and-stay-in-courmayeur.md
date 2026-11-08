@@ -86,6 +86,7 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-tree" d="M364.8,298 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M190,24 C212.8,151.6 197.6,268.4 235.6,366 L570,366 L570,24 Z"/>
 </g>
+<path class="v-edge" d="M0,356 C30.4,239.2 76,142.8 98.8,102 L140.6,128.2 L190,64 L231.8,122.4 L273.6,90.3 C296.4,131.2 349.6,239.2 380,356 Z"/>
 <path fill="url(#v12body)" d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/>
 <g clip-path="url(#v12m2)">
 <path class="v-snow" d="M368,149.2 L752,149.2 L752,253.2 Q730.7,261.2 709.3,233.2 Q688,257.2 666.7,249.2 Q645.3,257.2 624,237.2 Q602.7,257.2 581.3,249.2 Q560,257.2 538.7,233.2 Q517.3,261.2 496,253.2 Q474.7,261.2 453.3,233.2 Q432,257.2 410.7,249.2 Q389.3,257.2 368,237.2 Z"/>
@@ -103,15 +104,20 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <path class="v-tree" d="M707.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M560,149.2 C579.2,239.2 566.4,306 598.4,366 L880,366 L880,149.2 Z"/>
 </g>
+<path class="v-edge" d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="320" y1="277.9" x2="250" y2="145.8"/>
 <line class="v-pylon" x1="299" y1="238.3" x2="299" y2="250.3"/>
 <line class="v-pylon" x1="276.6" y1="196" x2="276.6" y2="208"/>
 <rect class="v-cabin" x="283.3" y="218.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="452" y1="282.6" x2="560" y2="190.1"/>
-<line class="v-pylon" x1="484.4" y1="254.8" x2="484.4" y2="266.8"/>
-<line class="v-pylon" x1="519" y1="225.3" x2="519" y2="237.3"/>
-<rect class="v-cabin" x="497.2" y="241.1" width="9" height="10" rx="2"/>
+<rect class="v-station" x="316" y="270.9" width="8" height="7" rx="1"/>
+<rect class="v-station" x="246" y="139.8" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="458" y1="284.6" x2="560" y2="190.2"/>
+<line class="v-pylon" x1="488.6" y1="256.3" x2="488.6" y2="268.3"/>
+<line class="v-pylon" x1="521.2" y1="226.1" x2="521.2" y2="238.1"/>
+<rect class="v-cabin" x="500.4" y="242.2" width="9" height="10" rx="2"/>
+<rect class="v-station" x="454" y="277.6" width="8" height="7" rx="1"/>
+<rect class="v-station" x="556" y="184.2" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="277.6" width="4" height="4"/>

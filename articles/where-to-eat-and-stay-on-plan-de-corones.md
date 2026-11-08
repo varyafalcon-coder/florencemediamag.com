@@ -99,19 +99,26 @@ One round summit with long runs down every side, almost no queues, and a train s
 <path class="v-tree" d="M655.2,284 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M370,24 C407.2,151.6 382.4,268.4 444.4,366 L990,366 L990,24 Z"/>
 </g>
+<path class="v-edge" d="M60,356 C159.2,210 308,122.4 370,64 C432,128.2 580.8,215.8 680,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="200" y1="296" x2="340" y2="69.6"/>
-<line class="v-pylon" x1="242" y1="228.1" x2="242" y2="240.1"/>
-<line class="v-pylon" x1="286.8" y1="155.7" x2="286.8" y2="167.7"/>
-<rect class="v-cabin" x="259.9" y="192.9" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="560" y1="296" x2="400" y2="69.6"/>
-<line class="v-pylon" x1="512" y1="228.1" x2="512" y2="240.1"/>
-<line class="v-pylon" x1="460.8" y1="155.7" x2="460.8" y2="167.7"/>
-<rect class="v-cabin" x="481.9" y="192.9" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="650" y1="296" x2="420" y2="74.5"/>
-<line class="v-pylon" x1="581" y1="229.5" x2="581" y2="241.5"/>
-<line class="v-pylon" x1="507.4" y1="158.7" x2="507.4" y2="170.7"/>
-<rect class="v-cabin" x="539.7" y="195.1" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="200" y1="296" x2="340" y2="90.7"/>
+<line class="v-pylon" x1="242" y1="234.4" x2="242" y2="246.4"/>
+<line class="v-pylon" x1="286.8" y1="168.7" x2="286.8" y2="180.7"/>
+<rect class="v-cabin" x="259.9" y="202.6" width="9" height="10" rx="2"/>
+<rect class="v-station" x="196" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="336" y="84.7" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="560" y1="296" x2="400" y2="92.7"/>
+<line class="v-pylon" x1="512" y1="235" x2="512" y2="247"/>
+<line class="v-pylon" x1="460.8" y1="170" x2="460.8" y2="182"/>
+<rect class="v-cabin" x="481.9" y="203.5" width="9" height="10" rx="2"/>
+<rect class="v-station" x="556" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="396" y="86.7" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="650" y1="296" x2="420" y2="109.4"/>
+<line class="v-pylon" x1="581" y1="240" x2="581" y2="252"/>
+<line class="v-pylon" x1="507.4" y1="180.3" x2="507.4" y2="192.3"/>
+<rect class="v-cabin" x="539.7" y="211.2" width="9" height="10" rx="2"/>
+<rect class="v-station" x="646" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="416" y="103.4" width="8" height="7" rx="1"/>
 <path class="v-museum" d="M353,67 l6,-14 h22 l6,14 Z"/>
 <ellipse class="v-ground" cx="120" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M66,299 v-13 h16 v13 Z"/>

@@ -77,9 +77,10 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <path class="v-snow" d="M400,24 L760,24 L760,189 Q740,197 720,169 Q700,193 680,185 Q660,193 640,173 Q620,193 600,185 Q580,193 560,169 Q540,197 520,189 Q500,197 480,169 Q460,193 440,185 Q420,193 400,173 Z"/>
 <path class="v-shade" d="M580,24 C598,151.6 586,268.4 616,366 L880,366 L880,24 Z"/>
 </g>
+<path class="v-edge" d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/>
 <path fill="url(#v6body)" d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/>
 <g clip-path="url(#v6m2)">
-<path class="v-snow" d="M172,164.5 L568,164.5 L568,263.9 Q546,271.9 524,243.9 Q502,267.9 480,259.9 Q458,267.9 436,247.9 Q414,267.9 392,259.9 Q370,267.9 348,243.9 Q326,271.9 304,263.9 Q282,271.9 260,243.9 Q238,267.9 216,259.9 Q194,267.9 172,247.9 Z"/>
+<path class="v-snow" d="M172,164.5 L568,164.5 L568,236.6 Q546,244.6 524,216.6 Q502,240.6 480,232.6 Q458,240.6 436,220.6 Q414,240.6 392,232.6 Q370,240.6 348,216.6 Q326,244.6 304,236.6 Q282,244.6 260,216.6 Q238,240.6 216,232.6 Q194,240.6 172,220.6 Z"/>
 <path class="v-tree" d="M218.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-tree" d="M239.9,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-tree" d="M261.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
@@ -94,15 +95,20 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <path class="v-tree" d="M521.8,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M370,164.5 C389.8,249.9 376.6,310.5 409.6,366 L700,366 L700,164.5 Z"/>
 </g>
+<path class="v-edge" d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="406" y1="203.8" x2="560" y2="65.3"/>
-<line class="v-pylon" x1="452.2" y1="162.3" x2="452.2" y2="174.3"/>
-<line class="v-pylon" x1="501.5" y1="117.9" x2="501.5" y2="129.9"/>
-<rect class="v-cabin" x="472.3" y="141.1" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="178" y1="282.2" x2="300" y2="214.5"/>
-<line class="v-pylon" x1="214.6" y1="261.9" x2="214.6" y2="273.9"/>
-<line class="v-pylon" x1="253.6" y1="240.2" x2="253.6" y2="252.2"/>
-<rect class="v-cabin" x="229.6" y="252.1" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="406.5" y1="206.5" x2="560" y2="97.9"/>
+<line class="v-pylon" x1="452.6" y1="173.9" x2="452.6" y2="185.9"/>
+<line class="v-pylon" x1="501.7" y1="139.2" x2="501.7" y2="151.2"/>
+<rect class="v-cabin" x="472.6" y="157.5" width="9" height="10" rx="2"/>
+<rect class="v-station" x="402.5" y="199.5" width="8" height="7" rx="1"/>
+<rect class="v-station" x="556" y="91.9" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="188" y1="298" x2="300" y2="214.5"/>
+<line class="v-pylon" x1="221.6" y1="272.9" x2="221.6" y2="284.9"/>
+<line class="v-pylon" x1="257.4" y1="246.2" x2="257.4" y2="258.2"/>
+<rect class="v-cabin" x="235" y="260.6" width="9" height="10" rx="2"/>
+<rect class="v-station" x="184" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="296" y="208.5" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="343.5" y="199.5" width="4" height="4"/>

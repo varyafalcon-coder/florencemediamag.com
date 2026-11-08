@@ -88,6 +88,7 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M297.2,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M143.6,24 L143.6,64 L178.8,113.6 L169.2,186.6 C182,226.6 194.8,316 201.2,366 L470,366 L470,24 Z"/>
 </g>
+<path class="v-edge" d="M-74,356 C-16.4,279.8 15.6,200.6 44.4,186.6 L86,93.2 L114.8,122.4 L143.6,64 L178.8,113.6 L210.8,81.5 L255.6,186.6 C284.4,200.6 316.4,279.8 374,356 Z"/>
 <path fill="url(#v7body)" d="M204,356 C236.4,306.3 254.4,259.5 270.6,245.5 L294,184.5 L310.2,203.5 L326.4,165.4 L346.2,197.8 L364.2,176.8 L389.4,245.5 C405.6,259.5 423.6,306.3 456,356 Z"/>
 <g clip-path="url(#v7m2)">
 <rect class="v-dolo" x="150" y="125.4" width="360" height="120"/>
@@ -103,6 +104,7 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M412.8,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M326.4,125.4 L326.4,165.4 L346.2,197.8 L340.8,245.5 C348,285.5 355.2,316 358.8,366 L510,366 L510,125.4 Z"/>
 </g>
+<path class="v-edge" d="M204,356 C236.4,306.3 254.4,259.5 270.6,245.5 L294,184.5 L310.2,203.5 L326.4,165.4 L346.2,197.8 L364.2,176.8 L389.4,245.5 C405.6,259.5 423.6,306.3 456,356 Z"/>
 <path fill="url(#v7body)" d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/>
 <g clip-path="url(#v7m3)">
 <path class="v-snow" d="M390,26.6 L750,26.6 L750,167.4 Q730,175.4 710,147.4 Q690,171.4 670,163.4 Q650,171.4 630,151.4 Q610,171.4 590,163.4 Q570,171.4 550,147.4 Q530,175.4 510,167.4 Q490,175.4 470,147.4 Q450,171.4 430,163.4 Q410,171.4 390,151.4 Z"/>
@@ -118,15 +120,20 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <path class="v-tree" d="M708,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M570,26.6 C588,153.4 576,269.2 606,366 L870,366 L870,26.6 Z"/>
 </g>
+<path class="v-edge" d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="355" y1="296" x2="160" y2="152.9"/>
 <line class="v-pylon" x1="296.5" y1="253.1" x2="296.5" y2="265.1"/>
 <line class="v-pylon" x1="234.1" y1="207.3" x2="234.1" y2="219.3"/>
 <rect class="v-cabin" x="260.8" y="231.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="485" y1="296" x2="545" y2="172.4"/>
-<line class="v-pylon" x1="503" y1="258.9" x2="503" y2="270.9"/>
-<line class="v-pylon" x1="522.2" y1="219.4" x2="522.2" y2="231.4"/>
-<rect class="v-cabin" x="508.1" y="240.2" width="9" height="10" rx="2"/>
+<rect class="v-station" x="351" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="156" y="146.9" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="488" y1="298" x2="545" y2="172.4"/>
+<line class="v-pylon" x1="505.1" y1="260.3" x2="505.1" y2="272.3"/>
+<line class="v-pylon" x1="523.3" y1="220.1" x2="523.3" y2="232.1"/>
+<rect class="v-cabin" x="509.7" y="241.2" width="9" height="10" rx="2"/>
+<rect class="v-station" x="484" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="541" y="166.4" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="420" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M366,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M363.5,287 l10.5,-10 l10.5,10 Z"/>

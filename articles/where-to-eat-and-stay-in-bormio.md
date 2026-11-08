@@ -91,15 +91,20 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <path class="v-tree" d="M511.6,292 l6.5,-17.6 l6.5,17.6 Z"/>
 <path class="v-shade" d="M300,24 C327.6,151.6 309.2,268.4 355.2,366 L760,366 L760,24 Z"/>
 </g>
+<path class="v-edge" d="M70,356 C162,224.6 254,104.9 300,64 C346,110.7 438,227.5 530,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
 <line class="v-cable" x1="410" y1="296" x2="330" y2="195.4"/>
 <line class="v-pylon" x1="386" y1="265.8" x2="386" y2="277.8"/>
 <line class="v-pylon" x1="360.4" y1="233.6" x2="360.4" y2="245.6"/>
 <rect class="v-cabin" x="368.7" y="250.7" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="330" y1="195.4" x2="302" y2="66.9"/>
-<line class="v-pylon" x1="321.6" y1="156.8" x2="321.6" y2="168.8"/>
-<line class="v-pylon" x1="312.6" y1="115.7" x2="312.6" y2="127.7"/>
-<rect class="v-cabin" x="312.6" y="137.3" width="9" height="10" rx="2"/>
+<rect class="v-station" x="406" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="326" y="189.4" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="330" y1="195.4" x2="302" y2="67.1"/>
+<line class="v-pylon" x1="321.6" y1="156.9" x2="321.6" y2="168.9"/>
+<line class="v-pylon" x1="312.6" y1="115.8" x2="312.6" y2="127.8"/>
+<rect class="v-cabin" x="312.6" y="137.4" width="9" height="10" rx="2"/>
+<rect class="v-station" x="326" y="188.4" width="8" height="7" rx="1"/>
+<rect class="v-station" x="298" y="61.1" width="8" height="7" rx="1"/>
 <path class="v-museum" d="M315,198.4 l6,-10 h18 l6,10 Z"/>
 <ellipse class="v-ground" cx="480" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M426,299 v-13 h16 v13 Z"/>

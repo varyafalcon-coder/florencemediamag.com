@@ -78,6 +78,7 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-snow" d="M176,184.6 Q204,184.6 232,185.6 Q260,179.6 288,185.6 Q316,184.6 344,185.6 Q372,179.6 400,185.6 Q428,184.6 456,185.6 Q484,179.6 512,185.6 Q540,184.6 568,185.6 Q596,179.6 624,185.6 L624,196.6 Q596,200.6 568,198.6 Q540,210.6 512,198.6 Q484,200.6 456,198.6 Q428,210.6 400,198.6 Q372,200.6 344,198.6 Q316,210.6 288,198.6 Q260,200.6 232,198.6 Q204,210.6 176,198.6 Z"/>
 <path class="v-shade" d="M393.6,24 L393.6,64 L428.8,113.6 L419.2,186.6 C432,226.6 444.8,316 451.2,366 L720,366 L720,24 Z"/>
 </g>
+<path class="v-edge" d="M176,356 C233.6,279.8 265.6,200.6 294.4,186.6 L336,93.2 L364.8,122.4 L393.6,64 L428.8,113.6 L460.8,81.5 L505.6,186.6 C534.4,200.6 566.4,279.8 624,356 Z"/>
 <path fill="url(#v4body)" d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/>
 <g clip-path="url(#v4m2)">
 <path class="v-snow" d="M-40,105.2 L320,105.2 L320,222.5 Q300,230.5 280,202.5 Q260,226.5 240,218.5 Q220,226.5 200,206.5 Q180,226.5 160,218.5 Q140,226.5 120,202.5 Q100,230.5 80,222.5 Q60,230.5 40,202.5 Q20,226.5 0,218.5 Q-20,226.5 -40,206.5 Z"/>
@@ -93,6 +94,7 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-tree" d="M278,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M140,105.2 C158,208.5 146,292.8 176,366 L440,366 L440,105.2 Z"/>
 </g>
+<path class="v-edge" d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/>
 <path fill="url(#v4body)" d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/>
 <g clip-path="url(#v4m3)">
 <path class="v-snow" d="M420,135 L780,135 L780,243.3 Q760,251.3 740,223.3 Q720,247.3 700,239.3 Q680,247.3 660,227.3 Q640,247.3 620,239.3 Q600,247.3 580,223.3 Q560,251.3 540,243.3 Q520,251.3 500,223.3 Q480,247.3 460,239.3 Q440,247.3 420,227.3 Z"/>
@@ -108,15 +110,20 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <path class="v-tree" d="M738,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M600,135 C618,229.3 606,301.7 636,366 L900,366 L900,135 Z"/>
 </g>
+<path class="v-edge" d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="124" y1="296" x2="135" y2="148.8"/>
-<line class="v-pylon" x1="127.3" y1="251.8" x2="127.3" y2="263.8"/>
-<line class="v-pylon" x1="130.8" y1="204.7" x2="130.8" y2="216.7"/>
-<rect class="v-cabin" x="124.6" y="229.3" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="580" y1="296" x2="600" y2="177.4"/>
-<line class="v-pylon" x1="586" y1="260.4" x2="586" y2="272.4"/>
-<line class="v-pylon" x1="592.4" y1="222.5" x2="592.4" y2="234.5"/>
-<rect class="v-cabin" x="584.7" y="242.5" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="124" y1="296" x2="135" y2="151.4"/>
+<line class="v-pylon" x1="127.3" y1="252.6" x2="127.3" y2="264.6"/>
+<line class="v-pylon" x1="130.8" y1="206.3" x2="130.8" y2="218.3"/>
+<rect class="v-cabin" x="124.6" y="230.5" width="9" height="10" rx="2"/>
+<rect class="v-station" x="120" y="289" width="8" height="7" rx="1"/>
+<rect class="v-station" x="131" y="145.4" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="586.5" y1="298" x2="600" y2="177.4"/>
+<line class="v-pylon" x1="590.5" y1="261.8" x2="590.5" y2="273.8"/>
+<line class="v-pylon" x1="594.9" y1="223.2" x2="594.9" y2="235.2"/>
+<rect class="v-cabin" x="588.2" y="243.5" width="9" height="10" rx="2"/>
+<rect class="v-station" x="582.5" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="596" y="171.4" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="180" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M136,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M133.5,287 l10.5,-10 l10.5,10 Z"/>

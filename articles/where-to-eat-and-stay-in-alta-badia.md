@@ -78,6 +78,7 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-snow" d="M-76,184.6 Q-51.5,184.6 -27,185.6 Q-2.5,179.6 22,185.6 Q46.5,184.6 71,185.6 Q95.5,179.6 120,185.6 Q144.5,184.6 169,185.6 Q193.5,179.6 218,185.6 Q242.5,184.6 267,185.6 Q291.5,179.6 316,185.6 L316,196.6 Q291.5,200.6 267,198.6 Q242.5,210.6 218,198.6 Q193.5,200.6 169,198.6 Q144.5,210.6 120,198.6 Q95.5,200.6 71,198.6 Q46.5,210.6 22,198.6 Q-2.5,200.6 -27,198.6 Q-51.5,210.6 -76,198.6 Z"/>
 <path class="v-shade" d="M114.4,24 L114.4,64 L145.2,113.6 L136.8,186.6 C148,226.6 159.2,316 164.8,366 L400,366 L400,24 Z"/>
 </g>
+<path class="v-edge" d="M-76,356 C-25.6,279.8 2.4,200.6 27.6,186.6 L64,93.2 L89.2,122.4 L114.4,64 L145.2,113.6 L173.2,81.5 L212.4,186.6 C237.6,200.6 265.6,279.8 316,356 Z"/>
 <path fill="url(#v9body)" d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/>
 <g clip-path="url(#v9m2)">
 <path class="v-snow" d="M204,89.6 L456,89.6 L456,211.5 Q442,219.5 428,191.5 Q414,215.5 400,207.5 Q386,215.5 372,195.5 Q358,215.5 344,207.5 Q330,215.5 316,191.5 Q302,219.5 288,211.5 Q274,219.5 260,191.5 Q246,215.5 232,207.5 Q218,215.5 204,195.5 Z"/>
@@ -91,6 +92,7 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-tree" d="M426.6,298 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M330,89.6 C342.6,197.5 334.2,288.1 355.2,366 L540,366 L540,89.6 Z"/>
 </g>
+<path class="v-edge" d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/>
 <path fill="url(#v9body)" d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/>
 <g clip-path="url(#v9m3)">
 <path class="v-snow" d="M344,159 L776,159 L776,263.2 Q752,271.2 728,243.2 Q704,267.2 680,259.2 Q656,267.2 632,247.2 Q608,267.2 584,259.2 Q560,267.2 536,243.2 Q512,271.2 488,263.2 Q464,271.2 440,243.2 Q416,267.2 392,259.2 Q368,267.2 344,247.2 Z"/>
@@ -110,15 +112,20 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-tree" d="M725.6,284 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M560,159 C581.6,246.1 567.2,308.9 603.2,366 L920,366 L920,159 Z"/>
 </g>
+<path class="v-edge" d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="302" y1="277.4" x2="330" y2="138.4"/>
-<line class="v-pylon" x1="310.4" y1="235.7" x2="310.4" y2="247.7"/>
-<line class="v-pylon" x1="319.4" y1="191.2" x2="319.4" y2="203.2"/>
-<rect class="v-cabin" x="310.4" y="214.5" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="600" y1="296" x2="560" y2="201.7"/>
-<line class="v-pylon" x1="588" y1="267.7" x2="588" y2="279.7"/>
-<line class="v-pylon" x1="575.2" y1="237.5" x2="575.2" y2="249.5"/>
-<rect class="v-cabin" x="577.1" y="253.6" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="308" y1="298" x2="330" y2="138.4"/>
+<line class="v-pylon" x1="314.6" y1="250.1" x2="314.6" y2="262.1"/>
+<line class="v-pylon" x1="321.6" y1="199" x2="321.6" y2="211"/>
+<rect class="v-cabin" x="313.6" y="225.6" width="9" height="10" rx="2"/>
+<rect class="v-station" x="304" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="326" y="132.4" width="8" height="7" rx="1"/>
+<line class="v-cable" x1="519.5" y1="298" x2="560" y2="201.7"/>
+<line class="v-pylon" x1="531.6" y1="269.1" x2="531.6" y2="281.1"/>
+<line class="v-pylon" x1="544.6" y1="238.3" x2="544.6" y2="250.3"/>
+<rect class="v-cabin" x="533.6" y="254.7" width="9" height="10" rx="2"/>
+<rect class="v-station" x="515.5" y="291" width="8" height="7" rx="1"/>
+<rect class="v-station" x="556" y="195.7" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="250" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M206,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M203.5,287 l10.5,-10 l10.5,10 Z"/>

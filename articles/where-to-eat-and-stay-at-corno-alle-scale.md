@@ -87,6 +87,7 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-tree" d="M663.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M470,58.4 C495.2,175.7 478.4,278.7 520.4,366 L890,366 L890,58.4 Z"/>
 </g>
+<path class="v-edge" d="M260,356 C344,240.1 428,134.5 470,98.4 C512,139.7 596,242.7 680,356 Z"/>
 <path fill="url(#v2body)" d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/>
 <g clip-path="url(#v2m2)">
 <path class="v-snow" d="M48,24 L552,24 L552,151 Q524,159 496,131 Q468,155 440,147 Q412,155 384,135 Q356,155 328,147 Q300,155 272,131 Q244,159 216,151 Q188,159 160,131 Q132,155 104,147 Q76,155 48,135 Z"/>
@@ -108,11 +109,14 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-tree" d="M493.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
 <path class="v-shade" d="M300,24 C325.2,151.6 308.4,268.4 350.4,366 L720,366 L720,24 Z"/>
 </g>
+<path class="v-edge" d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="262" y1="225.1" x2="300" y2="67"/>
-<line class="v-pylon" x1="273.4" y1="177.7" x2="273.4" y2="189.7"/>
-<line class="v-pylon" x1="285.6" y1="127.1" x2="285.6" y2="139.1"/>
-<rect class="v-cabin" x="275" y="153.4" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="267" y1="227.1" x2="300" y2="67"/>
+<line class="v-pylon" x1="276.9" y1="179.1" x2="276.9" y2="191.1"/>
+<line class="v-pylon" x1="287.5" y1="127.9" x2="287.5" y2="139.9"/>
+<rect class="v-cabin" x="277.7" y="154.5" width="9" height="10" rx="2"/>
+<rect class="v-station" x="263" y="220.1" width="8" height="7" rx="1"/>
+<rect class="v-station" x="296" y="61" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M217,228.1 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M214.5,216.1 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="223" y="220.1" width="4" height="4"/>

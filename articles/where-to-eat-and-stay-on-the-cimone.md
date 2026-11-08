@@ -91,11 +91,14 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <path class="v-tree" d="M658.4,292 l7.4,-19.9 l7.4,19.9 Z"/>
 <path class="v-shade" d="M410,24 C442.4,151.6 420.8,268.4 474.8,366 L950,366 L950,24 Z"/>
 </g>
+<path class="v-edge" d="M140,356 C226.4,210 356,122.4 410,64 C464,128.2 593.6,215.8 680,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="565" y1="188.6" x2="450" y2="73.1"/>
-<line class="v-pylon" x1="530.5" y1="154" x2="530.5" y2="166"/>
-<line class="v-pylon" x1="493.7" y1="117" x2="493.7" y2="129"/>
-<rect class="v-cabin" x="507.6" y="136.5" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="559" y1="190.6" x2="450" y2="106.1"/>
+<line class="v-pylon" x1="526.3" y1="165.2" x2="526.3" y2="177.2"/>
+<line class="v-pylon" x1="491.4" y1="138.2" x2="491.4" y2="150.2"/>
+<rect class="v-cabin" x="504.4" y="152.7" width="9" height="10" rx="2"/>
+<rect class="v-station" x="555" y="183.6" width="8" height="7" rx="1"/>
+<rect class="v-station" x="446" y="100.1" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M403,67 v-12 h14 v12 Z"/><line class="v-cable" x1="410" y1="55" x2="410" y2="34"/>
 <path class="v-wall" d="M567,191.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M564.5,179.6 l10.5,-10 l10.5,10 Z"/>

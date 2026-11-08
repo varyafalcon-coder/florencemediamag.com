@@ -1099,3 +1099,6 @@ body:has(.trust) footer{margin-top:0}
 @media (max-width:560px){.mag-grid{grid-template-columns:1fr}}
 .trust-word{display:block;font-size:clamp(28px,2.6vw,36px);font-weight:700;letter-spacing:-.03em;line-height:1.05}
 .trust-card p{margin-top:14px}
+.v-edge{fill:none;stroke:#aab2ea;stroke-width:1.3;stroke-linejoin:round}
+.v-station{fill:#0b0b0b;opacity:.75}
+@media (prefers-color-scheme:dark){.v-edge{stroke:#7a84d6}}
