@@ -147,7 +147,9 @@
     var n = 0, shown = 0;
     var cap = (!kinds.length && !dist.length && !tripsExpanded) ? LIMIT : Infinity;
     tripCards.forEach(function(c){
-      var ok = matches(kinds, c.getAttribute('data-kind')) && matches(dist, c.getAttribute('data-dist'));
+      var haveKinds = (c.getAttribute('data-kind') || '').split(' ');
+      var allKinds = kinds.every(function(k){ return haveKinds.indexOf(k) > -1; });
+      var ok = allKinds && matches(dist, c.getAttribute('data-dist'));
       if(ok){ n++; }
       var visible = ok && shown < cap;
       if(visible){ shown++; }
@@ -156,7 +158,7 @@
     var a = [], b = [];
     kindPills.forEach(function(p){ var on = kinds.indexOf(p.getAttribute('data-kind')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ a.push(pillText(p)); } });
     distPills.forEach(function(p){ var on = dist.indexOf(p.getAttribute('data-dist')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ b.push(pillText(p)); } });
-    var label = [a.join(' or '), b.join(' or ')].filter(Boolean).join(', ');
+    var label = [a.join(' and '), b.join(' or ')].filter(Boolean).join(', ');
     tripTitle.textContent = label ? cap1(label) : 'Day trips and weekends';
     if(n === 0){ tripTitle.textContent = 'No matches'; }
     tripCount.hidden = n === 0;

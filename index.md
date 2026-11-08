@@ -77,6 +77,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       <button class="pill" type="button" data-dist="two" aria-pressed="false"><span class="em" aria-hidden="true">⏳</span> around two hours</button>
       <button class="pill" type="button" data-dist="four" aria-pressed="false"><span class="em" aria-hidden="true">🧳</span> four to five hours</button>
     </div>
+    <p class="hint">Pick more than one to narrow it down: “places to eat” and “in the mountains” shows only mountain restaurants.</p>
   </div>
 
   <div class="resultbar">
@@ -92,7 +93,9 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 
     {%- comment -%} Places on this site tagged "a bit out of the city": visited and dated {%- endcomment -%}
     {% for tp in outplaces %}
-    <article class="card tripcard" data-dist="hour" data-kind="near">
+    {%- assign tk = "near" -%}
+    {%- for c in tp.categories -%}{%- if c == "nice cute places to eat at" or c == "pizza worth crossing town for" or c == "eat like a local for under 10 euro" or c == "real gelato, not the coloured stuff" or c == "drink wine somewhere real" or c == "aperitivo" -%}{%- unless tk contains "eat" -%}{%- assign tk = tk | append: " eat" -%}{%- endunless -%}{%- endif -%}{%- if c == "see art without queueing" or c == "places with an old soul" or c == "enjoy the view" -%}{%- unless tk contains "see" -%}{%- assign tk = tk | append: " see" -%}{%- endunless -%}{%- endif -%}{%- endfor %}
+    <article class="card tripcard" data-dist="hour" data-kind="{{ tk }}">
       <span class="card-em" aria-hidden="true"><span>🌳</span></span>
       <span class="tripkicker">{{ tp.area }} &middot; a bit out of the city</span>
       <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a>{% if tp.price %} <span class="pricetag">{{ tp.price }}</span>{% endif %}</h3>
@@ -109,11 +112,17 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   <p class="tripnote">Places outside the city are chosen from the Michelin guide, local tourist boards and recent reviews, and not all of them have been visited by us yet. The places marked 🌳 a bit out of the city have.</p>
 </section>
 
-<section class="method wrap">
-  <h2>Why anything here is worth trusting</h2>
-  <div class="cols3 cols2">
-    <div><h3>Every place carries a date</h3><p>Nothing is listed without the day somebody stood in it. If a place has not been checked in six months it comes off the site until it is.</p></div>
-    <div><h3>Sorted by intent, not category</h3><p>People do not search for restaurants. They search for somewhere quiet, somewhere cheap, somewhere with a view.</p></div>
+<section class="trust">
+  <div class="wrap">
+    <p class="trust-kicker">How this guide works</p>
+    <h2>Why anything here is worth trusting</h2>
+    <div class="trust-grid">
+      <div class="trust-card"><span class="trust-num">{{ incount }}</span><h3>places in Florence, each with a date</h3><p>Nothing is listed without the day somebody stood in it. If a place has not been checked in six months it comes off the site until it is.</p></div>
+      <div class="trust-card"><span class="trust-num">16</span><h3>reasons to go out, not categories</h3><p>People do not search for restaurants. They search for somewhere quiet, somewhere cheap, somewhere with a view.</p></div>
+      <div class="trust-card"><span class="trust-num">14</span><h3>ski areas, researched and dated</h3><p>Prices, distances and the places worth booking, with the sources named and the date we read them.</p></div>
+      <div class="trust-card"><span class="trust-num">0</span><h3>hidden arrangements</h3><p>If a hotel has hosted us, the entry says so in plain text, not in a footer.</p></div>
+    </div>
+    <a class="trust-link" href="{{ '/how-we-verify/' | relative_url }}">How every place is checked →</a>
   </div>
 </section>
 
