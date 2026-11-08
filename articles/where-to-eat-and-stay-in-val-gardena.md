@@ -68,23 +68,21 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 ## The valley under the Sassolungo
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M250,356 C274,239.2 310,142.8 328,102 L361,128.2 L400,64 L433,122.4 L466,90.3 C484,131.2 526,239.2 550,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v4body)" d="M250,356 C274,239.2 310,142.8 328,102 L361,128.2 L400,64 L433,122.4 L466,90.3 C484,131.2 526,239.2 550,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M176,356 C233.6,277.2 265.6,194.8 288,180.8 L310.9,122.4 L317.8,102 L324,112.2 L330.9,109.3 L337,128.2 L342.4,122.4 L349.3,99 L361.6,78.6 L367.7,88.8 L369.3,85.9 L375.4,104.9 L380.8,139.9 L387.7,84.4 L394.6,64 L400.8,74.2 L407.7,71.3 L413.8,90.3 L419.2,122.4 L426.1,110.7 L438.4,90.3 L444.5,100.5 L446.1,97.6 L452.2,116.6 L457.6,139.9 L464.5,93.2 L471.4,72.8 L477.6,83 L484.5,80.1 L490.6,99 L512,180.8 C534.4,194.8 566.4,277.2 624,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v4body)" d="M176,356 C233.6,277.2 265.6,194.8 288,180.8 L310.9,122.4 L317.8,102 L324,112.2 L330.9,109.3 L337,128.2 L342.4,122.4 L349.3,99 L361.6,78.6 L367.7,88.8 L369.3,85.9 L375.4,104.9 L380.8,139.9 L387.7,84.4 L394.6,64 L400.8,74.2 L407.7,71.3 L413.8,90.3 L419.2,122.4 L426.1,110.7 L438.4,90.3 L444.5,100.5 L446.1,97.6 L452.2,116.6 L457.6,139.9 L464.5,93.2 L471.4,72.8 L477.6,83 L484.5,80.1 L490.6,99 L512,180.8 C534.4,194.8 566.4,277.2 624,356 Z"/>
 <g clip-path="url(#v4m1)">
-<path class="v-snow" d="M220,24 L580,24 L580,113 Q560,121 540,93 Q520,117 500,109 Q480,117 460,97 Q440,117 420,109 Q400,117 380,93 Q360,121 340,113 Q320,121 300,93 Q280,117 260,109 Q240,117 220,97 Z"/>
-<path class="v-rock" d="M307,124 L312.6,70 Q322.5,60 332.4,72 L338,124 Z"/>
-<path class="v-snow" d="M313.2,74 Q322.5,64 331.8,74 Q322.5,71 313.2,74 Z"/>
-<path class="v-rock" d="M338,144 L343.6,77 Q353.5,67 363.4,79 L369,144 Z"/>
-<path class="v-snow" d="M344.2,81 Q353.5,71 362.8,81 Q353.5,78 344.2,81 Z"/>
-<path class="v-rock" d="M369,138 L374.6,84 Q384.5,74 394.4,86 L400,138 Z"/>
-<path class="v-snow" d="M375.2,88 Q384.5,78 393.8,88 Q384.5,85 375.2,88 Z"/>
-<path class="v-rock" d="M400,137 L405.6,70 Q415.5,60 425.4,72 L431,137 Z"/>
-<path class="v-snow" d="M406.2,74 Q415.5,64 424.8,74 Q415.5,71 406.2,74 Z"/>
-<path class="v-rock" d="M431,134 L436.6,80 Q446.5,70 456.4,82 L462,134 Z"/>
-<path class="v-snow" d="M437.2,84 Q446.5,74 455.8,84 Q446.5,81 437.2,84 Z"/>
-<path class="v-rock" d="M462,154 L467.6,87 Q477.5,77 487.4,89 L493,154 Z"/>
-<path class="v-snow" d="M468.2,91 Q477.5,81 486.8,91 Q477.5,88 468.2,91 Z"/>
-<path class="v-shade" d="M400,24 C418,151.6 406,268.4 436,366 L700,366 L700,24 Z"/>
+<path class="v-rock" d="M310.9,122.4 L317.8,102 L316.3,180.8 L306.3,180.8 Z"/>
+<path class="v-snow" d="M314,116 L317.8,102 L321.7,111 L317.8,108 Z"/>
+<path class="v-rock" d="M349.3,99 L361.6,78.6 L360.1,180.8 L344.7,180.8 Z"/>
+<path class="v-snow" d="M357.8,92.6 L361.6,78.6 L365.4,87.6 L361.6,84.6 Z"/>
+<path class="v-rock" d="M387.7,84.4 L394.6,64 L393.1,180.8 L383.1,180.8 Z"/>
+<path class="v-snow" d="M390.8,78 L394.6,64 L398.5,73 L394.6,70 Z"/>
+<path class="v-rock" d="M426.1,110.7 L438.4,90.3 L436.9,180.8 L421.5,180.8 Z"/>
+<path class="v-snow" d="M434.6,104.3 L438.4,90.3 L442.2,99.3 L438.4,96.3 Z"/>
+<path class="v-rock" d="M464.5,93.2 L471.4,72.8 L469.9,180.8 L459.9,180.8 Z"/>
+<path class="v-snow" d="M467.6,86.8 L471.4,72.8 L475.3,81.8 L471.4,78.8 Z"/>
+<path class="v-snow" d="M208,178.8 Q227.2,174.8 246.4,181.8 Q265.6,179.8 284.8,181.8 Q304,179.8 323.2,181.8 Q342.4,174.8 361.6,181.8 Q380.8,179.8 400,181.8 Q419.2,179.8 438.4,181.8 Q457.6,174.8 476.8,181.8 Q496,179.8 515.2,181.8 Q534.4,179.8 553.6,181.8 Q572.8,174.8 592,181.8 L592,194.8 Q496,202.8 400,193.8 T208,196.8 Z"/>
+<path class="v-shade" d="M416,24 L425.6,180.8 C432,220.8 444.8,316 451.2,366 L720,366 L720,24 Z"/>
 </g>
 <path fill="url(#v4body)" d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/>
 <g clip-path="url(#v4m2)">

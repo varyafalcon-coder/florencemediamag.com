@@ -66,25 +66,23 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 ## Between the Brenta and the Spinale
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M450,356 C472.4,243.3 506,150.3 522.8,110.9 L553.6,136.2 L590,74.2 L620.8,130.6 L651.6,99.6 C668.4,139 707.6,243.3 730,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v5sky)"/>
-<path fill="url(#v5body)" d="M450,356 C472.4,243.3 506,150.3 522.8,110.9 L553.6,136.2 L590,74.2 L620.8,130.6 L651.6,99.6 C668.4,139 707.6,243.3 730,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M380,356 C434,279.9 464,200.9 485,186.9 L505.4,108.1 L510.8,88.3 L515.6,98.2 L521,95.4 L525.8,113.7 L530,130.6 L535.4,94 L545,74.2 L549.8,84.1 L551,81.3 L555.8,99.6 L560,147.5 L565.4,119.3 L570.8,99.6 L575.6,109.5 L581,106.6 L585.8,125 L590,130.6 L595.4,94 L605,74.2 L609.8,84.1 L611,81.3 L615.8,99.6 L620,147.5 L625.4,136.2 L630.8,116.5 L635.6,126.4 L641,123.6 L645.8,141.9 L650,130.6 L655.4,113.7 L665,94 L669.8,103.8 L671,101 L675.8,119.3 L695,186.9 C716,200.9 746,279.9 800,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v5sky)"/>
+<path fill="url(#v5body)" d="M380,356 C434,279.9 464,200.9 485,186.9 L505.4,108.1 L510.8,88.3 L515.6,98.2 L521,95.4 L525.8,113.7 L530,130.6 L535.4,94 L545,74.2 L549.8,84.1 L551,81.3 L555.8,99.6 L560,147.5 L565.4,119.3 L570.8,99.6 L575.6,109.5 L581,106.6 L585.8,125 L590,130.6 L595.4,94 L605,74.2 L609.8,84.1 L611,81.3 L615.8,99.6 L620,147.5 L625.4,136.2 L630.8,116.5 L635.6,126.4 L641,123.6 L645.8,141.9 L650,130.6 L655.4,113.7 L665,94 L669.8,103.8 L671,101 L675.8,119.3 L695,186.9 C716,200.9 746,279.9 800,356 Z"/>
 <g clip-path="url(#v5m1)">
-<path class="v-snow" d="M422,34.2 L758,34.2 L758,122.1 Q739.3,130.1 720.7,102.1 Q702,126.1 683.3,118.1 Q664.7,126.1 646,106.1 Q627.3,126.1 608.7,118.1 Q590,126.1 571.3,102.1 Q552.7,130.1 534,122.1 Q515.3,130.1 496.7,102.1 Q478,126.1 459.3,118.1 Q440.7,126.1 422,106.1 Z"/>
-<path class="v-rock" d="M503.2,134.2 L507.7,80.2 Q515.6,70.2 523.5,82.2 L528,134.2 Z"/>
-<path class="v-snow" d="M508.2,84.2 Q515.6,74.2 523,84.2 Q515.6,81.2 508.2,84.2 Z"/>
-<path class="v-rock" d="M528,154.2 L532.5,87.2 Q540.4,77.2 548.3,89.2 L552.8,154.2 Z"/>
-<path class="v-snow" d="M533,91.2 Q540.4,81.2 547.8,91.2 Q540.4,88.2 533,91.2 Z"/>
-<path class="v-rock" d="M552.8,148.2 L557.3,94.2 Q565.2,84.2 573.1,96.2 L577.6,148.2 Z"/>
-<path class="v-snow" d="M557.8,98.2 Q565.2,88.2 572.6,98.2 Q565.2,95.2 557.8,98.2 Z"/>
-<path class="v-rock" d="M577.6,147.2 L582.1,80.2 Q590,70.2 597.9,82.2 L602.4,147.2 Z"/>
-<path class="v-snow" d="M582.6,84.2 Q590,74.2 597.4,84.2 Q590,81.2 582.6,84.2 Z"/>
-<path class="v-rock" d="M602.4,144.2 L606.9,90.2 Q614.8,80.2 622.7,92.2 L627.2,144.2 Z"/>
-<path class="v-snow" d="M607.4,94.2 Q614.8,84.2 622.2,94.2 Q614.8,91.2 607.4,94.2 Z"/>
-<path class="v-rock" d="M627.2,164.2 L631.7,97.2 Q639.6,87.2 647.5,99.2 L652,164.2 Z"/>
-<path class="v-snow" d="M632.2,101.2 Q639.6,91.2 647,101.2 Q639.6,98.2 632.2,101.2 Z"/>
-<path class="v-rock" d="M652,140.2 L656.5,86.2 Q664.4,76.2 672.3,88.2 L676.8,140.2 Z"/>
-<path class="v-snow" d="M657,90.2 Q664.4,80.2 671.8,90.2 Q664.4,87.2 657,90.2 Z"/>
-<path class="v-shade" d="M590,34.2 C606.8,158.8 595.6,271.5 623.6,366 L870,366 L870,34.2 Z"/>
+<path class="v-rock" d="M505.4,108.1 L510.8,88.3 L509.6,186.9 L501.8,186.9 Z"/>
+<path class="v-snow" d="M507.8,102.3 L510.8,88.3 L513.8,97.3 L510.8,94.3 Z"/>
+<path class="v-rock" d="M535.4,94 L545,74.2 L543.8,186.9 L531.8,186.9 Z"/>
+<path class="v-snow" d="M542,88.2 L545,74.2 L548,83.2 L545,80.2 Z"/>
+<path class="v-rock" d="M565.4,119.3 L570.8,99.6 L569.6,186.9 L561.8,186.9 Z"/>
+<path class="v-snow" d="M567.8,113.6 L570.8,99.6 L573.8,108.6 L570.8,105.6 Z"/>
+<path class="v-rock" d="M595.4,94 L605,74.2 L603.8,186.9 L591.8,186.9 Z"/>
+<path class="v-snow" d="M602,88.2 L605,74.2 L608,83.2 L605,80.2 Z"/>
+<path class="v-rock" d="M625.4,136.2 L630.8,116.5 L629.6,186.9 L621.8,186.9 Z"/>
+<path class="v-snow" d="M627.8,130.5 L630.8,116.5 L633.8,125.5 L630.8,122.5 Z"/>
+<path class="v-rock" d="M655.4,113.7 L665,94 L663.8,186.9 L651.8,186.9 Z"/>
+<path class="v-snow" d="M662,108 L665,94 L668,103 L665,100 Z"/>
+<path class="v-snow" d="M410,184.9 Q428,180.9 446,187.9 Q464,185.9 482,187.9 Q500,185.9 518,187.9 Q536,180.9 554,187.9 Q572,185.9 590,187.9 Q608,185.9 626,187.9 Q644,180.9 662,187.9 Q680,185.9 698,187.9 Q716,185.9 734,187.9 Q752,180.9 770,187.9 L770,200.9 Q680,208.9 590,199.9 T410,202.9 Z"/>
+<path class="v-shade" d="M605,34.2 L614,186.9 C620,226.9 632,316 638,366 L890,366 L890,34.2 Z"/>
 </g>
 <path fill="url(#v5body)" d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/>
 <g clip-path="url(#v5m2)">

@@ -68,21 +68,21 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 ## Under the Sassongher and the Sella
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Alta Badia: the Sella massif on the left, the Sassongher above Corvara, the rolling slopes of Piz La Ila and Pralongià with many runs, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="v9sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v9body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v9m1"><path d="M-10,356 C10.8,239.2 42,142.8 57.6,102 L86.2,128.2 L120,64 L148.6,122.4 L177.2,90.3 C192.8,131.2 229.2,239.2 250,356 Z"/></clipPath><clipPath id="v9m2"><path d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/></clipPath><clipPath id="v9m3"><path d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v9sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v9body)" d="M-10,356 C10.8,239.2 42,142.8 57.6,102 L86.2,128.2 L120,64 L148.6,122.4 L177.2,90.3 C192.8,131.2 229.2,239.2 250,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Alta Badia: the Sella massif on the left, the Sassongher above Corvara, the rolling slopes of Piz La Ila and Pralongià with many runs, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="v9sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v9body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v9m1"><path d="M-76,356 C-25.6,277.2 2.4,194.8 22,180.8 L42,122.4 L48.1,102 L53.5,112.2 L59.5,109.3 L64.9,128.2 L69.6,122.4 L75.6,99 L86.4,78.6 L91.8,88.8 L93.1,85.9 L98.5,104.9 L103.2,139.9 L109.2,84.4 L115.3,64 L120.7,74.2 L126.7,71.3 L132.1,90.3 L136.8,122.4 L142.8,110.7 L153.6,90.3 L159,100.5 L160.3,97.6 L165.7,116.6 L170.4,139.9 L176.4,93.2 L182.5,72.8 L187.9,83 L193.9,80.1 L199.3,99 L218,180.8 C237.6,194.8 265.6,277.2 316,356 Z"/></clipPath><clipPath id="v9m2"><path d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/></clipPath><clipPath id="v9m3"><path d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v9sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v9body)" d="M-76,356 C-25.6,277.2 2.4,194.8 22,180.8 L42,122.4 L48.1,102 L53.5,112.2 L59.5,109.3 L64.9,128.2 L69.6,122.4 L75.6,99 L86.4,78.6 L91.8,88.8 L93.1,85.9 L98.5,104.9 L103.2,139.9 L109.2,84.4 L115.3,64 L120.7,74.2 L126.7,71.3 L132.1,90.3 L136.8,122.4 L142.8,110.7 L153.6,90.3 L159,100.5 L160.3,97.6 L165.7,116.6 L170.4,139.9 L176.4,93.2 L182.5,72.8 L187.9,83 L193.9,80.1 L199.3,99 L218,180.8 C237.6,194.8 265.6,277.2 316,356 Z"/>
 <g clip-path="url(#v9m1)">
-<path class="v-snow" d="M-36,24 L276,24 L276,118.9 Q258.7,126.9 241.3,98.9 Q224,122.9 206.7,114.9 Q189.3,122.9 172,102.9 Q154.7,122.9 137.3,114.9 Q120,122.9 102.7,98.9 Q85.3,126.9 68,118.9 Q50.7,126.9 33.3,98.9 Q16,122.9 -1.3,114.9 Q-18.7,122.9 -36,102.9 Z"/>
-<path class="v-rock" d="M39.4,124 L45.2,70 Q55.5,60 65.8,72 L71.6,124 Z"/>
-<path class="v-snow" d="M45.8,74 Q55.5,64 65.2,74 Q55.5,71 45.8,74 Z"/>
-<path class="v-rock" d="M71.6,144 L77.4,77 Q87.8,67 98.1,79 L103.9,144 Z"/>
-<path class="v-snow" d="M78.1,81 Q87.8,71 97.4,81 Q87.8,78 78.1,81 Z"/>
-<path class="v-rock" d="M103.9,124 L109.7,70 Q120,60 130.3,72 L136.1,124 Z"/>
-<path class="v-snow" d="M110.3,74 Q120,64 129.7,74 Q120,71 110.3,74 Z"/>
-<path class="v-rock" d="M136.1,140 L141.9,73 Q152.2,63 162.6,75 L168.4,140 Z"/>
-<path class="v-snow" d="M142.6,77 Q152.2,67 161.9,77 Q152.2,74 142.6,77 Z"/>
-<path class="v-rock" d="M168.4,134 L174.2,80 Q184.5,70 194.8,82 L200.6,134 Z"/>
-<path class="v-snow" d="M174.8,84 Q184.5,74 194.2,84 Q184.5,81 174.8,84 Z"/>
-<path class="v-shade" d="M120,24 C135.6,151.6 125.2,268.4 151.2,366 L380,366 L380,24 Z"/>
+<path class="v-rock" d="M42,122.4 L48.1,102 L46.8,180.8 L38,180.8 Z"/>
+<path class="v-snow" d="M44.7,116 L48.1,102 L51.5,111 L48.1,108 Z"/>
+<path class="v-rock" d="M75.6,99 L86.4,78.6 L85.1,180.8 L71.6,180.8 Z"/>
+<path class="v-snow" d="M83,92.6 L86.4,78.6 L89.8,87.6 L86.4,84.6 Z"/>
+<path class="v-rock" d="M109.2,84.4 L115.3,64 L114,180.8 L105.2,180.8 Z"/>
+<path class="v-snow" d="M111.9,78 L115.3,64 L118.7,73 L115.3,70 Z"/>
+<path class="v-rock" d="M142.8,110.7 L153.6,90.3 L152.3,180.8 L138.8,180.8 Z"/>
+<path class="v-snow" d="M150.2,104.3 L153.6,90.3 L157,99.3 L153.6,96.3 Z"/>
+<path class="v-rock" d="M176.4,93.2 L182.5,72.8 L181.2,180.8 L172.4,180.8 Z"/>
+<path class="v-snow" d="M179.1,86.8 L182.5,72.8 L185.9,81.8 L182.5,78.8 Z"/>
+<path class="v-snow" d="M-48,178.8 Q-31.2,174.8 -14.4,181.8 Q2.4,179.8 19.2,181.8 Q36,179.8 52.8,181.8 Q69.6,174.8 86.4,181.8 Q103.2,179.8 120,181.8 Q136.8,179.8 153.6,181.8 Q170.4,174.8 187.2,181.8 Q204,179.8 220.8,181.8 Q237.6,179.8 254.4,181.8 Q271.2,174.8 288,181.8 L288,194.8 Q204,202.8 120,193.8 T-48,196.8 Z"/>
+<path class="v-shade" d="M134,24 L142.4,180.8 C148,220.8 159.2,316 164.8,366 L400,366 L400,24 Z"/>
 </g>
 <path fill="url(#v9body)" d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/>
 <g clip-path="url(#v9m2)">
