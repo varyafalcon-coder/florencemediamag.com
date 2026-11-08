@@ -4,12 +4,12 @@ look: cards
 title: "Livigno: high, cold and full of snow"
 permalink: /articles/where-to-eat-and-stay-in-livigno/
 seo_title: "Livigno from Florence: where to eat, ski and sleep"
-seo_description: "A high, cold valley with snow from November to May, five and a half hours from Florence. Key numbers, the two ski sides, a perfect day, where to eat on the slopes and in the village, and what to order."
-answer: "A long, high valley at 1,816 metres with snow from November to May, two ski areas facing each other, and duty-free shopping in the evening."
+seo_description: "Livigno from Florence: two ski areas on opposite sides of a high valley, the park that hosted the 2026 Olympic freestyle and snowboard events, the yearly events worth timing a trip around, where to eat, après-ski and the roads in winter."
+answer: "A village at 1,816 metres with two ski areas on opposite sides of the valley, the snowpark that hosted the 2026 Olympic freestyle and snowboard events, and a season from late November to early May. Five and a half hours from Florence."
 published_on: "2026-11-05"
-updated_on: "2026-11-05"
+updated_on: "2026-11-08"
 verify_label: "Researched"
-verify_note: "Places were chosen from the Michelin guide, Gambero Rosso, the ski areas' own pages and recent reviews. Not all of them have been visited by us yet. Mountain huts follow the lift hours and the weather, so check before you go."
+verify_note: "Researched from the official Livigno, Carosello 3000 and Mottolino sites, the 2026/27 price lists, the Livigno events calendar, and skier reviews on Snow-Forecast, OnTheSnow, Freeride and Tripadvisor, read November 2026. Restaurants were chosen from the Michelin guide, Gambero Rosso and recent reviews. Not all of them have been visited by us yet. Event dates change every year, so check them before you book."
 toc:
   - label: "Why is it worth going?"
     id: "why-is-it-worth-going"
@@ -17,12 +17,16 @@ toc:
     id: "the-mountain-top-to-bottom"
   - label: "A perfect day"
     id: "a-perfect-day"
+  - label: "What is on"
+    id: "what-is-on"
   - label: "Where to stay"
     id: "where-to-stay"
   - label: "Where to eat"
     id: "where-to-eat"
   - label: "What to order"
     id: "what-to-order"
+  - label: "After skiing"
+    id: "after-skiing"
   - label: "Getting there"
     id: "getting-there"
   - label: "Before you go"
@@ -32,41 +36,68 @@ toc:
 faq:
   - q: "How far is Livigno from Florence?"
     a: "About five and a half hours by car, via Milan, Valtellina and the Foscagno pass. By train, go to Milan, take the line to Tirano, then a bus up to Livigno."
+  - q: "Are the two Livigno ski areas connected?"
+    a: "No. Carosello 3000 and Mottolino face each other across the valley and are not joined by a lift. One pass covers both, and a free ski bus runs the length of the valley until about eight in the evening."
+  - q: "Are there events in Livigno in winter?"
+    a: "Yes, and some come back every year. The season opens at the end of November, La Sgambeda, an amateur cross-country race, is usually in the first half of December, and Christmas in the Village runs from late November to 6 January. The official calendar is at livigno.eu/en/events."
   - q: "Why is Livigno duty-free?"
     a: "Livigno has a special customs status that goes back centuries, so fuel, alcohol, perfume and electronics are sold without Italian VAT. Shopping is part of the evening."
   - q: "What is the typical food in Livigno?"
     a: "The cooking of Valtellina: pizzoccheri, buckwheat pasta with cabbage, potato and cheese; sciatt, fried buckwheat fritters filled with cheese; bresaola; and polenta taragna."
   - q: "How much is a ski pass in Livigno in 2026/27?"
-    a: "A day costs 51.50 euro in the early and late weeks, 66 euro in season and 74.50 euro in high season."
+    a: "A day costs 51.50 euro in the early and late weeks, 66 euro in normal season and 74.50 euro in high season, which runs from 26 December to 8 January and from 30 January to 29 March."
 ---
+
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h 30 by car</dd></div>
-<div><dt>Best for</dt><dd>Snow, snowboarding, nights out</dd></div>
-<div><dt>Day pass</dt><dd>51.50 to 74.50&nbsp;€</dd></div>
-<div><dt>Season</dt><dd>28 Nov to early May</dd></div>
+<div><dt>Best for</dt><dd>Snowpark, long season</dd></div>
+<div><dt>Day pass</dt><dd>51.50–74.50&nbsp;€</dd></div>
+<div><dt>Season</dt><dd>28 Nov – early May</dd></div>
 </dl>
 
 <div class="bignums">
-<div><span class="bn">115 km</span><span class="bl">of runs on two sides</span></div>
-<div><span class="bn">2,798 m</span><span class="bl">the highest lifts</span></div>
+<div><span class="bn">120 km</span><span class="bl">of runs, 30 lifts</span></div>
+<div><span class="bn">2,798 m</span><span class="bl">the top of Carosello 3000</span></div>
 <div><span class="bn">1,816 m</span><span class="bl">the village itself</span></div>
-<div><span class="bn">Duty-free</span><span class="bl">shopping in the evening</span></div>
+<div><span class="bn">2026</span><span class="bl">Olympic freestyle and snowboard</span></div>
 </div>
 
 ## Why is it worth going?
 
-<p class="lede">When nowhere else has snow, Livigno usually does.</p>
+<p class="lede">The village itself sits at 1,816 metres, almost as high as the top lifts at Abetone. That is why the season runs from late November to early May.</p>
 
-The village sits at 1,816 metres in a long, cold valley close to Switzerland, which is the whole point: the snow arrives early and stays until May. Two ski areas face each other across the valley, the snowparks draw riders from all over Europe, and the evenings are the liveliest of any resort within reach of Florence.
+Two ski areas face each other across a long, flat valley close to the Swiss border: Carosello 3000 on one side, Mottolino on the other. In February 2026 the park at Mottolino hosted the Olympic freestyle skiing and snowboard events, and it is still one of the parks riders travel across Europe for.
+
+What skiers say in reviews is consistent: wide, well groomed runs that suit intermediates best, short lift queues outside the peak weeks, and the most lively evenings of any resort within reach of Florence. The common complaint is that the two sides are not joined by a lift, so the day involves the ski bus.
 
 {% include ski-fit.html id="livigno" %}
 
 ## The mountain, top to bottom
 
+<figure class="profile">
+<svg viewBox="0 0 720 330" role="img" aria-label="Cross-section of the Livigno valley: Carosello 3000 at 2,798 metres on one side, the village at 1,816 metres on the valley floor, Mottolino at about 2,400 metres on the other side">
+<defs><linearGradient id="pfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="pf-top"/><stop offset="1" class="pf-bot"/></linearGradient></defs>
+<g class="pf-grid">
+<line x1="20" y1="70" x2="700" y2="70"/><text x="700" y="64" text-anchor="end">2,800 m</text>
+<line x1="20" y1="158" x2="700" y2="158"/>
+<line x1="20" y1="246" x2="700" y2="246"/><text x="700" y="240" text-anchor="end">2,000 m</text>
+</g>
+<path class="pf-area" d="M20,330 L20,150 L70,108 L130,70 L190,112 L250,190 L300,260 L330,286 L420,286 L450,262 L500,205 L560,158 L620,176 L680,214 L700,226 L700,330 Z"/>
+<path class="pf-line" d="M20,150 L70,108 L130,70 L190,112 L250,190 L300,260 L330,286 L420,286 L450,262 L500,205 L560,158 L620,176 L680,214 L700,226"/>
+<g class="pf-houses"><rect x="342" y="274" width="10" height="12"/><rect x="358" y="270" width="12" height="16"/><rect x="376" y="276" width="9" height="10"/><rect x="391" y="272" width="11" height="14"/></g>
+<path class="pf-bus" d="M300,300 L450,300"/>
+<text x="375" y="320" class="pf-alt" text-anchor="middle">free ski bus across the valley</text>
+<g class="pf-pt"><circle cx="130" cy="70" r="7"/><text x="144" y="44" class="pf-name">Carosello 3000</text><text x="144" y="60" class="pf-alt">2,798 m · longer runs</text></g>
+<g class="pf-pt"><circle cx="375" cy="286" r="7"/><text x="375" y="246" class="pf-name" text-anchor="middle">Livigno</text><text x="375" y="262" class="pf-alt" text-anchor="middle">1,816 m · village</text></g>
+<g class="pf-pt"><circle cx="560" cy="158" r="7"/><text x="574" y="132" class="pf-name">Mottolino</text><text x="574" y="148" class="pf-alt">about 2,400 m · the park</text></g>
+</svg>
+<figcaption>Two ski areas on opposite sides of the valley, one pass for both. You cross between them by the free bus.</figcaption>
+</figure>
+
 <ol class="ladder">
-<li><span class="alt">2,798 m</span><span class="lname">Carosello 3000</span><span class="ldesc">The higher side, long red runs and the best views down the valley.</span></li>
-<li><span class="alt">2,400 m</span><span class="lname">Mottolino</span><span class="ldesc">The other side: the famous snowpark and a self-service terrace at the top.</span></li>
-<li><span class="alt">1,816 m</span><span class="lname">Livigno</span><span class="ldesc">The village along the valley floor, shops, bars and lifts at both ends.</span></li>
+<li><span class="alt">2,798 m</span><span class="lname">Carosello 3000</span><span class="ldesc">The higher side: long red runs and the best views down the valley.</span></li>
+<li><span class="alt">2,400 m</span><span class="lname">Mottolino</span><span class="ldesc">The other side: the Olympic snowpark and a terrace at the top.</span></li>
+<li><span class="alt">1,816 m</span><span class="lname">Livigno</span><span class="ldesc">The village along the valley floor, with lifts at both ends.</span></li>
 </ol>
 
 ## A perfect day
@@ -74,9 +105,20 @@ The village sits at 1,816 metres in a long, cold valley close to Switzerland, wh
 <ol class="dayplan">
 <li><span class="when">Morning</span><span class="what">Up the Carosello 3000 gondola while the pistes are fresh.</span></li>
 <li><span class="when">Lunch</span><span class="what">Pizzoccheri at <a href="/trips/costaccia/">Costaccia</a> or a sit-down lunch at <a href="/trips/la-stuvetta/">La Stuvetta</a>.</span></li>
-<li><span class="when">Afternoon</span><span class="what">Across the valley to Mottolino and the snowpark.</span></li>
-<li><span class="when">Evening</span><span class="what">A walk through the duty-free shops, then sciatt at <a href="/trips/la-rasiga/">La Rasiga</a>.</span></li>
+<li><span class="when">Afternoon</span><span class="what">The bus across the valley to Mottolino and the park.</span></li>
+<li><span class="when">Evening</span><span class="what">A drink at the bottom of the gondola, then sciatt at <a href="/trips/la-rasiga/">La Rasiga</a>.</span></li>
 </ol>
+
+## What is on
+
+Some events come back every winter, and a trip timed around one of them is a different trip. Dates change each year, so check the official calendar at **livigno.eu/en/events** before you book.
+
+<div class="events">
+<div class="ev"><span class="ev-date">Late November</span><p class="ev-name">Season opening</p><p class="ev-text">The lifts open on 28 November 2026, with opening events on the slopes and in the village.</p></div>
+<div class="ev"><span class="ev-date">27 Nov – 6 Jan</span><p class="ev-name">Christmas in the Village</p><p class="ev-text">The centre is decorated and full of stalls and events until Epiphany.</p></div>
+<div class="ev"><span class="ev-date">Early to mid December</span><p class="ev-name">La Sgambeda</p><p class="ev-text">An amateur cross-country ski race held every year for more than thirty years, with a children's race the day before. Dates at lasgambeda.it.</p></div>
+<div class="ev"><span class="ev-date">2–5 February 2027</span><p class="ev-name">Snow Polo Trophy</p><p class="ev-text">Polo on snow, new for this season. The programme is still to be announced.</p></div>
+</div>
 
 ## Where to stay
 
@@ -87,9 +129,9 @@ The village sits at 1,816 metres in a long, cold valley close to Switzerland, wh
 </div>
 
 <div class="bases">
-<div><p class="base-name">Centre</p><p class="base-text">Shops and evenings on foot, lifts at the Livigno Centro gondola.</p></div>
+<div><p class="base-name">Centre</p><p class="base-text">Shops and evenings on foot, and the bus to both sides.</p></div>
 <div><p class="base-name">Carosello side</p><p class="base-text">Near the higher lifts and the longer runs.</p></div>
-<div><p class="base-name">Mottolino side</p><p class="base-text">For snowboarders and the snowpark.</p></div>
+<div><p class="base-name">Mottolino side</p><p class="base-text">For riders and the park.</p></div>
 </div>
 
 ## Where to eat
@@ -119,18 +161,28 @@ The village sits at 1,816 metres in a long, cold valley close to Switzerland, wh
 <div><dt>Polenta taragna</dt><dd>Buckwheat polenta with butter and cheese.</dd></div>
 </dl>
 
+## After skiing
+
+<dl class="dishes">
+<div><dt>Stalet</dt><dd>The big après bar under the Carosello 3000 gondola, full from mid afternoon until about eight.</dd></div>
+<div><dt>Miky's</dt><dd>Après bar on the slopes that turns into the village's best-known club later.</dd></div>
+<div><dt>Aquagranda</dt><dd>Pools, saunas and an Alpine wellness area in the village. A 2.5 hour wellness ticket starts at about 46&nbsp;€.</dd></div>
+<div><dt>Duty-free</dt><dd>No Italian VAT on fuel, perfume, alcohol and electronics. Shops stay open into the evening.</dd></div>
+</dl>
+
 ## Getting there
 
 <dl class="glance glance2">
-<div><dt>By car</dt><dd>About 5 h 30, via Milan, Valtellina and the Foscagno pass</dd></div>
+<div><dt>By car</dt><dd>About 5 h 30, via Milan, Valtellina and the Foscagno pass, which stays open in winter</dd></div>
 <div><dt>By train</dt><dd>Florence to Milan, the line to Tirano, then a bus up to Livigno</dd></div>
 </dl>
 
 ## Before you go
 
 <ul class="tips">
-<li>Carry snow chains: the last hour is over a high pass.</li>
-<li>The cheapest days are the early and late weeks: 51.50&nbsp;€ from 28 Nov to 18 Dec and from 10 April.</li>
+<li>Winter tyres or chains are required on the roads to Livigno from 15 October to 30 April. If the Foscagno is closed by snow, the alternative is through Switzerland and the Munt la Schera toll tunnel, which runs one way at a time.</li>
+<li>High season, 74.50&nbsp;€ a day: 26 Dec to 8 Jan and 30 Jan to 29 Mar. The cheapest weeks, 51.50&nbsp;€, are at the very start and end of the season.</li>
+<li>Going off-piste in Italy means carrying an avalanche transceiver, shovel and probe by law. Hire a guide if you do not know the terrain.</li>
 <li>Duty-free means fuel is cheaper too. Fill up before you leave.</li>
 </ul>
 

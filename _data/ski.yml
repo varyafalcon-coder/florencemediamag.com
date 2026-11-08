@@ -240,13 +240,13 @@ areas:
     tier: far
     car: "5 h 30, over a high pass"
     train: "train to Milan, the line to Tirano, then a bus up to Livigno"
-    size: "About 115 km and 30 lifts"
-    top: "2,800 m"
+    size: "About 120 km and 30 lifts"
+    top: "2,798 m"
     pass: "51.50 € early and late season, 66 €, 74.50 € in high season"
     season: "From 28 Nov 2026 to early May"
     vibe: "A long, high, cold valley with snow from November to May, snowparks that draw riders from all over Europe, duty-free shopping and the liveliest nights on this page."
-    go_if: "You snowboard, you are young or feel it, and you want snow you can count on."
-    skip_if: "You do not want to drive the last hour with chains."
+    go_if: "You ride the park, you want snow in early December or late April, or you want a lively town after skiing."
+    skip_if: "You want a linked ski circuit like the Sellaronda. The two sides are not joined by lift, so you cross the valley by bus."
     want: [apres, snow, big]
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"

@@ -771,6 +771,7 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .article .body .glance div,.article .body .bignums > div,.article .body .dishes div,
   .article .body .skiarea-fit > div,.article .body .bases > div{height:100%;box-sizing:border-box}
   .article .body .tripcards{grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch}
+  .article .body .tripcards:has(> :nth-child(3)){grid-template-columns:repeat(3,minmax(0,1fr))}
   .article .body .tripcards .card-em{right:12px}
   .article .body .dishes{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
@@ -934,3 +935,23 @@ details.toc ol{padding:0 clamp(20px,2.4vw,26px) 16px}
   .placepage .verdict{gap:0;background:var(--card)}
   .placepage .verdict > div + div{border-top:1px solid var(--line)}
 }
+
+/* lede: a calm statement, no large italic */
+.article .body p.lede{font-style:normal;font-weight:500;font-size:clamp(18px,1.9vw,21px);line-height:1.5;
+  letter-spacing:-.005em;color:var(--ink);border-left:3px solid var(--blue);padding-left:18px}
+@media (min-width:1100px){.article .body p.lede{font-size:21px}}
+
+/* glance: values the same size, labels on one line */
+.glance dt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* recurring events */
+.events{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:22px}
+.ev{background:var(--card);padding:20px 22px;border-top:4px solid var(--blue)}
+.ev-date{display:inline-block;background:var(--blue);color:#fff;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px}
+.article .body .ev-name{margin:12px 0 0;font-size:18px;font-weight:700;letter-spacing:-.01em;line-height:1.3}
+.article .body .ev-text{margin:6px 0 0;font-size:15px;line-height:1.55;color:var(--ink-soft);max-width:none}
+@media (max-width:640px){.events{grid-template-columns:1fr}}
+
+/* valley cross-section extras */
+.pf-houses rect{fill:var(--ink-soft);opacity:.55}
+.pf-bus{stroke:var(--blue);stroke-width:2;stroke-dasharray:6 5;fill:none}

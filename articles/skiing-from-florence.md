@@ -112,7 +112,7 @@ For three days or more, and for warm Decembers.
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-courmayeur/"><span class="cmp-name">Courmayeur</span><span class="cmp-car">5 h</span><span class="cmp-size">100 km</span><span class="cmp-pass">75 to 90 €</span></a>
 <a class="cmp-row" href="/articles/where-to-eat-and-stay-in-bormio/"><span class="cmp-name">Bormio</span><span class="cmp-car">5 h</span><span class="cmp-size">50 km</span><span class="cmp-pass">40 to 65 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">115 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
 </div>
 
 ## Where to eat and stay
