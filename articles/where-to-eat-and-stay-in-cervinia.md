@@ -94,28 +94,27 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <path class="v-shade" d="M520,102.3 C544,206.4 528,291.9 568,366 L920,366 L920,102.3 Z"/>
 </g>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="424" y1="254.4" x2="470" y2="214.8"/>
-<line class="v-pylon" x1="437.8" y1="242.5" x2="437.8" y2="254.5"/>
-<line class="v-pylon" x1="452.5" y1="229.9" x2="452.5" y2="241.9"/>
-<rect class="v-cabin" x="440.7" y="237.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="470" y1="214.8" x2="540" y2="143.1"/>
-<line class="v-pylon" x1="491" y1="193.3" x2="491" y2="205.3"/>
-<line class="v-pylon" x1="513.4" y1="170.3" x2="513.4" y2="182.3"/>
-<rect class="v-cabin" x="497.7" y="182.8" width="9" height="10" rx="2"/>
-<ellipse class="v-ground" cx="380" cy="258.4" rx="58" ry="5"/>
-<path class="v-wall" d="M336,257.4 v-13 h16 v13 Z"/>
-<path class="v-roof" d="M333.5,245.4 l10.5,-10 l10.5,10 Z"/>
-<rect class="v-win" x="342" y="249.4" width="4" height="4"/>
-<path class="v-wall" d="M357,257.4 v-17 h20 v17 Z"/>
-<path class="v-roof" d="M354.5,241.4 l12.5,-10 l12.5,10 Z"/>
-<rect class="v-win" x="365" y="245.4" width="4" height="4"/>
-<path class="v-wall" d="M382,257.4 v-12 h14 v12 Z"/>
-<path class="v-roof" d="M379.5,246.4 l9.5,-10 l9.5,10 Z"/>
-<rect class="v-win" x="387" y="250.4" width="4" height="4"/>
-<path class="v-wall" d="M396.5,257.4 v-34 h8 v34 Z"/><path class="v-roof" d="M396,224.4 l4.5,-15 l4.5,15 Z"/>
-<path class="v-wall" d="M401,257.4 v-15 h18 v15 Z"/>
-<path class="v-roof" d="M398.5,243.4 l11.5,-10 l11.5,10 Z"/>
-<rect class="v-win" x="408" y="247.4" width="4" height="4"/>
+<line class="v-cable" x1="470" y1="254.4" x2="500" y2="214.8"/>
+<line class="v-pylon" x1="479" y1="242.5" x2="479" y2="254.5"/>
+<line class="v-pylon" x1="488.6" y1="229.9" x2="488.6" y2="241.9"/>
+<rect class="v-cabin" x="479.3" y="237.2" width="9" height="10" rx="2"/>
+<line class="v-cable" x1="500" y1="214.8" x2="540" y2="143.1"/>
+<line class="v-pylon" x1="512" y1="193.3" x2="512" y2="205.3"/>
+<line class="v-pylon" x1="524.8" y1="170.3" x2="524.8" y2="182.3"/>
+<rect class="v-cabin" x="513.9" y="182.8" width="9" height="10" rx="2"/>
+<path class="v-wall" d="M381,257.4 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M378.5,245.4 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="387" y="249.4" width="4" height="4"/>
+<path class="v-wall" d="M402,257.4 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M399.5,241.4 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="410" y="245.4" width="4" height="4"/>
+<path class="v-wall" d="M427,257.4 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M424.5,246.4 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="432" y="250.4" width="4" height="4"/>
+<path class="v-wall" d="M441.5,257.4 v-34 h8 v34 Z"/><path class="v-roof" d="M441,224.4 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M446,257.4 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M443.5,243.4 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="453" y="247.4" width="4" height="4"/>
 <ellipse class="v-ground" cx="650" cy="300" rx="46.5" ry="5"/>
 <path class="v-wall" d="M617.5,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M615,287 l10.5,-10 l10.5,10 Z"/>

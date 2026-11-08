@@ -1058,3 +1058,12 @@ body:has(.trust) footer{margin-top:0}
 .pkey b{font-weight:700}
 @media (prefers-color-scheme:dark){.pb-black{background:#e9ecf9}}
 .article .body .pistes + h2{margin-top:clamp(40px,5vw,56px)}
+
+/* key facts as three clean bands: one grey card, one blue band, the runs card */
+.article.look-cards .body .glance{gap:1px;background:var(--line)}
+.article.look-cards .body .glance > div{background:var(--card)}
+.article.look-cards .body .bignums{gap:1px;background:rgba(255,255,255,.22)}
+.article.look-cards .body .bignums:not(.bn1){background:#4552cf}
+.article.look-cards .body .glance + .bignums,.article.look-cards .body .bignums + .pistes{margin-top:12px}
+.article.look-cards .body .glance > div,.article.look-cards .body .bignums > div,.article.look-cards .body .pistes{padding:18px 22px}
+.article.look-cards .body .glance:has(+ .bignums),.article.look-cards .body .bignums:has(+ .pistes){margin-bottom:0}

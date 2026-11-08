@@ -109,17 +109,16 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <path class="v-shade" d="M300,24 C325.2,151.6 308.4,268.4 350.4,366 L720,366 L720,24 Z"/>
 </g>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="236" y1="225.1" x2="300" y2="67"/>
-<line class="v-pylon" x1="255.2" y1="177.7" x2="255.2" y2="189.7"/>
-<line class="v-pylon" x1="275.7" y1="127.1" x2="275.7" y2="139.1"/>
-<rect class="v-cabin" x="260.9" y="153.4" width="9" height="10" rx="2"/>
-<ellipse class="v-ground" cx="210" cy="229.1" rx="37" ry="5"/>
-<path class="v-wall" d="M187,228.1 v-13 h16 v13 Z"/>
-<path class="v-roof" d="M184.5,216.1 l10.5,-10 l10.5,10 Z"/>
-<rect class="v-win" x="193" y="220.1" width="4" height="4"/>
-<path class="v-wall" d="M208,228.1 v-17 h20 v17 Z"/>
-<path class="v-roof" d="M205.5,212.1 l12.5,-10 l12.5,10 Z"/>
-<rect class="v-win" x="216" y="216.1" width="4" height="4"/>
+<line class="v-cable" x1="262" y1="225.1" x2="300" y2="67"/>
+<line class="v-pylon" x1="273.4" y1="177.7" x2="273.4" y2="189.7"/>
+<line class="v-pylon" x1="285.6" y1="127.1" x2="285.6" y2="139.1"/>
+<rect class="v-cabin" x="275" y="153.4" width="9" height="10" rx="2"/>
+<path class="v-wall" d="M217,228.1 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M214.5,216.1 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="223" y="220.1" width="4" height="4"/>
+<path class="v-wall" d="M238,228.1 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M235.5,212.1 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="246" y="216.1" width="4" height="4"/>
 <ellipse class="v-ground" cx="590" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M546,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M543.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -136,7 +135,7 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <rect class="v-win" x="618" y="289" width="4" height="4"/>
 <g class="v-pill"><rect x="169.9" y="18" width="260.2" height="30" rx="15"/><text x="300" y="38" text-anchor="middle"><tspan class="v-pn">Corno alle Scale</tspan> · 1,945 m</text></g>
 <g class="v-pill"><rect x="434.2" y="52.4" width="251.5" height="30" rx="15"/><text x="560" y="72.4" text-anchor="middle"><tspan class="v-pn">Lago Scaffaiolo</tspan> · 1,775 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="54.7" y="173.1" width="190.6" height="30" rx="15"/><text x="150" y="193.1" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
+<g class="v-pill v-pill-blue"><rect x="74.7" y="173.1" width="190.6" height="30" rx="15"/><text x="170" y="193.1" text-anchor="middle"><tspan class="v-pn">Cavone</tspan> · the lifts</text></g>
 <g class="v-pill"><rect x="472.9" y="308" width="234.1" height="30" rx="15"/><text x="590" y="328" text-anchor="middle"><tspan class="v-pn">Vidiciatico and Lizzano</tspan></text></g>
 </svg>
 <figcaption>The lifts climb from Cavone towards the summit ridge. Lago Scaffaiolo sits just below it, and the villages are further down the valley.</figcaption>

@@ -97,7 +97,6 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <line class="v-pylon" x1="493.7" y1="117" x2="493.7" y2="129"/>
 <rect class="v-cabin" x="507.6" y="136.5" width="9" height="10" rx="2"/>
 <path class="v-wall" d="M403,67 v-12 h14 v12 Z"/><line class="v-cable" x1="410" y1="55" x2="410" y2="34"/>
-<ellipse class="v-ground" cx="590" cy="192.6" rx="37" ry="5"/>
 <path class="v-wall" d="M567,191.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M564.5,179.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="573" y="183.6" width="4" height="4"/>

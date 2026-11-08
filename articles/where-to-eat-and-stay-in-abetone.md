@@ -66,9 +66,9 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 ## The mountain and the pass
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes on both sides of the pass, the village on the pass at 1,388 metres with lifts from the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="v1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v1body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v1m1"><path d="M230,356 C278,258.7 350,200.3 380,161.4 C410,204.2 482,262.6 530,356 Z"/></clipPath><clipPath id="v1m2"><path d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/></clipPath><clipPath id="v1m3"><path d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v1sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Abetone: wooded Apennine slopes on both sides of the pass, the village on the pass at 1,388 metres with lifts from the square, the top lifts at about 1,900 metres, and Cutigliano below at 680 metres"><defs><linearGradient id="v1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v1body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v1m1"><path d="M230,356 C266,243.1 278,165.4 314,162.4 Q380,158.4 446,162.4 C482,165.4 494,243.1 530,356 Z"/></clipPath><clipPath id="v1m2"><path d="M20,356 C74.4,210 156,122.4 190,64 C224,128.2 305.6,215.8 360,356 Z"/></clipPath><clipPath id="v1m3"><path d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v1sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
 <path class="v-far" d="M0,356 L0,159.1 Q80,93.5 160,111.5 Q260,93.5 360,140.1 Q450,84 540,102 Q630,84 720,130.6 L720,356 Z"/>
-<path fill="url(#v1body)" d="M230,356 C278,258.7 350,200.3 380,161.4 C410,204.2 482,262.6 530,356 Z"/>
+<path fill="url(#v1body)" d="M230,356 C266,243.1 278,165.4 314,162.4 Q380,158.4 446,162.4 C482,165.4 494,243.1 530,356 Z"/>
 <g clip-path="url(#v1m1)">
 <path class="v-snow" d="M200,121.4 L560,121.4 L560,214.3 Q540,222.3 520,194.3 Q500,218.3 480,210.3 Q460,218.3 440,198.3 Q420,218.3 400,210.3 Q380,218.3 360,194.3 Q340,222.3 320,214.3 Q300,222.3 280,194.3 Q260,218.3 240,210.3 Q220,218.3 200,198.3 Z"/>
 <path class="v-tree" d="M242,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -126,7 +126,6 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <line class="v-pylon" x1="470.4" y1="136.1" x2="470.4" y2="148.1"/>
 <line class="v-pylon" x1="511.4" y1="109.3" x2="511.4" y2="121.3"/>
 <rect class="v-cabin" x="486.4" y="123.7" width="9" height="10" rx="2"/>
-<ellipse class="v-ground" cx="380" cy="165.4" rx="58" ry="5"/>
 <path class="v-wall" d="M336,164.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,152.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="156.4" width="4" height="4"/>

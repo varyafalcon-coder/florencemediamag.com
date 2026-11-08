@@ -112,7 +112,6 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <line class="v-pylon" x1="484.4" y1="254.8" x2="484.4" y2="266.8"/>
 <line class="v-pylon" x1="519" y1="225.3" x2="519" y2="237.3"/>
 <rect class="v-cabin" x="497.2" y="241.1" width="9" height="10" rx="2"/>
-<ellipse class="v-ground" cx="390" cy="286.6" rx="68" ry="5"/>
 <path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="277.6" width="4" height="4"/>

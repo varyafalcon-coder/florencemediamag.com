@@ -70,14 +70,14 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 ## From the glacier to the village
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale below it at 1,880 metres with its runs, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="v6sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v6body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v6m1"><path d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/></clipPath><clipPath id="v6m2"><path d="M205,356 C257.8,280.2 337,234.8 370,204.5 C403,237.8 482.2,283.3 535,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v6sky)"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Pontedilegno-Tonale: the Presena glacier at 3,000 metres on the right, Passo del Tonale below it at 1,880 metres with its runs, and the village of Ponte di Legno at 1,260 metres in the valley on the left"><defs><linearGradient id="v6sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v6body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v6m1"><path d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/></clipPath><clipPath id="v6m2"><path d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v6sky)"/>
 <path class="v-far" d="M0,356 L0,164.3 Q80,108.7 160,126.7 Q245,108.7 330,145.5 Q415,83.6 500,101.6 Q610,83.6 720,114.2 L720,356 Z"/>
 <path fill="url(#v6body)" d="M430,356 C454,239.2 490,142.8 508,102 L541,128.2 L580,64 L613,122.4 L646,90.3 C664,131.2 706,239.2 730,356 Z"/>
 <g clip-path="url(#v6m1)">
 <path class="v-snow" d="M400,24 L760,24 L760,189 Q740,197 720,169 Q700,193 680,185 Q660,193 640,173 Q620,193 600,185 Q580,193 560,169 Q540,197 520,189 Q500,197 480,169 Q460,193 440,185 Q420,193 400,173 Z"/>
 <path class="v-shade" d="M580,24 C598,151.6 586,268.4 616,366 L880,366 L880,24 Z"/>
 </g>
-<path fill="url(#v6body)" d="M205,356 C257.8,280.2 337,234.8 370,204.5 C403,237.8 482.2,283.3 535,356 Z"/>
+<path fill="url(#v6body)" d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/>
 <g clip-path="url(#v6m2)">
 <path class="v-snow" d="M172,164.5 L568,164.5 L568,263.9 Q546,271.9 524,243.9 Q502,267.9 480,259.9 Q458,267.9 436,247.9 Q414,267.9 392,259.9 Q370,267.9 348,243.9 Q326,271.9 304,263.9 Q282,271.9 260,243.9 Q238,267.9 216,259.9 Q194,267.9 172,247.9 Z"/>
 <path class="v-tree" d="M218.2,290 l5.6,-15.2 l5.6,15.2 Z"/>
@@ -103,7 +103,6 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <line class="v-pylon" x1="214.6" y1="261.9" x2="214.6" y2="273.9"/>
 <line class="v-pylon" x1="253.6" y1="240.2" x2="253.6" y2="252.2"/>
 <rect class="v-cabin" x="229.6" y="252.1" width="9" height="10" rx="2"/>
-<ellipse class="v-ground" cx="370" cy="208.5" rx="46.5" ry="5"/>
 <path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="343.5" y="199.5" width="4" height="4"/>
