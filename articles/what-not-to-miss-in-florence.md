@@ -39,8 +39,8 @@ faq:
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
 photo: "/assets/photos/articles/what-not-to-miss-in-florence.jpg"
-photo_alt: "The Duomo and Palazzo Vecchio above the roofs of Florence"
-photo_credit: 'Photo: <a href="https://unsplash.com/@joaohfrodrigues?utm_source=florence_media&utm_medium=referral">João Rodrigues</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
+photo_alt: "Ponte Vecchio over the Arno"
+photo_credit: 'Photo: <a href="https://unsplash.com/@matthardy?utm_source=florence_media&utm_medium=referral">Matt Hardy</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 <dl class="glance">

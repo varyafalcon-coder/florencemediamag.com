@@ -35,8 +35,8 @@ faq:
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
 photo: "/assets/photos/articles/are-two-days-enough-for-florence.jpg"
-photo_alt: "Florence from Piazzale Michelangelo, with the Duomo and the Arno"
-photo_credit: 'Photo: <a href="https://unsplash.com/@lovgretphoto?utm_source=florence_media&utm_medium=referral">Henrik Mee Løvgret</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
+photo_alt: "Florence at dusk from Piazzale Michelangelo, the bridges and Palazzo Vecchio lit up"
+photo_credit: 'Photo: <a href="https://unsplash.com/@zuoranyi?utm_source=florence_media&utm_medium=referral">Zuoranyi</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 <dl class="glance">

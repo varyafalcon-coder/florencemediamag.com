@@ -39,8 +39,8 @@ faq:
 published_on: "2026-09-01"
 updated_on: "2026-10-02"
 photo: "/assets/photos/articles/florence-off-the-tourist-track.jpg"
-photo_alt: "Ponte Vecchio framed by blue flowers on the riverbank"
-photo_credit: 'Photo: <a href="https://unsplash.com/@rafaelpeier?utm_source=florence_media&utm_medium=referral">Rafael Peier</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
+photo_alt: "Sunset over the bridges of the Arno"
+photo_credit: 'Photo: <a href="https://unsplash.com/@qingqingok?utm_source=florence_media&utm_medium=referral">Qingqing Cai</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 <dl class="glance">
