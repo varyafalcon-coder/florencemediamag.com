@@ -66,23 +66,15 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 ## Between the Brenta and the Spinale
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M380,356 C434,279.9 464,200.9 485,186.9 L505.4,108.1 L510.8,88.3 L515.6,98.2 L521,95.4 L525.8,113.7 L530,130.6 L535.4,94 L545,74.2 L549.8,84.1 L551,81.3 L555.8,99.6 L560,147.5 L565.4,119.3 L570.8,99.6 L575.6,109.5 L581,106.6 L585.8,125 L590,130.6 L595.4,94 L605,74.2 L609.8,84.1 L611,81.3 L615.8,99.6 L620,147.5 L625.4,136.2 L630.8,116.5 L635.6,126.4 L641,123.6 L645.8,141.9 L650,130.6 L655.4,113.7 L665,94 L669.8,103.8 L671,101 L675.8,119.3 L695,186.9 C716,200.9 746,279.9 800,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v5sky)"/>
-<path fill="url(#v5body)" d="M380,356 C434,279.9 464,200.9 485,186.9 L505.4,108.1 L510.8,88.3 L515.6,98.2 L521,95.4 L525.8,113.7 L530,130.6 L535.4,94 L545,74.2 L549.8,84.1 L551,81.3 L555.8,99.6 L560,147.5 L565.4,119.3 L570.8,99.6 L575.6,109.5 L581,106.6 L585.8,125 L590,130.6 L595.4,94 L605,74.2 L609.8,84.1 L611,81.3 L615.8,99.6 L620,147.5 L625.4,136.2 L630.8,116.5 L635.6,126.4 L641,123.6 L645.8,141.9 L650,130.6 L655.4,113.7 L665,94 L669.8,103.8 L671,101 L675.8,119.3 L695,186.9 C716,200.9 746,279.9 800,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Madonna di Campiglio: the jagged Brenta Dolomites on the right with the Grostè lifts, the Spinale in the middle, Pradalago on the left, and the village between them at 1,520 metres"><defs><linearGradient id="v5sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v5body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v5m1"><path d="M380,356 C434,282.5 464,206.6 491,192.6 L530,102.4 L557,130.6 L584,74.2 L617,122.1 L647,91.2 L689,192.6 C716,206.6 746,282.5 800,356 Z"/></clipPath><clipPath id="v5m2"><path d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/></clipPath><clipPath id="v5m3"><path d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v5sky)"/>
+<path fill="url(#v5body)" d="M380,356 C434,282.5 464,206.6 491,192.6 L530,102.4 L557,130.6 L584,74.2 L617,122.1 L647,91.2 L689,192.6 C716,206.6 746,282.5 800,356 Z"/>
 <g clip-path="url(#v5m1)">
-<path class="v-rock" d="M505.4,108.1 L510.8,88.3 L509.6,186.9 L501.8,186.9 Z"/>
-<path class="v-snow" d="M507.8,102.3 L510.8,88.3 L513.8,97.3 L510.8,94.3 Z"/>
-<path class="v-rock" d="M535.4,94 L545,74.2 L543.8,186.9 L531.8,186.9 Z"/>
-<path class="v-snow" d="M542,88.2 L545,74.2 L548,83.2 L545,80.2 Z"/>
-<path class="v-rock" d="M565.4,119.3 L570.8,99.6 L569.6,186.9 L561.8,186.9 Z"/>
-<path class="v-snow" d="M567.8,113.6 L570.8,99.6 L573.8,108.6 L570.8,105.6 Z"/>
-<path class="v-rock" d="M595.4,94 L605,74.2 L603.8,186.9 L591.8,186.9 Z"/>
-<path class="v-snow" d="M602,88.2 L605,74.2 L608,83.2 L605,80.2 Z"/>
-<path class="v-rock" d="M625.4,136.2 L630.8,116.5 L629.6,186.9 L621.8,186.9 Z"/>
-<path class="v-snow" d="M627.8,130.5 L630.8,116.5 L633.8,125.5 L630.8,122.5 Z"/>
-<path class="v-rock" d="M655.4,113.7 L665,94 L663.8,186.9 L651.8,186.9 Z"/>
-<path class="v-snow" d="M662,108 L665,94 L668,103 L665,100 Z"/>
-<path class="v-snow" d="M410,184.9 Q428,180.9 446,187.9 Q464,185.9 482,187.9 Q500,185.9 518,187.9 Q536,180.9 554,187.9 Q572,185.9 590,187.9 Q608,185.9 626,187.9 Q644,180.9 662,187.9 Q680,185.9 698,187.9 Q716,185.9 734,187.9 Q752,180.9 770,187.9 L770,200.9 Q680,208.9 590,199.9 T410,202.9 Z"/>
-<path class="v-shade" d="M605,34.2 L614,186.9 C620,226.9 632,316 638,366 L890,366 L890,34.2 Z"/>
+<rect class="v-dolo" x="290" y="34.2" width="600" height="158.3"/>
+<path class="v-snow" d="M521,118.4 L530,100.4 L538,116.4 Q530,111.4 521,118.4 Z"/>
+<path class="v-snow" d="M575,90.2 L584,72.2 L592,88.2 Q584,83.2 575,90.2 Z"/>
+<path class="v-snow" d="M638,107.2 L647,89.2 L655,105.2 Q647,100.2 638,107.2 Z"/>
+<path class="v-snow" d="M380,190.6 Q406.2,190.6 432.5,191.6 Q458.8,185.6 485,191.6 Q511.2,190.6 537.5,191.6 Q563.8,185.6 590,191.6 Q616.2,190.6 642.5,191.6 Q668.8,185.6 695,191.6 Q721.2,190.6 747.5,191.6 Q773.8,185.6 800,191.6 L800,202.6 Q773.8,206.6 747.5,204.6 Q721.2,216.6 695,204.6 Q668.8,206.6 642.5,204.6 Q616.2,216.6 590,204.6 Q563.8,206.6 537.5,204.6 Q511.2,216.6 485,204.6 Q458.8,206.6 432.5,204.6 Q406.2,216.6 380,204.6 Z"/>
+<path class="v-shade" d="M584,34.2 L584,74.2 L617,122.1 L608,192.6 C620,232.6 632,316 638,366 L890,366 L890,34.2 Z"/>
 </g>
 <path fill="url(#v5body)" d="M305,356 C341.8,285.3 397,242.9 420,214.6 C443,245.7 498.2,288.1 535,356 Z"/>
 <g clip-path="url(#v5m2)">

@@ -68,21 +68,15 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 ## Under the Sassongher and the Sella
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Alta Badia: the Sella massif on the left, the Sassongher above Corvara, the rolling slopes of Piz La Ila and Pralongià with many runs, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="v9sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v9body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v9m1"><path d="M-76,356 C-25.6,277.2 2.4,194.8 22,180.8 L42,122.4 L48.1,102 L53.5,112.2 L59.5,109.3 L64.9,128.2 L69.6,122.4 L75.6,99 L86.4,78.6 L91.8,88.8 L93.1,85.9 L98.5,104.9 L103.2,139.9 L109.2,84.4 L115.3,64 L120.7,74.2 L126.7,71.3 L132.1,90.3 L136.8,122.4 L142.8,110.7 L153.6,90.3 L159,100.5 L160.3,97.6 L165.7,116.6 L170.4,139.9 L176.4,93.2 L182.5,72.8 L187.9,83 L193.9,80.1 L199.3,99 L218,180.8 C237.6,194.8 265.6,277.2 316,356 Z"/></clipPath><clipPath id="v9m2"><path d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/></clipPath><clipPath id="v9m3"><path d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v9sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v9body)" d="M-76,356 C-25.6,277.2 2.4,194.8 22,180.8 L42,122.4 L48.1,102 L53.5,112.2 L59.5,109.3 L64.9,128.2 L69.6,122.4 L75.6,99 L86.4,78.6 L91.8,88.8 L93.1,85.9 L98.5,104.9 L103.2,139.9 L109.2,84.4 L115.3,64 L120.7,74.2 L126.7,71.3 L132.1,90.3 L136.8,122.4 L142.8,110.7 L153.6,90.3 L159,100.5 L160.3,97.6 L165.7,116.6 L170.4,139.9 L176.4,93.2 L182.5,72.8 L187.9,83 L193.9,80.1 L199.3,99 L218,180.8 C237.6,194.8 265.6,277.2 316,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Alta Badia: the Sella massif on the left, the Sassongher above Corvara, the rolling slopes of Piz La Ila and Pralongià with many runs, and the villages of Corvara, La Villa and San Cassiano"><defs><linearGradient id="v9sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v9body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v9m1"><path d="M-76,356 C-25.6,279.8 2.4,200.6 27.6,186.6 L64,93.2 L89.2,122.4 L114.4,64 L145.2,113.6 L173.2,81.5 L212.4,186.6 C237.6,200.6 265.6,279.8 316,356 Z"/></clipPath><clipPath id="v9m2"><path d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/></clipPath><clipPath id="v9m3"><path d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v9sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v9body)" d="M-76,356 C-25.6,279.8 2.4,200.6 27.6,186.6 L64,93.2 L89.2,122.4 L114.4,64 L145.2,113.6 L173.2,81.5 L212.4,186.6 C237.6,200.6 265.6,279.8 316,356 Z"/>
 <g clip-path="url(#v9m1)">
-<path class="v-rock" d="M42,122.4 L48.1,102 L46.8,180.8 L38,180.8 Z"/>
-<path class="v-snow" d="M44.7,116 L48.1,102 L51.5,111 L48.1,108 Z"/>
-<path class="v-rock" d="M75.6,99 L86.4,78.6 L85.1,180.8 L71.6,180.8 Z"/>
-<path class="v-snow" d="M83,92.6 L86.4,78.6 L89.8,87.6 L86.4,84.6 Z"/>
-<path class="v-rock" d="M109.2,84.4 L115.3,64 L114,180.8 L105.2,180.8 Z"/>
-<path class="v-snow" d="M111.9,78 L115.3,64 L118.7,73 L115.3,70 Z"/>
-<path class="v-rock" d="M142.8,110.7 L153.6,90.3 L152.3,180.8 L138.8,180.8 Z"/>
-<path class="v-snow" d="M150.2,104.3 L153.6,90.3 L157,99.3 L153.6,96.3 Z"/>
-<path class="v-rock" d="M176.4,93.2 L182.5,72.8 L181.2,180.8 L172.4,180.8 Z"/>
-<path class="v-snow" d="M179.1,86.8 L182.5,72.8 L185.9,81.8 L182.5,78.8 Z"/>
-<path class="v-snow" d="M-48,178.8 Q-31.2,174.8 -14.4,181.8 Q2.4,179.8 19.2,181.8 Q36,179.8 52.8,181.8 Q69.6,174.8 86.4,181.8 Q103.2,179.8 120,181.8 Q136.8,179.8 153.6,181.8 Q170.4,174.8 187.2,181.8 Q204,179.8 220.8,181.8 Q237.6,179.8 254.4,181.8 Q271.2,174.8 288,181.8 L288,194.8 Q204,202.8 120,193.8 T-48,196.8 Z"/>
-<path class="v-shade" d="M134,24 L142.4,180.8 C148,220.8 159.2,316 164.8,366 L400,366 L400,24 Z"/>
+<rect class="v-dolo" x="-160" y="24" width="560" height="162.6"/>
+<path class="v-snow" d="M55,109.2 L64,91.2 L72,107.2 Q64,102.2 55,109.2 Z"/>
+<path class="v-snow" d="M105.4,80 L114.4,62 L122.4,78 Q114.4,73 105.4,80 Z"/>
+<path class="v-snow" d="M164.2,97.5 L173.2,79.5 L181.2,95.5 Q173.2,90.5 164.2,97.5 Z"/>
+<path class="v-snow" d="M-76,184.6 Q-51.5,184.6 -27,185.6 Q-2.5,179.6 22,185.6 Q46.5,184.6 71,185.6 Q95.5,179.6 120,185.6 Q144.5,184.6 169,185.6 Q193.5,179.6 218,185.6 Q242.5,184.6 267,185.6 Q291.5,179.6 316,185.6 L316,196.6 Q291.5,200.6 267,198.6 Q242.5,210.6 218,198.6 Q193.5,200.6 169,198.6 Q144.5,210.6 120,198.6 Q95.5,200.6 71,198.6 Q46.5,210.6 22,198.6 Q-2.5,200.6 -27,198.6 Q-51.5,210.6 -76,198.6 Z"/>
+<path class="v-shade" d="M114.4,24 L114.4,64 L145.2,113.6 L136.8,186.6 C148,226.6 159.2,316 164.8,366 L400,366 L400,24 Z"/>
 </g>
 <path fill="url(#v9body)" d="M225,356 C267,254.1 309,161.3 330,129.6 C351,165.8 393,256.4 435,356 Z"/>
 <g clip-path="url(#v9m2)">

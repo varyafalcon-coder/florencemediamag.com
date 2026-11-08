@@ -1067,3 +1067,5 @@ body:has(.trust) footer{margin-top:0}
 .article.look-cards .body .glance + .bignums,.article.look-cards .body .bignums + .pistes{margin-top:12px}
 .article.look-cards .body .glance > div,.article.look-cards .body .bignums > div,.article.look-cards .body .pistes{padding:18px 22px}
 .article.look-cards .body .glance:has(+ .bignums),.article.look-cards .body .bignums:has(+ .pistes){margin-bottom:0}
+.v-dolo{fill:#8f98e6}
+@media (prefers-color-scheme:dark){.v-dolo{fill:#5560c8}}

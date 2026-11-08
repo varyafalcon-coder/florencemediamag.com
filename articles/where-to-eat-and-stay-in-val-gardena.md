@@ -68,21 +68,15 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 ## The valley under the Sassolungo
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M176,356 C233.6,277.2 265.6,194.8 288,180.8 L310.9,122.4 L317.8,102 L324,112.2 L330.9,109.3 L337,128.2 L342.4,122.4 L349.3,99 L361.6,78.6 L367.7,88.8 L369.3,85.9 L375.4,104.9 L380.8,139.9 L387.7,84.4 L394.6,64 L400.8,74.2 L407.7,71.3 L413.8,90.3 L419.2,122.4 L426.1,110.7 L438.4,90.3 L444.5,100.5 L446.1,97.6 L452.2,116.6 L457.6,139.9 L464.5,93.2 L471.4,72.8 L477.6,83 L484.5,80.1 L490.6,99 L512,180.8 C534.4,194.8 566.4,277.2 624,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
-<path fill="url(#v4body)" d="M176,356 C233.6,277.2 265.6,194.8 288,180.8 L310.9,122.4 L317.8,102 L324,112.2 L330.9,109.3 L337,128.2 L342.4,122.4 L349.3,99 L361.6,78.6 L367.7,88.8 L369.3,85.9 L375.4,104.9 L380.8,139.9 L387.7,84.4 L394.6,64 L400.8,74.2 L407.7,71.3 L413.8,90.3 L419.2,122.4 L426.1,110.7 L438.4,90.3 L444.5,100.5 L446.1,97.6 L452.2,116.6 L457.6,139.9 L464.5,93.2 L471.4,72.8 L477.6,83 L484.5,80.1 L490.6,99 L512,180.8 C534.4,194.8 566.4,277.2 624,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val Gardena: the Sassolungo at 3,181 metres behind, Seceda at 2,500 metres on the left above Ortisei, Ciampinoi at 2,250 metres on the right above Selva, with runs on both sides"><defs><linearGradient id="v4sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v4body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v4m1"><path d="M176,356 C233.6,279.8 265.6,200.6 294.4,186.6 L336,93.2 L364.8,122.4 L393.6,64 L428.8,113.6 L460.8,81.5 L505.6,186.6 C534.4,200.6 566.4,279.8 624,356 Z"/></clipPath><clipPath id="v4m2"><path d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/></clipPath><clipPath id="v4m3"><path d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v4sky)"/><circle class="v-sun" cx="648" cy="56" r="22"/>
+<path fill="url(#v4body)" d="M176,356 C233.6,279.8 265.6,200.6 294.4,186.6 L336,93.2 L364.8,122.4 L393.6,64 L428.8,113.6 L460.8,81.5 L505.6,186.6 C534.4,200.6 566.4,279.8 624,356 Z"/>
 <g clip-path="url(#v4m1)">
-<path class="v-rock" d="M310.9,122.4 L317.8,102 L316.3,180.8 L306.3,180.8 Z"/>
-<path class="v-snow" d="M314,116 L317.8,102 L321.7,111 L317.8,108 Z"/>
-<path class="v-rock" d="M349.3,99 L361.6,78.6 L360.1,180.8 L344.7,180.8 Z"/>
-<path class="v-snow" d="M357.8,92.6 L361.6,78.6 L365.4,87.6 L361.6,84.6 Z"/>
-<path class="v-rock" d="M387.7,84.4 L394.6,64 L393.1,180.8 L383.1,180.8 Z"/>
-<path class="v-snow" d="M390.8,78 L394.6,64 L398.5,73 L394.6,70 Z"/>
-<path class="v-rock" d="M426.1,110.7 L438.4,90.3 L436.9,180.8 L421.5,180.8 Z"/>
-<path class="v-snow" d="M434.6,104.3 L438.4,90.3 L442.2,99.3 L438.4,96.3 Z"/>
-<path class="v-rock" d="M464.5,93.2 L471.4,72.8 L469.9,180.8 L459.9,180.8 Z"/>
-<path class="v-snow" d="M467.6,86.8 L471.4,72.8 L475.3,81.8 L471.4,78.8 Z"/>
-<path class="v-snow" d="M208,178.8 Q227.2,174.8 246.4,181.8 Q265.6,179.8 284.8,181.8 Q304,179.8 323.2,181.8 Q342.4,174.8 361.6,181.8 Q380.8,179.8 400,181.8 Q419.2,179.8 438.4,181.8 Q457.6,174.8 476.8,181.8 Q496,179.8 515.2,181.8 Q534.4,179.8 553.6,181.8 Q572.8,174.8 592,181.8 L592,194.8 Q496,202.8 400,193.8 T208,196.8 Z"/>
-<path class="v-shade" d="M416,24 L425.6,180.8 C432,220.8 444.8,316 451.2,366 L720,366 L720,24 Z"/>
+<rect class="v-dolo" x="80" y="24" width="640" height="162.6"/>
+<path class="v-snow" d="M327,109.2 L336,91.2 L344,107.2 Q336,102.2 327,109.2 Z"/>
+<path class="v-snow" d="M384.6,80 L393.6,62 L401.6,78 Q393.6,73 384.6,80 Z"/>
+<path class="v-snow" d="M451.8,97.5 L460.8,79.5 L468.8,95.5 Q460.8,90.5 451.8,97.5 Z"/>
+<path class="v-snow" d="M176,184.6 Q204,184.6 232,185.6 Q260,179.6 288,185.6 Q316,184.6 344,185.6 Q372,179.6 400,185.6 Q428,184.6 456,185.6 Q484,179.6 512,185.6 Q540,184.6 568,185.6 Q596,179.6 624,185.6 L624,196.6 Q596,200.6 568,198.6 Q540,210.6 512,198.6 Q484,200.6 456,198.6 Q428,210.6 400,198.6 Q372,200.6 344,198.6 Q316,210.6 288,198.6 Q260,200.6 232,198.6 Q204,210.6 176,198.6 Z"/>
+<path class="v-shade" d="M393.6,24 L393.6,64 L428.8,113.6 L419.2,186.6 C432,226.6 444.8,316 451.2,366 L720,366 L720,24 Z"/>
 </g>
 <path fill="url(#v4body)" d="M-10,356 C50,261.2 110,174.7 140,145.2 C170,179 230,263.3 290,356 Z"/>
 <g clip-path="url(#v4m2)">

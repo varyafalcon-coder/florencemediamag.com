@@ -66,21 +66,15 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 ## From Moena to the Marmolada
 
 <figure class="valley">
-<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val di Fassa: the Sella towers on the left, Col Rodella with its runs, the Marmolada glacier on the right, Canazei in the valley at 1,465 metres and Moena further down"><defs><linearGradient id="v10sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v10body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v10m1"><path d="M-42,356 C4.8,282.7 30.8,207.2 49,193.2 L67.6,138.9 L73.2,119.9 L78.2,129.4 L83.8,126.7 L88.8,144.3 L93.2,138.9 L98.8,117.2 L108.8,98.2 L113.8,107.7 L115,105 L120,122.6 L124.4,155.2 L130,103.6 L135.6,84.6 L140.6,94.1 L146.2,91.4 L151.2,109.1 L155.6,138.9 L161.2,128.1 L171.2,109.1 L176.2,118.6 L177.4,115.8 L182.4,133.5 L186.8,155.2 L192.4,111.8 L198,92.8 L203,102.3 L208.6,99.6 L213.6,117.2 L231,193.2 C249.2,207.2 275.2,282.7 322,356 Z"/></clipPath><clipPath id="v10m2"><path d="M215,356 C251.8,256.1 307,196.2 330,156.2 C353,200.2 408.2,260.1 445,356 Z"/></clipPath><clipPath id="v10m3"><path d="M410,356 C435.6,239.2 474,142.8 493.2,102 L528.4,128.2 L570,64 L605.2,122.4 L640.4,90.3 C659.6,131.2 704.4,239.2 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v10sky)"/>
-<path fill="url(#v10body)" d="M-42,356 C4.8,282.7 30.8,207.2 49,193.2 L67.6,138.9 L73.2,119.9 L78.2,129.4 L83.8,126.7 L88.8,144.3 L93.2,138.9 L98.8,117.2 L108.8,98.2 L113.8,107.7 L115,105 L120,122.6 L124.4,155.2 L130,103.6 L135.6,84.6 L140.6,94.1 L146.2,91.4 L151.2,109.1 L155.6,138.9 L161.2,128.1 L171.2,109.1 L176.2,118.6 L177.4,115.8 L182.4,133.5 L186.8,155.2 L192.4,111.8 L198,92.8 L203,102.3 L208.6,99.6 L213.6,117.2 L231,193.2 C249.2,207.2 275.2,282.7 322,356 Z"/>
+<svg viewBox="0 0 720 350" role="img" aria-label="Illustration of Val di Fassa: the Sella towers on the left, Col Rodella with its runs, the Marmolada glacier on the right, Canazei in the valley at 1,465 metres and Moena further down"><defs><linearGradient id="v10sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-sky1"/><stop offset="1" class="v-sky2"/></linearGradient><linearGradient id="v10body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" class="v-b1"/><stop offset="1" class="v-b2"/></linearGradient><clipPath id="v10m1"><path d="M-42,356 C4.8,285.2 30.8,212.6 54.2,198.6 L88,111.8 L111.4,138.9 L134.8,84.6 L163.4,130.8 L189.4,100.9 L225.8,198.6 C249.2,212.6 275.2,285.2 322,356 Z"/></clipPath><clipPath id="v10m2"><path d="M215,356 C251.8,256.1 307,196.2 330,156.2 C353,200.2 408.2,260.1 445,356 Z"/></clipPath><clipPath id="v10m3"><path d="M410,356 C435.6,239.2 474,142.8 493.2,102 L528.4,128.2 L570,64 L605.2,122.4 L640.4,90.3 C659.6,131.2 704.4,239.2 730,356 Z"/></clipPath></defs><rect width="720" height="350" fill="url(#v10sky)"/>
+<path fill="url(#v10body)" d="M-42,356 C4.8,285.2 30.8,212.6 54.2,198.6 L88,111.8 L111.4,138.9 L134.8,84.6 L163.4,130.8 L189.4,100.9 L225.8,198.6 C249.2,212.6 275.2,285.2 322,356 Z"/>
 <g clip-path="url(#v10m1)">
-<path class="v-rock" d="M67.6,138.9 L73.2,119.9 L72,193.2 L63.9,193.2 Z"/>
-<path class="v-snow" d="M70.1,133.9 L73.2,119.9 L76.4,128.9 L73.2,125.9 Z"/>
-<path class="v-rock" d="M98.8,117.2 L108.8,98.2 L107.6,193.2 L95.1,193.2 Z"/>
-<path class="v-snow" d="M105.7,112.2 L108.8,98.2 L111.9,107.2 L108.8,104.2 Z"/>
-<path class="v-rock" d="M130,103.6 L135.6,84.6 L134.4,193.2 L126.3,193.2 Z"/>
-<path class="v-snow" d="M132.5,98.6 L135.6,84.6 L138.8,93.6 L135.6,90.6 Z"/>
-<path class="v-rock" d="M161.2,128.1 L171.2,109.1 L170,193.2 L157.5,193.2 Z"/>
-<path class="v-snow" d="M168.1,123.1 L171.2,109.1 L174.3,118.1 L171.2,115.1 Z"/>
-<path class="v-rock" d="M192.4,111.8 L198,92.8 L196.8,193.2 L188.7,193.2 Z"/>
-<path class="v-snow" d="M194.9,106.8 L198,92.8 L201.2,101.8 L198,98.8 Z"/>
-<path class="v-snow" d="M-16,191.2 Q-0.4,187.2 15.2,194.2 Q30.8,192.2 46.4,194.2 Q62,192.2 77.6,194.2 Q93.2,187.2 108.8,194.2 Q124.4,192.2 140,194.2 Q155.6,192.2 171.2,194.2 Q186.8,187.2 202.4,194.2 Q218,192.2 233.6,194.2 Q249.2,192.2 264.8,194.2 Q280.4,187.2 296,194.2 L296,207.2 Q218,215.2 140,206.2 T-16,209.2 Z"/>
-<path class="v-shade" d="M153,44.6 L160.8,193.2 C166,233.2 176.4,316 181.6,366 L400,366 L400,44.6 Z"/>
+<rect class="v-dolo" x="-120" y="44.6" width="520" height="154"/>
+<path class="v-snow" d="M79,127.8 L88,109.8 L96,125.8 Q88,120.8 79,127.8 Z"/>
+<path class="v-snow" d="M125.8,100.6 L134.8,82.6 L142.8,98.6 Q134.8,93.6 125.8,100.6 Z"/>
+<path class="v-snow" d="M180.4,116.9 L189.4,98.9 L197.4,114.9 Q189.4,109.9 180.4,116.9 Z"/>
+<path class="v-snow" d="M-42,196.6 Q-19.2,196.6 3.5,197.6 Q26.2,191.6 49,197.6 Q71.8,196.6 94.5,197.6 Q117.2,191.6 140,197.6 Q162.8,196.6 185.5,197.6 Q208.2,191.6 231,197.6 Q253.8,196.6 276.5,197.6 Q299.2,191.6 322,197.6 L322,208.6 Q299.2,212.6 276.5,210.6 Q253.8,222.6 231,210.6 Q208.2,212.6 185.5,210.6 Q162.8,222.6 140,210.6 Q117.2,212.6 94.5,210.6 Q71.8,222.6 49,210.6 Q26.2,212.6 3.5,210.6 Q-19.2,222.6 -42,210.6 Z"/>
+<path class="v-shade" d="M134.8,44.6 L134.8,84.6 L163.4,130.8 L155.6,198.6 C166,238.6 176.4,316 181.6,366 L400,366 L400,44.6 Z"/>
 </g>
 <path fill="url(#v10body)" d="M215,356 C251.8,256.1 307,196.2 330,156.2 C353,200.2 408.2,260.1 445,356 Z"/>
 <g clip-path="url(#v10m2)">
