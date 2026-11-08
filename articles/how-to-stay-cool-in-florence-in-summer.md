@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "Pool details from the City of Florence information site and recent guides, read November 2026. Opening dates and prices are set each spring."
 photo: "/assets/photos/articles/how-to-stay-cool-in-florence-in-summer.jpg"
-photo_alt: "The Arno and its bridges on a summer evening"
-photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Colored_Florence_%28Unsplash%29.jpg">Domenico Loia</a> via Unsplash'
+photo_alt: "The Arno and Ponte Vecchio at golden hour"
+photo_credit: 'Photo: <a href="https://unsplash.com/@masinutoscana?utm_source=florence_media&utm_medium=referral">Giuseppe Mondì</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence sits in a bowl of hills, and in July and August the heat collects there. Afternoons over 35 degrees are normal. The city does not stop, it just moves its day: out early, indoors in the middle, back out after six.

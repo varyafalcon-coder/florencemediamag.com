@@ -146,8 +146,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-cortina/"
     guide_label: "Cortina: the most beautiful skiing in the Dolomites"
     photo: "/assets/photos/ski/cortina.jpg"
-    photo_alt: "The Cinque Torri ski area above Cortina in winter"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg">Wolfgang Moroder</a> via Wikimedia Commons'
+    photo_alt: "The bell tower of Cortina at dusk, with the snowy Dolomites behind"
+    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Cortina_belfry_a.JPG">Antonio De Lorenzo</a> via Wikimedia Commons'
 
   - id: altabadia
     short: "The most refined valley in the Dolomites, and the best lunches on any slope."
@@ -251,8 +251,8 @@ areas:
     guide: "/articles/where-to-eat-and-stay-in-livigno/"
     guide_label: "Livigno: high, cold and full of snow"
     photo: "/assets/photos/ski/livigno.jpg"
-    photo_alt: "Livigno main street in the snow at night"
-    photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Livigno_main_street_%2813334716953%29.jpg">Evgeniy Isaev</a> via Wikimedia Commons'
+    photo_alt: "Livigno under fresh snow, wooden chalets and the mountains above"
+    photo_credit: 'Photo: <a href="https://unsplash.com/@rmarte?utm_source=florence_media&utm_medium=referral">Rich Martello</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 
   - id: courmayeur
     short: "Under Mont Blanc, with the smartest après-ski and hot springs below."

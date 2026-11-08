@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "Drawn from the 2026 programmes of Estate Fiorentina and the organisers, read November 2026. The 2027 programme is announced in late spring."
 photo: "/assets/photos/articles/summer-evenings-in-florence.jpg"
-photo_alt: "Florence at dusk from above, with Giotto's bell tower"
-photo_credit: 'Photo: <a href="https://commons.wikimedia.org/wiki/File:Sunset_in_Florence_%28Unsplash%29.jpg">Mike Enerio</a> via Unsplash'
+photo_alt: "Florence lit up at night from Piazzale Michelangelo"
+photo_credit: 'Photo: <a href="https://unsplash.com/@yileijerrybao?utm_source=florence_media&utm_medium=referral">Yilei (Jerry) Bao</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence in July is a city that comes out after dark. Once the stone cools, the squares, cloisters and gardens fill with screens, stages and folding chairs.

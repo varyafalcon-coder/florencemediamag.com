@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "Drawn from the 2026 programme and Florence city news, read November 2026. 2027 dates and ticket sales are announced in spring."
 photo: "/assets/photos/articles/san-giovanni-in-florence.jpg"
-photo_alt: "Drummers in the historical parade before Calcio Storico"
-photo_credit: 'Photo: <a href="https://www.flickr.com/photos/36553732@N08/5923456974">Jon Gonzalo Torróntegui</a> via Flickr'
+photo_alt: "The Duomo and Giotto's bell tower lit up at night"
+photo_credit: 'Photo: <a href="https://unsplash.com/@bravohenry?utm_source=florence_media&utm_medium=referral">Zihan Huang</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Every city in Italy has its saint's day, and Florence's is 24 June, the feast of San Giovanni, John the Baptist. Offices close, Florentines stay in town, and the day ends with fireworks over the river.

@@ -17,8 +17,8 @@ updated_on: "2026-11-07"
 verify_label: "Researched"
 verify_note: "Train times and fares from recent guides and the regional timetable, read November 2026. Times vary by train, so check the timetable for your day."
 photo: "/assets/photos/articles/beach-day-from-florence-by-train.jpg"
-photo_alt: "Umbrellas on the beach at Viareggio"
-photo_credit: 'Photo: <a href="https://www.flickr.com/photos/87347455@N00/8268169388">HHA124L</a> via Flickr'
+photo_alt: "Rows of umbrellas and loungers on a Tuscan beach"
+photo_credit: 'Photo: <a href="https://unsplash.com/@claudiopoggio?utm_source=florence_media&utm_medium=referral">Claudio Poggio</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 Florence is an hour and a bit from the sea, and in summer the regional trains to the coast are full of Florentines with beach bags. You do not need a car.

@@ -28,8 +28,8 @@ toc:
 published_on: "2026-08-12"
 updated_on: "2026-09-01"
 photo: "/assets/photos/articles/real-gelato-in-florence.jpg"
-photo_alt: "A gelato cone in a Florence street"
-photo_credit: 'Photo: <a href="https://www.flickr.com/photos/32211216@N06/9536474645">Derek Key</a> via Flickr'
+photo_alt: "A gelato cone held up against a red wall with wooden shutters"
+photo_credit: 'Photo: <a href="https://unsplash.com/@mmmanford?utm_source=florence_media&utm_medium=referral">Moriah Manford</a> on <a href="https://unsplash.com/?utm_source=florence_media&utm_medium=referral">Unsplash</a>'
 ---
 
 ## Four rules, and they take three seconds each
