@@ -72,6 +72,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       <button class="pill" type="button" data-kind="see" aria-pressed="false"><span class="em" aria-hidden="true">🏛️</span> things to see</button>
       <button class="pill" type="button" data-kind="near" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> a bit out of the city</button>
       <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">⛷️</span> in the mountains</button>
+      <button class="pill" type="button" data-kind="spa" aria-pressed="false"><span class="em" aria-hidden="true">♨️</span> hot springs</button>
       </span>
       <span class="pill-sep" aria-hidden="true"></span>
       <span id="distpills" style="display:contents">
@@ -106,6 +107,9 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     {% endfor %}
 
     {%- comment -%} Places in the ski areas, from _data/trips.yml {%- endcomment -%}
+    {% assign terme = site.data.trips | where: "area", "terme" %}
+    {% for t in terme %}{% unless t.dist == "hour" %}{% include trip-card.html slug=t.slug %}{% endunless %}{% endfor %}
+
     {% assign ski = site.data.trips | where: "area", "ski" %}
     {% for t in ski %}{% include trip-card.html slug=t.slug %}{% endfor %}
   </div>

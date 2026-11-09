@@ -179,6 +179,12 @@ Some questions need more than a filter. These are written, checked on the ground
 <h2 class="artsec-title"><span aria-hidden="true">🗓️</span> All year</h2>
 <p class="artsec-intro">Planning a visit, eating, working and getting around the city.</p>
 <div class="artgrid">
+  <a class="artcard" href="/articles/thermal-baths-in-tuscany/">
+    <span class="kicker">Day trips · hot springs</span>
+    <h2>Hot springs in Tuscany: the thermal baths within reach of Florence</h2>
+    <p>Four free springs open all year, two thermal parks with day tickets and two spa towns, from 50 minutes to under three hours away.</p>
+    <span class="meta">Researched November 2026 &middot; 8 places</span>
+  </a>
   <a class="artcard has-photo" href="/articles/are-two-days-enough-for-florence/">
     <img class="cardphoto" src="/assets/photos/articles/are-two-days-enough-for-florence-640.jpg" srcset="/assets/photos/articles/are-two-days-enough-for-florence-640.jpg 640w, /assets/photos/articles/are-two-days-enough-for-florence.jpg 1280w" sizes="(max-width: 640px) 100vw, 400px" width="640" height="360" alt="" loading="lazy" decoding="async">
     <span class="kicker">Planning</span>

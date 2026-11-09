@@ -793,3 +793,99 @@
   maps_q: "QC Terme Pré-Saint-Didier"
   url: "/articles/where-to-eat-and-stay-in-courmayeur/"
   note: "Book at weekends"
+
+- slug: cascate-del-mulino
+  title: "Cascate del Mulino"
+  place: "Saturnia"
+  dist: two
+  time: "2 h 45"
+  kind: spa
+  area: terme
+  text: "Hot water at about 37°C pours over white limestone terraces below an old mill. Free, open day and night, all year."
+  maps_q: "Cascate del Mulino, Saturnia"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "Free. Paid parking close by, full early on summer weekends"
+
+- slug: bagni-san-filippo
+  title: "Bagni San Filippo"
+  place: "Castiglione d'Orcia"
+  dist: two
+  time: "2 h"
+  kind: spa
+  area: terme
+  text: "A stream of hot water running through woods over white limestone, past the great formation called the White Whale. Free."
+  maps_q: "Fosso Bianco, Bagni San Filippo"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "Free. Paid parking along the road; the path is short but slippery"
+
+- slug: terme-di-petriolo
+  title: "Terme di Petriolo"
+  place: "Monticiano, near Siena"
+  dist: two
+  time: "1 h 30"
+  kind: spa
+  area: terme
+  text: "Natural pools on the bank of the Farma river where water at about 43°C runs out of the rock. Free, beside a paid spa."
+  maps_q: "Terme di Petriolo"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "Free pools by the river; limited parking"
+
+- slug: parco-dei-mulini
+  title: "Parco dei Mulini"
+  place: "Bagno Vignoni"
+  dist: two
+  time: "1 h 45"
+  kind: spa
+  area: terme
+  text: "Below a village whose main square is a thermal pool, warm water runs down tufa channels past old mills to free pools at the bottom."
+  maps_q: "Parco dei Mulini, Bagno Vignoni"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "No bathing in the square's pool; the free pools are below the village"
+
+- slug: terme-antica-querciolaia
+  title: "Terme Antica Querciolaia"
+  place: "Rapolano Terme"
+  dist: hour
+  time: "1 h 10"
+  kind: spa
+  area: terme
+  text: "A thermal park in the Crete Senesi with indoor and outdoor pools of hot spring water. A day ticket, no hotel stay needed."
+  maps_q: "Terme Antica Querciolaia, Rapolano Terme"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "Day and half-day tickets, cheaper on weekdays"
+
+- slug: theia-chianciano
+  title: "Theia thermal pools"
+  place: "Chianciano Terme"
+  dist: two
+  time: "1 h 30"
+  kind: spa
+  area: terme
+  text: "Four outdoor and three indoor pools of thermal water at 33 to 36°C, with a sauna and Turkish bath. Day and four-hour tickets."
+  maps_q: "Piscine Termali Theia, Chianciano Terme"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "The four-hour weekday ticket is the cheapest"
+
+- slug: montecatini-terme
+  title: "Montecatini Terme"
+  place: "Montecatini Terme"
+  dist: hour
+  time: "50 min"
+  kind: spa
+  area: terme
+  text: "The grand spa town of the early 1900s: the colonnades and halls of the Tettuccio, and a funicular up to the old village of Montecatini Alto."
+  maps_q: "Terme Tettuccio, Montecatini Terme"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "Check the Tettuccio's opening before you go"
+
+- slug: san-casciano-dei-bagni
+  title: "San Casciano dei Bagni"
+  place: "San Casciano dei Bagni"
+  dist: two
+  time: "2 h"
+  kind: spa
+  area: terme
+  text: "A hill village with hot springs used since Etruscan times, where 24 bronze statues were found in the ancient pool in 2022."
+  maps_q: "San Casciano dei Bagni"
+  url: "/articles/thermal-baths-in-tuscany/"
+  note: "The excavation is fenced; a museum for the finds is planned"
