@@ -1,7 +1,7 @@
 # Категории. name = внутренний ключ (не менять), label = как видит читатель. Эмодзи, группа. Правится здесь и меняется везде.
 primary:
   - name: "nice cute places to eat at"
-    label: "Lovely little places to eat"
+    label: "Lovely little places to eat at"
     emoji: "🫐"
     slug: "nice-cute-places-to-eat-at"
   - name: "do some outdoor activities"

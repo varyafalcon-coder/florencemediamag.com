@@ -1,0 +1,3 @@
+{%- assign pbs = site.places | where: "slug", include.slug | first -%}
+{%- unless pbs -%}{%- assign pbs = site.places_more | where: "slug", include.slug | first -%}{%- endunless -%}
+{%- if pbs -%}{% include place-card.html place=pbs %}{%- endif -%}

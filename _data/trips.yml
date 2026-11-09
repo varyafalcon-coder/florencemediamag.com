@@ -781,3 +781,15 @@
   slug: qc-terme-bagni-vecchi
   note: "Book at weekends"
   area: ski
+
+- slug: qc-terme-pre-saint-didier
+  title: "QC Terme Pré-Saint-Didier"
+  place: "Pré-Saint-Didier, Courmayeur"
+  dist: four
+  time: "4 h 30"
+  kind: spa
+  area: ski
+  text: "Thermal baths in a restored historic spa building, five kilometres from Courmayeur, with outdoor hot pools facing Mont Blanc."
+  maps_q: "QC Terme Pré-Saint-Didier"
+  url: "/articles/where-to-eat-and-stay-in-courmayeur/"
+  note: "Book at weekends"

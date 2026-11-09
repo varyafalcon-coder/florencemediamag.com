@@ -19,8 +19,8 @@ toc:
     id: "a-perfect-day"
   - label: "Where to stay"
     id: "where-to-stay"
-  - label: "Where to eat"
-    id: "where-to-eat"
+  - label: "Where to eat and drink"
+    id: "where-to-eat-and-drink"
   - label: "What to order"
     id: "what-to-order"
   - label: "After skiing"
@@ -164,11 +164,20 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 </div>
 
 
-## Where to eat
+## Where to eat and drink
+
+<p class="picklabel">Lunch and dinner</p>
 
 <div class="grid tripcards">
 {% include trip-card.html slug="chalet-etoile" %}
 {% include trip-card.html slug="les-neiges-dantan" %}
+</div>
+
+<p class="picklabel">After skiing</p>
+
+<div class="grid tripcards">
+{% include trip-card.html slug="yeti-cervinia" %}
+{% include trip-card.html slug="ymeletrob" %}
 </div>
 
 ## What to order

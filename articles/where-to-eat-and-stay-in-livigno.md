@@ -21,12 +21,12 @@ toc:
     id: "what-is-on"
   - label: "Where to stay"
     id: "where-to-stay"
-  - label: "Where to eat"
-    id: "where-to-eat"
+  - label: "Where to eat and drink"
+    id: "where-to-eat-and-drink"
+  - label: "Spa and thermal baths"
+    id: "spa-and-thermal-baths"
   - label: "What to order"
     id: "what-to-order"
-  - label: "After skiing"
-    id: "after-skiing"
   - label: "Getting there"
     id: "getting-there"
   - label: "Before you go"
@@ -194,7 +194,7 @@ Some events come back every winter, and a trip timed around one of them is a dif
 <div><p class="base-name">Mottolino side</p><p class="base-text">For riders and the park.</p></div>
 </div>
 
-## Where to eat
+## Where to eat and drink
 
 <p class="picklabel">Dinner in the village</p>
 
@@ -212,6 +212,19 @@ Some events come back every winter, and a trip timed around one of them is a dif
 {% include trip-card.html slug="meating-point" %}
 </div>
 
+<p class="picklabel">After skiing</p>
+
+<div class="grid tripcards">
+{% include trip-card.html slug="stalet" %}
+{% include trip-card.html slug="mikys-livigno" %}
+</div>
+
+## Spa and thermal baths
+
+<div class="grid tripcards">
+{% include trip-card.html slug="aquagranda" %}
+</div>
+
 ## What to order
 
 <dl class="dishes">
@@ -220,14 +233,6 @@ Some events come back every winter, and a trip timed around one of them is a dif
 <div><dt>Bresaola</dt><dd>Air-dried beef from Valtellina, sliced thin.</dd></div>
 <div><dt>Polenta taragna</dt><dd>Buckwheat polenta with butter and cheese.</dd></div>
 </dl>
-
-## After skiing
-
-<div class="grid tripcards">
-{% include trip-card.html slug="stalet" %}
-{% include trip-card.html slug="mikys-livigno" %}
-{% include trip-card.html slug="aquagranda" %}
-</div>
 
 ## Getting there
 

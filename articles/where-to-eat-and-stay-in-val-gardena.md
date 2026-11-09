@@ -21,8 +21,8 @@ toc:
     id: "what-is-on"
   - label: "Where to stay"
     id: "where-to-stay"
-  - label: "Where to eat"
-    id: "where-to-eat"
+  - label: "Where to eat and drink"
+    id: "where-to-eat-and-drink"
   - label: "What to order"
     id: "what-to-order"
   - label: "After skiing"
@@ -197,7 +197,7 @@ Some events come back every winter. Dates change each year, so check them before
 </div>
 
 
-## Where to eat
+## Where to eat and drink
 
 <p class="picklabel">Lunch on the slopes</p>
 
@@ -212,6 +212,12 @@ Some events come back every winter. Dates change each year, so check them before
 <div class="grid tripcards">
 {% include trip-card.html slug="tubladel" %}
 {% include trip-card.html slug="chalet-gerard" %}
+</div>
+
+<p class="picklabel">After skiing</p>
+
+<div class="grid tripcards">
+{% include trip-card.html slug="luislkeller" %}
 </div>
 
 ## What to order

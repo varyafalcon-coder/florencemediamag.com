@@ -23,6 +23,8 @@ toc:
     id: "where-to-stay"
   - label: "Where to eat"
     id: "where-to-eat"
+  - label: "Spa and thermal baths"
+    id: "spa-and-thermal-baths"
   - label: "What to order"
     id: "what-to-order"
   - label: "After skiing"
@@ -187,6 +189,12 @@ Some events come back every winter. Dates change each year, so check them before
 <div class="grid tripcards">
 {% include trip-card.html slug="baita-de-mario" %}
 {% include trip-card.html slug="heaven-3000" %}
+</div>
+
+## Spa and thermal baths
+
+<div class="grid tripcards">
+{% include trip-card.html slug="qc-terme-bagni-vecchi" %}
 </div>
 
 ## What to order

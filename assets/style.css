@@ -1147,3 +1147,4 @@ body:has(.trust) footer{margin-top:0}
 .v-train2 .tr-rail{stroke:#3a3f5c;stroke-width:1.4}
 .v-train2 .tr-sleeper{stroke:#8b90b5;stroke-width:1.2}
 .v-train2 .tr-panto{fill:none;stroke:#1a1d2e;stroke-width:1.2;stroke-linejoin:round}
+.v-train2 .tr-platform{fill:#c9cdea}

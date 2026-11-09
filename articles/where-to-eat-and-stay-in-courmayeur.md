@@ -19,8 +19,10 @@ toc:
     id: "a-perfect-day"
   - label: "Where to stay"
     id: "where-to-stay"
-  - label: "Where to eat"
-    id: "where-to-eat"
+  - label: "Where to eat and drink"
+    id: "where-to-eat-and-drink"
+  - label: "Spa and thermal baths"
+    id: "spa-and-thermal-baths"
   - label: "What to order"
     id: "what-to-order"
   - label: "After skiing"
@@ -187,11 +189,26 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 </div>
 
 
-## Where to eat
+## Where to eat and drink
+
+<p class="picklabel">Lunch and dinner</p>
 
 <div class="grid tripcards">
 {% include trip-card.html slug="maison-vieille" %}
 {% include trip-card.html slug="pierre-alexis-1877" %}
+</div>
+
+<p class="picklabel">After skiing</p>
+
+<div class="grid tripcards">
+{% include trip-card.html slug="super-g-courmayeur" %}
+{% include trip-card.html slug="bar-roma-courmayeur" %}
+</div>
+
+## Spa and thermal baths
+
+<div class="grid tripcards">
+{% include trip-card.html slug="qc-terme-pre-saint-didier" %}
 </div>
 
 ## What to order
