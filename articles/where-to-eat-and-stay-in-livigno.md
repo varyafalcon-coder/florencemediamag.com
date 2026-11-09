@@ -118,14 +118,18 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 </g>
 <path class="v-edge" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="306" y1="296" x2="190" y2="78.5"/>
-<line class="v-pylon" x1="271.2" y1="230.7" x2="271.2" y2="242.7"/>
-<line class="v-pylon" x1="234.1" y1="161.1" x2="234.1" y2="173.1"/>
-<rect class="v-cabin" x="248.1" y="196.9" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="426" y1="296" x2="548" y2="170"/>
-<line class="v-pylon" x1="462.6" y1="258.2" x2="462.6" y2="270.2"/>
-<line class="v-pylon" x1="501.6" y1="217.9" x2="501.6" y2="229.9"/>
-<rect class="v-cabin" x="477.6" y="239" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M190,298 L190,83.5"/>
+<line class="v-pylon" x1="190" y1="233.6" x2="190" y2="242.6"/>
+<line class="v-pylon" x1="190" y1="158.6" x2="190" y2="167.6"/>
+<rect class="v-cabin" x="185.5" y="198.2" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M190,298 v-11 M186,287 h8"/>
+<path class="v-tower" d="M190,83.5 v-11 M186,72.5 h8"/>
+<path class="v-cable" fill="none" d="M426,298 L429.1,298 L432.1,298 L435.1,298 L438.2,298 L441.2,298 L444.3,298 L447.4,294.1 L450.4,290.1 L453.4,286.3 L456.5,282.4 L459.6,278.5 L462.6,274.7 L465.6,270.8 L468.7,267 L471.8,263.2 L474.8,259.4 L477.9,255.7 L480.9,251.9 L483.9,248.2 L487,244.5 L490.1,240.8 L493.1,237.1 L496.1,233.4 L499.2,229.8 L502.2,226.2 L505.3,222.6 L508.4,219.1 L511.4,215.5 L514.5,212 L517.5,208.5 L520.5,205.1 L523.6,201.7 L526.6,198.3 L529.7,195 L532.8,191.7 L535.8,188.4 L538.9,185.2 L541.9,182.1 L545,179 L548,176"/>
+<line class="v-pylon" x1="466.1" y1="270.3" x2="466.1" y2="279.3"/>
+<line class="v-pylon" x1="505.8" y1="222" x2="505.8" y2="231"/>
+<rect class="v-cabin" x="480.7" y="247.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M426,298 v-11 M422,287 h8"/>
+<path class="v-tower" d="M548,176 v-11 M544,165 h8"/>
 <ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M318.5,287 l10.5,-10 l10.5,10 Z"/>

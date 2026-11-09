@@ -106,14 +106,18 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 </g>
 <path class="v-edge" d="M400,356 C464,280.9 528,212.6 560,189.2 C592,215.9 656,282.6 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="320" y1="277.9" x2="250" y2="145.8"/>
-<line class="v-pylon" x1="299" y1="238.3" x2="299" y2="250.3"/>
-<line class="v-pylon" x1="276.6" y1="196" x2="276.6" y2="208"/>
-<rect class="v-cabin" x="283.3" y="218.2" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="458" y1="284.6" x2="560" y2="190.2"/>
-<line class="v-pylon" x1="488.6" y1="256.3" x2="488.6" y2="268.3"/>
-<line class="v-pylon" x1="521.2" y1="226.1" x2="521.2" y2="238.1"/>
-<rect class="v-cabin" x="500.4" y="242.2" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M250,298 L250,151.8"/>
+<line class="v-pylon" x1="250" y1="254.2" x2="250" y2="263.2"/>
+<line class="v-pylon" x1="250" y1="203" x2="250" y2="212"/>
+<rect class="v-cabin" x="245.5" y="230.3" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M250,298 v-11 M246,287 h8"/>
+<path class="v-tower" d="M250,151.8 v-11 M246,140.8 h8"/>
+<path class="v-cable" fill="none" d="M458,284.6 L461,293.6 L464,290.3 L467,287 L470,283.7 L473,280.5 L476,277.2 L479,274 L482,270.8 L485,267.6 L488,264.4 L491,261.3 L494,258.1 L497,255 L500,251.9 L503,248.8 L506,245.7 L509,242.7 L512,239.6 L515,236.7 L518,233.7 L521,230.7 L524,227.8 L527,224.9 L530,222.1 L533,219.2 L536,216.4 L539,213.7 L542,211 L545,208.4 L548,205.8 L551,203.3 L554,200.8 L557,198.5 L560,196.2"/>
+<line class="v-pylon" x1="484.8" y1="267.8" x2="484.8" y2="276.8"/>
+<line class="v-pylon" x1="521.1" y1="230.6" x2="521.1" y2="239.6"/>
+<rect class="v-cabin" x="497.7" y="250.6" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M458,284.6 v-11 M454,273.6 h8"/>
+<path class="v-tower" d="M560,196.2 v-11 M556,185.2 h8"/>
 <path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="277.6" width="4" height="4"/>

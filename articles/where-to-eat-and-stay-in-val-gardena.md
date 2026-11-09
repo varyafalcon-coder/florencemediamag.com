@@ -112,14 +112,18 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 </g>
 <path class="v-edge" d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="124" y1="296" x2="135" y2="151.4"/>
-<line class="v-pylon" x1="127.3" y1="252.6" x2="127.3" y2="264.6"/>
-<line class="v-pylon" x1="130.8" y1="206.3" x2="130.8" y2="218.3"/>
-<rect class="v-cabin" x="124.6" y="230.5" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="586.5" y1="298" x2="600" y2="177.4"/>
-<line class="v-pylon" x1="590.5" y1="261.8" x2="590.5" y2="273.8"/>
-<line class="v-pylon" x1="594.9" y1="223.2" x2="594.9" y2="235.2"/>
-<rect class="v-cabin" x="588.2" y="243.5" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M135,298 L135,156.4"/>
+<line class="v-pylon" x1="135" y1="255.5" x2="135" y2="264.5"/>
+<line class="v-pylon" x1="135" y1="205.9" x2="135" y2="214.9"/>
+<rect class="v-cabin" x="130.5" y="232.4" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M135,298 v-11 M131,287 h8"/>
+<path class="v-tower" d="M135,156.4 v-11 M131,145.4 h8"/>
+<path class="v-cable" fill="none" d="M600,298 L600,183.4"/>
+<line class="v-pylon" x1="600" y1="263.6" x2="600" y2="272.6"/>
+<line class="v-pylon" x1="600" y1="223.5" x2="600" y2="232.5"/>
+<rect class="v-cabin" x="595.5" y="245.2" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M600,298 v-11 M596,287 h8"/>
+<path class="v-tower" d="M600,183.4 v-11 M596,172.4 h8"/>
 <ellipse class="v-ground" cx="180" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M136,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M133.5,287 l10.5,-10 l10.5,10 Z"/>

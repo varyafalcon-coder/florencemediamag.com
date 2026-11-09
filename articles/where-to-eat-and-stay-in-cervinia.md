@@ -96,14 +96,18 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 </g>
 <path class="v-edge" d="M320,356 C352,270.5 400,200 424,170.1 L468,189.3 L520,142.3 L564,185 L608,161.5 C632,191.4 688,270.5 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="483" y1="256.4" x2="500" y2="214.8"/>
-<line class="v-pylon" x1="488.1" y1="243.9" x2="488.1" y2="255.9"/>
-<line class="v-pylon" x1="493.5" y1="230.6" x2="493.5" y2="242.6"/>
-<rect class="v-cabin" x="486.3" y="238.3" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="500" y1="214.8" x2="540" y2="162.7"/>
-<line class="v-pylon" x1="512" y1="199.2" x2="512" y2="211.2"/>
-<line class="v-pylon" x1="524.8" y1="182.5" x2="524.8" y2="194.5"/>
-<rect class="v-cabin" x="513.9" y="191.9" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M500,256.4 L500,220.8"/>
+<line class="v-pylon" x1="500" y1="245.7" x2="500" y2="254.7"/>
+<line class="v-pylon" x1="500" y1="233.3" x2="500" y2="242.3"/>
+<rect class="v-cabin" x="495.5" y="240.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M500,256.4 v-11 M496,245.4 h8"/>
+<path class="v-tower" d="M500,220.8 v-11 M496,209.8 h8"/>
+<path class="v-cable" fill="none" d="M540,298 L540,167.7"/>
+<line class="v-pylon" x1="540" y1="258.9" x2="540" y2="267.9"/>
+<line class="v-pylon" x1="540" y1="213.3" x2="540" y2="222.3"/>
+<rect class="v-cabin" x="535.5" y="237.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M540,298 v-11 M536,287 h8"/>
+<path class="v-tower" d="M540,167.7 v-11 M536,156.7 h8"/>
 <path class="v-wall" d="M381,257.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M378.5,245.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="387" y="249.4" width="4" height="4"/>

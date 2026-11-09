@@ -11,28 +11,25 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 {%- assign incount = all_places.size | minus: outplaces.size -%}
 {%- assign order = "nice cute places to eat at|places with an old soul|pizza worth crossing town for|aperitivo|night heart of the city|enjoy the view|do some outdoor activities|hide from the crowd|eat like a local for under 10 euro|real gelato, not the coloured stuff|drink wine somewhere real|see art without queueing|by the river|pools in the city|modern cafes to work at|to do with kids" | split: "|" -%}
 
-<div class="wrap hero hero-split">
-  <div class="hero-text">
-    <p class="hero-kicker">Independent guide &middot; {{ site.time | date: "%B %Y" }}</p>
-    <h1>Florence, and everything within reach.</h1>
-  </div>
-  <div class="hero-side">
-    <p class="hero-lede">Where to eat, what to see and where to go from Florence, sorted by what you actually want to do. Every place in the city visited by us and dated.</p>
+<div class="wrap hero hero-simple">
+  <p class="hero-kicker">Independent guide &middot; {{ site.time | date: "%B %Y" }}</p>
+  <h1>Florence, and everything within reach.</h1>
+  <p class="hero-lede">Where to eat, what to see and where to go from Florence, sorted by what you actually want to do. Every place in the city visited by us and dated.</p>
+</div>
+
+<div class="wrap">
+  <div class="controlbar">
     <div class="switch" role="tablist" aria-label="In or out of Florence">
       <button class="switch-btn" type="button" role="tab" id="tab-in" data-pane="in" aria-selected="true" aria-controls="in-florence">In Florence</button>
       <button class="switch-btn" type="button" role="tab" id="tab-out" data-pane="out" aria-selected="false" aria-controls="from-florence">From Florence</button>
     </div>
-  </div>
-</div>
-
-<div class="wrap">
-  <div class="findbar">
     <div class="searchrow">
+      <svg class="search-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <input type="search" id="placesearch" placeholder="Search a place, a dish, a town" autocomplete="off" aria-label="Search places">
       <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
     </div>
     <div class="pricetabs" role="group" aria-label="Price">
-      <button type="button" data-price="" aria-pressed="true">Any price</button>
+      <button type="button" data-price="" aria-pressed="true">Any</button>
       <button type="button" data-price="€" aria-pressed="false">€</button>
       <button type="button" data-price="€€" aria-pressed="false">€€</button>
       <button type="button" data-price="€€€" aria-pressed="false">€€€</button>

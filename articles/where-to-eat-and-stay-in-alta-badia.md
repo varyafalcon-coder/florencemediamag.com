@@ -114,14 +114,18 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 </g>
 <path class="v-edge" d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="308" y1="298" x2="330" y2="138.4"/>
-<line class="v-pylon" x1="314.6" y1="250.1" x2="314.6" y2="262.1"/>
-<line class="v-pylon" x1="321.6" y1="199" x2="321.6" y2="211"/>
-<rect class="v-cabin" x="313.6" y="225.6" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="519.5" y1="298" x2="560" y2="201.7"/>
-<line class="v-pylon" x1="531.6" y1="269.1" x2="531.6" y2="281.1"/>
-<line class="v-pylon" x1="544.6" y1="238.3" x2="544.6" y2="250.3"/>
-<rect class="v-cabin" x="533.6" y="254.7" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M330,298 L330,144.4"/>
+<line class="v-pylon" x1="330" y1="251.9" x2="330" y2="260.9"/>
+<line class="v-pylon" x1="330" y1="198.1" x2="330" y2="207.1"/>
+<rect class="v-cabin" x="325.5" y="226.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M330,298 v-11 M326,287 h8"/>
+<path class="v-tower" d="M330,144.4 v-11 M326,133.4 h8"/>
+<path class="v-cable" fill="none" d="M560,298 L560,207.7"/>
+<line class="v-pylon" x1="560" y1="270.9" x2="560" y2="279.9"/>
+<line class="v-pylon" x1="560" y1="239.3" x2="560" y2="248.3"/>
+<rect class="v-cabin" x="555.5" y="256.6" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
+<path class="v-tower" d="M560,207.7 v-11 M556,196.7 h8"/>
 <ellipse class="v-ground" cx="250" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M206,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M203.5,287 l10.5,-10 l10.5,10 Z"/>

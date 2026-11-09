@@ -108,18 +108,24 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 </g>
 <path class="v-edge" d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<line class="v-cable" x1="230" y1="296" x2="150" y2="225.1"/>
-<line class="v-pylon" x1="206" y1="274.7" x2="206" y2="286.7"/>
-<line class="v-pylon" x1="180.4" y1="252" x2="180.4" y2="264"/>
-<rect class="v-cabin" x="188.7" y="264.4" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="343" y1="298" x2="420" y2="216"/>
-<line class="v-pylon" x1="366.1" y1="273.4" x2="366.1" y2="285.4"/>
-<line class="v-pylon" x1="390.7" y1="247.2" x2="390.7" y2="259.2"/>
-<rect class="v-cabin" x="373.9" y="261.3" width="9" height="10" rx="2"/>
-<line class="v-cable" x1="500" y1="262.3" x2="560" y2="166.6"/>
-<line class="v-pylon" x1="518" y1="233.6" x2="518" y2="245.6"/>
-<line class="v-pylon" x1="537.2" y1="203" x2="537.2" y2="215"/>
-<rect class="v-cabin" x="523.1" y="219.3" width="9" height="10" rx="2"/>
+<path class="v-cable" fill="none" d="M230,298 L226.9,294.5 L223.8,291.8 L220.8,289.1 L217.7,286.5 L214.6,283.8 L211.5,281.3 L208.5,278.7 L205.4,276.1 L202.3,273.6 L199.2,271.1 L196.2,268.6 L193.1,266.2 L190,263.7 L186.9,261.3 L183.8,258.8 L180.8,256.4 L177.7,253.9 L174.6,251.5 L171.5,249 L168.5,246.6 L165.4,244.1 L162.3,241.6 L159.2,239 L156.2,236.4 L153.1,233.8 L150,231.1"/>
+<line class="v-pylon" x1="206.7" y1="277.2" x2="206.7" y2="286.2"/>
+<line class="v-pylon" x1="178.2" y1="254.3" x2="178.2" y2="263.3"/>
+<rect class="v-cabin" x="188.4" y="267" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M230,298 v-11 M226,287 h8"/>
+<path class="v-tower" d="M150,231.1 v-11 M146,220.1 h8"/>
+<path class="v-cable" fill="none" d="M343,298 L346.1,298 L349.2,297.5 L352.2,293.8 L355.3,290.2 L358.4,286.7 L361.5,283.2 L364.6,279.8 L367.6,276.4 L370.7,273.2 L373.8,269.9 L376.9,266.7 L380,263.5 L383,260.3 L386.1,257.2 L389.2,254.1 L392.3,251 L395.4,247.8 L398.4,244.7 L401.5,241.6 L404.6,238.5 L407.7,235.3 L410.8,232 L413.8,228.7 L416.9,225.3 L420,221.6"/>
+<line class="v-pylon" x1="366.8" y1="277.3" x2="366.8" y2="286.3"/>
+<line class="v-pylon" x1="393.6" y1="249.6" x2="393.6" y2="258.6"/>
+<rect class="v-cabin" x="375.2" y="264.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M343,298 v-11 M339,287 h8"/>
+<path class="v-tower" d="M420,221.6 v-11 M416,210.6 h8"/>
+<path class="v-cable" fill="none" d="M560,298 L560,172.6"/>
+<line class="v-pylon" x1="560" y1="260.4" x2="560" y2="269.4"/>
+<line class="v-pylon" x1="560" y1="216.5" x2="560" y2="225.5"/>
+<rect class="v-cabin" x="555.5" y="240.1" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
+<path class="v-tower" d="M560,172.6 v-11 M556,161.6 h8"/>
 <ellipse class="v-ground" cx="285" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M241,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M238.5,287 l10.5,-10 l10.5,10 Z"/>
