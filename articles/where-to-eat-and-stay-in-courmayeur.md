@@ -112,12 +112,12 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <rect class="v-cabin" x="245.5" y="230.3" width="9" height="10" rx="2"/>
 <path class="v-tower" d="M250,298 v-11 M246,287 h8"/>
 <path class="v-tower" d="M250,151.8 v-11 M246,140.8 h8"/>
-<path class="v-cable" fill="none" d="M458,284.6 L461,293.6 L464,290.3 L467,287 L470,283.7 L473,280.5 L476,277.2 L479,274 L482,270.8 L485,267.6 L488,264.4 L491,261.3 L494,258.1 L497,255 L500,251.9 L503,248.8 L506,245.7 L509,242.7 L512,239.6 L515,236.7 L518,233.7 L521,230.7 L524,227.8 L527,224.9 L530,222.1 L533,219.2 L536,216.4 L539,213.7 L542,211 L545,208.4 L548,205.8 L551,203.3 L554,200.8 L557,198.5 L560,196.2"/>
-<line class="v-pylon" x1="484.8" y1="267.8" x2="484.8" y2="276.8"/>
-<line class="v-pylon" x1="521.1" y1="230.6" x2="521.1" y2="239.6"/>
-<rect class="v-cabin" x="497.7" y="250.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M458,284.6 v-11 M454,273.6 h8"/>
-<path class="v-tower" d="M560,196.2 v-11 M556,185.2 h8"/>
+<path class="v-cable" fill="none" d="M458,298 L560,196.1"/>
+<line class="v-pylon" x1="488.6" y1="267.4" x2="488.6" y2="276.4"/>
+<line class="v-pylon" x1="524.3" y1="231.8" x2="524.3" y2="240.8"/>
+<rect class="v-cabin" x="501.4" y="251.1" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M458,298 v-11 M454,287 h8"/>
+<path class="v-tower" d="M560,196.1 v-11 M556,185.1 h8"/>
 <path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="277.6" width="4" height="4"/>
