@@ -122,18 +122,18 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 </g>
 <path class="v-edge" d="M420,356 C480,225.8 540,107.2 570,66.6 C600,112.9 660,228.7 720,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M160,298 L160,158.9"/>
-<line class="v-pylon" x1="160" y1="256.3" x2="160" y2="265.3"/>
-<line class="v-pylon" x1="160" y1="207.6" x2="160" y2="216.6"/>
-<rect class="v-cabin" x="155.5" y="233.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M160,298 v-11 M156,287 h8"/>
-<path class="v-tower" d="M160,158.9 v-11 M156,147.9 h8"/>
-<path class="v-cable" fill="none" d="M545,298 L545,178.4"/>
-<line class="v-pylon" x1="545" y1="262.1" x2="545" y2="271.1"/>
-<line class="v-pylon" x1="545" y1="220.3" x2="545" y2="229.3"/>
-<rect class="v-cabin" x="540.5" y="242.8" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M545,298 v-11 M541,287 h8"/>
-<path class="v-tower" d="M545,178.4 v-11 M541,167.4 h8"/>
+<path class="v-cable" fill="none" d="M359,298 L144,65.6"/>
+<line class="v-pylon" x1="294.5" y1="228.3" x2="294.5" y2="237.3"/>
+<line class="v-pylon" x1="219.2" y1="146.9" x2="219.2" y2="155.9"/>
+<rect class="v-cabin" x="253.4" y="189.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M359,298 v-11 M355,287 h8"/>
+<path class="v-tower" d="M144,65.6 v-11 M140,54.6 h8"/>
+<path class="v-cable" fill="none" d="M487,298 L570,67.6"/>
+<line class="v-pylon" x1="511.9" y1="228.9" x2="511.9" y2="237.9"/>
+<line class="v-pylon" x1="541" y1="148.2" x2="541" y2="157.2"/>
+<rect class="v-cabin" x="521.5" y="190.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M487,298 v-11 M483,287 h8"/>
+<path class="v-tower" d="M570,67.6 v-11 M566,56.6 h8"/>
 <ellipse class="v-ground" cx="420" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M366,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M363.5,287 l10.5,-10 l10.5,10 Z"/>

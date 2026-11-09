@@ -110,18 +110,18 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 </g>
 <path class="v-edge" d="M410,356 C435.6,239.2 474,142.8 493.2,102 L528.4,128.2 L570,64 L605.2,122.4 L640.4,90.3 C659.6,131.2 704.4,239.2 730,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M330,298 L330,163.8"/>
-<line class="v-pylon" x1="330" y1="257.7" x2="330" y2="266.7"/>
-<line class="v-pylon" x1="330" y1="210.8" x2="330" y2="219.8"/>
-<rect class="v-cabin" x="325.5" y="235.9" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M330,298 v-11 M326,287 h8"/>
-<path class="v-tower" d="M330,163.8 v-11 M326,152.8 h8"/>
-<path class="v-cable" fill="none" d="M560,298 L560,85.4"/>
-<line class="v-pylon" x1="560" y1="234.2" x2="560" y2="243.2"/>
-<line class="v-pylon" x1="560" y1="159.8" x2="560" y2="168.8"/>
-<rect class="v-cabin" x="555.5" y="199.1" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
-<path class="v-tower" d="M560,85.4 v-11 M556,74.4 h8"/>
+<path class="v-cable" fill="none" d="M374,298 L330,157.2"/>
+<line class="v-pylon" x1="360.8" y1="255.8" x2="360.8" y2="264.8"/>
+<line class="v-pylon" x1="345.4" y1="206.5" x2="345.4" y2="215.5"/>
+<rect class="v-cabin" x="348.8" y="232.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M374,298 v-11 M370,287 h8"/>
+<path class="v-tower" d="M330,157.2 v-11 M326,146.2 h8"/>
+<path class="v-cable" fill="none" d="M482,298 L564,74.3"/>
+<line class="v-pylon" x1="506.6" y1="230.9" x2="506.6" y2="239.9"/>
+<line class="v-pylon" x1="535.3" y1="152.6" x2="535.3" y2="161.6"/>
+<rect class="v-cabin" x="516" y="193.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M482,298 v-11 M478,287 h8"/>
+<path class="v-tower" d="M564,74.3 v-11 M560,63.3 h8"/>
 <ellipse class="v-ground" cx="425" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M381,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M378.5,287 l10.5,-10 l10.5,10 Z"/>

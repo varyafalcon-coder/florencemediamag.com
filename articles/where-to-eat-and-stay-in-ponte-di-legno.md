@@ -97,18 +97,18 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 </g>
 <path class="v-edge" d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M412.5,298 L560,102.9"/>
-<line class="v-pylon" x1="456.8" y1="239.5" x2="456.8" y2="248.5"/>
-<line class="v-pylon" x1="508.4" y1="171.2" x2="508.4" y2="180.2"/>
-<rect class="v-cabin" x="477.3" y="207.3" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M412.5,298 v-11 M408.5,287 h8"/>
-<path class="v-tower" d="M560,102.9 v-11 M556,91.9 h8"/>
-<path class="v-cable" fill="none" d="M238,298 L300,220.5"/>
-<line class="v-pylon" x1="256.6" y1="274.7" x2="256.6" y2="283.7"/>
-<line class="v-pylon" x1="278.3" y1="247.6" x2="278.3" y2="256.6"/>
-<rect class="v-cabin" x="262.6" y="262.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M238,298 v-11 M234,287 h8"/>
-<path class="v-tower" d="M300,220.5 v-11 M296,209.5 h8"/>
+<path class="v-cable" fill="none" d="M405.5,206.5 L574,74.9"/>
+<line class="v-pylon" x1="456.1" y1="167" x2="456.1" y2="176"/>
+<line class="v-pylon" x1="515" y1="120.9" x2="515" y2="129.9"/>
+<rect class="v-cabin" x="480.2" y="145.6" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M405.5,206.5 v-11 M401.5,195.5 h8"/>
+<path class="v-tower" d="M574,74.9 v-11 M570,63.9 h8"/>
+<path class="v-cable" fill="none" d="M187,298 L330.5,206.5"/>
+<line class="v-pylon" x1="230.1" y1="270.5" x2="230.1" y2="279.5"/>
+<line class="v-pylon" x1="280.3" y1="238.5" x2="280.3" y2="247.5"/>
+<rect class="v-cabin" x="249.9" y="256" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M187,298 v-11 M183,287 h8"/>
+<path class="v-tower" d="M330.5,206.5 v-11 M326.5,195.5 h8"/>
 <path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="343.5" y="199.5" width="4" height="4"/>

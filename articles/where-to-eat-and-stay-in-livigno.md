@@ -118,18 +118,18 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 </g>
 <path class="v-edge" d="M395,356 C461,266.9 527,185.7 560,158 C593,189.7 659,268.9 725,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M190,298 L190,83.5"/>
-<line class="v-pylon" x1="190" y1="233.6" x2="190" y2="242.6"/>
-<line class="v-pylon" x1="190" y1="158.6" x2="190" y2="167.6"/>
-<rect class="v-cabin" x="185.5" y="198.2" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M190,298 v-11 M186,287 h8"/>
-<path class="v-tower" d="M190,83.5 v-11 M186,72.5 h8"/>
-<path class="v-cable" fill="none" d="M448,298 L548,175"/>
-<line class="v-pylon" x1="478" y1="261.1" x2="478" y2="270.1"/>
-<line class="v-pylon" x1="513" y1="218.1" x2="513" y2="227.1"/>
-<rect class="v-cabin" x="490.5" y="241.2" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M448,298 v-11 M444,287 h8"/>
-<path class="v-tower" d="M548,175 v-11 M544,164 h8"/>
+<path class="v-cable" fill="none" d="M306,298 L190,78.5"/>
+<line class="v-pylon" x1="271.2" y1="232.1" x2="271.2" y2="241.1"/>
+<line class="v-pylon" x1="230.6" y1="155.3" x2="230.6" y2="164.3"/>
+<rect class="v-cabin" x="247" y="195.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M306,298 v-11 M302,287 h8"/>
+<path class="v-tower" d="M190,78.5 v-11 M186,67.5 h8"/>
+<path class="v-cable" fill="none" d="M422,298 L548,170"/>
+<line class="v-pylon" x1="459.8" y1="259.6" x2="459.8" y2="268.6"/>
+<line class="v-pylon" x1="503.9" y1="214.8" x2="503.9" y2="223.8"/>
+<rect class="v-cabin" x="476.7" y="238.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M422,298 v-11 M418,287 h8"/>
+<path class="v-tower" d="M548,170 v-11 M544,159 h8"/>
 <ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M318.5,287 l10.5,-10 l10.5,10 Z"/>

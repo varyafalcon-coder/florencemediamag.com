@@ -93,19 +93,18 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 </g>
 <path class="v-edge" d="M70,356 C162,224.6 254,104.9 300,64 C346,110.7 438,227.5 530,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M330,298 L330,201.4"/>
-<line class="v-pylon" x1="330" y1="269" x2="330" y2="278"/>
-<line class="v-pylon" x1="330" y1="235.2" x2="330" y2="244.2"/>
-<rect class="v-cabin" x="325.5" y="253.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M330,298 v-11 M326,287 h8"/>
-<path class="v-tower" d="M330,201.4 v-11 M326,190.4 h8"/>
-<path class="v-cable" fill="none" d="M302,298 L302,72.9"/>
-<line class="v-pylon" x1="302" y1="230.5" x2="302" y2="239.5"/>
-<line class="v-pylon" x1="302" y1="151.7" x2="302" y2="160.7"/>
-<rect class="v-cabin" x="297.5" y="193.2" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M302,298 v-11 M298,287 h8"/>
-<path class="v-tower" d="M302,72.9 v-11 M298,61.9 h8"/>
-<path class="v-museum" d="M315,198.4 l6,-10 h18 l6,10 Z"/>
+<path class="v-cable" fill="none" d="M419,298 L330,195.4"/>
+<line class="v-pylon" x1="392.3" y1="267.2" x2="392.3" y2="276.2"/>
+<line class="v-pylon" x1="361.1" y1="231.3" x2="361.1" y2="240.3"/>
+<rect class="v-cabin" x="372.7" y="250.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M419,298 v-11 M415,287 h8"/>
+<path class="v-tower" d="M330,195.4 v-11 M326,184.4 h8"/>
+<path class="v-cable" fill="none" d="M330,195.4 L300,65"/>
+<line class="v-pylon" x1="321" y1="156.3" x2="321" y2="165.3"/>
+<line class="v-pylon" x1="310.5" y1="110.6" x2="310.5" y2="119.6"/>
+<rect class="v-cabin" x="311.4" y="135.1" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M330,195.4 v-11 M326,184.4 h8"/>
+<path class="v-tower" d="M300,65 v-11 M296,54 h8"/>
 <ellipse class="v-ground" cx="480" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M426,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M423.5,287 l10.5,-10 l10.5,10 Z"/>

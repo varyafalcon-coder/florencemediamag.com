@@ -25,7 +25,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     </div>
     <div class="searchrow">
       <svg class="search-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-      <input type="search" id="placesearch" placeholder="Search a place, a dish, a town" autocomplete="off" aria-label="Search places">
+      <input type="search" id="placesearch" placeholder="Search an activity, a dish, a town" autocomplete="off" aria-label="Search places">
       <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
     </div>
     <div class="pricetabs" role="group" aria-label="Price">

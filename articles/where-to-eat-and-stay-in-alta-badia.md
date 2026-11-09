@@ -114,18 +114,18 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 </g>
 <path class="v-edge" d="M380,356 C437.6,277.5 524,230.4 560,199 C596,233.5 682.4,280.6 740,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M330,298 L330,144.4"/>
-<line class="v-pylon" x1="330" y1="251.9" x2="330" y2="260.9"/>
-<line class="v-pylon" x1="330" y1="198.1" x2="330" y2="207.1"/>
-<rect class="v-cabin" x="325.5" y="226.8" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M330,298 v-11 M326,287 h8"/>
-<path class="v-tower" d="M330,144.4 v-11 M326,133.4 h8"/>
-<path class="v-cable" fill="none" d="M560,298 L560,207.7"/>
-<line class="v-pylon" x1="560" y1="270.9" x2="560" y2="279.9"/>
-<line class="v-pylon" x1="560" y1="239.3" x2="560" y2="248.3"/>
-<rect class="v-cabin" x="555.5" y="256.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
-<path class="v-tower" d="M560,207.7 v-11 M556,196.7 h8"/>
+<path class="v-cable" fill="none" d="M307,298 L330,130.6"/>
+<line class="v-pylon" x1="313.9" y1="247.8" x2="313.9" y2="256.8"/>
+<line class="v-pylon" x1="321.9" y1="189.2" x2="321.9" y2="198.2"/>
+<rect class="v-cabin" x="313.3" y="220.3" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M307,298 v-11 M303,287 h8"/>
+<path class="v-tower" d="M330,130.6 v-11 M326,119.6 h8"/>
+<path class="v-cable" fill="none" d="M600.5,298 L560,200"/>
+<line class="v-pylon" x1="588.4" y1="268.6" x2="588.4" y2="277.6"/>
+<line class="v-pylon" x1="574.2" y1="234.3" x2="574.2" y2="243.3"/>
+<rect class="v-cabin" x="577" y="252.9" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M600.5,298 v-11 M596.5,287 h8"/>
+<path class="v-tower" d="M560,200 v-11 M556,189 h8"/>
 <ellipse class="v-ground" cx="250" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M206,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M203.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -140,22 +140,22 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <path class="v-wall" d="M271,299 v-15 h18 v15 Z"/>
 <path class="v-roof" d="M268.5,285 l11.5,-10 l11.5,10 Z"/>
 <rect class="v-win" x="278" y="289" width="4" height="4"/>
-<ellipse class="v-ground" cx="560" cy="300" rx="46.5" ry="5"/>
-<path class="v-wall" d="M527.5,299 v-13 h16 v13 Z"/>
-<path class="v-roof" d="M525,287 l10.5,-10 l10.5,10 Z"/>
-<rect class="v-win" x="533.5" y="291" width="4" height="4"/>
-<path class="v-wall" d="M548.5,299 v-17 h20 v17 Z"/>
-<path class="v-roof" d="M546,283 l12.5,-10 l12.5,10 Z"/>
-<rect class="v-win" x="556.5" y="287" width="4" height="4"/>
-<path class="v-wall" d="M569,299 v-34 h8 v34 Z"/><path class="v-roof" d="M568.5,266 l4.5,-15 l4.5,15 Z"/>
-<path class="v-wall" d="M573.5,299 v-12 h14 v12 Z"/>
-<path class="v-roof" d="M571,288 l9.5,-10 l9.5,10 Z"/>
-<rect class="v-win" x="578.5" y="292" width="4" height="4"/>
+<ellipse class="v-ground" cx="640" cy="300" rx="46.5" ry="5"/>
+<path class="v-wall" d="M607.5,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M605,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="613.5" y="291" width="4" height="4"/>
+<path class="v-wall" d="M628.5,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M626,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="636.5" y="287" width="4" height="4"/>
+<path class="v-wall" d="M649,299 v-34 h8 v34 Z"/><path class="v-roof" d="M648.5,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M653.5,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M651,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="658.5" y="292" width="4" height="4"/>
 <g class="v-pill"><rect x="24.7" y="18" width="190.6" height="30" rx="15"/><text x="120" y="38" text-anchor="middle"><tspan class="v-pn">Sella</tspan> · Sellaronda</text></g>
 <g class="v-pill"><rect x="226" y="83.6" width="208" height="30" rx="15"/><text x="330" y="103.6" text-anchor="middle"><tspan class="v-pn">Sassongher</tspan> · 2,665 m</text></g>
 <g class="v-pill"><rect x="447.3" y="153" width="225.4" height="30" rx="15"/><text x="560" y="173" text-anchor="middle"><tspan class="v-pn">Piz La Ila</tspan> · Pralongià</text></g>
 <g class="v-pill v-pill-blue"><rect x="159.1" y="308" width="181.9" height="30" rx="15"/><text x="250" y="328" text-anchor="middle"><tspan class="v-pn">Corvara</tspan> · 1,568 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="442.9" y="308" width="234.1" height="30" rx="15"/><text x="560" y="328" text-anchor="middle"><tspan class="v-pn">La Villa · San Cassiano</tspan></text></g>
+<g class="v-pill v-pill-blue"><rect x="477.9" y="308" width="234.1" height="30" rx="15"/><text x="594.9" y="328" text-anchor="middle"><tspan class="v-pn">La Villa · San Cassiano</tspan></text></g>
 </svg>
 <figcaption>Corvara lies under the Sassongher with the Sella beside it; La Villa and San Cassiano are lower down, under the rolling slopes of Piz La Ila and Pralongià.</figcaption>
 </figure>

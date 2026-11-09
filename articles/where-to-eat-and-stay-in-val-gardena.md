@@ -112,48 +112,48 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 </g>
 <path class="v-edge" d="M450,356 C498,265.5 570,211.2 600,175 C630,214.9 702,269.1 750,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M135,298 L135,156.4"/>
-<line class="v-pylon" x1="135" y1="255.5" x2="135" y2="264.5"/>
-<line class="v-pylon" x1="135" y1="205.9" x2="135" y2="214.9"/>
-<rect class="v-cabin" x="130.5" y="232.4" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M135,298 v-11 M131,287 h8"/>
-<path class="v-tower" d="M135,156.4 v-11 M131,145.4 h8"/>
-<path class="v-cable" fill="none" d="M600,298 L600,183.4"/>
-<line class="v-pylon" x1="600" y1="263.6" x2="600" y2="272.6"/>
-<line class="v-pylon" x1="600" y1="223.5" x2="600" y2="232.5"/>
-<rect class="v-cabin" x="595.5" y="245.2" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M600,298 v-11 M596,287 h8"/>
-<path class="v-tower" d="M600,183.4 v-11 M596,172.4 h8"/>
-<ellipse class="v-ground" cx="180" cy="300" rx="58" ry="5"/>
-<path class="v-wall" d="M136,299 v-13 h16 v13 Z"/>
-<path class="v-roof" d="M133.5,287 l10.5,-10 l10.5,10 Z"/>
-<rect class="v-win" x="142" y="291" width="4" height="4"/>
-<path class="v-wall" d="M157,299 v-17 h20 v17 Z"/>
-<path class="v-roof" d="M154.5,283 l12.5,-10 l12.5,10 Z"/>
-<rect class="v-win" x="165" y="287" width="4" height="4"/>
-<path class="v-wall" d="M182,299 v-12 h14 v12 Z"/>
-<path class="v-roof" d="M179.5,288 l9.5,-10 l9.5,10 Z"/>
-<rect class="v-win" x="187" y="292" width="4" height="4"/>
-<path class="v-wall" d="M196.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M196,266 l4.5,-15 l4.5,15 Z"/>
-<path class="v-wall" d="M201,299 v-15 h18 v15 Z"/>
-<path class="v-roof" d="M198.5,285 l11.5,-10 l11.5,10 Z"/>
-<rect class="v-win" x="208" y="289" width="4" height="4"/>
-<ellipse class="v-ground" cx="540" cy="300" rx="46.5" ry="5"/>
-<path class="v-wall" d="M507.5,299 v-13 h16 v13 Z"/>
-<path class="v-roof" d="M505,287 l10.5,-10 l10.5,10 Z"/>
-<rect class="v-win" x="513.5" y="291" width="4" height="4"/>
-<path class="v-wall" d="M528.5,299 v-17 h20 v17 Z"/>
-<path class="v-roof" d="M526,283 l12.5,-10 l12.5,10 Z"/>
-<rect class="v-win" x="536.5" y="287" width="4" height="4"/>
-<path class="v-wall" d="M549,299 v-34 h8 v34 Z"/><path class="v-roof" d="M548.5,266 l4.5,-15 l4.5,15 Z"/>
-<path class="v-wall" d="M553.5,299 v-12 h14 v12 Z"/>
-<path class="v-roof" d="M551,288 l9.5,-10 l9.5,10 Z"/>
-<rect class="v-win" x="558.5" y="292" width="4" height="4"/>
+<path class="v-cable" fill="none" d="M181,298 L140,146.2"/>
+<line class="v-pylon" x1="168.7" y1="252.5" x2="168.7" y2="261.5"/>
+<line class="v-pylon" x1="154.3" y1="199.3" x2="154.3" y2="208.3"/>
+<rect class="v-cabin" x="157.2" y="227.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M181,298 v-11 M177,287 h8"/>
+<path class="v-tower" d="M140,146.2 v-11 M136,135.2 h8"/>
+<path class="v-cable" fill="none" d="M540.5,298 L600,176"/>
+<line class="v-pylon" x1="558.4" y1="261.4" x2="558.4" y2="270.4"/>
+<line class="v-pylon" x1="579.2" y1="218.7" x2="579.2" y2="227.7"/>
+<rect class="v-cabin" x="564" y="241.7" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M540.5,298 v-11 M536.5,287 h8"/>
+<path class="v-tower" d="M600,176 v-11 M596,165 h8"/>
+<ellipse class="v-ground" cx="232" cy="300" rx="58" ry="5"/>
+<path class="v-wall" d="M188,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M185.5,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="194" y="291" width="4" height="4"/>
+<path class="v-wall" d="M209,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M206.5,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="217" y="287" width="4" height="4"/>
+<path class="v-wall" d="M234,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M231.5,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="239" y="292" width="4" height="4"/>
+<path class="v-wall" d="M248.5,299 v-34 h8 v34 Z"/><path class="v-roof" d="M248,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M253,299 v-15 h18 v15 Z"/>
+<path class="v-roof" d="M250.5,285 l11.5,-10 l11.5,10 Z"/>
+<rect class="v-win" x="260" y="289" width="4" height="4"/>
+<ellipse class="v-ground" cx="495" cy="300" rx="46.5" ry="5"/>
+<path class="v-wall" d="M462.5,299 v-13 h16 v13 Z"/>
+<path class="v-roof" d="M460,287 l10.5,-10 l10.5,10 Z"/>
+<rect class="v-win" x="468.5" y="291" width="4" height="4"/>
+<path class="v-wall" d="M483.5,299 v-17 h20 v17 Z"/>
+<path class="v-roof" d="M481,283 l12.5,-10 l12.5,10 Z"/>
+<rect class="v-win" x="491.5" y="287" width="4" height="4"/>
+<path class="v-wall" d="M504,299 v-34 h8 v34 Z"/><path class="v-roof" d="M503.5,266 l4.5,-15 l4.5,15 Z"/>
+<path class="v-wall" d="M508.5,299 v-12 h14 v12 Z"/>
+<path class="v-roof" d="M506,288 l9.5,-10 l9.5,10 Z"/>
+<rect class="v-win" x="513.5" y="292" width="4" height="4"/>
 <g class="v-pill"><rect x="296" y="18" width="208" height="30" rx="15"/><text x="400" y="38" text-anchor="middle"><tspan class="v-pn">Sassolungo</tspan> · 3,181 m</text></g>
 <g class="v-pill"><rect x="53.4" y="99.2" width="173.2" height="30" rx="15"/><text x="140" y="119.2" text-anchor="middle"><tspan class="v-pn">Seceda</tspan> · 2,500 m</text></g>
 <g class="v-pill"><rect x="500.4" y="129" width="199.3" height="30" rx="15"/><text x="600" y="149" text-anchor="middle"><tspan class="v-pn">Ciampinoi</tspan> · 2,250 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="89.1" y="308" width="181.9" height="30" rx="15"/><text x="180" y="328" text-anchor="middle"><tspan class="v-pn">Ortisei</tspan> · 1,236 m</text></g>
-<g class="v-pill v-pill-blue"><rect x="457.8" y="308" width="164.5" height="30" rx="15"/><text x="540" y="328" text-anchor="middle"><tspan class="v-pn">Selva</tspan> · 1,563 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="141.1" y="308" width="181.9" height="30" rx="15"/><text x="232" y="328" text-anchor="middle"><tspan class="v-pn">Ortisei</tspan> · 1,236 m</text></g>
+<g class="v-pill v-pill-blue"><rect x="412.8" y="308" width="164.5" height="30" rx="15"/><text x="495" y="328" text-anchor="middle"><tspan class="v-pn">Selva</tspan> · 1,563 m</text></g>
 </svg>
 <figcaption>Ortisei lies lower down the valley under Seceda, Selva higher up under Ciampinoi, and the Sassolungo stands over both.</figcaption>
 </figure>

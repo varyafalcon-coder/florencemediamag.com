@@ -111,12 +111,12 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 </g>
 <path class="v-edge" d="M90,356 C174,224.6 258,104.9 300,64 C342,110.7 426,227.5 510,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M300,227.1 L300,73"/>
-<line class="v-pylon" x1="300" y1="180.9" x2="300" y2="189.9"/>
-<line class="v-pylon" x1="300" y1="127" x2="300" y2="136"/>
-<rect class="v-cabin" x="295.5" y="155.7" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M300,227.1 v-11 M296,216.1 h8"/>
-<path class="v-tower" d="M300,73 v-11 M296,62 h8"/>
+<path class="v-cable" fill="none" d="M266,227.1 L300,67"/>
+<line class="v-pylon" x1="276.2" y1="179.1" x2="276.2" y2="188.1"/>
+<line class="v-pylon" x1="288.1" y1="123.1" x2="288.1" y2="132.1"/>
+<rect class="v-cabin" x="277.5" y="152.9" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M266,227.1 v-11 M262,216.1 h8"/>
+<path class="v-tower" d="M300,67 v-11 M296,56 h8"/>
 <path class="v-wall" d="M217,228.1 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M214.5,216.1 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="223" y="220.1" width="4" height="4"/>
