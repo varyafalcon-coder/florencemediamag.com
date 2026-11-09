@@ -101,24 +101,12 @@ One round summit with long runs down every side, almost no queues, and a train s
 </g>
 <path class="v-edge" d="M60,356 C159.2,210 308,122.4 370,64 C432,128.2 580.8,215.8 680,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M340,298 L340,95.7"/>
-<line class="v-pylon" x1="340" y1="237.3" x2="340" y2="246.3"/>
-<line class="v-pylon" x1="340" y1="166.5" x2="340" y2="175.5"/>
-<rect class="v-cabin" x="335.5" y="203.9" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M340,298 v-11 M336,287 h8"/>
-<path class="v-tower" d="M340,95.7 v-11 M336,84.7 h8"/>
-<path class="v-cable" fill="none" d="M400,298 L400,97.7"/>
-<line class="v-pylon" x1="400" y1="237.9" x2="400" y2="246.9"/>
-<line class="v-pylon" x1="400" y1="167.8" x2="400" y2="176.8"/>
-<rect class="v-cabin" x="395.5" y="204.9" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M400,298 v-11 M396,287 h8"/>
-<path class="v-tower" d="M400,97.7 v-11 M396,86.7 h8"/>
-<path class="v-cable" fill="none" d="M420,298 L420,114.4"/>
-<line class="v-pylon" x1="420" y1="242.9" x2="420" y2="251.9"/>
-<line class="v-pylon" x1="420" y1="178.7" x2="420" y2="187.7"/>
-<rect class="v-cabin" x="415.5" y="212.7" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M420,298 v-11 M416,287 h8"/>
-<path class="v-tower" d="M420,114.4 v-11 M416,103.4 h8"/>
+<path class="v-cable" fill="none" d="M370,298 L370,70"/>
+<line class="v-pylon" x1="370" y1="229.6" x2="370" y2="238.6"/>
+<line class="v-pylon" x1="370" y1="149.8" x2="370" y2="158.8"/>
+<rect class="v-cabin" x="365.5" y="191.8" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M370,298 v-11 M366,287 h8"/>
+<path class="v-tower" d="M370,70 v-11 M366,59 h8"/>
 <path class="v-museum" d="M353,67 l6,-14 h22 l6,14 Z"/>
 <ellipse class="v-ground" cx="120" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M66,299 v-13 h16 v13 Z"/>
@@ -139,7 +127,7 @@ One round summit with long runs down every side, almost no queues, and a train s
 <path class="v-roof" d="M151.5,287 l10,-10 l10,10 Z"/>
 <rect class="v-win" x="159.5" y="291" width="4" height="4"/>
 <path class="v-road" d="M30,322 Q360,312 690,322"/>
-<g class="v-train"><rect x="420" y="330" width="80" height="13" rx="3"/><rect x="503" y="330" width="60" height="13" rx="3"/><line x1="380" y1="346" x2="620" y2="346"/></g>
+<g class="v-train2"><line class="tr-rail" x1="370" y1="341" x2="690" y2="341"/><line class="tr-sleeper" x1="372" y1="340" x2="375" y2="343"/><line class="tr-sleeper" x1="381" y1="340" x2="384" y2="343"/><line class="tr-sleeper" x1="390" y1="340" x2="393" y2="343"/><line class="tr-sleeper" x1="399" y1="340" x2="402" y2="343"/><line class="tr-sleeper" x1="408" y1="340" x2="411" y2="343"/><line class="tr-sleeper" x1="417" y1="340" x2="420" y2="343"/><line class="tr-sleeper" x1="426" y1="340" x2="429" y2="343"/><line class="tr-sleeper" x1="435" y1="340" x2="438" y2="343"/><line class="tr-sleeper" x1="444" y1="340" x2="447" y2="343"/><line class="tr-sleeper" x1="453" y1="340" x2="456" y2="343"/><line class="tr-sleeper" x1="462" y1="340" x2="465" y2="343"/><line class="tr-sleeper" x1="471" y1="340" x2="474" y2="343"/><line class="tr-sleeper" x1="480" y1="340" x2="483" y2="343"/><line class="tr-sleeper" x1="489" y1="340" x2="492" y2="343"/><line class="tr-sleeper" x1="498" y1="340" x2="501" y2="343"/><line class="tr-sleeper" x1="507" y1="340" x2="510" y2="343"/><line class="tr-sleeper" x1="516" y1="340" x2="519" y2="343"/><line class="tr-sleeper" x1="525" y1="340" x2="528" y2="343"/><line class="tr-sleeper" x1="534" y1="340" x2="537" y2="343"/><line class="tr-sleeper" x1="543" y1="340" x2="546" y2="343"/><line class="tr-sleeper" x1="552" y1="340" x2="555" y2="343"/><line class="tr-sleeper" x1="561" y1="340" x2="564" y2="343"/><line class="tr-sleeper" x1="570" y1="340" x2="573" y2="343"/><line class="tr-sleeper" x1="579" y1="340" x2="582" y2="343"/><line class="tr-sleeper" x1="588" y1="340" x2="591" y2="343"/><line class="tr-sleeper" x1="597" y1="340" x2="600" y2="343"/><line class="tr-sleeper" x1="606" y1="340" x2="609" y2="343"/><line class="tr-sleeper" x1="615" y1="340" x2="618" y2="343"/><line class="tr-sleeper" x1="624" y1="340" x2="627" y2="343"/><line class="tr-sleeper" x1="633" y1="340" x2="636" y2="343"/><line class="tr-sleeper" x1="642" y1="340" x2="645" y2="343"/><line class="tr-sleeper" x1="651" y1="340" x2="654" y2="343"/><line class="tr-sleeper" x1="660" y1="340" x2="663" y2="343"/><line class="tr-sleeper" x1="669" y1="340" x2="672" y2="343"/><line class="tr-sleeper" x1="678" y1="340" x2="681" y2="343"/><line class="tr-sleeper" x1="687" y1="340" x2="690" y2="343"/><path class="tr-body" d="M430,338 V327 Q430,324 433,324 H501 Q504,324 504,327 V338 Z"/><rect class="tr-stripe" x="430" y="334" width="72" height="2"/><rect class="tr-win" x="436" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="446" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="456" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="466" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="476" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="486" y="327" width="7" height="4.5" rx="1"/><circle class="tr-wheel" cx="439" cy="339" r="2.2"/><circle class="tr-wheel" cx="446" cy="339" r="2.2"/><circle class="tr-wheel" cx="488" cy="339" r="2.2"/><circle class="tr-wheel" cx="495" cy="339" r="2.2"/><path class="tr-body" d="M508,338 V327 Q508,324 511,324 H572 Q588,324 594,334 V338 Z"/><rect class="tr-stripe" x="508" y="334" width="85" height="2"/><rect class="tr-win" x="514" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="524" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="534" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="544" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="554" y="327" width="7" height="4.5" rx="1"/><rect class="tr-win" x="564" y="327" width="7" height="4.5" rx="1"/><path class="tr-win" d="M575,327 H583 L589,331.5 H575 Z"/><path class="tr-panto" d="M530,324 l4,-5 l4,5 M528,319 h12"/><circle class="tr-wheel" cx="517" cy="339" r="2.2"/><circle class="tr-wheel" cx="524" cy="339" r="2.2"/><circle class="tr-wheel" cx="578" cy="339" r="2.2"/><circle class="tr-wheel" cx="585" cy="339" r="2.2"/></g>
 <g class="v-pill"><rect x="239.9" y="8" width="260.2" height="30" rx="15"/><text x="370" y="28" text-anchor="middle"><tspan class="v-pn">Summit</tspan> · 2,275 m · museums</text></g>
 <g class="v-pill v-pill-blue"><rect x="37.8" y="222" width="164.5" height="30" rx="15"/><text x="120" y="242" text-anchor="middle"><tspan class="v-pn">Brunico</tspan> · 835 m</text></g>
 <g class="v-pill"><rect x="128.6" y="308" width="242.8" height="30" rx="15"/><text x="250" y="328" text-anchor="middle"><tspan class="v-pn">Trains stop at the lifts</tspan></text></g>

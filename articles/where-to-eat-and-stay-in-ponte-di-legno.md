@@ -97,17 +97,17 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 </g>
 <path class="v-edge" d="M205,356 C244.6,268.1 257.8,208.5 297.4,205.5 Q370,201.5 442.6,205.5 C482.2,208.5 495.4,268.1 535,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M560,298 L560,102.9"/>
-<line class="v-pylon" x1="560" y1="239.5" x2="560" y2="248.5"/>
-<line class="v-pylon" x1="560" y1="171.2" x2="560" y2="180.2"/>
-<rect class="v-cabin" x="555.5" y="207.3" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
+<path class="v-cable" fill="none" d="M412.5,298 L560,102.9"/>
+<line class="v-pylon" x1="456.8" y1="239.5" x2="456.8" y2="248.5"/>
+<line class="v-pylon" x1="508.4" y1="171.2" x2="508.4" y2="180.2"/>
+<rect class="v-cabin" x="477.3" y="207.3" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M412.5,298 v-11 M408.5,287 h8"/>
 <path class="v-tower" d="M560,102.9 v-11 M556,91.9 h8"/>
-<path class="v-cable" fill="none" d="M300,298 L300,220.5"/>
-<line class="v-pylon" x1="300" y1="274.7" x2="300" y2="283.7"/>
-<line class="v-pylon" x1="300" y1="247.6" x2="300" y2="256.6"/>
-<rect class="v-cabin" x="295.5" y="262.6" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M300,298 v-11 M296,287 h8"/>
+<path class="v-cable" fill="none" d="M238,298 L300,220.5"/>
+<line class="v-pylon" x1="256.6" y1="274.7" x2="256.6" y2="283.7"/>
+<line class="v-pylon" x1="278.3" y1="247.6" x2="278.3" y2="256.6"/>
+<rect class="v-cabin" x="262.6" y="262.6" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M238,298 v-11 M234,287 h8"/>
 <path class="v-tower" d="M300,220.5 v-11 M296,209.5 h8"/>
 <path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>

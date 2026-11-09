@@ -108,17 +108,17 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 </g>
 <path class="v-edge" d="M-10,356 C38,285.3 110,242.9 140,214.6 C170,245.7 242,288.1 290,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M230,298 L150,230.1"/>
-<line class="v-pylon" x1="206" y1="277.6" x2="206" y2="286.6"/>
-<line class="v-pylon" x1="178" y1="253.9" x2="178" y2="262.9"/>
-<rect class="v-cabin" x="187.9" y="267.1" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M230,298 v-11 M226,287 h8"/>
+<path class="v-cable" fill="none" d="M224,298 L150,230.1"/>
+<line class="v-pylon" x1="201.8" y1="277.6" x2="201.8" y2="286.6"/>
+<line class="v-pylon" x1="175.9" y1="253.9" x2="175.9" y2="262.9"/>
+<rect class="v-cabin" x="184.7" y="267.1" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M224,298 v-11 M220,287 h8"/>
 <path class="v-tower" d="M150,230.1 v-11 M146,219.1 h8"/>
-<path class="v-cable" fill="none" d="M347,298 L420,222"/>
-<line class="v-pylon" x1="368.9" y1="275.2" x2="368.9" y2="284.2"/>
-<line class="v-pylon" x1="394.4" y1="248.6" x2="394.4" y2="257.6"/>
-<rect class="v-cabin" x="376.8" y="263.3" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M347,298 v-11 M343,287 h8"/>
+<path class="v-cable" fill="none" d="M353,298 L420,222"/>
+<line class="v-pylon" x1="373.1" y1="275.2" x2="373.1" y2="284.2"/>
+<line class="v-pylon" x1="396.6" y1="248.6" x2="396.6" y2="257.6"/>
+<rect class="v-cabin" x="380" y="263.3" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M353,298 v-11 M349,287 h8"/>
 <path class="v-tower" d="M420,222 v-11 M416,211 h8"/>
 <path class="v-cable" fill="none" d="M560,298 L560,172.6"/>
 <line class="v-pylon" x1="560" y1="260.4" x2="560" y2="269.4"/>

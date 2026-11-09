@@ -1140,3 +1140,10 @@ body:has(.trust) footer{margin-top:0}
   .controlbar .pricetabs button{flex:1}
 }
 .v-tower{fill:none;stroke:#0b0b0b;stroke-width:1.6;stroke-linecap:round;opacity:.6}
+.v-train2 .tr-body{fill:#e3483a}
+.v-train2 .tr-stripe{fill:#1b2bb8}
+.v-train2 .tr-win{fill:#eef3ff}
+.v-train2 .tr-wheel{fill:#1a1d2e}
+.v-train2 .tr-rail{stroke:#3a3f5c;stroke-width:1.4}
+.v-train2 .tr-sleeper{stroke:#8b90b5;stroke-width:1.2}
+.v-train2 .tr-panto{fill:none;stroke:#1a1d2e;stroke-width:1.2;stroke-linejoin:round}

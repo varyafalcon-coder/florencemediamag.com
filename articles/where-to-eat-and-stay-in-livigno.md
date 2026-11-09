@@ -124,11 +124,11 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <rect class="v-cabin" x="185.5" y="198.2" width="9" height="10" rx="2"/>
 <path class="v-tower" d="M190,298 v-11 M186,287 h8"/>
 <path class="v-tower" d="M190,83.5 v-11 M186,72.5 h8"/>
-<path class="v-cable" fill="none" d="M442,298 L548,175"/>
-<line class="v-pylon" x1="473.8" y1="261.1" x2="473.8" y2="270.1"/>
-<line class="v-pylon" x1="510.9" y1="218.1" x2="510.9" y2="227.1"/>
-<rect class="v-cabin" x="487.3" y="241.2" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M442,298 v-11 M438,287 h8"/>
+<path class="v-cable" fill="none" d="M448,298 L548,175"/>
+<line class="v-pylon" x1="478" y1="261.1" x2="478" y2="270.1"/>
+<line class="v-pylon" x1="513" y1="218.1" x2="513" y2="227.1"/>
+<rect class="v-cabin" x="490.5" y="241.2" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M448,298 v-11 M444,287 h8"/>
 <path class="v-tower" d="M548,175 v-11 M544,164 h8"/>
 <ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>

@@ -120,17 +120,17 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 </g>
 <path class="v-edge" d="M410,356 C461.2,214.8 538,130 570,73.5 C602,135.7 678.8,220.4 730,356 Z"/>
 <path class="v-floor" d="M0,296 C160,286 260,302 380,294 S600,288 720,296 L720,350 L0,350 Z"/>
-<path class="v-cable" fill="none" d="M200,298 L200,87.4"/>
-<line class="v-pylon" x1="200" y1="234.8" x2="200" y2="243.8"/>
-<line class="v-pylon" x1="200" y1="161.1" x2="200" y2="170.1"/>
-<rect class="v-cabin" x="195.5" y="200" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M200,298 v-11 M196,287 h8"/>
+<path class="v-cable" fill="none" d="M322,298 L200,87.4"/>
+<line class="v-pylon" x1="285.4" y1="234.8" x2="285.4" y2="243.8"/>
+<line class="v-pylon" x1="242.7" y1="161.1" x2="242.7" y2="170.1"/>
+<rect class="v-cabin" x="260.2" y="200" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M322,298 v-11 M318,287 h8"/>
 <path class="v-tower" d="M200,87.4 v-11 M196,76.4 h8"/>
-<path class="v-cable" fill="none" d="M560,298 L560,95.9"/>
-<line class="v-pylon" x1="560" y1="237.4" x2="560" y2="246.4"/>
-<line class="v-pylon" x1="560" y1="166.7" x2="560" y2="175.7"/>
-<rect class="v-cabin" x="555.5" y="204" width="9" height="10" rx="2"/>
-<path class="v-tower" d="M560,298 v-11 M556,287 h8"/>
+<path class="v-cable" fill="none" d="M444,298 L560,95.9"/>
+<line class="v-pylon" x1="478.8" y1="237.4" x2="478.8" y2="246.4"/>
+<line class="v-pylon" x1="519.4" y1="166.7" x2="519.4" y2="175.7"/>
+<rect class="v-cabin" x="494" y="204" width="9" height="10" rx="2"/>
+<path class="v-tower" d="M444,298 v-11 M440,287 h8"/>
 <path class="v-tower" d="M560,95.9 v-11 M556,84.9 h8"/>
 <path class="v-wall" d="M336,164.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,152.4 l10.5,-10 l10.5,10 Z"/>
