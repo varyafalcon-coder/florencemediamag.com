@@ -29,6 +29,6 @@
     {%- for e in ems limit: 3 -%}<span>{{ e }}</span>{%- endfor -%}
     {%- if extra > 0 %}<span class="card-em-more">+{{ extra }}</span>{% endif -%}
   </span>{% endif %}
-  <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.price %} <span class="pricetag">{{ p.price }}</span>{% endif %}</h3>
+  <h3>{%- assign tw = p.title | split: " " -%}{%- assign tn = tw.size | minus: 1 -%}<a href="{{ p.url | relative_url }}">{{ tw | slice: 0, tn | join: " " }} <span class="nw">{{ tw | last }}{% if p.price %}&nbsp;<span class="pricetag">{{ p.price }}</span>{% endif %}</span></a></h3>
   <p>{{ p.answer }}</p>
 </article>

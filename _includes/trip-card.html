@@ -3,7 +3,7 @@
 <article class="card tripcard" data-price="{{ tc.price }}" data-find="{{ tc.title | append: ' ' | append: tc.place | append: ' ' | append: tc.text | downcase | strip_newlines | escape }}" data-dist="{{ tc.dist }}" data-kind="{{ tc.kind }}{% if tc.area == 'ski' %} mountain{% endif %}">
   <span class="card-em" aria-hidden="true"><span>{% case tc.kind %}{% when "eat" %}🍝{% when "stay" %}🛏️{% when "drinks" %}🍸{% when "spa" %}♨️{% else %}🏛️{% endcase %}</span>{% if tc.area == "ski" %}<span>⛷️</span>{% endif %}<span class="em-dist">{% case tc.dist %}{% when "hour" %}🚗{% when "two" %}⏳{% else %}🧳{% endcase %}</span></span>
   <span class="tripkicker">{{ tc.place }}<span class="tk-meta"> &middot; {{ tc.time }} &middot; {{ tc.kind }}</span></span>
-  <h3><a href="{{ '/trips/' | append: tc.slug | append: '/' | relative_url }}">{{ tc.title }}</a>{% if tc.price %} <span class="pricetag">{{ tc.price }}</span>{% endif %}</h3>
+  <h3>{%- assign tw = tc.title | split: " " -%}{%- assign tn = tw.size | minus: 1 -%}<a href="{{ '/trips/' | append: tc.slug | append: '/' | relative_url }}">{{ tw | slice: 0, tn | join: " " }} <span class="nw">{{ tw | last }}{% if tc.price %}&nbsp;<span class="pricetag">{{ tc.price }}</span>{% endif %}</span></a></h3>
   <p>{{ tc.text }}</p>
 </article>
 {%- endif -%}

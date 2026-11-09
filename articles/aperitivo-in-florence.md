@@ -32,7 +32,7 @@ photo_credit: 'Photo: <a href="https://www.flickr.com/photos/31027007@N08/352076
 <div class="bignums bn3">
 <div><span class="bn">16</span><span class="bl">places for aperitivo below, every one visited by us</span></div>
 <div><span class="bn">Negroni</span><span class="bl">the cocktail Florence invented, around 1920</span></div>
-<div><span class="bn">3</span><span class="bl">ways to do it: a wine bar, a rooftop or a garden</span></div>
+<div><span class="bn">4</span><span class="bl">ways to do it: a wine bar, a cocktail bar, a rooftop or a garden</span></div>
 </div>
 
 Aperitivo is the hour before dinner when Italians have a drink and a bite. In Milan it means a cocktail and a buffet. In Florence it is mostly wine, often standing up, with something on bread.
@@ -54,12 +54,20 @@ The real Florentine aperitivo: a glass from a small producer and a crostino, in 
 {% include place-by-slug.html slug="wine-lab" %}
 </div>
 
-## Cocktails and rooftops
+## Cocktail bars
 
-For a Negroni made properly, or a view over the roofs while the light goes.
+For a Negroni made properly. Manifattura uses only Italian spirits; Volume is a bar in an old hat-maker's workshop on Piazza Santo Spirito.
 
 <div class="grid tripcards">
 {% include place-by-slug.html slug="manifattura" %}
+{% include place-by-slug.html slug="volume" %}
+</div>
+
+## Rooftops
+
+A drink above the roofs while the light goes, with the Duomo close.
+
+<div class="grid tripcards">
 {% include place-by-slug.html slug="angel-roofbar" %}
 {% include place-by-slug.html slug="loggia-roofbar" %}
 </div>
@@ -77,10 +85,9 @@ Out of the centre, with space to sit: under the old walls, in a public garden or
 
 ## Santo Spirito at sunset
 
-The square in front of Santo Spirito is the city's living room on warm evenings: bars around the edge, people sitting on the church steps with a glass. Go around seven, and start at Volume, a bar in an old hat-maker's workshop on the square.
+The square in front of Santo Spirito is the city's living room on warm evenings: bars around the edge, people sitting on the church steps with a glass. Go around seven, have a glass at Volume, then walk round the corner to Il Santo Bevitore for dinner.
 
 <div class="grid tripcards">
-{% include place-by-slug.html slug="volume" %}
 {% include place-by-slug.html slug="il-santo-bevitore" %}
 </div>
 

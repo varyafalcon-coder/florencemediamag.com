@@ -100,7 +100,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     <article class="card tripcard" data-dist="hour" data-kind="{{ tk }}" data-price="{{ tp.price }}" data-find="{{ tp.title | append: ' ' | append: tp.area | append: ' ' | append: tp.answer | downcase | strip_newlines | escape }}">
       <span class="card-em" aria-hidden="true">{% if tk contains "eat" %}<span>🍝</span>{% endif %}{% if tk contains "see" %}<span>🏛️</span>{% endif %}<span>🌳</span><span>🚗</span></span>
       <span class="tripkicker">{{ tp.area }} &middot; a bit out of the city</span>
-      <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a>{% if tp.price %} <span class="pricetag">{{ tp.price }}</span>{% endif %}</h3>
+      <h3>{%- assign tw = tp.title | split: " " -%}{%- assign tn = tw.size | minus: 1 -%}<a href="{{ tp.url | relative_url }}">{{ tw | slice: 0, tn | join: " " }} <span class="nw">{{ tw | last }}{% if tp.price %}&nbsp;<span class="pricetag">{{ tp.price }}</span>{% endif %}</span></a></h3>
       <p>{{ tp.answer }}</p>
     </article>
     {% endfor %}

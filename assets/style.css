@@ -323,7 +323,7 @@ body.allpills .filters .group{display:block}
 .guidecard-title{font-size:17px;line-height:1.35;letter-spacing:-.015em}
 
 /* price tier */
-.pricetag{margin-left:8px;font-weight:400;font-size:.72em;color:var(--ink-soft);
+.pricetag{margin-left:2px;font-weight:400;font-size:.72em;color:var(--ink-soft);
   letter-spacing:.04em;vertical-align:2px;white-space:nowrap}
 .card h3{display:flex;align-items:baseline;flex-wrap:wrap;gap:0}
 .pill.price{font-variant-numeric:tabular-nums}
@@ -1148,3 +1148,6 @@ body:has(.trust) footer{margin-top:0}
 .v-train2 .tr-sleeper{stroke:#8b90b5;stroke-width:1.2}
 .v-train2 .tr-panto{fill:none;stroke:#1a1d2e;stroke-width:1.2;stroke-linejoin:round}
 .v-train2 .tr-platform{fill:#c9cdea}
+
+.nw{white-space:nowrap}
+h3 a .pricetag{text-decoration:none;display:inline-block}
