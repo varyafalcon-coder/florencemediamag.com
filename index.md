@@ -25,6 +25,21 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
   </div>
 </div>
 
+<div class="wrap">
+  <div class="findbar">
+    <div class="searchrow">
+      <input type="search" id="placesearch" placeholder="Search a place, a dish, a town" autocomplete="off" aria-label="Search places">
+      <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
+    </div>
+    <div class="pricetabs" role="group" aria-label="Price">
+      <button type="button" data-price="" aria-pressed="true">Any price</button>
+      <button type="button" data-price="€" aria-pressed="false">€</button>
+      <button type="button" data-price="€€" aria-pressed="false">€€</button>
+      <button type="button" data-price="€€€" aria-pressed="false">€€€</button>
+    </div>
+  </div>
+</div>
+
 <section class="wrap pane" id="in-florence" role="tabpanel" aria-labelledby="tab-in">
   <div class="filters">
     <div class="pills" id="catpills">
@@ -33,22 +48,6 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
       {% endif %}{% endfor %}
       <button class="pill seeall" type="button" id="seeall" aria-expanded="false">all {{ order | size }}</button>
     </div>
-    <div class="toolrow">
-      <div class="searchrow">
-        <input type="search" id="placesearch" placeholder="Search a place" autocomplete="off" aria-label="Search places">
-        <button type="button" id="searchclear" hidden aria-label="Clear search">&times;</button>
-      </div>
-      <label class="pricepick">
-        <span>Price</span>
-        <select id="pricepick">
-          <option value="">Any</option>
-          <option value="€">€ cheap</option>
-          <option value="€€">€€ mid</option>
-          <option value="€€€">€€€ splash out</option>
-        </select>
-      </label>
-    </div>
-    <p class="hint">Pick more than one to narrow it down.</p>
   </div>
 
   <div class="resultbar">
@@ -70,18 +69,20 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
 
 <section class="wrap pane" id="from-florence" role="tabpanel" aria-labelledby="tab-out" hidden>
   <div class="filters">
-    <div class="pills" id="kindpills">
+    <div class="pills">
+      <span id="kindpills" style="display:contents">
       <button class="pill" type="button" data-kind="eat" aria-pressed="false"><span class="em" aria-hidden="true">🍝</span> places to eat</button>
       <button class="pill" type="button" data-kind="see" aria-pressed="false"><span class="em" aria-hidden="true">🏛️</span> things to see</button>
       <button class="pill" type="button" data-kind="near" aria-pressed="false"><span class="em" aria-hidden="true">🌳</span> a bit out of the city</button>
       <button class="pill" type="button" data-kind="mountain" aria-pressed="false"><span class="em" aria-hidden="true">⛷️</span> in the mountains</button>
-    </div>
-    <div class="pills pills-second" id="distpills">
+      </span>
+      <span class="pill-sep" aria-hidden="true"></span>
+      <span id="distpills" style="display:contents">
       <button class="pill" type="button" data-dist="hour" aria-pressed="false"><span class="em" aria-hidden="true">🚗</span> an hour or so</button>
       <button class="pill" type="button" data-dist="two" aria-pressed="false"><span class="em" aria-hidden="true">⏳</span> around two hours</button>
       <button class="pill" type="button" data-dist="four" aria-pressed="false"><span class="em" aria-hidden="true">🧳</span> four to five hours</button>
+      </span>
     </div>
-    <p class="hint">Pick more than one to narrow it down: “places to eat” and “in the mountains” shows only mountain restaurants.</p>
   </div>
 
   <div class="resultbar">
@@ -99,7 +100,7 @@ seo_description: "Where to eat, what to see and where to go from Florence, for p
     {% for tp in outplaces %}
     {%- assign tk = "near" -%}
     {%- for c in tp.categories -%}{%- if c == "nice cute places to eat at" or c == "pizza worth crossing town for" or c == "eat like a local for under 10 euro" or c == "real gelato, not the coloured stuff" or c == "drink wine somewhere real" or c == "aperitivo" -%}{%- unless tk contains "eat" -%}{%- assign tk = tk | append: " eat" -%}{%- endunless -%}{%- endif -%}{%- if c == "see art without queueing" or c == "places with an old soul" or c == "enjoy the view" -%}{%- unless tk contains "see" -%}{%- assign tk = tk | append: " see" -%}{%- endunless -%}{%- endif -%}{%- endfor %}
-    <article class="card tripcard" data-dist="hour" data-kind="{{ tk }}">
+    <article class="card tripcard" data-dist="hour" data-kind="{{ tk }}" data-price="{{ tp.price }}" data-find="{{ tp.title | append: ' ' | append: tp.area | append: ' ' | append: tp.answer | downcase | strip_newlines | escape }}">
       <span class="card-em" aria-hidden="true">{% if tk contains "eat" %}<span>🍝</span>{% endif %}{% if tk contains "see" %}<span>🏛️</span>{% endif %}<span>🌳</span><span>🚗</span></span>
       <span class="tripkicker">{{ tp.area }} &middot; a bit out of the city</span>
       <h3><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a>{% if tp.price %} <span class="pricetag">{{ tp.price }}</span>{% endif %}</h3>

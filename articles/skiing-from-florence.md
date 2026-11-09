@@ -44,7 +44,7 @@ photo_area: "valgardena"
 <dl class="glance">
 <div><dt>Closest</dt><dd>Abetone, 1 h 50</dd></div>
 <div><dt>Best weekend</dt><dd>Val Gardena or Ponte di Legno</dd></div>
-<div><dt>Day pass</dt><dd>28 to 89 €</dd></div>
+<div><dt>Day pass</dt><dd>28 to 89€</dd></div>
 <div><dt>Season</dt><dd>Late October to May</dd></div>
 </dl>
 
@@ -99,20 +99,20 @@ For three days or more, and for warm Decembers.
 
 <div class="cmp">
 <div class="cmp-head"><span>Ski area</span><span>By car</span><span>Size</span><span>Day pass</span></div>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-abetone/"><span class="cmp-name">Abetone</span><span class="cmp-car">1 h 50</span><span class="cmp-size">25 runs</span><span class="cmp-pass">51 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/"><span class="cmp-name">Corno alle Scale</span><span class="cmp-car">2 h</span><span class="cmp-size">15 runs</span><span class="cmp-pass">28 to 38 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-the-cimone/"><span class="cmp-name">Cimone</span><span class="cmp-car">2 h 15</span><span class="cmp-size">50 km</span><span class="cmp-pass">44 to 57 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-gardena/"><span class="cmp-name">Val Gardena</span><span class="cmp-car">4 h</span><span class="cmp-size">175 km</span><span class="cmp-pass">80 to 89 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-di-fassa/"><span class="cmp-name">Val di Fassa</span><span class="cmp-car">4 h</span><span class="cmp-size">210 km</span><span class="cmp-pass">80 to 89 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-plan-de-corones/"><span class="cmp-name">Plan de Corones</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">about 80 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-alta-badia/"><span class="cmp-name">Alta Badia</span><span class="cmp-car">4 h 45</span><span class="cmp-size">130 km</span><span class="cmp-pass">75 to 83 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-courmayeur/"><span class="cmp-name">Courmayeur</span><span class="cmp-car">5 h</span><span class="cmp-size">100 km</span><span class="cmp-pass">75 to 90 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-bormio/"><span class="cmp-name">Bormio</span><span class="cmp-car">5 h</span><span class="cmp-size">50 km</span><span class="cmp-pass">40 to 65 €</span></a>
-<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">51.50 to 74.50 €</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-abetone/"><span class="cmp-name">Abetone</span><span class="cmp-car">1 h 50</span><span class="cmp-size">25 runs</span><span class="cmp-pass">51€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-at-corno-alle-scale/"><span class="cmp-name">Corno alle Scale</span><span class="cmp-car">2 h</span><span class="cmp-size">15 runs</span><span class="cmp-pass">28 to 38€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-the-cimone/"><span class="cmp-name">Cimone</span><span class="cmp-car">2 h 15</span><span class="cmp-size">50 km</span><span class="cmp-pass">44 to 57€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-gardena/"><span class="cmp-name">Val Gardena</span><span class="cmp-car">4 h</span><span class="cmp-size">175 km</span><span class="cmp-pass">80 to 89€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-madonna-di-campiglio/"><span class="cmp-name">Madonna di Campiglio</span><span class="cmp-car">4 h 15</span><span class="cmp-size">150 km</span><span class="cmp-pass">75 to 89€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-ponte-di-legno/"><span class="cmp-name">Pontedilegno-Tonale</span><span class="cmp-car">4 h 30</span><span class="cmp-size">100 km</span><span class="cmp-pass">52 to 70€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cortina/"><span class="cmp-name">Cortina</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">80 to 89€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-val-di-fassa/"><span class="cmp-name">Val di Fassa</span><span class="cmp-car">4 h</span><span class="cmp-size">210 km</span><span class="cmp-pass">80 to 89€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-on-plan-de-corones/"><span class="cmp-name">Plan de Corones</span><span class="cmp-car">4 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">about 80€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-alta-badia/"><span class="cmp-name">Alta Badia</span><span class="cmp-car">4 h 45</span><span class="cmp-size">130 km</span><span class="cmp-pass">75 to 83€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-cervinia/"><span class="cmp-name">Cervinia</span><span class="cmp-car">5 h</span><span class="cmp-size">150 km</span><span class="cmp-pass">64 to 88€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-courmayeur/"><span class="cmp-name">Courmayeur</span><span class="cmp-car">5 h</span><span class="cmp-size">100 km</span><span class="cmp-pass">75 to 90€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-bormio/"><span class="cmp-name">Bormio</span><span class="cmp-car">5 h</span><span class="cmp-size">50 km</span><span class="cmp-pass">40 to 65€</span></a>
+<a class="cmp-row" href="/articles/where-to-eat-and-stay-in-livigno/"><span class="cmp-name">Livigno</span><span class="cmp-car">5 h 30</span><span class="cmp-size">120 km</span><span class="cmp-pass">51.50 to 74.50€</span></a>
 </div>
 
 ## Where to eat and stay

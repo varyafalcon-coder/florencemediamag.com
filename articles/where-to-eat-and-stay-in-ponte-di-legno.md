@@ -46,7 +46,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>Value, snow, a real village</dd></div>
-<div><dt>Day pass</dt><dd>52 to 70&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>52 to 70€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to early May</dd></div>
 </dl>
 
@@ -101,14 +101,10 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <line class="v-pylon" x1="452.6" y1="173.9" x2="452.6" y2="185.9"/>
 <line class="v-pylon" x1="501.7" y1="139.2" x2="501.7" y2="151.2"/>
 <rect class="v-cabin" x="472.6" y="157.5" width="9" height="10" rx="2"/>
-<rect class="v-station" x="402.5" y="199.5" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="91.9" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="188" y1="298" x2="300" y2="214.5"/>
 <line class="v-pylon" x1="221.6" y1="272.9" x2="221.6" y2="284.9"/>
 <line class="v-pylon" x1="257.4" y1="246.2" x2="257.4" y2="258.2"/>
 <rect class="v-cabin" x="235" y="260.6" width="9" height="10" rx="2"/>
-<rect class="v-station" x="184" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="296" y="208.5" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M337.5,207.5 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M335,195.5 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="343.5" y="199.5" width="4" height="4"/>
@@ -218,7 +214,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>Peak dates, 70&nbsp;€: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
+<li>Peak dates, 70€: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
 <li>Book Kro for Friday and Saturday nights.</li>
 <li>The season starts on 28 November, and the new Valbiolo gondola opens at Passo del Tonale this winter. Check the lift status before you drive.</li>
 </ul>

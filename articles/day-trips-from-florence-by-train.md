@@ -31,7 +31,7 @@ photo_credit: 'Photo: <a href="https://www.flickr.com/photos/154650255@N03/37733
 
 <div class="bignums bn3">
 <div><span class="bn">35 min</span><span class="bl">to Bologna</span></div>
-<div><span class="bn">5–9&nbsp;€</span><span class="bl">a regional ticket</span></div>
+<div><span class="bn">5–9€</span><span class="bl">a regional ticket</span></div>
 <div><span class="bn">1 h</span><span class="bl">to Pisa</span></div>
 </div>
 

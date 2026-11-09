@@ -44,7 +44,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h by car</dd></div>
 <div><dt>Best for</dt><dd>A long steep run, hot springs</dd></div>
-<div><dt>Day pass</dt><dd>40 to 65&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>40 to 65€</dd></div>
 <div><dt>Season</dt><dd>Early December to April</dd></div>
 </dl>
 
@@ -97,14 +97,10 @@ A real medieval town with stone streets and towers, one of the longest runs in I
 <line class="v-pylon" x1="386" y1="265.8" x2="386" y2="277.8"/>
 <line class="v-pylon" x1="360.4" y1="233.6" x2="360.4" y2="245.6"/>
 <rect class="v-cabin" x="368.7" y="250.7" width="9" height="10" rx="2"/>
-<rect class="v-station" x="406" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="326" y="189.4" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="330" y1="195.4" x2="302" y2="67.1"/>
 <line class="v-pylon" x1="321.6" y1="156.9" x2="321.6" y2="168.9"/>
 <line class="v-pylon" x1="312.6" y1="115.8" x2="312.6" y2="127.8"/>
 <rect class="v-cabin" x="312.6" y="137.4" width="9" height="10" rx="2"/>
-<rect class="v-station" x="326" y="188.4" width="8" height="7" rx="1"/>
-<rect class="v-station" x="298" y="61.1" width="8" height="7" rx="1"/>
 <path class="v-museum" d="M315,198.4 l6,-10 h18 l6,10 Z"/>
 <ellipse class="v-ground" cx="480" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M426,299 v-13 h16 v13 Z"/>
@@ -215,7 +211,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>40&nbsp;€ in early December, 59&nbsp;€, 65&nbsp;€ at peak dates. Buy online for less.</li>
+<li>40€ in early December, 59€, 65€ at peak dates. Buy online for less.</li>
 <li>The Stelvio is a racing piste. Leave it to the afternoon only if you ski well.</li>
 <li>Book the thermal baths at weekends.</li>
 </ul>

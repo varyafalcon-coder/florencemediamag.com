@@ -32,7 +32,7 @@ photo_credit: 'Photo: <a href="https://www.firenzerafting.it/">Firenze Rafting</
 <div class="bignums bn3">
 <div><span class="bn">24 June</span><span class="bl">the city's holiday</span></div>
 <div><span class="bn">10 pm</span><span class="bl">the fireworks, about</span></div>
-<div><span class="bn">0&nbsp;€</span><span class="bl">to watch them</span></div>
+<div><span class="bn">0€</span><span class="bl">to watch them</span></div>
 </div>
 
 Every city in Italy has its saint's day, and Florence's is 24 June, the feast of San Giovanni, John the Baptist. Offices close, Florentines stay in town, and the day ends with fireworks over the river.

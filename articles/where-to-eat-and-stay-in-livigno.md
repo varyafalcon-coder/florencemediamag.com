@@ -51,7 +51,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>Snowpark, long season</dd></div>
-<div><dt>Day pass</dt><dd>51.50–74.50&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>51.50–74.50€</dd></div>
 <div><dt>Season</dt><dd>28 Nov – early May</dd></div>
 </dl>
 
@@ -122,14 +122,10 @@ What skiers say in reviews is consistent: wide, well groomed runs that suit inte
 <line class="v-pylon" x1="271.2" y1="230.7" x2="271.2" y2="242.7"/>
 <line class="v-pylon" x1="234.1" y1="161.1" x2="234.1" y2="173.1"/>
 <rect class="v-cabin" x="248.1" y="196.9" width="9" height="10" rx="2"/>
-<rect class="v-station" x="302" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="186" y="72.5" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="426" y1="296" x2="548" y2="170"/>
 <line class="v-pylon" x1="462.6" y1="258.2" x2="462.6" y2="270.2"/>
 <line class="v-pylon" x1="501.6" y1="217.9" x2="501.6" y2="229.9"/>
 <rect class="v-cabin" x="477.6" y="239" width="9" height="10" rx="2"/>
-<rect class="v-station" x="422" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="544" y="164" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="365" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M321,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M318.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -240,7 +236,7 @@ Some events come back every winter, and a trip timed around one of them is a dif
 
 <ul class="tips">
 <li>Winter tyres or chains are required on the roads to Livigno from 15 October to 30 April. If the Foscagno is closed by snow, the alternative is through Switzerland and the Munt la Schera toll tunnel, which runs one way at a time.</li>
-<li>High season, 74.50&nbsp;€ a day: 26 Dec to 8 Jan and 30 Jan to 29 Mar. The cheapest weeks, 51.50&nbsp;€, are at the very start and end of the season.</li>
+<li>High season, 74.50€ a day: 26 Dec to 8 Jan and 30 Jan to 29 Mar. The cheapest weeks, 51.50€, are at the very start and end of the season.</li>
 <li>Going off-piste in Italy means carrying an avalanche transceiver, shovel and probe by law. Hire a guide if you do not know the terrain.</li>
 <li>Livigno is duty-free: no Italian VAT on fuel, perfume, alcohol and electronics. Fill up before you leave.</li>
 </ul>

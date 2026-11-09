@@ -44,7 +44,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h by car</dd></div>
 <div><dt>Best for</dt><dd>A first Dolomites trip, by train</dd></div>
-<div><dt>Day pass</dt><dd>80 to 89&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>80 to 89€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to April</dd></div>
 </dl>
 
@@ -116,14 +116,10 @@ Wooden Ladin villages under enormous rock walls, mountain huts with real cooking
 <line class="v-pylon" x1="127.3" y1="252.6" x2="127.3" y2="264.6"/>
 <line class="v-pylon" x1="130.8" y1="206.3" x2="130.8" y2="218.3"/>
 <rect class="v-cabin" x="124.6" y="230.5" width="9" height="10" rx="2"/>
-<rect class="v-station" x="120" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="131" y="145.4" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="586.5" y1="298" x2="600" y2="177.4"/>
 <line class="v-pylon" x1="590.5" y1="261.8" x2="590.5" y2="273.8"/>
 <line class="v-pylon" x1="594.9" y1="223.2" x2="594.9" y2="235.2"/>
 <rect class="v-cabin" x="588.2" y="243.5" width="9" height="10" rx="2"/>
-<rect class="v-station" x="582.5" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="596" y="171.4" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="180" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M136,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M133.5,287 l10.5,-10 l10.5,10 Z"/>

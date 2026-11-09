@@ -44,7 +44,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>Train trips, no queues, food</dd></div>
-<div><dt>Day pass</dt><dd>About 80&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>About 80€</dd></div>
 <div><dt>Season</dt><dd>Late November to April</dd></div>
 </dl>
 
@@ -105,20 +105,14 @@ One round summit with long runs down every side, almost no queues, and a train s
 <line class="v-pylon" x1="242" y1="234.4" x2="242" y2="246.4"/>
 <line class="v-pylon" x1="286.8" y1="168.7" x2="286.8" y2="180.7"/>
 <rect class="v-cabin" x="259.9" y="202.6" width="9" height="10" rx="2"/>
-<rect class="v-station" x="196" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="336" y="84.7" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="560" y1="296" x2="400" y2="92.7"/>
 <line class="v-pylon" x1="512" y1="235" x2="512" y2="247"/>
 <line class="v-pylon" x1="460.8" y1="170" x2="460.8" y2="182"/>
 <rect class="v-cabin" x="481.9" y="203.5" width="9" height="10" rx="2"/>
-<rect class="v-station" x="556" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="396" y="86.7" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="650" y1="296" x2="420" y2="109.4"/>
 <line class="v-pylon" x1="581" y1="240" x2="581" y2="252"/>
 <line class="v-pylon" x1="507.4" y1="180.3" x2="507.4" y2="192.3"/>
 <rect class="v-cabin" x="539.7" y="211.2" width="9" height="10" rx="2"/>
-<rect class="v-station" x="646" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="416" y="103.4" width="8" height="7" rx="1"/>
 <path class="v-museum" d="M353,67 l6,-14 h22 l6,14 Z"/>
 <ellipse class="v-ground" cx="120" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M66,299 v-13 h16 v13 Z"/>
@@ -219,7 +213,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>About 80&nbsp;€ for Plan de Corones. Take Dolomiti Superski only if you will ski other valleys.</li>
+<li>About 80€ for Plan de Corones. Take Dolomiti Superski only if you will ski other valleys.</li>
 <li>Book Atelier Moessmer weeks ahead.</li>
 <li>The museums at the top have their own tickets and hours.</li>
 </ul>

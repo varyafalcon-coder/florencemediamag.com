@@ -31,7 +31,7 @@ photo_credit: 'Photo: <a href="https://unsplash.com/@mic222?utm_source=florence_
 
 <div class="bignums bn3">
 <div><span class="bn">1st</span><span class="bl">Sunday of the month</span></div>
-<div><span class="bn">0&nbsp;€</span><span class="bl">for everyone</span></div>
+<div><span class="bn">0€</span><span class="bl">for everyone</span></div>
 <div><span class="bn">6</span><span class="bl">state museums included</span></div>
 </div>
 

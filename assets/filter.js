@@ -36,7 +36,7 @@
   var showAllBtn = document.getElementById('showall');
   var searchEl = document.getElementById('placesearch');
   var searchClear = document.getElementById('searchclear');
-  var priceEl = document.getElementById('pricepick');
+  var priceBtns = document.querySelectorAll('.pricetabs button');
 
   var active = [];
   var price = '';
@@ -105,11 +105,16 @@
     seeall.textContent = open ? 'Fewer' : seeall.getAttribute('data-label');
   });
 
-  priceEl.addEventListener('change', function(){ price = priceEl.value; apply(); });
+  function setPrice(v){
+    price = v;
+    priceBtns.forEach(function(b){ b.setAttribute('aria-pressed', String(b.getAttribute('data-price') === v)); });
+  }
+  function both(){ apply(); if(window.applyTrips){ window.applyTrips(); } }
+  priceBtns.forEach(function(b){ b.addEventListener('click', function(){ setPrice(b.getAttribute('data-price')); both(); }); });
   clearBtn.addEventListener('click', function(){
-    active = []; price = ''; priceEl.value = '';
+    active = []; setPrice('');
     searchEl.value = ''; query = ''; searchClear.hidden = true;
-    apply();
+    both();
   });
   showAllBtn.addEventListener('click', function(){ expanded = true; apply(); });
   document.getElementById('emptyclear').addEventListener('click', function(){ clearBtn.click(); });
@@ -117,13 +122,13 @@
   searchEl.addEventListener('input', function(){
     query = searchEl.value.trim().toLowerCase();
     searchClear.hidden = query === '';
-    apply();
+    both();
   });
   searchClear.addEventListener('click', function(){
-    searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); searchEl.focus();
+    searchEl.value = ''; query = ''; searchClear.hidden = true; both(); searchEl.focus();
   });
   searchEl.addEventListener('keydown', function(e){
-    if(e.key === 'Escape'){ searchEl.value = ''; query = ''; searchClear.hidden = true; apply(); }
+    if(e.key === 'Escape'){ searchEl.value = ''; query = ''; searchClear.hidden = true; both(); }
   });
 
   apply();
@@ -145,11 +150,13 @@
   }
   function applyTrips(){
     var n = 0, shown = 0;
-    var cap = (!kinds.length && !dist.length && !tripsExpanded) ? LIMIT : Infinity;
+    var cap = (!kinds.length && !dist.length && !query && !price && !tripsExpanded) ? LIMIT : Infinity;
     tripCards.forEach(function(c){
       var haveKinds = (c.getAttribute('data-kind') || '').split(' ');
       var allKinds = kinds.every(function(k){ return haveKinds.indexOf(k) > -1; });
       var ok = allKinds && matches(dist, c.getAttribute('data-dist'));
+      if(ok && price){ ok = c.getAttribute('data-price') === price; }
+      if(ok && query){ ok = (c.getAttribute('data-find') || '').indexOf(query) > -1; }
       if(ok){ n++; }
       var visible = ok && shown < cap;
       if(visible){ shown++; }
@@ -160,6 +167,7 @@
     distPills.forEach(function(p){ var on = dist.indexOf(p.getAttribute('data-dist')) > -1; p.setAttribute('aria-pressed', String(on)); if(on){ b.push(pillText(p)); } });
     var label = [a.join(' and '), b.join(' or ')].filter(Boolean).join(', ');
     tripTitle.textContent = label ? cap1(label) : 'Day trips and weekends';
+    if(query){ tripTitle.textContent = 'Search: ' + searchEl.value.trim(); }
     if(n === 0){ tripTitle.textContent = 'No matches'; }
     tripCount.hidden = n === 0;
     tripCount.textContent = n + (n === 1 ? ' result' : ' results');
@@ -178,6 +186,7 @@
   kindPills.forEach(function(p){ p.addEventListener('click', toggler(kinds, 'data-kind')); });
   distPills.forEach(function(p){ p.addEventListener('click', toggler(dist, 'data-dist')); });
   tripsAll.addEventListener('click', function(){ tripsExpanded = true; applyTrips(); });
-  document.getElementById('tripclear').addEventListener('click', function(){ kinds.length = 0; dist.length = 0; applyTrips(); });
+  document.getElementById('tripclear').addEventListener('click', function(){ kinds.length = 0; dist.length = 0; setPrice(''); searchEl.value = ''; query = ''; searchClear.hidden = true; both(); });
+  window.applyTrips = applyTrips;
   applyTrips();
 })();

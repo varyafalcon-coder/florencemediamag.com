@@ -44,7 +44,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 45 by car</dd></div>
 <div><dt>Best for</dt><dd>Food, easy cruising, style</dd></div>
-<div><dt>Day pass</dt><dd>75 to 83&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>75 to 83€</dd></div>
 <div><dt>Season</dt><dd>4 Dec to 4 Apr</dd></div>
 </dl>
 
@@ -118,14 +118,10 @@ Wide, perfectly groomed slopes under the Sassongher and the Sella, the Sellarond
 <line class="v-pylon" x1="314.6" y1="250.1" x2="314.6" y2="262.1"/>
 <line class="v-pylon" x1="321.6" y1="199" x2="321.6" y2="211"/>
 <rect class="v-cabin" x="313.6" y="225.6" width="9" height="10" rx="2"/>
-<rect class="v-station" x="304" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="326" y="132.4" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="519.5" y1="298" x2="560" y2="201.7"/>
 <line class="v-pylon" x1="531.6" y1="269.1" x2="531.6" y2="281.1"/>
 <line class="v-pylon" x1="544.6" y1="238.3" x2="544.6" y2="250.3"/>
 <rect class="v-cabin" x="533.6" y="254.7" width="9" height="10" rx="2"/>
-<rect class="v-station" x="515.5" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="195.7" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="250" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M206,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M203.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -234,7 +230,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>75 to 83&nbsp;€ for Alta Badia alone. Take Dolomiti Superski only if you will leave the valley.</li>
+<li>75 to 83€ for Alta Badia alone. Take Dolomiti Superski only if you will leave the valley.</li>
 <li>Book lunch at the famous huts in high season, or arrive before 12:30.</li>
 <li>The Sellaronda takes a whole day. Start before ten.</li>
 </ul>

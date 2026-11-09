@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>Scenery, the town, good food</dd></div>
-<div><dt>Day pass</dt><dd>80 to 89&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>80 to 89€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to April</dd></div>
 </dl>
 
@@ -126,14 +126,10 @@ Rock towers at Cinque Torri, the long run from Lagazuoi, the Olympic slopes of t
 <line class="v-pylon" x1="296.5" y1="253.1" x2="296.5" y2="265.1"/>
 <line class="v-pylon" x1="234.1" y1="207.3" x2="234.1" y2="219.3"/>
 <rect class="v-cabin" x="260.8" y="231.2" width="9" height="10" rx="2"/>
-<rect class="v-station" x="351" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="156" y="146.9" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="488" y1="298" x2="545" y2="172.4"/>
 <line class="v-pylon" x1="505.1" y1="260.3" x2="505.1" y2="272.3"/>
 <line class="v-pylon" x1="523.3" y1="220.1" x2="523.3" y2="232.1"/>
 <rect class="v-cabin" x="509.7" y="241.2" width="9" height="10" rx="2"/>
-<rect class="v-station" x="484" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="541" y="166.4" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="420" cy="300" rx="68" ry="5"/>
 <path class="v-wall" d="M366,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M363.5,287 l10.5,-10 l10.5,10 Z"/>

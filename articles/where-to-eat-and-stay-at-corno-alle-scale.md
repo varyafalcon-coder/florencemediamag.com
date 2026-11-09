@@ -40,7 +40,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>2 h by car</dd></div>
 <div><dt>Best for</dt><dd>A quiet, cheap day</dd></div>
-<div><dt>Day pass</dt><dd>28 to 38&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>28 to 38€</dd></div>
 <div><dt>Season</dt><dd>5 Dec to 29 Mar, snow permitting</dd></div>
 </dl>
 
@@ -48,7 +48,7 @@ faq:
 <div><span class="bn">2 h</span><span class="bl">from Florence by car</span></div>
 <div><span class="bn">15 runs</span><span class="bl">on the north face</span></div>
 <div><span class="bn">1,945 m</span><span class="bl">the summit of the Corno</span></div>
-<div><span class="bn">28&nbsp;€</span><span class="bl">a weekday pass</span></div>
+<div><span class="bn">28€</span><span class="bl">a weekday pass</span></div>
 </div>
 
 {% include pistes.html id="corno" %}
@@ -115,8 +115,6 @@ Small and wild, inside a regional park on the Bologna side of the ridge. The lif
 <line class="v-pylon" x1="276.9" y1="179.1" x2="276.9" y2="191.1"/>
 <line class="v-pylon" x1="287.5" y1="127.9" x2="287.5" y2="139.9"/>
 <rect class="v-cabin" x="277.7" y="154.5" width="9" height="10" rx="2"/>
-<rect class="v-station" x="263" y="220.1" width="8" height="7" rx="1"/>
-<rect class="v-station" x="296" y="61" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M217,228.1 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M214.5,216.1 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="223" y="220.1" width="4" height="4"/>

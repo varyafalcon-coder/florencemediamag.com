@@ -46,7 +46,7 @@ photo_credit: 'Photo: <a href="https://unsplash.com/@bune?utm_source=florence_me
 
 <div class="bignums bn3">
 <div><span class="bn">3</span><span class="bl">streets from the famous one</span></div>
-<div><span class="bn">40&nbsp;€</span><span class="bl">for lunch on a main square</span></div>
+<div><span class="bn">40€</span><span class="bl">for lunch on a main square</span></div>
 <div><span class="bn">90 min</span><span class="bl">gone with it</span></div>
 </div>
 

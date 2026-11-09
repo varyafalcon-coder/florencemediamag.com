@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h by car</dd></div>
 <div><dt>Best for</dt><dd>Lots of skiing, the Sellaronda</dd></div>
-<div><dt>Day pass</dt><dd>80&nbsp;€, 89&nbsp;€ in high season</dd></div>
+<div><dt>Day pass</dt><dd>80€, 89€ in high season</dd></div>
 <div><dt>Season</dt><dd>Late November to April</dd></div>
 </dl>
 
@@ -114,14 +114,10 @@ A long valley of villages from Moena to Canazei, the Sellaronda at the top end, 
 <line class="v-pylon" x1="358" y1="233.4" x2="358" y2="245.4"/>
 <line class="v-pylon" x1="345.2" y1="198.8" x2="345.2" y2="210.8"/>
 <rect class="v-cabin" x="347.1" y="217.1" width="9" height="10" rx="2"/>
-<rect class="v-station" x="366" y="258.8" width="8" height="7" rx="1"/>
-<rect class="v-station" x="326" y="151.8" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="483" y1="298" x2="560" y2="80.4"/>
 <line class="v-pylon" x1="506.1" y1="232.7" x2="506.1" y2="244.7"/>
 <line class="v-pylon" x1="530.7" y1="163.1" x2="530.7" y2="175.1"/>
 <rect class="v-cabin" x="513.9" y="198.9" width="9" height="10" rx="2"/>
-<rect class="v-station" x="479" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="74.4" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="425" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M381,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M378.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -223,7 +219,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>80&nbsp;€ on Dolomiti Superski, 89&nbsp;€ in high season.</li>
+<li>80€ on Dolomiti Superski, 89€ in high season.</li>
 <li>The Marmolada lift closes in wind. Check it the evening before.</li>
 <li>Book Malga Panna and Fuciade well ahead, especially at New Year.</li>
 </ul>

@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h by car</dd></div>
 <div><dt>Best for</dt><dd>Scenery, lunch, après-ski</dd></div>
-<div><dt>Day pass</dt><dd>75&nbsp;€, 90&nbsp;€ with the Skyway</dd></div>
+<div><dt>Day pass</dt><dd>75€, 90€ with the Skyway</dd></div>
 <div><dt>Season</dt><dd>28 Nov to 11 Apr</dd></div>
 </dl>
 
@@ -110,14 +110,10 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 <line class="v-pylon" x1="299" y1="238.3" x2="299" y2="250.3"/>
 <line class="v-pylon" x1="276.6" y1="196" x2="276.6" y2="208"/>
 <rect class="v-cabin" x="283.3" y="218.2" width="9" height="10" rx="2"/>
-<rect class="v-station" x="316" y="270.9" width="8" height="7" rx="1"/>
-<rect class="v-station" x="246" y="139.8" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="458" y1="284.6" x2="560" y2="190.2"/>
 <line class="v-pylon" x1="488.6" y1="256.3" x2="488.6" y2="268.3"/>
 <line class="v-pylon" x1="521.2" y1="226.1" x2="521.2" y2="238.1"/>
 <rect class="v-cabin" x="500.4" y="242.2" width="9" height="10" rx="2"/>
-<rect class="v-station" x="454" y="277.6" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="184.2" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M336,285.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,273.6 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="277.6" width="4" height="4"/>
@@ -220,7 +216,7 @@ A car-free main street of old stone houses, the most famous lunch scene on Itali
 ## Before you go
 
 <ul class="tips">
-<li>75&nbsp;€ a day, 90&nbsp;€ with the Skyway. The Skyway needs a booked slot.</li>
+<li>75€ a day, 90€ with the Skyway. The Skyway needs a booked slot.</li>
 <li>Book Maison Vieille at weekends.</li>
 <li>Bring a swimsuit: the hot springs are the best après-ski in the Alps.</li>
 </ul>

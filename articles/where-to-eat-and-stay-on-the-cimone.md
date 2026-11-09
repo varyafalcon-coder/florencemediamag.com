@@ -40,7 +40,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>2 h 15 by car</dd></div>
 <div><dt>Best for</dt><dd>A full day, food, value</dd></div>
-<div><dt>Day pass</dt><dd>44 to 57&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>44 to 57€</dd></div>
 <div><dt>Season</dt><dd>Usually early Dec to March</dd></div>
 </dl>
 
@@ -48,7 +48,7 @@ faq:
 <div><span class="bn">50 km</span><span class="bl">of runs, the most in the Apennines</span></div>
 <div><span class="bn">2,165 m</span><span class="bl">Monte Cimone, the summit</span></div>
 <div><span class="bn">5</span><span class="bl">base areas</span></div>
-<div><span class="bn">44&nbsp;€</span><span class="bl">a weekday pass</span></div>
+<div><span class="bn">44€</span><span class="bl">a weekday pass</span></div>
 </div>
 
 {% include pistes.html id="cimone" %}
@@ -97,8 +97,6 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 <line class="v-pylon" x1="526.3" y1="165.2" x2="526.3" y2="177.2"/>
 <line class="v-pylon" x1="491.4" y1="138.2" x2="491.4" y2="150.2"/>
 <rect class="v-cabin" x="504.4" y="152.7" width="9" height="10" rx="2"/>
-<rect class="v-station" x="555" y="183.6" width="8" height="7" rx="1"/>
-<rect class="v-station" x="446" y="100.1" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M403,67 v-12 h14 v12 Z"/><line class="v-cable" x1="410" y1="55" x2="410" y2="34"/>
 <path class="v-wall" d="M567,191.6 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M564.5,179.6 l10.5,-10 l10.5,10 Z"/>
@@ -185,7 +183,7 @@ The largest ski area in the Apennines, with five base areas, so a full day never
 ## Before you go
 
 <ul class="tips">
-<li>44&nbsp;€ on weekdays, 57&nbsp;€ at weekends, plus a 3&nbsp;€ card.</li>
+<li>44€ on weekdays, 57€ at weekends, plus a 3€ card.</li>
 <li>Many restaurants close on weekdays outside the holidays. Phone first.</li>
 <li>Check the lift status: it depends on the snow.</li>
 </ul>

@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 h 15 by car</dd></div>
 <div><dt>Best for</dt><dd>Groomed slopes, a smart village</dd></div>
-<div><dt>Day pass</dt><dd>75 to 89&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>75 to 89€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to April</dd></div>
 </dl>
 
@@ -112,20 +112,14 @@ Campiglio faces the Brenta Dolomites, sharper and darker than the peaks above Co
 <line class="v-pylon" x1="206" y1="274.7" x2="206" y2="286.7"/>
 <line class="v-pylon" x1="180.4" y1="252" x2="180.4" y2="264"/>
 <rect class="v-cabin" x="188.7" y="264.4" width="9" height="10" rx="2"/>
-<rect class="v-station" x="226" y="289" width="8" height="7" rx="1"/>
-<rect class="v-station" x="146" y="219.1" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="343" y1="298" x2="420" y2="216"/>
 <line class="v-pylon" x1="366.1" y1="273.4" x2="366.1" y2="285.4"/>
 <line class="v-pylon" x1="390.7" y1="247.2" x2="390.7" y2="259.2"/>
 <rect class="v-cabin" x="373.9" y="261.3" width="9" height="10" rx="2"/>
-<rect class="v-station" x="339" y="291" width="8" height="7" rx="1"/>
-<rect class="v-station" x="416" y="210" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="500" y1="262.3" x2="560" y2="166.6"/>
 <line class="v-pylon" x1="518" y1="233.6" x2="518" y2="245.6"/>
 <line class="v-pylon" x1="537.2" y1="203" x2="537.2" y2="215"/>
 <rect class="v-cabin" x="523.1" y="219.3" width="9" height="10" rx="2"/>
-<rect class="v-station" x="496" y="255.3" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="160.6" width="8" height="7" rx="1"/>
 <ellipse class="v-ground" cx="285" cy="300" rx="58" ry="5"/>
 <path class="v-wall" d="M241,299 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M238.5,287 l10.5,-10 l10.5,10 Z"/>
@@ -225,7 +219,7 @@ Some events come back every winter. Dates change each year, so check them before
 ## Before you go
 
 <ul class="tips">
-<li>Peak days are 89&nbsp;€. Early and late season days start at 75&nbsp;€.</li>
+<li>Peak days are 89€. Early and late season days start at 75€.</li>
 <li>The village is small: leave the car at the hotel and walk to the lifts.</li>
 <li>Winter tyres or chains on board are required on mountain roads from 15 November to 15 April.</li>
 </ul>

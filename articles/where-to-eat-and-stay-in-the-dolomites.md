@@ -41,7 +41,7 @@ photo_area: "campiglio"
 <dl class="glance">
 <div><dt>From Florence</dt><dd>4 to 4 h 30 by car</dd></div>
 <div><dt>Best for</dt><dd>A long weekend, big terrain</dd></div>
-<div><dt>Day pass</dt><dd>75 to 89&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>75 to 89€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to April</dd></div>
 </dl>
 

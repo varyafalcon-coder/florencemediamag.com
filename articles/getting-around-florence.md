@@ -25,13 +25,13 @@ photo_credit: 'Photo: <a href="https://unsplash.com/@miraxh?utm_source=florence_
 <dl class="glance">
 <div><dt>Best way</dt><dd>Walk</dd></div>
 <div><dt>Airport</dt><dd>T2 tram, about 20 min</dd></div>
-<div><dt>Ticket</dt><dd>2&nbsp;€ for 90 minutes</dd></div>
+<div><dt>Ticket</dt><dd>2€ for 90 minutes</dd></div>
 <div><dt>Driving</dt><dd>Avoid the ZTL</dd></div>
 </dl>
 
 <div class="bignums bn3">
 <div><span class="bn">1.5 km</span><span class="bl">across the centre</span></div>
-<div><span class="bn">2&nbsp;€</span><span class="bl">bus and tram, 90 minutes</span></div>
+<div><span class="bn">2€</span><span class="bl">bus and tram, 90 minutes</span></div>
 <div><span class="bn">20 min</span><span class="bl">tram to the airport</span></div>
 </div>
 

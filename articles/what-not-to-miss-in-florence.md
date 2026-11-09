@@ -47,13 +47,13 @@ photo_credit: 'Photo: <a href="https://unsplash.com/@matthardy?utm_source=floren
 <div><dt>The list</dt><dd>Six things</dd></div>
 <div><dt>Must see</dt><dd>David and the Duomo</dd></div>
 <div><dt>Sunset</dt><dd>Not Piazzale Michelangelo</dd></div>
-<div><dt>Dinner</dt><dd>One meal under 15&nbsp;€</dd></div>
+<div><dt>Dinner</dt><dd>One meal under 15€</dd></div>
 </dl>
 
 <div class="bignums bn3">
 <div><span class="bn">6</span><span class="bl">things not to miss</span></div>
 <div><span class="bn">1</span><span class="bl">Oltrarno evening</span></div>
-<div><span class="bn">15&nbsp;€</span><span class="bl">for a real meal</span></div>
+<div><span class="bn">15€</span><span class="bl">for a real meal</span></div>
 </div>
 
 Six things, and the order matters more than the length of the list. Two of them need booking. The rest you can decide on the morning.

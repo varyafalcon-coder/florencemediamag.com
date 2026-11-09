@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>1 h 50 by car</dd></div>
 <div><dt>Best for</dt><dd>A day out, families, beginners</dd></div>
-<div><dt>Day pass</dt><dd>51&nbsp;€ on weekdays</dd></div>
+<div><dt>Day pass</dt><dd>51€ on weekdays</dd></div>
 <div><dt>Season</dt><dd>4 Dec to 11 Apr</dd></div>
 </dl>
 
@@ -124,14 +124,10 @@ A village on a pass with wooden hotels, ski schools and very little pretence. Yo
 <line class="v-pylon" x1="289.6" y1="139.1" x2="289.6" y2="151.1"/>
 <line class="v-pylon" x1="248.6" y1="113.2" x2="248.6" y2="125.2"/>
 <rect class="v-cabin" x="264.6" y="127.1" width="9" height="10" rx="2"/>
-<rect class="v-station" x="324" y="156.4" width="8" height="7" rx="1"/>
-<rect class="v-station" x="196" y="76.4" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="438" y1="163.4" x2="560" y2="90.9"/>
 <line class="v-pylon" x1="474.6" y1="141.6" x2="474.6" y2="153.6"/>
 <line class="v-pylon" x1="513.6" y1="118.5" x2="513.6" y2="130.5"/>
 <rect class="v-cabin" x="489.6" y="131.1" width="9" height="10" rx="2"/>
-<rect class="v-station" x="434" y="156.4" width="8" height="7" rx="1"/>
-<rect class="v-station" x="556" y="84.9" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M336,164.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M333.5,152.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="342" y="156.4" width="4" height="4"/>

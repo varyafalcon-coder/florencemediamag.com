@@ -26,7 +26,7 @@ photo_credit: 'Photo: <a href="https://www.flickr.com/photos/31027007@N08/352076
 <div><dt>When</dt><dd>About 6.30 to 8.30 pm</dd></div>
 <div><dt>Drink</dt><dd>Tuscan red, a spritz or a Negroni</dd></div>
 <div><dt>Eat</dt><dd>Crostini, cheese, salumi</dd></div>
-<div><dt>A glass</dt><dd>About 5 to 10&nbsp;€</dd></div>
+<div><dt>A glass</dt><dd>About 5 to 10€</dd></div>
 </dl>
 
 <div class="bignums bn3">

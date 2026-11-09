@@ -13,7 +13,7 @@ areas:
     pistes: [14, 29, 1]
     pistes_area: "Abetone, Val di Luce and Cutigliano"
     top: "1,900 m"
-    pass: "51 € on weekdays (last season)"
+    pass: "51€ on weekdays (last season)"
     season: "4 Dec 2026 to 11 Apr 2027, snow permitting"
     vibe: "Florence's home mountain. A village on a pass with wooden hotels, ski schools full of Tuscan children and very little pretence. Weekdays are empty, Saturdays are a Florentine outing."
     go_if: "You have one free day, you are learning, or you are taking children for the first time."
@@ -36,7 +36,7 @@ areas:
     pistes: [5, 7, 2]
     pistes_area: "The marked runs above Cavone"
     top: "1,950 m"
-    pass: "28 € weekdays, 38 € weekends (latest published list)"
+    pass: "28€ weekdays, 38€ weekends (latest published list)"
     season: "Planned 5 Dec 2026 to 29 Mar 2027"
     vibe: "Small and wild, inside a regional park on Bologna's side of the ridge. The lifts are old and the runs are short, but on a Tuscan weekend it is often the emptiest mountain within reach."
     go_if: "You want quiet slopes, a cheap day and a view across the whole Apennine ridge."
@@ -59,7 +59,7 @@ areas:
     pistes: [15, 25, 10]
     pistes_area: "Sestola, Passo del Lupo, Montecreto and Le Polle"
     top: "2,100 m"
-    pass: "44 € weekdays, 57 € weekends"
+    pass: "44€ weekdays, 57€ weekends"
     season: "Usually early December, snow permitting"
     vibe: "The biggest ski area in the Apennines, busy with Modena and Bologna at weekends. The mountain huts serve tigelle and tortelloni, and lunch is half the reason to come."
     go_if: "You want the most skiing you can do in a day from Florence, and a proper lunch."
@@ -82,7 +82,7 @@ areas:
     pistes: [52, 110, 19]
     pistes_area: "Val Gardena and Alpe di Siusi"
     top: "2,500 m"
-    pass: "80 €, 89 € in high season"
+    pass: "80€, 89€ in high season"
     season: "Late November to April"
     vibe: "Wooden Ladin villages under huge rock walls, mountain huts with real cooking, and the Sellaronda loop around the Sella massif. Ortisei has the evenings, Selva has the skiing."
     go_if: "It is your first Dolomites weekend, you want to arrive by train, or you want long days on the snow."
@@ -105,7 +105,7 @@ areas:
     pistes: [50, 72, 33]
     pistes_area: "Campiglio, Pinzolo, Folgarida and Marilleva"
     top: "2,500 m"
-    pass: "75 € to 89 €"
+    pass: "75€ to 89€"
     season: "Late November to April"
     vibe: "Smart and polished: fur coats on the main street, perfectly groomed red runs, lifts a short walk from the centre. Lively in the evening without being loud."
     go_if: "You like well kept pistes, a pretty village and an aperitivo after skiing."
@@ -129,7 +129,7 @@ areas:
     runs: [13, 25, 8]
     pistes_area: "Ponte di Legno, Tonale, Presena and Temù"
     top: "3,000 m"
-    pass: "From 52 €, 70 € at peak dates"
+    pass: "From 52€, 70€ at peak dates"
     season: "Late November to early May, the glacier among the first runs to open"
     vibe: "Two places on one lift pass. Ponte di Legno is a stone and wood village with a church square, shops and families who have come from Milan for three generations. Passo del Tonale above it is all snow, and the glacier at 3,000 metres keeps it white from November to May."
     go_if: "You want Alpine size and a glacier for less than the Dolomites, a real village to come back to, or snow when the Apennines have none."
@@ -152,7 +152,7 @@ areas:
     pistes: [45, 59, 16]
     pistes_area: "Tofane, Cinque Torri, Faloria and Cristallo"
     top: "2,930 m"
-    pass: "80 €, 89 € in high season"
+    pass: "80€, 89€ in high season"
     season: "Late November to April"
     vibe: "The glamour resort, host of the 2026 Olympic women's alpine races. The evening walk along Corso Italia is part of the holiday, and the scenery at Cinque Torri and Lagazuoi is some of the most beautiful anywhere."
     go_if: "You want the views, the town and a dinner worth dressing for."
@@ -175,7 +175,7 @@ areas:
     pistes: [74, 47, 9]
     pistes_area: "Corvara, La Villa, San Cassiano and around"
     top: "2,778 m"
-    pass: "75 € to 83 € (Alta Badia), more with Dolomiti Superski"
+    pass: "75€ to 83€ (Alta Badia), more with Dolomiti Superski"
     season: "4 Dec 2026 to 4 Apr 2027"
     vibe: "Ladin villages, Corvara, La Villa and San Cassiano, under the Sassongher and the Sella. Wide, perfectly groomed runs, the Sellaronda from the doorstep, and the most serious eating in the Alps, from mountain huts to Michelin stars."
     go_if: "You want long, easy cruising, a lunch worth planning the day around, and a quiet, stylish village in the evening."
@@ -198,7 +198,7 @@ areas:
     pistes: [38, 56, 13]
     pistes_area: "Val di Fassa and Carezza"
     top: "3,265 m on the Marmolada"
-    pass: "80 €, 89 € in high season (Dolomiti Superski)"
+    pass: "80€, 89€ in high season (Dolomiti Superski)"
     season: "Late November to April"
     vibe: "A long valley of villages from Moena to Canazei, with the Sellaronda loop at the top end and the Marmolada glacier, the highest point of the Dolomites, a lift ride away. Lively, practical and full of skiing."
     go_if: "You want the most skiing for the drive, the Sellaronda, or the run down the Marmolada glacier."
@@ -221,7 +221,7 @@ areas:
     pistes: [60, 36, 29]
     pistes_area: "Every side of the mountain"
     top: "2,275 m"
-    pass: "About 80 € (Kronplatz), more with Dolomiti Superski"
+    pass: "About 80€ (Kronplatz), more with Dolomiti Superski"
     season: "Late November to April"
     vibe: "A single round mountain covered in lifts, some of the most modern in the Alps, with long runs down every side. At the top: Messner's museum by Zaha Hadid, the Lumen photography museum and Norbert Niederkofler's restaurant."
     go_if: "You want to arrive by train, ski without queues, and spend an afternoon among museums at 2,275 metres."
@@ -244,7 +244,7 @@ areas:
     pistes: [39, 107, 12]
     pistes_area: "Breuil-Cervinia and Valtournenche, without Zermatt"
     top: "3,480 m"
-    pass: "64 €, 88 € with Zermatt"
+    pass: "64€, 88€ with Zermatt"
     season: "Planned from 24 Oct 2026, one of the first in Europe"
     vibe: "The highest skiing in Italy, under the Matterhorn. Long, wide, gentle runs, and you can ski over to Switzerland for lunch. The village is no beauty and lively in the evening."
     go_if: "It is December and nothing else is white, or you want long cruising runs at altitude."
@@ -268,7 +268,7 @@ areas:
     runs: [29, 37, 12]
     pistes_area: "Carosello 3000 and Mottolino"
     top: "2,798 m"
-    pass: "51.50 € early and late season, 66 €, 74.50 € in high season"
+    pass: "51.50€ early and late season, 66€, 74.50€ in high season"
     season: "From 28 Nov 2026 to early May"
     vibe: "A long, high, cold valley with snow from November to May, snowparks that draw riders from all over Europe, duty-free shopping and the liveliest nights on this page."
     go_if: "You ride the park, you want snow in early December or late April, or you want a lively town after skiing."
@@ -292,7 +292,7 @@ areas:
     runs: [11, 17, 5]
     pistes_area: "Marked runs only, off-piste not counted"
     top: "2,755 m on the pistes"
-    pass: "75 €, 90 € with the Skyway Monte Bianco"
+    pass: "75€, 90€ with the Skyway Monte Bianco"
     season: "28 Nov 2026 to 11 Apr 2027"
     vibe: "An old mountaineering town at the foot of Mont Blanc, with a car-free main street, fur and fondue, and a famous lunch scene on the slopes above. The Skyway cable car climbs to 3,466 metres, and the hot pools of Pré-Saint-Didier are ten minutes away."
     go_if: "You want the most beautiful mountain in the Alps, a smart town in the evening, and a thermal bath after skiing."
@@ -316,7 +316,7 @@ areas:
     runs: [10, 13, 7]
     pistes_area: "Bormio 2000 and Bormio 3000"
     top: "3,012 m"
-    pass: "40 € in early December, 59 €, 65 € at peak dates"
+    pass: "40€ in early December, 59€, 65€ at peak dates"
     season: "Early December to April"
     vibe: "A real medieval town with stone streets, the Stelvio piste where the men's downhill of the 2026 Olympics was raced, 1,800 metres of vertical, and thermal baths used since Roman times."
     go_if: "You want a long, steep run from 3,000 metres to town, and hot springs at the end of the day."

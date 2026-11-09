@@ -42,7 +42,7 @@ faq:
 <dl class="glance">
 <div><dt>From Florence</dt><dd>5 h by car</dd></div>
 <div><dt>Best for</dt><dd>Snow when nowhere else has it</dd></div>
-<div><dt>Day pass</dt><dd>64&nbsp;€, 88&nbsp;€ with Zermatt</dd></div>
+<div><dt>Day pass</dt><dd>64€, 88€ with Zermatt</dd></div>
 <div><dt>Season</dt><dd>From 24 Oct 2026</dd></div>
 </dl>
 
@@ -100,14 +100,10 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 <line class="v-pylon" x1="488.1" y1="243.9" x2="488.1" y2="255.9"/>
 <line class="v-pylon" x1="493.5" y1="230.6" x2="493.5" y2="242.6"/>
 <rect class="v-cabin" x="486.3" y="238.3" width="9" height="10" rx="2"/>
-<rect class="v-station" x="479" y="249.4" width="8" height="7" rx="1"/>
-<rect class="v-station" x="496" y="208.8" width="8" height="7" rx="1"/>
 <line class="v-cable" x1="500" y1="214.8" x2="540" y2="162.7"/>
 <line class="v-pylon" x1="512" y1="199.2" x2="512" y2="211.2"/>
 <line class="v-pylon" x1="524.8" y1="182.5" x2="524.8" y2="194.5"/>
 <rect class="v-cabin" x="513.9" y="191.9" width="9" height="10" rx="2"/>
-<rect class="v-station" x="496" y="207.8" width="8" height="7" rx="1"/>
-<rect class="v-station" x="536" y="156.7" width="8" height="7" rx="1"/>
 <path class="v-wall" d="M381,257.4 v-13 h16 v13 Z"/>
 <path class="v-roof" d="M378.5,245.4 l10.5,-10 l10.5,10 Z"/>
 <rect class="v-win" x="387" y="249.4" width="4" height="4"/>
@@ -203,7 +199,7 @@ Long, wide, gentle runs at altitude, and lunch in Switzerland if you like. The v
 ## Before you go
 
 <ul class="tips">
-<li>64&nbsp;€ on the Italian side, 88&nbsp;€ with Zermatt.</li>
+<li>64€ on the Italian side, 88€ with Zermatt.</li>
 <li>Wind closes the top lifts more often than snow does.</li>
 <li>It opens in late October, one of the first in Europe.</li>
 </ul>

@@ -53,13 +53,13 @@ faq:
 <div><span class="bn">4 h 30</span><span class="bl">from Florence by car</span></div>
 <div><span class="bn">100 km</span><span class="bl">of runs on one pass</span></div>
 <div><span class="bn">3,000 m</span><span class="bl">the Presena glacier</span></div>
-<div><span class="bn">52&nbsp;€</span><span class="bl">a day, from</span></div>
+<div><span class="bn">52€</span><span class="bl">a day, from</span></div>
 </div>
 </div>
 
 <dl class="glance">
 <div><dt>Best for</dt><dd>Value, snow, a real village</dd></div>
-<div><dt>Day pass</dt><dd>52 to 70&nbsp;€</dd></div>
+<div><dt>Day pass</dt><dd>52 to 70€</dd></div>
 <div><dt>Season</dt><dd>Late Nov to early May</dd></div>
 <div><dt>Snow</dt><dd>6 months, Nov to May</dd></div>
 </dl>
@@ -157,11 +157,11 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 <p>A one-day adult lift pass in 2026/27, lowest to highest price of the season.</p>
 
 <div class="pricebars">
-<div class="pb-row pb-me"><span class="pb-name">Pontedilegno-Tonale</span><span class="pb-track"><span class="pb-bar" style="--lo:52;--hi:70"></span></span><span class="pb-val">52–70&nbsp;€</span></div>
-<div class="pb-row"><span class="pb-name">Livigno</span><span class="pb-track"><span class="pb-bar" style="--lo:51.5;--hi:74.5"></span></span><span class="pb-val">51.50–74.50&nbsp;€</span></div>
-<div class="pb-row"><span class="pb-name">Madonna di Campiglio</span><span class="pb-track"><span class="pb-bar" style="--lo:75;--hi:89"></span></span><span class="pb-val">75–89&nbsp;€</span></div>
-<div class="pb-row"><span class="pb-name">Dolomiti Superski</span><span class="pb-track"><span class="pb-bar" style="--lo:80;--hi:89"></span></span><span class="pb-val">80–89&nbsp;€</span></div>
-<div class="pb-row"><span class="pb-name">Bormio</span><span class="pb-track"><span class="pb-bar" style="--lo:40;--hi:65"></span></span><span class="pb-val">40–65&nbsp;€</span></div>
+<div class="pb-row pb-me"><span class="pb-name">Pontedilegno-Tonale</span><span class="pb-track"><span class="pb-bar" style="--lo:52;--hi:70"></span></span><span class="pb-val">52–70€</span></div>
+<div class="pb-row"><span class="pb-name">Livigno</span><span class="pb-track"><span class="pb-bar" style="--lo:51.5;--hi:74.5"></span></span><span class="pb-val">51.50–74.50€</span></div>
+<div class="pb-row"><span class="pb-name">Madonna di Campiglio</span><span class="pb-track"><span class="pb-bar" style="--lo:75;--hi:89"></span></span><span class="pb-val">75–89€</span></div>
+<div class="pb-row"><span class="pb-name">Dolomiti Superski</span><span class="pb-track"><span class="pb-bar" style="--lo:80;--hi:89"></span></span><span class="pb-val">80–89€</span></div>
+<div class="pb-row"><span class="pb-name">Bormio</span><span class="pb-track"><span class="pb-bar" style="--lo:40;--hi:65"></span></span><span class="pb-val">40–65€</span></div>
 </div>
 
 ## Getting there
@@ -174,7 +174,7 @@ Ponte di Legno is a real mountain village, with stone houses, a church square an
 ## Before you go
 
 <ol class="numtips">
-<li>Peak dates, 70&nbsp;€: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
+<li>Peak dates, 70€: 26 Dec to 10 Jan and all of February. Other days are cheaper.</li>
 <li>Book Kro for Friday and Saturday nights.</li>
 <li>Check the lift status: two lifts on the Ponte di Legno side had works in summer 2026.</li>
 </ol>
